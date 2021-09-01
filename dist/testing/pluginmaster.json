@@ -1,23 +1,26 @@
 [
     {
-        "Author": "Nep",
-        "Name": "TestPlugin",
+        "Author": "This is Author.",
+        "Name": "This is Name.",
         "InternalName": "Divination.TestPlugin",
         "AssemblyVersion": "0.1.0.0",
-        "Description": "Test",
+        "Description": "This is Description.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Common",
+        "Tags": [
+            "This",
+            "is",
+            "Tags"
+        ],
         "DalamudApiLevel": 4,
         "LoadPriority": 0,
-        "ImageUrls": [],
-        "IconUrl": "",
-        "Punchline": "Test",
+        "Punchline": "This is Punchline.",
         "DownloadLinkInstall": "https://raw.githubusercontent.com/SlashNephy/Dalamud.DivinationPluginRepo/master/dist/testing/Divination.TestPlugin/latest.zip",
         "DownloadLinkTesting": "https://raw.githubusercontent.com/SlashNephy/Dalamud.DivinationPluginRepo/master/dist/testing/Divination.TestPlugin/latest.zip",
         "DownloadLinkUpdate": "https://raw.githubusercontent.com/SlashNephy/Dalamud.DivinationPluginRepo/master/dist/testing/Divination.TestPlugin/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630508428"
+        "LastUpdated": "1630508892"
     }
 ]
