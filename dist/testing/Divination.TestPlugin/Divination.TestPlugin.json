@@ -1,14 +1,17 @@
 {
-  "Author": "Nep",
-  "Name": "TestPlugin",
+  "Author": "This is Author.",
+  "Name": "This is Name.",
   "InternalName": "Divination.TestPlugin",
   "AssemblyVersion": "0.1.0.0",
-  "Description": "Test",
+  "Description": "This is Description.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Common",
+  "Tags": [
+    "This",
+    "is",
+    "Tags"
+  ],
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
-  "ImageUrls": [],
-  "IconUrl": "",
-  "Punchline": "Test"
+  "Punchline": "This is Punchline."
 }
