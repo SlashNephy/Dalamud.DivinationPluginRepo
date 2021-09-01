@@ -3,7 +3,7 @@
         "Author": "Nep",
         "Name": "TestPlugin",
         "InternalName": "Divination.TestPlugin",
-        "AssemblyVersion": "0.1.1.0",
+        "AssemblyVersion": "0.1.0.0",
         "Description": "Test",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Common",
@@ -18,6 +18,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630507762"
+        "LastUpdated": "1630508428"
     }
 ]
