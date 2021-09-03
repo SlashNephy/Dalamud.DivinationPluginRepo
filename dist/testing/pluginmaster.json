@@ -1,6 +1,28 @@
 [
     {
         "Author": "Nep",
+        "Name": "Divination.AetheryteLinkInChat",
+        "InternalName": "Divination.AetheryteLinkInChat",
+        "AssemblyVersion": "0.1.0.0",
+        "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.AetheryteLinkInChat",
+        "Tags": [
+            "teleporter"
+        ],
+        "DalamudApiLevel": 4,
+        "LoadPriority": 0,
+        "Punchline": "Easy teleport for Mob Hunting",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/SlashNephy/Dalamud.DivinationPluginRepo/master/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/SlashNephy/Dalamud.DivinationPluginRepo/master/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SlashNephy/Dalamud.DivinationPluginRepo/master/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1630647374"
+    },
+    {
+        "Author": "Nep",
         "Name": "Divination.TwitterIntegration",
         "InternalName": "Divination.TwitterIntegration",
         "AssemblyVersion": "0.1.0.0",
@@ -19,6 +41,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630646474"
+        "LastUpdated": "1630647374"
     }
 ]
