@@ -1,1 +1,24 @@
-[]
+[
+    {
+        "Author": "Nep",
+        "Name": "Divination.TwitterIntegration",
+        "InternalName": "Divination.TwitterIntegration",
+        "AssemblyVersion": "0.1.0.0",
+        "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.TwitterIntegration",
+        "Tags": [
+            "Twitter"
+        ],
+        "DalamudApiLevel": 4,
+        "LoadPriority": 0,
+        "Punchline": "Tweet in FFXIV chat.",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/SlashNephy/Dalamud.DivinationPluginRepo/master/dist/testing/Divination.TwitterIntegration/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/SlashNephy/Dalamud.DivinationPluginRepo/master/dist/testing/Divination.TwitterIntegration/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SlashNephy/Dalamud.DivinationPluginRepo/master/dist/testing/Divination.TwitterIntegration/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1630646474"
+    }
+]
