@@ -19,7 +19,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630649564"
+        "LastUpdated": "1630653172"
     },
     {
         "Author": "This is Author.",
@@ -43,7 +43,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630649564"
+        "LastUpdated": "1630653172"
     },
     {
         "Author": "Nep",
@@ -65,7 +65,27 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630649564"
+        "LastUpdated": "1630653172"
+    },
+    {
+        "Author": "Nep",
+        "Name": "Divination.Calculator",
+        "InternalName": "Divination.Calculator",
+        "AssemblyVersion": "0.1.0.0",
+        "Description": "Dalamud Plugin to add /calc command",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Calculator",
+        "Tags": [],
+        "DalamudApiLevel": 4,
+        "LoadPriority": 0,
+        "Punchline": "/calc 33 - 4",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/SlashNephy/Dalamud.DivinationPluginRepo/master/dist/testing/Divination.Calculator/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/SlashNephy/Dalamud.DivinationPluginRepo/master/dist/testing/Divination.Calculator/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SlashNephy/Dalamud.DivinationPluginRepo/master/dist/testing/Divination.Calculator/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1630653172"
     },
     {
         "Author": "Nep",
@@ -87,6 +107,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630649564"
+        "LastUpdated": "1630653172"
     }
 ]
