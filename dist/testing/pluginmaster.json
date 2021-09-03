@@ -1,6 +1,28 @@
 [
     {
         "Author": "Nep",
+        "Name": "Divination.DiscordIntegration",
+        "InternalName": "Divination.DiscordIntegration",
+        "AssemblyVersion": "0.1.0.0",
+        "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.DiscordIntegration",
+        "Tags": [
+            "Discord"
+        ],
+        "DalamudApiLevel": 4,
+        "LoadPriority": 0,
+        "Punchline": "Fully-customizable Rich Presence Plugin",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/SlashNephy/Dalamud.DivinationPluginRepo/master/dist/testing/Divination.DiscordIntegration/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/SlashNephy/Dalamud.DivinationPluginRepo/master/dist/testing/Divination.DiscordIntegration/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SlashNephy/Dalamud.DivinationPluginRepo/master/dist/testing/Divination.DiscordIntegration/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1630647792"
+    },
+    {
+        "Author": "Nep",
         "Name": "Divination.AetheryteLinkInChat",
         "InternalName": "Divination.AetheryteLinkInChat",
         "AssemblyVersion": "0.1.0.0",
@@ -19,7 +41,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630647374"
+        "LastUpdated": "1630647792"
     },
     {
         "Author": "Nep",
@@ -41,6 +63,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630647374"
+        "LastUpdated": "1630647792"
     }
 ]
