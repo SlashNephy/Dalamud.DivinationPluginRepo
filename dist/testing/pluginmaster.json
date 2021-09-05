@@ -19,7 +19,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630665073"
+        "LastUpdated": "1630821556"
     },
     {
         "Author": "This is Author.",
@@ -43,7 +43,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630665073"
+        "LastUpdated": "1630821556"
     },
     {
         "Author": "Nep",
@@ -66,7 +66,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630665073"
+        "LastUpdated": "1630821556"
     },
     {
         "Author": "Nep",
@@ -88,7 +88,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630665073"
+        "LastUpdated": "1630821556"
     },
     {
         "Author": "Nep",
@@ -108,7 +108,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630665073"
+        "LastUpdated": "1630821556"
     },
     {
         "Author": "Nep",
@@ -130,6 +130,29 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1630665073"
+        "LastUpdated": "1630821556"
+    },
+    {
+        "Author": "Nep",
+        "Name": "Divination.Debugger",
+        "InternalName": "Divination.Debugger",
+        "AssemblyVersion": "0.1.0.0",
+        "Description": "Dalamud Plugin to inspect game...",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Debugger",
+        "Tags": [
+            "development",
+            "debug"
+        ],
+        "DalamudApiLevel": 4,
+        "LoadPriority": 0,
+        "Punchline": "You don't need this unless you are developer.",
+        "DownloadLinkInstall": "https://raw.githubusercontent.com/SlashNephy/Dalamud.DivinationPluginRepo/master/dist/testing/Divination.Debugger/latest.zip",
+        "DownloadLinkTesting": "https://raw.githubusercontent.com/SlashNephy/Dalamud.DivinationPluginRepo/master/dist/testing/Divination.Debugger/latest.zip",
+        "DownloadLinkUpdate": "https://raw.githubusercontent.com/SlashNephy/Dalamud.DivinationPluginRepo/master/dist/testing/Divination.Debugger/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1630821556"
     }
 ]
