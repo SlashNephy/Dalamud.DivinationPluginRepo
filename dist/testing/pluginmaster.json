@@ -1,113 +1,6 @@
 [
     {
         "Author": "Nep",
-        "Name": "Divination.Debugger",
-        "InternalName": "Divination.Debugger",
-        "AssemblyVersion": "0.1.0.0",
-        "Description": "Dalamud Plugin to inspect game...",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Debugger",
-        "Tags": [
-            "development",
-            "debug"
-        ],
-        "DalamudApiLevel": 4,
-        "LoadPriority": 0,
-        "Punchline": "You don't need this unless you are developer.",
-        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.Debugger/latest.zip",
-        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.Debugger/latest.zip",
-        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.Debugger/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "1633771992"
-    },
-    {
-        "Author": "Nep",
-        "Name": "Divination.TwitterIntegration",
-        "InternalName": "Divination.TwitterIntegration",
-        "AssemblyVersion": "0.1.0.0",
-        "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.TwitterIntegration",
-        "Tags": [
-            "Twitter"
-        ],
-        "DalamudApiLevel": 4,
-        "LoadPriority": 0,
-        "Punchline": "Tweet in FFXIV chat.",
-        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip",
-        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip",
-        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "1633771992"
-    },
-    {
-        "Author": "Nep",
-        "Name": "Divination.Calculator",
-        "InternalName": "Divination.Calculator",
-        "AssemblyVersion": "0.1.0.0",
-        "Description": "Dalamud Plugin to add /calc command",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Calculator",
-        "Tags": [],
-        "DalamudApiLevel": 4,
-        "LoadPriority": 0,
-        "Punchline": "/calc 33 - 4",
-        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.Calculator/latest.zip",
-        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.Calculator/latest.zip",
-        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.Calculator/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "1633771992"
-    },
-    {
-        "Author": "Suzuka Asagiri",
-        "Name": "Dalamud.Divination.InstanceIDViewer",
-        "InternalName": "Dalamud.Divination.InstanceIDViewer",
-        "AssemblyVersion": "0.1.0.0",
-        "Description": "show instance id in chat when instance changed",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
-        "DalamudApiLevel": 4,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Dalamud.Divination.InstanceIDViewer/latest.zip",
-        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Dalamud.Divination.InstanceIDViewer/latest.zip",
-        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Dalamud.Divination.InstanceIDViewer/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "1633771992"
-    },
-    {
-        "Author": "This is Author.",
-        "Name": "This is Name.",
-        "InternalName": "Divination.PowerUtils",
-        "AssemblyVersion": "0.1.0.0",
-        "Description": "This is Description.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Template",
-        "Tags": [
-            "This",
-            "is",
-            "Tags"
-        ],
-        "DalamudApiLevel": 4,
-        "LoadPriority": 0,
-        "Punchline": "This is Punchline.",
-        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.PowerUtils/latest.zip",
-        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.PowerUtils/latest.zip",
-        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.PowerUtils/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "1633771992"
-    },
-    {
-        "Author": "Nep",
         "Name": "Divination.AetheryteLinkInChat",
         "InternalName": "Divination.AetheryteLinkInChat",
         "AssemblyVersion": "0.1.0.0",
@@ -126,30 +19,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633771992"
-    },
-    {
-        "Author": "Nep",
-        "Name": "Divination.Voiceroid2Talker",
-        "InternalName": "Divination.Voiceroid2Talker",
-        "AssemblyVersion": "0.1.0.0",
-        "Description": "Dalamud Plugin to add /talkv2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Voiceroid2Talker",
-        "Tags": [
-            "text-to-speech",
-            "voiceroid"
-        ],
-        "DalamudApiLevel": 4,
-        "LoadPriority": 0,
-        "Punchline": "Text-to-Speech for Voiceroid2",
-        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.Voiceroid2Talker/latest.zip",
-        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.Voiceroid2Talker/latest.zip",
-        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.Voiceroid2Talker/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "1633771992"
+        "LastUpdated": "1633772222"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -167,28 +37,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633771992"
-    },
-    {
-        "Author": "Nep",
-        "Name": "Divination.DiscordIntegration",
-        "InternalName": "Divination.DiscordIntegration",
-        "AssemblyVersion": "0.1.0.0",
-        "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.DiscordIntegration",
-        "Tags": [
-            "Discord"
-        ],
-        "DalamudApiLevel": 4,
-        "LoadPriority": 0,
-        "Punchline": "Fully-customizable Rich Presence Plugin",
-        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.DiscordIntegration/latest.zip",
-        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.DiscordIntegration/latest.zip",
-        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.DiscordIntegration/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "1633771992"
+        "LastUpdated": "1633772222"
     }
 ]
