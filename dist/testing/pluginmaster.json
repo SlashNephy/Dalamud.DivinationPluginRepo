@@ -20,7 +20,29 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633775262"
+        "LastUpdated": "1633776448"
+    },
+    {
+        "Author": "Asteria Nocturna",
+        "Name": "Divination.TwitterIntegration",
+        "InternalName": "Divination.TwitterIntegration",
+        "AssemblyVersion": "0.1.0.0",
+        "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.TwitterIntegration",
+        "Tags": [
+            "Twitter"
+        ],
+        "DalamudApiLevel": 4,
+        "LoadPriority": 0,
+        "Punchline": "Tweet in FFXIV chat.",
+        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip",
+        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip",
+        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1633776448"
     },
     {
         "Author": "Asteria Nocturna",
@@ -42,7 +64,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633775262"
+        "LastUpdated": "1633776448"
     },
     {
         "Author": "This is Author.",
@@ -66,7 +88,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633775262"
+        "LastUpdated": "1633776448"
     },
     {
         "Author": "Asteria Nocturna",
@@ -88,7 +110,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633775262"
+        "LastUpdated": "1633776448"
     },
     {
         "Author": "Nep",
@@ -111,7 +133,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633775262"
+        "LastUpdated": "1633776448"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -129,7 +151,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633775262"
+        "LastUpdated": "1633776448"
     },
     {
         "Author": "Nep",
@@ -151,7 +173,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633775262"
+        "LastUpdated": "1633776448"
     },
     {
         "Author": "This is Author.",
@@ -175,6 +197,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633775262"
+        "LastUpdated": "1633776448"
     }
 ]
