@@ -1,6 +1,29 @@
 [
     {
         "Author": "Asteria Nocturna",
+        "Name": "Divination.Debugger",
+        "InternalName": "Divination.Debugger",
+        "AssemblyVersion": "0.1.0.0",
+        "Description": "Dalamud Plugin to inspect game...",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Debugger",
+        "Tags": [
+            "development",
+            "debug"
+        ],
+        "DalamudApiLevel": 4,
+        "LoadPriority": 0,
+        "Punchline": "You don't need this unless you are developer.",
+        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.Debugger/latest.zip",
+        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.Debugger/latest.zip",
+        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.Debugger/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1633775185"
+    },
+    {
+        "Author": "Asteria Nocturna",
         "Name": "Divination.Calculator",
         "InternalName": "Divination.Calculator",
         "AssemblyVersion": "0.1.0.0",
@@ -19,7 +42,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633774488"
+        "LastUpdated": "1633775185"
     },
     {
         "Author": "This is Author.",
@@ -43,7 +66,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633774488"
+        "LastUpdated": "1633775185"
     },
     {
         "Author": "Asteria Nocturna",
@@ -65,7 +88,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633774488"
+        "LastUpdated": "1633775185"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -83,7 +106,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633774488"
+        "LastUpdated": "1633775185"
     },
     {
         "Author": "Nep",
@@ -105,7 +128,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633774488"
+        "LastUpdated": "1633775185"
     },
     {
         "Author": "This is Author.",
@@ -129,6 +152,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633774488"
+        "LastUpdated": "1633775185"
     }
 ]
