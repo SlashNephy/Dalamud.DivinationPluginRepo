@@ -1,0 +1,17 @@
+{
+  "Author": "This is Author.",
+  "Name": "This is Name.",
+  "InternalName": "Divination.Template",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "This is Description.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Template",
+  "Tags": [
+    "This",
+    "is",
+    "Tags"
+  ],
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "This is Punchline."
+}
