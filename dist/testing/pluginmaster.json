@@ -19,10 +19,10 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633772689"
+        "LastUpdated": "1633773230"
     },
     {
-        "Author": "Nep",
+        "Author": "Asteria Nocturna",
         "Name": "Divination.AetheryteLinkInChat",
         "InternalName": "Divination.AetheryteLinkInChat",
         "AssemblyVersion": "0.1.0.0",
@@ -41,7 +41,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633772689"
+        "LastUpdated": "1633773230"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -59,7 +59,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633772689"
+        "LastUpdated": "1633773230"
     },
     {
         "Author": "This is Author.",
@@ -83,6 +83,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633772689"
+        "LastUpdated": "1633773230"
     }
 ]
