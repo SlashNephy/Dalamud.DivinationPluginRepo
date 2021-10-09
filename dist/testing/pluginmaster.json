@@ -19,7 +19,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633773230"
+        "LastUpdated": "1633774221"
     },
     {
         "Author": "Asteria Nocturna",
@@ -41,7 +41,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633773230"
+        "LastUpdated": "1633774221"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -59,7 +59,29 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633773230"
+        "LastUpdated": "1633774221"
+    },
+    {
+        "Author": "Nep",
+        "Name": "Divination.DiscordIntegration",
+        "InternalName": "Divination.DiscordIntegration",
+        "AssemblyVersion": "0.1.0.0",
+        "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.DiscordIntegration",
+        "Tags": [
+            "Discord"
+        ],
+        "DalamudApiLevel": 4,
+        "LoadPriority": 0,
+        "Punchline": "Fully-customizable Rich Presence Plugin",
+        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.DiscordIntegration/latest.zip",
+        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.DiscordIntegration/latest.zip",
+        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.DiscordIntegration/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1633774221"
     },
     {
         "Author": "This is Author.",
@@ -83,6 +105,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633773230"
+        "LastUpdated": "1633774221"
     }
 ]
