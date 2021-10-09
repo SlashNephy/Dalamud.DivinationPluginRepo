@@ -19,7 +19,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633772222"
+        "LastUpdated": "1633772600"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -37,6 +37,30 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633772222"
+        "LastUpdated": "1633772600"
+    },
+    {
+        "Author": "This is Author.",
+        "Name": "This is Name.",
+        "InternalName": "Divination.Template",
+        "AssemblyVersion": "0.1.0.0",
+        "Description": "This is Description.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Template",
+        "Tags": [
+            "This",
+            "is",
+            "Tags"
+        ],
+        "DalamudApiLevel": 4,
+        "LoadPriority": 0,
+        "Punchline": "This is Punchline.",
+        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.Template/latest.zip",
+        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.Template/latest.zip",
+        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.Template/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1633772600"
     }
 ]
