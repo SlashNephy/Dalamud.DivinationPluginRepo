@@ -1,0 +1,15 @@
+{
+  "Author": "Nep",
+  "Name": "Divination.DiscordIntegration",
+  "InternalName": "Divination.DiscordIntegration",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.DiscordIntegration",
+  "Tags": [
+    "Discord"
+  ],
+  "DalamudApiLevel": 4,
+  "LoadPriority": 0,
+  "Punchline": "Fully-customizable Rich Presence Plugin"
+}
