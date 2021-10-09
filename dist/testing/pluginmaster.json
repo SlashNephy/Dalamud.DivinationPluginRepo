@@ -1,27 +1,26 @@
 [
     {
-        "Author": "This is Author.",
-        "Name": "This is Name.",
-        "InternalName": "Divination.PowerUtils",
+        "Author": "Nep",
+        "Name": "Divination.Debugger",
+        "InternalName": "Divination.Debugger",
         "AssemblyVersion": "0.1.0.0",
-        "Description": "This is Description.",
+        "Description": "Dalamud Plugin to inspect game...",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Template",
+        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Debugger",
         "Tags": [
-            "This",
-            "is",
-            "Tags"
+            "development",
+            "debug"
         ],
         "DalamudApiLevel": 4,
         "LoadPriority": 0,
-        "Punchline": "This is Punchline.",
-        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.PowerUtils/latest.zip",
-        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.PowerUtils/latest.zip",
-        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.PowerUtils/latest.zip",
+        "Punchline": "You don't need this unless you are developer.",
+        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.Debugger/latest.zip",
+        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.Debugger/latest.zip",
+        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.Debugger/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633484193"
+        "LastUpdated": "1633770356"
     },
     {
         "Author": "Nep",
@@ -43,30 +42,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633484193"
-    },
-    {
-        "Author": "Nep",
-        "Name": "Divination.Debugger",
-        "InternalName": "Divination.Debugger",
-        "AssemblyVersion": "0.1.0.0",
-        "Description": "Dalamud Plugin to inspect game...",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Debugger",
-        "Tags": [
-            "development",
-            "debug"
-        ],
-        "DalamudApiLevel": 4,
-        "LoadPriority": 0,
-        "Punchline": "You don't need this unless you are developer.",
-        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.Debugger/latest.zip",
-        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.Debugger/latest.zip",
-        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.Debugger/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "1633484193"
+        "LastUpdated": "1633770356"
     },
     {
         "Author": "Nep",
@@ -86,7 +62,49 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633484193"
+        "LastUpdated": "1633770356"
+    },
+    {
+        "Author": "Suzuka Asagiri",
+        "Name": "Dalamud.Divination.InstanceIDViewer",
+        "InternalName": "Dalamud.Divination.InstanceIDViewer",
+        "AssemblyVersion": "0.1.0.0",
+        "Description": "show instance id in chat when instance changed",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
+        "DalamudApiLevel": 4,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Dalamud.Divination.InstanceIDViewer/latest.zip",
+        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Dalamud.Divination.InstanceIDViewer/latest.zip",
+        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Dalamud.Divination.InstanceIDViewer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1633770356"
+    },
+    {
+        "Author": "This is Author.",
+        "Name": "This is Name.",
+        "InternalName": "Divination.PowerUtils",
+        "AssemblyVersion": "0.1.0.0",
+        "Description": "This is Description.",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Template",
+        "Tags": [
+            "This",
+            "is",
+            "Tags"
+        ],
+        "DalamudApiLevel": 4,
+        "LoadPriority": 0,
+        "Punchline": "This is Punchline.",
+        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.PowerUtils/latest.zip",
+        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.PowerUtils/latest.zip",
+        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.PowerUtils/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1633770356"
     },
     {
         "Author": "Nep",
@@ -108,7 +126,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633484193"
+        "LastUpdated": "1633770356"
     },
     {
         "Author": "Nep",
@@ -131,7 +149,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633484193"
+        "LastUpdated": "1633770356"
     },
     {
         "Author": "Nep",
@@ -153,6 +171,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633484193"
+        "LastUpdated": "1633770356"
     }
 ]
