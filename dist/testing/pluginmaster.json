@@ -20,7 +20,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633920085"
+        "LastUpdated": "1633920878"
     },
     {
         "Author": "Asteria Nocturna",
@@ -42,7 +42,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633920085"
+        "LastUpdated": "1633920878"
     },
     {
         "Author": "Asteria Nocturna",
@@ -64,7 +64,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633920085"
+        "LastUpdated": "1633920878"
     },
     {
         "Author": "This is Author.",
@@ -88,7 +88,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633920085"
+        "LastUpdated": "1633920878"
     },
     {
         "Author": "Asteria Nocturna",
@@ -110,7 +110,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633920085"
+        "LastUpdated": "1633920878"
     },
     {
         "Author": "Nep",
@@ -133,7 +133,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633920085"
+        "LastUpdated": "1633920878"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -151,7 +151,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633920085"
+        "LastUpdated": "1633920878"
     },
     {
         "Author": "Nep",
@@ -173,7 +173,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633920085"
+        "LastUpdated": "1633920878"
     },
     {
         "Author": "This is Author.",
@@ -182,7 +182,7 @@
         "AssemblyVersion": "0.1.0.0",
         "Description": "This is Description.",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Template",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Template",
         "Tags": [
             "This",
             "is",
@@ -197,6 +197,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633920085"
+        "LastUpdated": "1633920878"
     }
 ]
