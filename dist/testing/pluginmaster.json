@@ -20,54 +20,29 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633977450"
+        "LastUpdated": "1633977597"
     },
     {
-        "Author": "This is Author.",
-        "Name": "This is Name.",
-        "InternalName": "Divination.Template",
+        "Author": "Asteria Nocturna",
+        "Name": "Divination.TwitterIntegration",
+        "InternalName": "Divination.TwitterIntegration",
         "AssemblyVersion": "0.1.0.0",
-        "Description": "This is Description.",
+        "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Template",
+        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.TwitterIntegration",
         "Tags": [
-            "This",
-            "is",
-            "Tags"
+            "Twitter"
         ],
         "DalamudApiLevel": 4,
         "LoadPriority": 0,
-        "Punchline": "This is Punchline.",
-        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.Template/latest.zip",
-        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.Template/latest.zip",
-        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.Template/latest.zip",
+        "Punchline": "Tweet in FFXIV chat.",
+        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip",
+        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip",
+        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633977450"
-    },
-    {
-        "Author": "Nep",
-        "Name": "Divination.Voiceroid2Talker",
-        "InternalName": "Divination.Voiceroid2Talker",
-        "AssemblyVersion": "0.1.0.0",
-        "Description": "Dalamud Plugin to add /talkv2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Voiceroid2Talker",
-        "Tags": [
-            "text-to-speech",
-            "voiceroid"
-        ],
-        "DalamudApiLevel": 4,
-        "LoadPriority": 0,
-        "Punchline": "Text-to-Speech for Voiceroid2",
-        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.Voiceroid2Talker/latest.zip",
-        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.Voiceroid2Talker/latest.zip",
-        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.Voiceroid2Talker/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "1633977450"
+        "LastUpdated": "1633977597"
     },
     {
         "Author": "Asteria Nocturna",
@@ -89,47 +64,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633977450"
-    },
-    {
-        "Author": "Asteria Nocturna",
-        "Name": "Divination.AetheryteLinkInChat",
-        "InternalName": "Divination.AetheryteLinkInChat",
-        "AssemblyVersion": "0.1.0.0",
-        "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.AetheryteLinkInChat",
-        "Tags": [
-            "teleporter"
-        ],
-        "DalamudApiLevel": 4,
-        "LoadPriority": 0,
-        "Punchline": "Easy teleport for Mob Hunting",
-        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
-        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
-        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "1633977450"
-    },
-    {
-        "Author": "Suzuka Asagiri",
-        "Name": "InstanceIDViewer",
-        "InternalName": "Divination.InstanceIDViewer",
-        "AssemblyVersion": "0.1.0.0",
-        "Description": "show instance id in chat when instance changed",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
-        "DalamudApiLevel": 4,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.InstanceIDViewer/latest.zip",
-        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.InstanceIDViewer/latest.zip",
-        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.InstanceIDViewer/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "1633977450"
+        "LastUpdated": "1633977597"
     },
     {
         "Author": "This is Author.",
@@ -153,7 +88,70 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633977450"
+        "LastUpdated": "1633977597"
+    },
+    {
+        "Author": "Asteria Nocturna",
+        "Name": "Divination.AetheryteLinkInChat",
+        "InternalName": "Divination.AetheryteLinkInChat",
+        "AssemblyVersion": "0.1.0.0",
+        "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.AetheryteLinkInChat",
+        "Tags": [
+            "teleporter"
+        ],
+        "DalamudApiLevel": 4,
+        "LoadPriority": 0,
+        "Punchline": "Easy teleport for Mob Hunting",
+        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
+        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
+        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1633977597"
+    },
+    {
+        "Author": "Nep",
+        "Name": "Divination.Voiceroid2Talker",
+        "InternalName": "Divination.Voiceroid2Talker",
+        "AssemblyVersion": "0.1.0.0",
+        "Description": "Dalamud Plugin to add /talkv2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Voiceroid2Talker",
+        "Tags": [
+            "text-to-speech",
+            "voiceroid"
+        ],
+        "DalamudApiLevel": 4,
+        "LoadPriority": 0,
+        "Punchline": "Text-to-Speech for Voiceroid2",
+        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.Voiceroid2Talker/latest.zip",
+        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.Voiceroid2Talker/latest.zip",
+        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.Voiceroid2Talker/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1633977597"
+    },
+    {
+        "Author": "Suzuka Asagiri",
+        "Name": "InstanceIDViewer",
+        "InternalName": "Divination.InstanceIDViewer",
+        "AssemblyVersion": "0.1.0.0",
+        "Description": "show instance id in chat when instance changed",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
+        "DalamudApiLevel": 4,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.InstanceIDViewer/latest.zip",
+        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.InstanceIDViewer/latest.zip",
+        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.InstanceIDViewer/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1633977597"
     },
     {
         "Author": "Nep",
@@ -175,28 +173,30 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633977450"
+        "LastUpdated": "1633977597"
     },
     {
-        "Author": "Asteria Nocturna",
-        "Name": "Divination.TwitterIntegration",
-        "InternalName": "Divination.TwitterIntegration",
+        "Author": "This is Author.",
+        "Name": "This is Name.",
+        "InternalName": "Divination.Template",
         "AssemblyVersion": "0.1.0.0",
-        "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat",
+        "Description": "This is Description.",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.TwitterIntegration",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Template",
         "Tags": [
-            "Twitter"
+            "This",
+            "is",
+            "Tags"
         ],
         "DalamudApiLevel": 4,
         "LoadPriority": 0,
-        "Punchline": "Tweet in FFXIV chat.",
-        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip",
-        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip",
-        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip",
+        "Punchline": "This is Punchline.",
+        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.Template/latest.zip",
+        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.Template/latest.zip",
+        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.Template/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1633977450"
+        "LastUpdated": "1633977597"
     }
 ]
