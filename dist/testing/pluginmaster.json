@@ -20,7 +20,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634026842"
+        "LastUpdated": "1634032157"
     },
     {
         "Author": "Asteria Nocturna",
@@ -42,7 +42,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634026842"
+        "LastUpdated": "1634032157"
     },
     {
         "Author": "Asteria Nocturna",
@@ -64,31 +64,29 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634026842"
+        "LastUpdated": "1634032157"
     },
     {
-        "Author": "This is Author.",
-        "Name": "This is Name.",
+        "Author": "Asteria Nocturna",
+        "Name": "Divination.PowerUtils",
         "InternalName": "Divination.PowerUtils",
         "AssemblyVersion": "0.1.0.0",
-        "Description": "This is Description.",
+        "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Template",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils",
         "Tags": [
-            "This",
-            "is",
-            "Tags"
+            "Command"
         ],
         "DalamudApiLevel": 4,
         "LoadPriority": 0,
-        "Punchline": "This is Punchline.",
+        "Punchline": "Save Energy!",
         "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.PowerUtils/latest.zip",
         "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.PowerUtils/latest.zip",
         "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.PowerUtils/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634026842"
+        "LastUpdated": "1634032157"
     },
     {
         "Author": "Asteria Nocturna",
@@ -110,7 +108,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634026842"
+        "LastUpdated": "1634032157"
     },
     {
         "Author": "Nep",
@@ -133,7 +131,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634026842"
+        "LastUpdated": "1634032157"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -151,7 +149,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634026842"
+        "LastUpdated": "1634032157"
     },
     {
         "Author": "Nep",
@@ -173,7 +171,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634026842"
+        "LastUpdated": "1634032157"
     },
     {
         "Author": "This is Author.",
@@ -197,6 +195,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634026842"
+        "LastUpdated": "1634032157"
     }
 ]
