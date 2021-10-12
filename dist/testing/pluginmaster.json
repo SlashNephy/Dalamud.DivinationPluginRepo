@@ -20,7 +20,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634033030"
+        "LastUpdated": "1634033144"
     },
     {
         "Author": "Asteria Nocturna",
@@ -42,7 +42,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634033030"
+        "LastUpdated": "1634033144"
     },
     {
         "Author": "Asteria Nocturna",
@@ -64,7 +64,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634033030"
+        "LastUpdated": "1634033144"
     },
     {
         "Author": "Asteria Nocturna",
@@ -86,7 +86,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634033030"
+        "LastUpdated": "1634033144"
     },
     {
         "Author": "Asteria Nocturna",
@@ -108,19 +108,19 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634033030"
+        "LastUpdated": "1634033144"
     },
     {
-        "Author": "Nep",
+        "Author": "Asteria Nocturna",
         "Name": "Divination.Voiceroid2Talker",
         "InternalName": "Divination.Voiceroid2Talker",
         "AssemblyVersion": "0.1.0.0",
-        "Description": "Dalamud Plugin to add /talkv2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).",
+        "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Voiceroid2Talker",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker",
         "Tags": [
-            "text-to-speech",
-            "voiceroid"
+            "Text-to-speech",
+            "Voiceroid"
         ],
         "DalamudApiLevel": 4,
         "LoadPriority": 0,
@@ -131,7 +131,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634033030"
+        "LastUpdated": "1634033144"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -149,7 +149,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634033030"
+        "LastUpdated": "1634033144"
     },
     {
         "Author": "Nep",
@@ -171,7 +171,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634033030"
+        "LastUpdated": "1634033144"
     },
     {
         "Author": "This is Author.",
@@ -195,6 +195,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634033030"
+        "LastUpdated": "1634033144"
     }
 ]
