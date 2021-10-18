@@ -20,7 +20,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634567583"
+        "LastUpdated": "1634570039"
     },
     {
         "Author": "Asteria Nocturna",
@@ -42,7 +42,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634567583"
+        "LastUpdated": "1634570039"
     },
     {
         "Author": "Asteria Nocturna",
@@ -64,7 +64,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634567583"
+        "LastUpdated": "1634570039"
     },
     {
         "Author": "Asteria Nocturna",
@@ -86,7 +86,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634567583"
+        "LastUpdated": "1634570039"
     },
     {
         "Author": "Asteria Nocturna",
@@ -108,13 +108,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634567583"
+        "LastUpdated": "1634570039"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.Voiceroid2Talker",
         "InternalName": "Divination.Voiceroid2Talker",
-        "AssemblyVersion": "0.1.0.15",
+        "AssemblyVersion": "0.1.0.16",
         "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker",
@@ -131,7 +131,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634567583"
+        "LastUpdated": "1634570039"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -149,7 +149,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634567583"
+        "LastUpdated": "1634570039"
     },
     {
         "Author": "Asteria Nocturna",
@@ -171,7 +171,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634567583"
+        "LastUpdated": "1634570039"
     },
     {
         "Author": "[Author]",
@@ -205,6 +205,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634567583"
+        "LastUpdated": "1634570039"
     }
 ]
