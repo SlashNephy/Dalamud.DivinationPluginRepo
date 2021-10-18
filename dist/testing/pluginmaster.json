@@ -3,7 +3,7 @@
         "Author": "Asteria Nocturna",
         "Name": "Divination.Debugger",
         "InternalName": "Divination.Debugger",
-        "AssemblyVersion": "0.1.0.18",
+        "AssemblyVersion": "0.1.0.19",
         "Description": "Tiny tool to inspect game...",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger",
@@ -20,7 +20,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634573271"
+        "LastUpdated": "1634573308"
     },
     {
         "Author": "Asteria Nocturna",
@@ -42,13 +42,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634573271"
+        "LastUpdated": "1634573308"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.Calculator",
         "InternalName": "Divination.Calculator",
-        "AssemblyVersion": "0.1.0.17",
+        "AssemblyVersion": "0.1.0.18",
         "Description": "Simple plugin to just add /calc command.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator",
@@ -64,13 +64,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634573271"
+        "LastUpdated": "1634573308"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.PowerUtils",
         "InternalName": "Divination.PowerUtils",
-        "AssemblyVersion": "0.1.0.15",
+        "AssemblyVersion": "0.1.0.16",
         "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils",
@@ -86,13 +86,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634573271"
+        "LastUpdated": "1634573308"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.AetheryteLinkInChat",
         "InternalName": "Divination.AetheryteLinkInChat",
-        "AssemblyVersion": "0.1.0.17",
+        "AssemblyVersion": "0.1.0.18",
         "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat",
@@ -108,7 +108,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634573271"
+        "LastUpdated": "1634573308"
     },
     {
         "Author": "Asteria Nocturna",
@@ -131,7 +131,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634573271"
+        "LastUpdated": "1634573308"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -149,7 +149,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634573271"
+        "LastUpdated": "1634573308"
     },
     {
         "Author": "Asteria Nocturna",
@@ -171,6 +171,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634573271"
+        "LastUpdated": "1634573308"
     }
 ]
