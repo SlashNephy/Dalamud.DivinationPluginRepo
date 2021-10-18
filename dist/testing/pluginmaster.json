@@ -3,7 +3,7 @@
         "Author": "Asteria Nocturna",
         "Name": "Divination.Debugger",
         "InternalName": "Divination.Debugger",
-        "AssemblyVersion": "0.1.0.12",
+        "AssemblyVersion": "0.1.0.13",
         "Description": "Tiny tool to inspect game...",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger",
@@ -20,13 +20,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634562982"
+        "LastUpdated": "1634563023"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.TwitterIntegration",
         "InternalName": "Divination.TwitterIntegration",
-        "AssemblyVersion": "0.1.0.14",
+        "AssemblyVersion": "0.1.0.15",
         "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.TwitterIntegration",
@@ -42,13 +42,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634562982"
+        "LastUpdated": "1634563023"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.Calculator",
         "InternalName": "Divination.Calculator",
-        "AssemblyVersion": "0.1.0.11",
+        "AssemblyVersion": "0.1.0.12",
         "Description": "Simple plugin to just add /calc command.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.Calculator",
@@ -64,13 +64,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634562982"
+        "LastUpdated": "1634563023"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.PowerUtils",
         "InternalName": "Divination.PowerUtils",
-        "AssemblyVersion": "0.1.0.10",
+        "AssemblyVersion": "0.1.0.11",
         "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils",
@@ -86,13 +86,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634562982"
+        "LastUpdated": "1634563023"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.AetheryteLinkInChat",
         "InternalName": "Divination.AetheryteLinkInChat",
-        "AssemblyVersion": "0.1.0.12",
+        "AssemblyVersion": "0.1.0.13",
         "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat",
@@ -108,7 +108,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634562982"
+        "LastUpdated": "1634563023"
     },
     {
         "Author": "Asteria Nocturna",
@@ -131,7 +131,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634562982"
+        "LastUpdated": "1634563023"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -149,7 +149,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634562982"
+        "LastUpdated": "1634563023"
     },
     {
         "Author": "Nep",
@@ -171,6 +171,40 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634562982"
+        "LastUpdated": "1634563023"
+    },
+    {
+        "Author": "[Author]",
+        "Name": "Divination.Template",
+        "InternalName": "Divination.Template",
+        "AssemblyVersion": "0.1.0.4",
+        "Description": "[Description]",
+        "ApplicableVersion": "any",
+        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Template",
+        "Tags": [
+            "[Tag]"
+        ],
+        "CategoryTags": [
+            "other",
+            "jobs",
+            "ui",
+            "minigames",
+            "inventory",
+            "sound",
+            "social",
+            "utility"
+        ],
+        "DalamudApiLevel": 4,
+        "LoadPriority": 0,
+        "ImageUrls": [],
+        "Punchline": "[Punchline]",
+        "Changelog": "[Changelog]",
+        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.Template/latest.zip",
+        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.Template/latest.zip",
+        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.Template/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadCount": 0,
+        "LastUpdated": "1634563023"
     }
 ]
