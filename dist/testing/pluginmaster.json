@@ -20,7 +20,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634570186"
+        "LastUpdated": "1634570676"
     },
     {
         "Author": "Asteria Nocturna",
@@ -42,7 +42,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634570186"
+        "LastUpdated": "1634570676"
     },
     {
         "Author": "Asteria Nocturna",
@@ -64,7 +64,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634570186"
+        "LastUpdated": "1634570676"
     },
     {
         "Author": "Asteria Nocturna",
@@ -86,7 +86,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634570186"
+        "LastUpdated": "1634570676"
     },
     {
         "Author": "Asteria Nocturna",
@@ -108,7 +108,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634570186"
+        "LastUpdated": "1634570676"
     },
     {
         "Author": "Asteria Nocturna",
@@ -131,7 +131,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634570186"
+        "LastUpdated": "1634570676"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -149,7 +149,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634570186"
+        "LastUpdated": "1634570676"
     },
     {
         "Author": "Asteria Nocturna",
@@ -171,40 +171,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634570186"
-    },
-    {
-        "Author": "[Author]",
-        "Name": "Divination.Template",
-        "InternalName": "Divination.Template",
-        "AssemblyVersion": "0.1.0.4",
-        "Description": "[Description]",
-        "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Template",
-        "Tags": [
-            "[Tag]"
-        ],
-        "CategoryTags": [
-            "other",
-            "jobs",
-            "ui",
-            "minigames",
-            "inventory",
-            "sound",
-            "social",
-            "utility"
-        ],
-        "DalamudApiLevel": 4,
-        "LoadPriority": 0,
-        "ImageUrls": [],
-        "Punchline": "[Punchline]",
-        "Changelog": "[Changelog]",
-        "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.Template/latest.zip",
-        "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.Template/latest.zip",
-        "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.Template/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadCount": 0,
-        "LastUpdated": "1634570186"
+        "LastUpdated": "1634570676"
     }
 ]
