@@ -1,11 +1,11 @@
 {
-  "Author": "Nep",
+  "Author": "Asteria Nocturna",
   "Name": "Divination.DiscordIntegration",
   "InternalName": "Divination.DiscordIntegration",
-  "AssemblyVersion": "0.1.0.11",
+  "AssemblyVersion": "0.1.0.14",
   "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/SlashNephy/Dalamud.Divination.DiscordIntegration",
+  "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration",
   "Tags": [
     "Discord"
   ],
