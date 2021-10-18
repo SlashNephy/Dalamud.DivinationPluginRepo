@@ -20,13 +20,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634573308"
+        "LastUpdated": "1634574287"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.TwitterIntegration",
         "InternalName": "Divination.TwitterIntegration",
-        "AssemblyVersion": "0.1.0.19",
+        "AssemblyVersion": "0.1.0.20",
         "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration",
@@ -42,7 +42,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634573308"
+        "LastUpdated": "1634574287"
     },
     {
         "Author": "Asteria Nocturna",
@@ -64,7 +64,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634573308"
+        "LastUpdated": "1634574287"
     },
     {
         "Author": "Asteria Nocturna",
@@ -86,13 +86,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634573308"
+        "LastUpdated": "1634574287"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.AetheryteLinkInChat",
         "InternalName": "Divination.AetheryteLinkInChat",
-        "AssemblyVersion": "0.1.0.18",
+        "AssemblyVersion": "0.1.0.19",
         "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat",
@@ -108,7 +108,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634573308"
+        "LastUpdated": "1634574287"
     },
     {
         "Author": "Asteria Nocturna",
@@ -131,7 +131,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634573308"
+        "LastUpdated": "1634574287"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -149,7 +149,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634573308"
+        "LastUpdated": "1634574287"
     },
     {
         "Author": "Asteria Nocturna",
@@ -171,6 +171,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634573308"
+        "LastUpdated": "1634574287"
     }
 ]
