@@ -2,7 +2,7 @@
   "Author": "Asteria Nocturna",
   "Name": "Divination.Voiceroid2Talker",
   "InternalName": "Divination.Voiceroid2Talker",
-  "AssemblyVersion": "0.1.0.24",
+  "AssemblyVersion": "0.1.0.25",
   "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker",
