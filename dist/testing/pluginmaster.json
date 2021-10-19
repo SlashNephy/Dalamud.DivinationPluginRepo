@@ -3,7 +3,7 @@
         "Author": "Asteria Nocturna",
         "Name": "Divination.Debugger",
         "InternalName": "Divination.Debugger",
-        "AssemblyVersion": "0.1.0.32",
+        "AssemblyVersion": "0.1.0.34",
         "Description": "Tiny tool to inspect game...",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger",
@@ -20,13 +20,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634656007"
+        "LastUpdated": "1634657370"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.TwitterIntegration",
         "InternalName": "Divination.TwitterIntegration",
-        "AssemblyVersion": "0.1.0.31",
+        "AssemblyVersion": "0.1.0.33",
         "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration",
@@ -42,13 +42,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634656007"
+        "LastUpdated": "1634657370"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.Calculator",
         "InternalName": "Divination.Calculator",
-        "AssemblyVersion": "0.1.0.28",
+        "AssemblyVersion": "0.1.0.31",
         "Description": "Simple plugin to just add /calc command.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator",
@@ -64,13 +64,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634656007"
+        "LastUpdated": "1634657370"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.PowerUtils",
         "InternalName": "Divination.PowerUtils",
-        "AssemblyVersion": "0.1.0.29",
+        "AssemblyVersion": "0.1.0.31",
         "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils",
@@ -86,7 +86,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634656007"
+        "LastUpdated": "1634657370"
     },
     {
         "Author": "Asteria Nocturna",
@@ -108,13 +108,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634656007"
+        "LastUpdated": "1634657370"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.Voiceroid2Talker",
         "InternalName": "Divination.Voiceroid2Talker",
-        "AssemblyVersion": "0.1.0.29",
+        "AssemblyVersion": "0.1.0.31",
         "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker",
@@ -131,7 +131,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634656007"
+        "LastUpdated": "1634657370"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -149,13 +149,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634656007"
+        "LastUpdated": "1634657370"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.DiscordIntegration",
         "InternalName": "Divination.DiscordIntegration",
-        "AssemblyVersion": "0.1.0.30",
+        "AssemblyVersion": "0.1.0.32",
         "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration",
@@ -171,6 +171,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634656007"
+        "LastUpdated": "1634657370"
     }
 ]
