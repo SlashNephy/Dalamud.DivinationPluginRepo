@@ -20,7 +20,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634657425"
+        "LastUpdated": "1634661741"
     },
     {
         "Author": "Asteria Nocturna",
@@ -42,7 +42,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634657425"
+        "LastUpdated": "1634661741"
     },
     {
         "Author": "Asteria Nocturna",
@@ -64,7 +64,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634657425"
+        "LastUpdated": "1634661741"
     },
     {
         "Author": "Asteria Nocturna",
@@ -86,7 +86,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634657425"
+        "LastUpdated": "1634661741"
     },
     {
         "Author": "Asteria Nocturna",
@@ -108,7 +108,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634657425"
+        "LastUpdated": "1634661741"
     },
     {
         "Author": "Asteria Nocturna",
@@ -131,7 +131,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634657425"
+        "LastUpdated": "1634661741"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -149,13 +149,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634657425"
+        "LastUpdated": "1634661741"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.DiscordIntegration",
         "InternalName": "Divination.DiscordIntegration",
-        "AssemblyVersion": "0.1.0.32",
+        "AssemblyVersion": "0.1.0.33",
         "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration",
@@ -171,6 +171,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634657425"
+        "LastUpdated": "1634661741"
     }
 ]
