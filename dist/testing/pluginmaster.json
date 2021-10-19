@@ -3,7 +3,7 @@
         "Author": "Asteria Nocturna",
         "Name": "Divination.Debugger",
         "InternalName": "Divination.Debugger",
-        "AssemblyVersion": "0.1.0.23",
+        "AssemblyVersion": "0.1.0.24",
         "Description": "Tiny tool to inspect game...",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger",
@@ -20,7 +20,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634635736"
+        "LastUpdated": "1634635775"
     },
     {
         "Author": "Asteria Nocturna",
@@ -42,13 +42,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634635736"
+        "LastUpdated": "1634635775"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.Calculator",
         "InternalName": "Divination.Calculator",
-        "AssemblyVersion": "0.1.0.22",
+        "AssemblyVersion": "0.1.0.23",
         "Description": "Simple plugin to just add /calc command.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator",
@@ -64,13 +64,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634635736"
+        "LastUpdated": "1634635775"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.PowerUtils",
         "InternalName": "Divination.PowerUtils",
-        "AssemblyVersion": "0.1.0.21",
+        "AssemblyVersion": "0.1.0.22",
         "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils",
@@ -86,7 +86,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634635736"
+        "LastUpdated": "1634635775"
     },
     {
         "Author": "Asteria Nocturna",
@@ -108,13 +108,13 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634635736"
+        "LastUpdated": "1634635775"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.Voiceroid2Talker",
         "InternalName": "Divination.Voiceroid2Talker",
-        "AssemblyVersion": "0.1.0.22",
+        "AssemblyVersion": "0.1.0.23",
         "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker",
@@ -131,7 +131,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634635736"
+        "LastUpdated": "1634635775"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -149,7 +149,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634635736"
+        "LastUpdated": "1634635775"
     },
     {
         "Author": "Asteria Nocturna",
@@ -171,6 +171,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634635736"
+        "LastUpdated": "1634635775"
     }
 ]
