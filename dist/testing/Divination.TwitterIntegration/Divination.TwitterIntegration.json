@@ -2,7 +2,7 @@
   "Author": "Asteria Nocturna",
   "Name": "Divination.TwitterIntegration",
   "InternalName": "Divination.TwitterIntegration",
-  "AssemblyVersion": "0.1.0.28",
+  "AssemblyVersion": "0.1.0.29",
   "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration",
