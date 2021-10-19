@@ -2,7 +2,7 @@
   "Author": "Asteria Nocturna",
   "Name": "Divination.Calculator",
   "InternalName": "Divination.Calculator",
-  "AssemblyVersion": "0.1.0.20",
+  "AssemblyVersion": "0.1.0.21",
   "Description": "Simple plugin to just add /calc command.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator",
