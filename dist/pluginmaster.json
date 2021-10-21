@@ -18,19 +18,19 @@
     "DownloadCount": 1,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
-    "DownloadLinkUpdate": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
     "ImageUrls": [],
     "InternalName": "Divination.AetheryteLinkInChat",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": "1634828916",
+    "LastUpdated": 1634824808,
     "LoadPriority": 0,
     "Name": "Divination.AetheryteLinkInChat",
     "Punchline": "Easy teleport for Mob Hunting",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat",
     "Tags": [
       "teleporter"
-    ]
+    ],
+    "TestingAssemblyVersion": "0.1.0.33"
   },
   {
     "ApplicableVersion": "any",
@@ -51,19 +51,19 @@
     "DownloadCount": 0,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.Calculator",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Calculator",
-    "DownloadLinkUpdate": "https://dl.horoscope.dev/testing/Divination.Calculator",
     "ImageUrls": [],
     "InternalName": "Divination.Calculator",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": "1634828916",
+    "LastUpdated": 1634824808,
     "LoadPriority": 0,
     "Name": "Divination.Calculator",
     "Punchline": "/calc 33 - 4",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator",
     "Tags": [
       "utility"
-    ]
+    ],
+    "TestingAssemblyVersion": "0.1.0.33"
   },
   {
     "ApplicableVersion": "any",
@@ -81,15 +81,14 @@
     ],
     "DalamudApiLevel": 4,
     "Description": "Tiny tool to inspect game...",
-    "DownloadCount": 1,
-    "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.Debugger",
+    "DownloadCount": 2,
+    "DownloadLinkInstall": "https://dl.horoscope.dev/stable/Divination.Debugger",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Debugger",
-    "DownloadLinkUpdate": "https://dl.horoscope.dev/testing/Divination.Debugger",
     "ImageUrls": [],
     "InternalName": "Divination.Debugger",
     "IsHide": false,
-    "IsTestingExclusive": true,
-    "LastUpdated": "1634828916",
+    "IsTestingExclusive": false,
+    "LastUpdated": 1634824808,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -97,7 +96,8 @@
     "Tags": [
       "Development",
       "Debug"
-    ]
+    ],
+    "TestingAssemblyVersion": "0.1.0.36"
   },
   {
     "ApplicableVersion": "any",
@@ -108,18 +108,18 @@
     "DownloadCount": 0,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.DiscordIntegration",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.DiscordIntegration",
-    "DownloadLinkUpdate": "https://dl.horoscope.dev/testing/Divination.DiscordIntegration",
     "InternalName": "Divination.DiscordIntegration",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": "1634828916",
+    "LastUpdated": 1634824808,
     "LoadPriority": 0,
     "Name": "Divination.DiscordIntegration",
     "Punchline": "Fully-customizable Rich Presence Plugin",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration",
     "Tags": [
       "Discord"
-    ]
+    ],
+    "TestingAssemblyVersion": "0.1.0.36"
   },
   {
     "ApplicableVersion": "any",
@@ -130,14 +130,14 @@
     "DownloadCount": 0,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.InstanceIDViewer",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.InstanceIDViewer",
-    "DownloadLinkUpdate": "https://dl.horoscope.dev/testing/Divination.InstanceIDViewer",
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": "1634828916",
+    "LastUpdated": 1634824808,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
-    "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer"
+    "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
+    "TestingAssemblyVersion": "0.1.0.0"
   },
   {
     "ApplicableVersion": "any",
@@ -148,18 +148,18 @@
     "DownloadCount": 0,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.PowerUtils",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.PowerUtils",
-    "DownloadLinkUpdate": "https://dl.horoscope.dev/testing/Divination.PowerUtils",
     "InternalName": "Divination.PowerUtils",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": "1634828916",
+    "LastUpdated": 1634824808,
     "LoadPriority": 0,
     "Name": "Divination.PowerUtils",
     "Punchline": "Save Energy!",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils",
     "Tags": [
       "Command"
-    ]
+    ],
+    "TestingAssemblyVersion": "0.1.0.32"
   },
   {
     "ApplicableVersion": "any",
@@ -180,19 +180,19 @@
     "DownloadCount": 0,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.TwitterIntegration",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.TwitterIntegration",
-    "DownloadLinkUpdate": "https://dl.horoscope.dev/testing/Divination.TwitterIntegration",
     "ImageUrls": [],
     "InternalName": "Divination.TwitterIntegration",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": "1634828916",
+    "LastUpdated": 1634824808,
     "LoadPriority": 0,
     "Name": "Divination.TwitterIntegration",
     "Punchline": "Tweet in FFXIV chat.",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration",
     "Tags": [
       "Twitter"
-    ]
+    ],
+    "TestingAssemblyVersion": "0.1.0.35"
   },
   {
     "ApplicableVersion": "any",
@@ -213,12 +213,11 @@
     "DownloadCount": 1,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.Voiceroid2Talker",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Voiceroid2Talker",
-    "DownloadLinkUpdate": "https://dl.horoscope.dev/testing/Divination.Voiceroid2Talker",
     "ImageUrls": [],
     "InternalName": "Divination.Voiceroid2Talker",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": "1634828916",
+    "LastUpdated": 1634824808,
     "LoadPriority": 0,
     "Name": "Divination.Voiceroid2Talker",
     "Punchline": "Text-to-Speech for Voiceroid2",
@@ -226,6 +225,7 @@
     "Tags": [
       "Text-to-speech",
       "Voiceroid"
-    ]
+    ],
+    "TestingAssemblyVersion": "0.1.0.33"
   }
 ]
