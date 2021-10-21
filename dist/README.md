@@ -2,7 +2,7 @@
 
 ## Legend
 
-⚠️ = Testing/very experimental plugin. May cause game crashes and other inconveniences.
+⚠️ = Testing/very experimental plugin. May cause game crashes or other inconveniences.
 
 ## Plugin List
 
