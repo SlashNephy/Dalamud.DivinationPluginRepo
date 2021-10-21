@@ -1,15 +1,14 @@
 [
   {
     "Author": "Asteria Nocturna",
-    "Name": "Divination.Debugger",
-    "InternalName": "Divination.Debugger",
-    "AssemblyVersion": "0.1.0.36",
-    "Description": "Tiny tool to inspect game...",
+    "Name": "Divination.AetheryteLinkInChat",
+    "InternalName": "Divination.AetheryteLinkInChat",
+    "AssemblyVersion": "0.1.0.33",
+    "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger",
+    "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat",
     "Tags": [
-      "Development",
-      "Debug"
+      "teleporter"
     ],
     "CategoryTags": [
       "other",
@@ -24,45 +23,13 @@
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "ImageUrls": [],
-    "Punchline": "You don't need this unless you are developer.",
+    "Punchline": "Easy teleport for Mob Hunting",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdated": 1634798996,
-    "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.Debugger/latest.zip",
-    "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.Debugger/latest.zip",
-    "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.Debugger/latest.zip"
-  },
-  {
-    "Author": "Asteria Nocturna",
-    "Name": "Divination.TwitterIntegration",
-    "InternalName": "Divination.TwitterIntegration",
-    "AssemblyVersion": "0.1.0.35",
-    "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration",
-    "Tags": [
-      "Twitter"
-    ],
-    "CategoryTags": [
-      "other",
-      "jobs",
-      "ui",
-      "minigames",
-      "inventory",
-      "sound",
-      "social",
-      "utility"
-    ],
-    "DalamudApiLevel": 4,
-    "LoadPriority": 0,
-    "ImageUrls": [],
-    "Punchline": "Tweet in FFXIV chat.",
-    "IsTestingExclusive": true,
-    "DownloadCount": 0,
-    "LastUpdated": 1634798996,
-    "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip",
-    "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip",
-    "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip"
+    "LastUpdated": 1634799208,
+    "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
+    "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
+    "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.AetheryteLinkInChat/latest.zip"
   },
   {
     "Author": "Asteria Nocturna",
@@ -91,10 +58,64 @@
     "Punchline": "/calc 33 - 4",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdated": 1634798996,
+    "LastUpdated": 1634799208,
     "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.Calculator/latest.zip",
     "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.Calculator/latest.zip",
     "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.Calculator/latest.zip"
+  },
+  {
+    "Author": "Asteria Nocturna",
+    "Name": "Divination.Debugger",
+    "InternalName": "Divination.Debugger",
+    "AssemblyVersion": "0.1.0.36",
+    "Description": "Tiny tool to inspect game...",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger",
+    "Tags": [
+      "Development",
+      "Debug"
+    ],
+    "CategoryTags": [
+      "other",
+      "jobs",
+      "ui",
+      "minigames",
+      "inventory",
+      "sound",
+      "social",
+      "utility"
+    ],
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "ImageUrls": [],
+    "Punchline": "You don't need this unless you are developer.",
+    "IsTestingExclusive": true,
+    "DownloadCount": 0,
+    "LastUpdated": 1634799208,
+    "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.Debugger/latest.zip",
+    "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.Debugger/latest.zip",
+    "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.Debugger/latest.zip"
+  },
+  {
+    "Author": "Asteria Nocturna",
+    "Name": "Divination.DiscordIntegration",
+    "InternalName": "Divination.DiscordIntegration",
+    "AssemblyVersion": "0.1.0.36",
+    "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration",
+    "Tags": [
+      "Discord"
+    ],
+    "DalamudApiLevel": 4,
+    "LoadPriority": 0,
+    "Punchline": "Fully-customizable Rich Presence Plugin",
+    "IsTestingExclusive": true,
+    "DownloadCount": 0,
+    "LastUpdated": 1634799208,
+    "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.DiscordIntegration/latest.zip",
+    "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.DiscordIntegration/latest.zip",
+    "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.DiscordIntegration/latest.zip"
   },
   {
     "Author": "Asteria Nocturna",
@@ -112,21 +133,21 @@
     "Punchline": "Save Energy!",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdated": 1634798996,
+    "LastUpdated": 1634799208,
     "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.PowerUtils/latest.zip",
     "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.PowerUtils/latest.zip",
     "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.PowerUtils/latest.zip"
   },
   {
     "Author": "Asteria Nocturna",
-    "Name": "Divination.AetheryteLinkInChat",
-    "InternalName": "Divination.AetheryteLinkInChat",
-    "AssemblyVersion": "0.1.0.33",
-    "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!",
+    "Name": "Divination.TwitterIntegration",
+    "InternalName": "Divination.TwitterIntegration",
+    "AssemblyVersion": "0.1.0.35",
+    "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat",
+    "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration",
     "Tags": [
-      "teleporter"
+      "Twitter"
     ],
     "CategoryTags": [
       "other",
@@ -141,13 +162,13 @@
     "DalamudApiLevel": 4,
     "LoadPriority": 0,
     "ImageUrls": [],
-    "Punchline": "Easy teleport for Mob Hunting",
+    "Punchline": "Tweet in FFXIV chat.",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdated": 1634798996,
-    "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
-    "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
-    "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.AetheryteLinkInChat/latest.zip"
+    "LastUpdated": 1634799208,
+    "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip",
+    "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip",
+    "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip"
   },
   {
     "Author": "Asteria Nocturna",
@@ -177,7 +198,7 @@
     "Punchline": "Text-to-Speech for Voiceroid2",
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdated": 1634798996,
+    "LastUpdated": 1634799208,
     "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.Voiceroid2Talker/latest.zip",
     "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.Voiceroid2Talker/latest.zip",
     "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.Voiceroid2Talker/latest.zip"
@@ -194,30 +215,9 @@
     "LoadPriority": 0,
     "IsTestingExclusive": true,
     "DownloadCount": 0,
-    "LastUpdated": 1634798996,
+    "LastUpdated": 1634799208,
     "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.InstanceIDViewer/latest.zip",
     "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.InstanceIDViewer/latest.zip",
     "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.InstanceIDViewer/latest.zip"
-  },
-  {
-    "Author": "Asteria Nocturna",
-    "Name": "Divination.DiscordIntegration",
-    "InternalName": "Divination.DiscordIntegration",
-    "AssemblyVersion": "0.1.0.36",
-    "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
-    "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration",
-    "Tags": [
-      "Discord"
-    ],
-    "DalamudApiLevel": 4,
-    "LoadPriority": 0,
-    "Punchline": "Fully-customizable Rich Presence Plugin",
-    "IsTestingExclusive": true,
-    "DownloadCount": 0,
-    "LastUpdated": 1634798996,
-    "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.DiscordIntegration/latest.zip",
-    "DownloadLinkUpdate": "https://repo.horoscope.dev/dist/testing/Divination.DiscordIntegration/latest.zip",
-    "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.DiscordIntegration/latest.zip"
   }
 ]
