@@ -1,4 +1,4 @@
-# Divination Plugins
+# Divination Plugins (Testing)
 
 | Name | Version | Author | Description | Total Downloads |
 |------|---------|--------|-------------|-----------------|
