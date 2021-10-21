@@ -20,21 +20,32 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634664445"
+        "LastUpdated": "1634798178"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.TwitterIntegration",
         "InternalName": "Divination.TwitterIntegration",
-        "AssemblyVersion": "0.1.0.34",
+        "AssemblyVersion": "0.1.0.35",
         "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration",
         "Tags": [
             "Twitter"
         ],
+        "CategoryTags": [
+            "other",
+            "jobs",
+            "ui",
+            "minigames",
+            "inventory",
+            "sound",
+            "social",
+            "utility"
+        ],
         "DalamudApiLevel": 4,
         "LoadPriority": 0,
+        "ImageUrls": [],
         "Punchline": "Tweet in FFXIV chat.",
         "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip",
         "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.TwitterIntegration/latest.zip",
@@ -42,7 +53,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634664445"
+        "LastUpdated": "1634798178"
     },
     {
         "Author": "Asteria Nocturna",
@@ -64,7 +75,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634664445"
+        "LastUpdated": "1634798178"
     },
     {
         "Author": "Asteria Nocturna",
@@ -86,7 +97,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634664445"
+        "LastUpdated": "1634798178"
     },
     {
         "Author": "Asteria Nocturna",
@@ -108,7 +119,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634664445"
+        "LastUpdated": "1634798178"
     },
     {
         "Author": "Asteria Nocturna",
@@ -131,7 +142,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634664445"
+        "LastUpdated": "1634798178"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -149,7 +160,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634664445"
+        "LastUpdated": "1634798178"
     },
     {
         "Author": "Asteria Nocturna",
@@ -171,6 +182,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634664445"
+        "LastUpdated": "1634798178"
     }
 ]
