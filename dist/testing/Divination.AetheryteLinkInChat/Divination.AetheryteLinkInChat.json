@@ -2,14 +2,25 @@
   "Author": "Asteria Nocturna",
   "Name": "Divination.AetheryteLinkInChat",
   "InternalName": "Divination.AetheryteLinkInChat",
-  "AssemblyVersion": "0.1.0.32",
+  "AssemblyVersion": "0.1.0.33",
   "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat",
   "Tags": [
     "teleporter"
   ],
+  "CategoryTags": [
+    "other",
+    "jobs",
+    "ui",
+    "minigames",
+    "inventory",
+    "sound",
+    "social",
+    "utility"
+  ],
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
+  "ImageUrls": [],
   "Punchline": "Easy teleport for Mob Hunting"
 }
