@@ -20,7 +20,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634798178"
+        "LastUpdated": "1634798212"
     },
     {
         "Author": "Asteria Nocturna",
@@ -53,21 +53,32 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634798178"
+        "LastUpdated": "1634798212"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.Calculator",
         "InternalName": "Divination.Calculator",
-        "AssemblyVersion": "0.1.0.31",
+        "AssemblyVersion": "0.1.0.33",
         "Description": "Simple plugin to just add /calc command.",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator",
         "Tags": [
             "utility"
         ],
+        "CategoryTags": [
+            "other",
+            "jobs",
+            "ui",
+            "minigames",
+            "inventory",
+            "sound",
+            "social",
+            "utility"
+        ],
         "DalamudApiLevel": 4,
         "LoadPriority": 0,
+        "ImageUrls": [],
         "Punchline": "/calc 33 - 4",
         "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.Calculator/latest.zip",
         "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.Calculator/latest.zip",
@@ -75,7 +86,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634798178"
+        "LastUpdated": "1634798212"
     },
     {
         "Author": "Asteria Nocturna",
@@ -97,21 +108,32 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634798178"
+        "LastUpdated": "1634798212"
     },
     {
         "Author": "Asteria Nocturna",
         "Name": "Divination.AetheryteLinkInChat",
         "InternalName": "Divination.AetheryteLinkInChat",
-        "AssemblyVersion": "0.1.0.32",
+        "AssemblyVersion": "0.1.0.33",
         "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!",
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat",
         "Tags": [
             "teleporter"
         ],
+        "CategoryTags": [
+            "other",
+            "jobs",
+            "ui",
+            "minigames",
+            "inventory",
+            "sound",
+            "social",
+            "utility"
+        ],
         "DalamudApiLevel": 4,
         "LoadPriority": 0,
+        "ImageUrls": [],
         "Punchline": "Easy teleport for Mob Hunting",
         "DownloadLinkInstall": "https://repo.horoscope.dev/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
         "DownloadLinkTesting": "https://repo.horoscope.dev/dist/testing/Divination.AetheryteLinkInChat/latest.zip",
@@ -119,7 +141,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634798178"
+        "LastUpdated": "1634798212"
     },
     {
         "Author": "Asteria Nocturna",
@@ -142,7 +164,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634798178"
+        "LastUpdated": "1634798212"
     },
     {
         "Author": "Suzuka Asagiri",
@@ -160,7 +182,7 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634798178"
+        "LastUpdated": "1634798212"
     },
     {
         "Author": "Asteria Nocturna",
@@ -182,6 +204,6 @@
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadCount": 0,
-        "LastUpdated": "1634798178"
+        "LastUpdated": "1634798212"
     }
 ]
