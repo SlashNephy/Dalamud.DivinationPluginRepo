@@ -94,7 +94,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1634880205,
+    "LastUpdated": 1634880239,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -107,19 +107,30 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.36",
+    "AssemblyVersion": "0.1.0.39",
     "Author": "Asteria Nocturna",
-    "Changelog": null,
+    "CategoryTags": [
+      "other",
+      "jobs",
+      "ui",
+      "minigames",
+      "inventory",
+      "sound",
+      "social",
+      "utility"
+    ],
+    "Changelog": "189acf0: Logging on receiving payloads\n7e2ebc3: Export constants\nf1007d2: Re-support IPC features",
     "DalamudApiLevel": 4,
     "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
     "DownloadCount": 4,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.DiscordIntegration",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.DiscordIntegration",
     "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+    "ImageUrls": [],
     "InternalName": "Divination.DiscordIntegration",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634880205,
+    "LastUpdated": 1634880141,
     "LoadPriority": 0,
     "Name": "Divination.DiscordIntegration",
     "Punchline": "Fully-customizable Rich Presence Plugin",
@@ -127,7 +138,7 @@
     "Tags": [
       "Discord"
     ],
-    "TestingAssemblyVersion": "0.1.0.36"
+    "TestingAssemblyVersion": "0.1.0.39"
   },
   {
     "ApplicableVersion": "any",
@@ -143,7 +154,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634880205,
+    "LastUpdated": 1634880239,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
@@ -163,7 +174,7 @@
     "InternalName": "Divination.PowerUtils",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634880205,
+    "LastUpdated": 1634880239,
     "LoadPriority": 0,
     "Name": "Divination.PowerUtils",
     "Punchline": "Save Energy!",
@@ -175,7 +186,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.36",
+    "AssemblyVersion": "0.1.0.37",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -198,7 +209,7 @@
     "InternalName": "Divination.TwitterIntegration",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634876571,
+    "LastUpdated": 1634880126,
     "LoadPriority": 0,
     "Name": "Divination.TwitterIntegration",
     "Punchline": "Tweet in FFXIV chat.",
@@ -206,11 +217,11 @@
     "Tags": [
       "Twitter"
     ],
-    "TestingAssemblyVersion": "0.1.0.36"
+    "TestingAssemblyVersion": "0.1.0.37"
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.34",
+    "AssemblyVersion": "0.1.0.35",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -233,7 +244,7 @@
     "InternalName": "Divination.Voiceroid2Talker",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634876609,
+    "LastUpdated": 1634880163,
     "LoadPriority": 0,
     "Name": "Divination.Voiceroid2Talker",
     "Punchline": "Text-to-Speech for Voiceroid2",
@@ -242,6 +253,6 @@
       "Text-to-speech",
       "Voiceroid"
     ],
-    "TestingAssemblyVersion": "0.1.0.34"
+    "TestingAssemblyVersion": "0.1.0.35"
   }
 ]
