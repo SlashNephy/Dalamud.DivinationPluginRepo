@@ -36,7 +36,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.34",
+    "AssemblyVersion": "0.1.0.36",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -59,7 +59,7 @@
     "InternalName": "Divination.Calculator",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634876601,
+    "LastUpdated": 1634881158,
     "LoadPriority": 0,
     "Name": "Divination.Calculator",
     "Punchline": "/calc 33 - 4",
@@ -67,7 +67,7 @@
     "Tags": [
       "utility"
     ],
-    "TestingAssemblyVersion": "0.1.0.34"
+    "TestingAssemblyVersion": "0.1.0.36"
   },
   {
     "ApplicableVersion": "any",
@@ -94,7 +94,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1634881213,
+    "LastUpdated": 1634881260,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -103,7 +103,7 @@
       "Development",
       "Debug"
     ],
-    "TestingAssemblyVersion": "0.1.0.38"
+    "TestingAssemblyVersion": "0.1.0.39"
   },
   {
     "ApplicableVersion": "any",
@@ -154,7 +154,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634881213,
+    "LastUpdated": 1634881260,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
@@ -174,7 +174,7 @@
     "InternalName": "Divination.PowerUtils",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634881213,
+    "LastUpdated": 1634881260,
     "LoadPriority": 0,
     "Name": "Divination.PowerUtils",
     "Punchline": "Save Energy!",
