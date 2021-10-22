@@ -1,7 +1,7 @@
 {
-  "after": "4914cec9df3185386724a455893735f504cce141",
+  "after": "192c0b6d6667b84b7a914bb4872b3517872bbc14",
   "base_ref": null,
-  "before": "6f87908403b60abd1fba83f690e4e2d2c2dabeba",
+  "before": "4914cec9df3185386724a455893735f504cce141",
   "commits": [
     {
       "author": {
@@ -15,14 +15,14 @@
         "username": "github-actions[bot]"
       },
       "distinct": true,
-      "id": "4914cec9df3185386724a455893735f504cce141",
-      "message": "Update Template @ d937f8f",
-      "timestamp": "2021-10-22T05:22:14Z",
-      "tree_id": "8f2e89e04b4577d585493779485a742943773ff6",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/commit/4914cec9df3185386724a455893735f504cce141"
+      "id": "192c0b6d6667b84b7a914bb4872b3517872bbc14",
+      "message": "Update Template @ 2dd8d36",
+      "timestamp": "2021-10-22T05:38:56Z",
+      "tree_id": "f1b8646f874017a5ef89e83449a5a4193b229180",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/commit/192c0b6d6667b84b7a914bb4872b3517872bbc14"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/compare/6f87908403b6...4914cec9df31",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/compare/4914cec9df31...192c0b6d6667",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -38,11 +38,11 @@
       "username": "github-actions[bot]"
     },
     "distinct": true,
-    "id": "4914cec9df3185386724a455893735f504cce141",
-    "message": "Update Template @ d937f8f",
-    "timestamp": "2021-10-22T05:22:14Z",
-    "tree_id": "8f2e89e04b4577d585493779485a742943773ff6",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/commit/4914cec9df3185386724a455893735f504cce141"
+    "id": "192c0b6d6667b84b7a914bb4872b3517872bbc14",
+    "message": "Update Template @ 2dd8d36",
+    "timestamp": "2021-10-22T05:38:56Z",
+    "tree_id": "f1b8646f874017a5ef89e83449a5a4193b229180",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/commit/192c0b6d6667b84b7a914bb4872b3517872bbc14"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -151,9 +151,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/pulls{/number}",
-    "pushed_at": 1634880135,
+    "pushed_at": 1634881138,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/releases{/id}",
-    "size": 31,
+    "size": 33,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.AetheryteLinkInChat.git",
     "stargazers": 1,
     "stargazers_count": 1,
@@ -166,7 +166,7 @@
     "teams_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/git/trees{/sha}",
-    "updated_at": "2021-10-22T04:23:03Z",
+    "updated_at": "2021-10-22T05:22:18Z",
     "url": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat",
     "visibility": "public",
     "watchers": 1,
