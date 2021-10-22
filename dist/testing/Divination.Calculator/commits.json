@@ -1,0 +1,792 @@
+[
+  {
+    "sha": "1d6a91ca82c8248e74f652bd1ca089c062b4e321",
+    "node_id": "C_kwDOGABTDtoAKDFkNmE5MWNhODJjODI0OGU3NGY2NTJiZDFjYTA4OWMwNjJiNGUzMjE",
+    "commit": {
+      "author": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-22T04:23:21Z"
+      },
+      "committer": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-22T04:23:21Z"
+      },
+      "message": "Update Template @ 73fd081",
+      "tree": {
+        "sha": "3438e80c96fbadd288a790bead4ef513285e249a",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/trees/3438e80c96fbadd288a790bead4ef513285e249a"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/commits/1d6a91ca82c8248e74f652bd1ca089c062b4e321",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/1d6a91ca82c8248e74f652bd1ca089c062b4e321",
+    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/1d6a91ca82c8248e74f652bd1ca089c062b4e321",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/1d6a91ca82c8248e74f652bd1ca089c062b4e321/comments",
+    "author": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "8245d8049fad1234ea3a60ee49f345f968178364",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/8245d8049fad1234ea3a60ee49f345f968178364",
+        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/8245d8049fad1234ea3a60ee49f345f968178364"
+      }
+    ]
+  },
+  {
+    "sha": "8245d8049fad1234ea3a60ee49f345f968178364",
+    "node_id": "C_kwDOGABTDtoAKDgyNDVkODA0OWZhZDEyMzRlYTNhNjBlZTQ5ZjM0NWY5NjgxNzgzNjQ",
+    "commit": {
+      "author": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-21T06:35:08Z"
+      },
+      "committer": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-21T06:35:08Z"
+      },
+      "message": "Update Template to 1a0a650",
+      "tree": {
+        "sha": "1f10c20097fd3e4e2b260cf5863d7c59bbe9abe8",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/trees/1f10c20097fd3e4e2b260cf5863d7c59bbe9abe8"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/commits/8245d8049fad1234ea3a60ee49f345f968178364",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/8245d8049fad1234ea3a60ee49f345f968178364",
+    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/8245d8049fad1234ea3a60ee49f345f968178364",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/8245d8049fad1234ea3a60ee49f345f968178364/comments",
+    "author": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "1528fe1e5b10e4806d14e41f967d1ddc0fa69e4a",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/1528fe1e5b10e4806d14e41f967d1ddc0fa69e4a",
+        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/1528fe1e5b10e4806d14e41f967d1ddc0fa69e4a"
+      }
+    ]
+  },
+  {
+    "sha": "1528fe1e5b10e4806d14e41f967d1ddc0fa69e4a",
+    "node_id": "C_kwDOGABTDtoAKDE1MjhmZTFlNWIxMGU0ODA2ZDE0ZTQxZjk2N2QxZGRjMGZhNjllNGE",
+    "commit": {
+      "author": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-19T17:25:20Z"
+      },
+      "committer": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-19T17:25:20Z"
+      },
+      "message": "Update Common to e260ee9",
+      "tree": {
+        "sha": "926105c1f7a6303951893c80ff64940332396434",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/trees/926105c1f7a6303951893c80ff64940332396434"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/commits/1528fe1e5b10e4806d14e41f967d1ddc0fa69e4a",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/1528fe1e5b10e4806d14e41f967d1ddc0fa69e4a",
+    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/1528fe1e5b10e4806d14e41f967d1ddc0fa69e4a",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/1528fe1e5b10e4806d14e41f967d1ddc0fa69e4a/comments",
+    "author": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "bd3eea36031e76f52e8c5df0785083ef6efddd0a",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/bd3eea36031e76f52e8c5df0785083ef6efddd0a",
+        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/bd3eea36031e76f52e8c5df0785083ef6efddd0a"
+      }
+    ]
+  },
+  {
+    "sha": "bd3eea36031e76f52e8c5df0785083ef6efddd0a",
+    "node_id": "C_kwDOGABTDtoAKGJkM2VlYTM2MDMxZTc2ZjUyZThjNWRmMDc4NTA4M2VmNmVmZGRkMGE",
+    "commit": {
+      "author": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-19T15:27:39Z"
+      },
+      "committer": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-19T15:27:39Z"
+      },
+      "message": "Update Common to 3ae7f5b",
+      "tree": {
+        "sha": "1e0b4054182fd7ddc9664f31adbeedf865e14bc2",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/trees/1e0b4054182fd7ddc9664f31adbeedf865e14bc2"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/commits/bd3eea36031e76f52e8c5df0785083ef6efddd0a",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/bd3eea36031e76f52e8c5df0785083ef6efddd0a",
+    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/bd3eea36031e76f52e8c5df0785083ef6efddd0a",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/bd3eea36031e76f52e8c5df0785083ef6efddd0a/comments",
+    "author": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4af37b0aaaad1dd01f12ed20b25c1304d386a79f",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/4af37b0aaaad1dd01f12ed20b25c1304d386a79f",
+        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/4af37b0aaaad1dd01f12ed20b25c1304d386a79f"
+      }
+    ]
+  },
+  {
+    "sha": "4af37b0aaaad1dd01f12ed20b25c1304d386a79f",
+    "node_id": "C_kwDOGABTDtoAKDRhZjM3YjBhYWFhZDFkZDAxZjEyZWQyMGIyNWMxMzA0ZDM4NmE3OWY",
+    "commit": {
+      "author": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-19T15:05:09Z"
+      },
+      "committer": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-19T15:05:09Z"
+      },
+      "message": "Update Common to 2d40dde",
+      "tree": {
+        "sha": "b9149572f0379d1fb263bf84c4a019cde4e134b8",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/trees/b9149572f0379d1fb263bf84c4a019cde4e134b8"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/commits/4af37b0aaaad1dd01f12ed20b25c1304d386a79f",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/4af37b0aaaad1dd01f12ed20b25c1304d386a79f",
+    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/4af37b0aaaad1dd01f12ed20b25c1304d386a79f",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/4af37b0aaaad1dd01f12ed20b25c1304d386a79f/comments",
+    "author": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a086d658786a593c3d03e010202951cf6397109d",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/a086d658786a593c3d03e010202951cf6397109d",
+        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/a086d658786a593c3d03e010202951cf6397109d"
+      }
+    ]
+  },
+  {
+    "sha": "a086d658786a593c3d03e010202951cf6397109d",
+    "node_id": "C_kwDOGABTDtoAKGEwODZkNjU4Nzg2YTU5M2MzZDAzZTAxMDIwMjk1MWNmNjM5NzEwOWQ",
+    "commit": {
+      "author": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-19T14:19:22Z"
+      },
+      "committer": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-19T14:19:22Z"
+      },
+      "message": "Update Common to 2bcff51",
+      "tree": {
+        "sha": "93b7fd7cc7b7c50672472a93af6ae413fb1211fc",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/trees/93b7fd7cc7b7c50672472a93af6ae413fb1211fc"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/commits/a086d658786a593c3d03e010202951cf6397109d",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/a086d658786a593c3d03e010202951cf6397109d",
+    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/a086d658786a593c3d03e010202951cf6397109d",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/a086d658786a593c3d03e010202951cf6397109d/comments",
+    "author": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6a0001141b7aeb54c6c5df435d843829c2dea80a",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/6a0001141b7aeb54c6c5df435d843829c2dea80a",
+        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/6a0001141b7aeb54c6c5df435d843829c2dea80a"
+      }
+    ]
+  },
+  {
+    "sha": "6a0001141b7aeb54c6c5df435d843829c2dea80a",
+    "node_id": "C_kwDOGABTDtoAKDZhMDAwMTE0MWI3YWViNTRjNmM1ZGY0MzVkODQzODI5YzJkZWE4MGE",
+    "commit": {
+      "author": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-19T13:44:39Z"
+      },
+      "committer": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-19T13:44:39Z"
+      },
+      "message": "Update Common to 4e86c9b",
+      "tree": {
+        "sha": "fbf959270d2aa838b177ef5cdd1a96486ff2e2fa",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/trees/fbf959270d2aa838b177ef5cdd1a96486ff2e2fa"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/commits/6a0001141b7aeb54c6c5df435d843829c2dea80a",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/6a0001141b7aeb54c6c5df435d843829c2dea80a",
+    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/6a0001141b7aeb54c6c5df435d843829c2dea80a",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/6a0001141b7aeb54c6c5df435d843829c2dea80a/comments",
+    "author": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7a6a7554ec65c95290ef6753a54baa5d2aef539c",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/7a6a7554ec65c95290ef6753a54baa5d2aef539c",
+        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/7a6a7554ec65c95290ef6753a54baa5d2aef539c"
+      }
+    ]
+  },
+  {
+    "sha": "7a6a7554ec65c95290ef6753a54baa5d2aef539c",
+    "node_id": "C_kwDOGABTDtoAKDdhNmE3NTU0ZWM2NWM5NTI5MGVmNjc1M2E1NGJhYTVkMmFlZjUzOWM",
+    "commit": {
+      "author": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-19T13:24:06Z"
+      },
+      "committer": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-19T13:24:06Z"
+      },
+      "message": "Update Common to 4b32e38",
+      "tree": {
+        "sha": "3fbc871a99b582059d240799274c3523af8a550c",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/trees/3fbc871a99b582059d240799274c3523af8a550c"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/commits/7a6a7554ec65c95290ef6753a54baa5d2aef539c",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/7a6a7554ec65c95290ef6753a54baa5d2aef539c",
+    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/7a6a7554ec65c95290ef6753a54baa5d2aef539c",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/7a6a7554ec65c95290ef6753a54baa5d2aef539c/comments",
+    "author": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f5254188d0a32c06f91d07843fec832fce56f41e",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/f5254188d0a32c06f91d07843fec832fce56f41e",
+        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/f5254188d0a32c06f91d07843fec832fce56f41e"
+      }
+    ]
+  },
+  {
+    "sha": "f5254188d0a32c06f91d07843fec832fce56f41e",
+    "node_id": "C_kwDOGABTDtoAKGY1MjU0MTg4ZDBhMzJjMDZmOTFkMDc4NDNmZWM4MzJmY2U1NmY0MWU",
+    "commit": {
+      "author": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-19T12:34:18Z"
+      },
+      "committer": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-19T12:34:18Z"
+      },
+      "message": "Update Common to 56bbe32",
+      "tree": {
+        "sha": "7e6c8e70377ec5ea95fd3e9e53ffabc7f3a74df8",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/trees/7e6c8e70377ec5ea95fd3e9e53ffabc7f3a74df8"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/commits/f5254188d0a32c06f91d07843fec832fce56f41e",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/f5254188d0a32c06f91d07843fec832fce56f41e",
+    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/f5254188d0a32c06f91d07843fec832fce56f41e",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/f5254188d0a32c06f91d07843fec832fce56f41e/comments",
+    "author": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d6f4f390193aad78f130f01f41254f5101d82607",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/d6f4f390193aad78f130f01f41254f5101d82607",
+        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/d6f4f390193aad78f130f01f41254f5101d82607"
+      }
+    ]
+  },
+  {
+    "sha": "d6f4f390193aad78f130f01f41254f5101d82607",
+    "node_id": "C_kwDOGABTDtoAKGQ2ZjRmMzkwMTkzYWFkNzhmMTMwZjAxZjQxMjU0ZjUxMDFkODI2MDc",
+    "commit": {
+      "author": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-19T12:10:50Z"
+      },
+      "committer": {
+        "name": "github-actions",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2021-10-19T12:10:50Z"
+      },
+      "message": "Update Common to be5d78b",
+      "tree": {
+        "sha": "57653580780c53005ce4114017c5cd7a374a4198",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/trees/57653580780c53005ce4114017c5cd7a374a4198"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/git/commits/d6f4f390193aad78f130f01f41254f5101d82607",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/d6f4f390193aad78f130f01f41254f5101d82607",
+    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/d6f4f390193aad78f130f01f41254f5101d82607",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/d6f4f390193aad78f130f01f41254f5101d82607/comments",
+    "author": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "429403f9bc336678d981a73127c56fd02b1ef938",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/commits/429403f9bc336678d981a73127c56fd02b1ef938",
+        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/429403f9bc336678d981a73127c56fd02b1ef938"
+      }
+    ]
+  }
+]
