@@ -2,10 +2,9 @@
   "Author": "Asteria Nocturna",
   "Name": "Divination.Debugger",
   "InternalName": "Divination.Debugger",
-  "AssemblyVersion": "0.1.0.37",
+  "AssemblyVersion": "0.1.0.38",
   "Description": "Tiny tool to inspect game...",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger",
   "Tags": [
     "Development",
     "Debug"
