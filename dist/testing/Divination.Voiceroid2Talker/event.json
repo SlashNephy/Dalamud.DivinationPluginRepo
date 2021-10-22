@@ -1,7 +1,7 @@
 {
-  "after": "e72362d04d818125bc1b9a6023fb7025fef44bce",
+  "after": "d2c061f3292f57b03d71cf89d9b43d9fcb082122",
   "base_ref": null,
-  "before": "e75bcf18a7ca12e21cb0fb596447f4cf522ef14f",
+  "before": "e72362d04d818125bc1b9a6023fb7025fef44bce",
   "commits": [
     {
       "author": {
@@ -15,14 +15,14 @@
         "username": "github-actions[bot]"
       },
       "distinct": true,
-      "id": "e72362d04d818125bc1b9a6023fb7025fef44bce",
-      "message": "Update Template @ 73fd081",
-      "timestamp": "2021-10-22T04:23:29Z",
-      "tree_id": "fdbcf4dc1c5a2e2f2819ab16de9953ccacb97fa7",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commit/e72362d04d818125bc1b9a6023fb7025fef44bce"
+      "id": "d2c061f3292f57b03d71cf89d9b43d9fcb082122",
+      "message": "Update Template @ d937f8f",
+      "timestamp": "2021-10-22T05:22:43Z",
+      "tree_id": "ef60bfd4d985ecf3595b749f2db2881bde4de9bd",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commit/d2c061f3292f57b03d71cf89d9b43d9fcb082122"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/compare/e75bcf18a7ca...e72362d04d81",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/compare/e72362d04d81...d2c061f3292f",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -38,11 +38,11 @@
       "username": "github-actions[bot]"
     },
     "distinct": true,
-    "id": "e72362d04d818125bc1b9a6023fb7025fef44bce",
-    "message": "Update Template @ 73fd081",
-    "timestamp": "2021-10-22T04:23:29Z",
-    "tree_id": "fdbcf4dc1c5a2e2f2819ab16de9953ccacb97fa7",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commit/e72362d04d818125bc1b9a6023fb7025fef44bce"
+    "id": "d2c061f3292f57b03d71cf89d9b43d9fcb082122",
+    "message": "Update Template @ d937f8f",
+    "timestamp": "2021-10-22T05:22:43Z",
+    "tree_id": "ef60bfd4d985ecf3595b749f2db2881bde4de9bd",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commit/d2c061f3292f57b03d71cf89d9b43d9fcb082122"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -145,7 +145,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/pulls{/number}",
-    "pushed_at": 1634876610,
+    "pushed_at": 1634880165,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/releases{/id}",
     "size": 33,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.Voiceroid2Talker.git",
@@ -165,7 +165,7 @@
       "voiceroid"
     ],
     "trees_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/git/trees{/sha}",
-    "updated_at": "2021-10-21T06:35:20Z",
+    "updated_at": "2021-10-22T04:23:33Z",
     "url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker",
     "visibility": "public",
     "watchers": 0,
