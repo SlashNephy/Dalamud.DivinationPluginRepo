@@ -2,14 +2,24 @@
   "Author": "Asteria Nocturna",
   "Name": "Divination.DiscordIntegration",
   "InternalName": "Divination.DiscordIntegration",
-  "AssemblyVersion": "0.1.0.36",
+  "AssemblyVersion": "0.1.0.39",
   "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration",
   "Tags": [
     "Discord"
   ],
+  "CategoryTags": [
+    "other",
+    "jobs",
+    "ui",
+    "minigames",
+    "inventory",
+    "sound",
+    "social",
+    "utility"
+  ],
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
+  "ImageUrls": [],
   "Punchline": "Fully-customizable Rich Presence Plugin"
 }
