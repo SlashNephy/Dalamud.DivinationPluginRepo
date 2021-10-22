@@ -1,7 +1,7 @@
 [
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.34",
+    "AssemblyVersion": "0.1.0.35",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -24,7 +24,7 @@
     "InternalName": "Divination.AetheryteLinkInChat",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634876578,
+    "LastUpdated": 1634880134,
     "LoadPriority": 0,
     "Name": "Divination.AetheryteLinkInChat",
     "Punchline": "Easy teleport for Mob Hunting",
@@ -32,7 +32,7 @@
     "Tags": [
       "teleporter"
     ],
-    "TestingAssemblyVersion": "0.1.0.34"
+    "TestingAssemblyVersion": "0.1.0.35"
   },
   {
     "ApplicableVersion": "any",
@@ -94,7 +94,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1634879802,
+    "LastUpdated": 1634880205,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -119,7 +119,7 @@
     "InternalName": "Divination.DiscordIntegration",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634879802,
+    "LastUpdated": 1634880205,
     "LoadPriority": 0,
     "Name": "Divination.DiscordIntegration",
     "Punchline": "Fully-customizable Rich Presence Plugin",
@@ -143,7 +143,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634879802,
+    "LastUpdated": 1634880205,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
@@ -163,7 +163,7 @@
     "InternalName": "Divination.PowerUtils",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634879802,
+    "LastUpdated": 1634880205,
     "LoadPriority": 0,
     "Name": "Divination.PowerUtils",
     "Punchline": "Save Energy!",
