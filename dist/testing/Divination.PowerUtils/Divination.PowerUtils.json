@@ -2,14 +2,24 @@
   "Author": "Asteria Nocturna",
   "Name": "Divination.PowerUtils",
   "InternalName": "Divination.PowerUtils",
-  "AssemblyVersion": "0.1.0.32",
+  "AssemblyVersion": "0.1.0.42",
   "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management",
   "ApplicableVersion": "any",
-  "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils",
   "Tags": [
     "Command"
   ],
+  "CategoryTags": [
+    "other",
+    "jobs",
+    "ui",
+    "minigames",
+    "inventory",
+    "sound",
+    "social",
+    "utility"
+  ],
   "DalamudApiLevel": 4,
   "LoadPriority": 0,
+  "ImageUrls": [],
   "Punchline": "Save Energy!"
 }
