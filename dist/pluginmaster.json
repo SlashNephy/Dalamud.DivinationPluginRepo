@@ -1,7 +1,7 @@
 [
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.36",
+    "AssemblyVersion": "0.1.0.37",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -16,7 +16,7 @@
     "Changelog": null,
     "DalamudApiLevel": 4,
     "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!",
-    "DownloadCount": 4,
+    "DownloadCount": 5,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
     "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -24,7 +24,7 @@
     "InternalName": "Divination.AetheryteLinkInChat",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634881136,
+    "LastUpdated": 1634883452,
     "LoadPriority": 0,
     "Name": "Divination.AetheryteLinkInChat",
     "Punchline": "Easy teleport for Mob Hunting",
@@ -32,11 +32,11 @@
     "Tags": [
       "teleporter"
     ],
-    "TestingAssemblyVersion": "0.1.0.36"
+    "TestingAssemblyVersion": "0.1.0.37"
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.36",
+    "AssemblyVersion": "0.1.0.37",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -51,7 +51,7 @@
     "Changelog": null,
     "DalamudApiLevel": 4,
     "Description": "Simple plugin to just add /calc command.",
-    "DownloadCount": 2,
+    "DownloadCount": 3,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.Calculator",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Calculator",
     "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -59,7 +59,7 @@
     "InternalName": "Divination.Calculator",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634881158,
+    "LastUpdated": 1634883472,
     "LoadPriority": 0,
     "Name": "Divination.Calculator",
     "Punchline": "/calc 33 - 4",
@@ -67,7 +67,7 @@
     "Tags": [
       "utility"
     ],
-    "TestingAssemblyVersion": "0.1.0.36"
+    "TestingAssemblyVersion": "0.1.0.37"
   },
   {
     "ApplicableVersion": "any",
@@ -94,7 +94,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1634881279,
+    "LastUpdated": 1634974874,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -103,7 +103,7 @@
       "Development",
       "Debug"
     ],
-    "TestingAssemblyVersion": "0.1.0.39"
+    "TestingAssemblyVersion": "0.1.0.40"
   },
   {
     "ApplicableVersion": "any",
@@ -122,7 +122,7 @@
     "Changelog": "189acf0: Logging on receiving payloads\n7e2ebc3: Export constants\nf1007d2: Re-support IPC features",
     "DalamudApiLevel": 4,
     "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
-    "DownloadCount": 4,
+    "DownloadCount": 5,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.DiscordIntegration",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.DiscordIntegration",
     "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -147,14 +147,14 @@
     "Changelog": null,
     "DalamudApiLevel": 4,
     "Description": "show instance id in chat when instance changed",
-    "DownloadCount": 0,
+    "DownloadCount": 2,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.InstanceIDViewer",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.InstanceIDViewer",
     "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634881279,
+    "LastUpdated": 1634974874,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
@@ -162,19 +162,30 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.32",
+    "AssemblyVersion": "0.1.0.42",
     "Author": "Asteria Nocturna",
-    "Changelog": null,
+    "CategoryTags": [
+      "other",
+      "jobs",
+      "ui",
+      "minigames",
+      "inventory",
+      "sound",
+      "social",
+      "utility"
+    ],
+    "Changelog": "6b023f8: Update build.yml\n9463560: Update build.yml\nfaaf343: Update build.yml\ndc2489a: Update build.yml\nfe36bc9: Update build.yml\neffe82a: Update build.yml",
     "DalamudApiLevel": 4,
     "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management",
-    "DownloadCount": 2,
+    "DownloadCount": 3,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.PowerUtils",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.PowerUtils",
     "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+    "ImageUrls": [],
     "InternalName": "Divination.PowerUtils",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634881279,
+    "LastUpdated": 1634883104,
     "LoadPriority": 0,
     "Name": "Divination.PowerUtils",
     "Punchline": "Save Energy!",
@@ -182,11 +193,11 @@
     "Tags": [
       "Command"
     ],
-    "TestingAssemblyVersion": "0.1.0.32"
+    "TestingAssemblyVersion": "0.1.0.42"
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.37",
+    "AssemblyVersion": "0.1.0.39",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -209,7 +220,7 @@
     "InternalName": "Divination.TwitterIntegration",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634880126,
+    "LastUpdated": 1634883444,
     "LoadPriority": 0,
     "Name": "Divination.TwitterIntegration",
     "Punchline": "Tweet in FFXIV chat.",
@@ -217,7 +228,7 @@
     "Tags": [
       "Twitter"
     ],
-    "TestingAssemblyVersion": "0.1.0.37"
+    "TestingAssemblyVersion": "0.1.0.39"
   },
   {
     "ApplicableVersion": "any",
