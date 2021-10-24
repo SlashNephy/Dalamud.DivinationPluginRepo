@@ -2,7 +2,7 @@
   "Author": "Asteria Nocturna",
   "Name": "Divination.PowerUtils",
   "InternalName": "Divination.PowerUtils",
-  "AssemblyVersion": "0.1.0.42",
+  "AssemblyVersion": "0.1.0.43",
   "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management",
   "ApplicableVersion": "any",
   "Tags": [

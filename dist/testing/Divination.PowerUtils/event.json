@@ -1,48 +1,48 @@
 {
-  "after": "6b023f82d382fb21ad6ae009a3b5acbb3887009d",
+  "after": "c7622dd5660c37f81a821c8277713b11eb89b1a5",
   "base_ref": null,
-  "before": "9463560f36daf2bc3ea77305a878f8a73d2d9469",
+  "before": "6b023f82d382fb21ad6ae009a3b5acbb3887009d",
   "commits": [
     {
       "author": {
-        "email": "spica@starry.blue",
-        "name": "Nep",
-        "username": "SlashNephy"
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
       },
       "committer": {
-        "email": "noreply@github.com",
-        "name": "GitHub",
-        "username": "web-flow"
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
       },
       "distinct": true,
-      "id": "6b023f82d382fb21ad6ae009a3b5acbb3887009d",
-      "message": "Update build.yml",
-      "timestamp": "2021-10-22T15:11:44+09:00",
-      "tree_id": "c09be39b7bc27ffe61c718e282b7ef2659b22f98",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/6b023f82d382fb21ad6ae009a3b5acbb3887009d"
+      "id": "c7622dd5660c37f81a821c8277713b11eb89b1a5",
+      "message": "Update Template @ 5c3f8c8",
+      "timestamp": "2021-10-24T04:36:33Z",
+      "tree_id": "ff48c88ca92e808f911c56b36336dbf87b8ece9d",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/c7622dd5660c37f81a821c8277713b11eb89b1a5"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/compare/9463560f36da...6b023f82d382",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/compare/6b023f82d382...c7622dd5660c",
   "created": false,
   "deleted": false,
   "forced": false,
   "head_commit": {
     "author": {
-      "email": "spica@starry.blue",
-      "name": "Nep",
-      "username": "SlashNephy"
+      "email": "41898282+github-actions[bot]@users.noreply.github.com",
+      "name": "github-actions",
+      "username": "github-actions[bot]"
     },
     "committer": {
-      "email": "noreply@github.com",
-      "name": "GitHub",
-      "username": "web-flow"
+      "email": "41898282+github-actions[bot]@users.noreply.github.com",
+      "name": "github-actions",
+      "username": "github-actions[bot]"
     },
     "distinct": true,
-    "id": "6b023f82d382fb21ad6ae009a3b5acbb3887009d",
-    "message": "Update build.yml",
-    "timestamp": "2021-10-22T15:11:44+09:00",
-    "tree_id": "c09be39b7bc27ffe61c718e282b7ef2659b22f98",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/6b023f82d382fb21ad6ae009a3b5acbb3887009d"
+    "id": "c7622dd5660c37f81a821c8277713b11eb89b1a5",
+    "message": "Update Template @ 5c3f8c8",
+    "timestamp": "2021-10-24T04:36:33Z",
+    "tree_id": "ff48c88ca92e808f911c56b36336dbf87b8ece9d",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/c7622dd5660c37f81a821c8277713b11eb89b1a5"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -151,9 +151,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.PowerUtils/pulls{/number}",
-    "pushed_at": 1634883104,
+    "pushed_at": 1635050194,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.PowerUtils/releases{/id}",
-    "size": 32,
+    "size": 49,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.PowerUtils.git",
     "stargazers": 0,
     "stargazers_count": 0,
@@ -166,7 +166,7 @@
     "teams_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.PowerUtils/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.PowerUtils/git/trees{/sha}",
-    "updated_at": "2021-10-22T05:58:58Z",
+    "updated_at": "2021-10-22T06:11:47Z",
     "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils",
     "visibility": "public",
     "watchers": 0,
