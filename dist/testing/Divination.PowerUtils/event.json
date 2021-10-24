@@ -1,7 +1,7 @@
 {
-  "after": "c7622dd5660c37f81a821c8277713b11eb89b1a5",
+  "after": "dce5782b45b3adcaaef7de9876b6a5e9c1b521dd",
   "base_ref": null,
-  "before": "6b023f82d382fb21ad6ae009a3b5acbb3887009d",
+  "before": "c7622dd5660c37f81a821c8277713b11eb89b1a5",
   "commits": [
     {
       "author": {
@@ -15,14 +15,14 @@
         "username": "github-actions[bot]"
       },
       "distinct": true,
-      "id": "c7622dd5660c37f81a821c8277713b11eb89b1a5",
-      "message": "Update Template @ 5c3f8c8",
-      "timestamp": "2021-10-24T04:36:33Z",
-      "tree_id": "ff48c88ca92e808f911c56b36336dbf87b8ece9d",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/c7622dd5660c37f81a821c8277713b11eb89b1a5"
+      "id": "dce5782b45b3adcaaef7de9876b6a5e9c1b521dd",
+      "message": "Update Template @ 2c25388",
+      "timestamp": "2021-10-24T04:52:22Z",
+      "tree_id": "381002abbacaea8f3b7e914a375cf0837849d08d",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/dce5782b45b3adcaaef7de9876b6a5e9c1b521dd"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/compare/6b023f82d382...c7622dd5660c",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/compare/c7622dd5660c...dce5782b45b3",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -38,11 +38,11 @@
       "username": "github-actions[bot]"
     },
     "distinct": true,
-    "id": "c7622dd5660c37f81a821c8277713b11eb89b1a5",
-    "message": "Update Template @ 5c3f8c8",
-    "timestamp": "2021-10-24T04:36:33Z",
-    "tree_id": "ff48c88ca92e808f911c56b36336dbf87b8ece9d",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/c7622dd5660c37f81a821c8277713b11eb89b1a5"
+    "id": "dce5782b45b3adcaaef7de9876b6a5e9c1b521dd",
+    "message": "Update Template @ 2c25388",
+    "timestamp": "2021-10-24T04:52:22Z",
+    "tree_id": "381002abbacaea8f3b7e914a375cf0837849d08d",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/dce5782b45b3adcaaef7de9876b6a5e9c1b521dd"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -151,7 +151,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.PowerUtils/pulls{/number}",
-    "pushed_at": 1635050194,
+    "pushed_at": 1635051144,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.PowerUtils/releases{/id}",
     "size": 49,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.PowerUtils.git",
@@ -166,7 +166,7 @@
     "teams_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.PowerUtils/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.PowerUtils/git/trees{/sha}",
-    "updated_at": "2021-10-22T06:11:47Z",
+    "updated_at": "2021-10-24T04:36:38Z",
     "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils",
     "visibility": "public",
     "watchers": 0,
