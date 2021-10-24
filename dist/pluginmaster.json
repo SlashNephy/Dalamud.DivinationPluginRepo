@@ -83,7 +83,7 @@
       "social",
       "utility"
     ],
-    "Changelog": "d7968ae: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.Debugger\n9859748: Control window should open at startup",
+    "Changelog": "d7968ae: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.Debugger\n9859748: Control window should open at startup\na1b0bce: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.Debugger\n8692b41: Update workflow",
     "DalamudApiLevel": 4,
     "Description": "Tiny tool to inspect game...",
     "DownloadCount": 3,
@@ -94,7 +94,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1635050276,
+    "LastUpdated": 1635050316,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -103,7 +103,7 @@
       "Development",
       "Debug"
     ],
-    "TestingAssemblyVersion": "0.1.0.40"
+    "TestingAssemblyVersion": "0.1.0.41"
   },
   {
     "ApplicableVersion": "any",
@@ -154,7 +154,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1635050276,
+    "LastUpdated": 1635050316,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
@@ -162,7 +162,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.42",
+    "AssemblyVersion": "0.1.0.43",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -174,7 +174,7 @@
       "social",
       "utility"
     ],
-    "Changelog": "6b023f8: Update build.yml\n9463560: Update build.yml\nfaaf343: Update build.yml\ndc2489a: Update build.yml\nfe36bc9: Update build.yml\neffe82a: Update build.yml",
+    "Changelog": "6b023f8: Update build.yml\n9463560: Update build.yml\nfaaf343: Update build.yml\ndc2489a: Update build.yml\nfe36bc9: Update build.yml\neffe82a: Update build.yml\nb298b80: Revert to conventional commands\n01e533c: fix poweroff args",
     "DalamudApiLevel": 4,
     "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management",
     "DownloadCount": 3,
@@ -185,7 +185,7 @@
     "InternalName": "Divination.PowerUtils",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634883104,
+    "LastUpdated": 1635050193,
     "LoadPriority": 0,
     "Name": "Divination.PowerUtils",
     "Punchline": "Save Energy!",
@@ -193,7 +193,7 @@
     "Tags": [
       "Command"
     ],
-    "TestingAssemblyVersion": "0.1.0.42"
+    "TestingAssemblyVersion": "0.1.0.43"
   },
   {
     "ApplicableVersion": "any",
