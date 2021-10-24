@@ -1,7 +1,7 @@
 [
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.38",
+    "AssemblyVersion": "0.1.0.39",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -24,7 +24,7 @@
     "InternalName": "Divination.AetheryteLinkInChat",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1635050178,
+    "LastUpdated": 1635051127,
     "LoadPriority": 0,
     "Name": "Divination.AetheryteLinkInChat",
     "Punchline": "Easy teleport for Mob Hunting",
@@ -32,7 +32,7 @@
     "Tags": [
       "teleporter"
     ],
-    "TestingAssemblyVersion": "0.1.0.38"
+    "TestingAssemblyVersion": "0.1.0.39"
   },
   {
     "ApplicableVersion": "any",
@@ -94,7 +94,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1635050316,
+    "LastUpdated": 1635051201,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -154,7 +154,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1635050316,
+    "LastUpdated": 1635051201,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
