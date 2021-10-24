@@ -36,7 +36,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.38",
+    "AssemblyVersion": "0.1.0.39",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -48,7 +48,7 @@
       "social",
       "utility"
     ],
-    "Changelog": "90ee97a: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.Calculator\nd1278a2: Update workflow\n53e5098: Update Common to cd683d4169d8869d272bb0c442c81d5b0021c5ba\n63b2dfe: Update Common to 697fc5335cdcf77fb836e3f238dd2b6cca706d3c",
+    "Changelog": "90ee97a: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.Calculator\nd1278a2: Update workflow\n53e5098: Update Common to cd683d4169d8869d272bb0c442c81d5b0021c5ba",
     "DalamudApiLevel": 4,
     "Description": "Simple plugin to just add /calc command.",
     "DownloadCount": 3,
@@ -59,7 +59,7 @@
     "InternalName": "Divination.Calculator",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1635050200,
+    "LastUpdated": 1635051150,
     "LoadPriority": 0,
     "Name": "Divination.Calculator",
     "Punchline": "/calc 33 - 4",
@@ -67,7 +67,7 @@
     "Tags": [
       "utility"
     ],
-    "TestingAssemblyVersion": "0.1.0.38"
+    "TestingAssemblyVersion": "0.1.0.39"
   },
   {
     "ApplicableVersion": "any",
@@ -94,7 +94,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1635051201,
+    "LastUpdated": 1635051282,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -103,11 +103,11 @@
       "Development",
       "Debug"
     ],
-    "TestingAssemblyVersion": "0.1.0.41"
+    "TestingAssemblyVersion": "0.1.0.42"
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.39",
+    "AssemblyVersion": "0.1.0.43",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -119,7 +119,7 @@
       "social",
       "utility"
     ],
-    "Changelog": "189acf0: Logging on receiving payloads\n7e2ebc3: Export constants\nf1007d2: Re-support IPC features",
+    "Changelog": "189acf0: Logging on receiving payloads\n7e2ebc3: Export constants\nf1007d2: Re-support IPC features\n3b1c6fc: Fix Verbose logging\n6718b89: Fix Title offset invalid",
     "DalamudApiLevel": 4,
     "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
     "DownloadCount": 5,
@@ -130,7 +130,7 @@
     "InternalName": "Divination.DiscordIntegration",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1634880141,
+    "LastUpdated": 1635051135,
     "LoadPriority": 0,
     "Name": "Divination.DiscordIntegration",
     "Punchline": "Fully-customizable Rich Presence Plugin",
@@ -138,7 +138,7 @@
     "Tags": [
       "Discord"
     ],
-    "TestingAssemblyVersion": "0.1.0.39"
+    "TestingAssemblyVersion": "0.1.0.43"
   },
   {
     "ApplicableVersion": "any",
@@ -154,7 +154,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1635051201,
+    "LastUpdated": 1635051282,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
@@ -162,7 +162,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.43",
+    "AssemblyVersion": "0.1.0.44",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -185,7 +185,7 @@
     "InternalName": "Divination.PowerUtils",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1635050193,
+    "LastUpdated": 1635051142,
     "LoadPriority": 0,
     "Name": "Divination.PowerUtils",
     "Punchline": "Save Energy!",
@@ -193,7 +193,7 @@
     "Tags": [
       "Command"
     ],
-    "TestingAssemblyVersion": "0.1.0.43"
+    "TestingAssemblyVersion": "0.1.0.44"
   },
   {
     "ApplicableVersion": "any",
@@ -232,7 +232,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.38",
+    "AssemblyVersion": "0.1.0.39",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -244,7 +244,7 @@
       "social",
       "utility"
     ],
-    "Changelog": "118accc: Update workflow\n4803127: Update Common to cd683d4169d8869d272bb0c442c81d5b0021c5ba\n9fbcb25: Update Common to 697fc5335cdcf77fb836e3f238dd2b6cca706d3c\n546fa02: Update Divination.Voiceroid2Talker.json",
+    "Changelog": "118accc: Update workflow\n4803127: Update Common to cd683d4169d8869d272bb0c442c81d5b0021c5ba\n9fbcb25: Update Common to 697fc5335cdcf77fb836e3f238dd2b6cca706d3c",
     "DalamudApiLevel": 4,
     "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).",
     "DownloadCount": 2,
@@ -255,7 +255,7 @@
     "InternalName": "Divination.Voiceroid2Talker",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1635050208,
+    "LastUpdated": 1635051157,
     "LoadPriority": 0,
     "Name": "Divination.Voiceroid2Talker",
     "Punchline": "Text-to-Speech for Voiceroid2",
@@ -264,6 +264,6 @@
       "Text-to-speech",
       "Voiceroid"
     ],
-    "TestingAssemblyVersion": "0.1.0.38"
+    "TestingAssemblyVersion": "0.1.0.39"
   }
 ]
