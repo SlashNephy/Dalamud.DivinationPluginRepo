@@ -1,7 +1,7 @@
 {
-  "after": "5697132778e42d5e0546a1479f8a7ec22d29551f",
+  "after": "ca8dcb8dc1abb3bbffc9c70b90cf5e639943fdce",
   "base_ref": null,
-  "before": "90a71b883fd5212269d8937a93ddf9dc18c68575",
+  "before": "59413ce663caaa1bbe8ba6db1e4fc47d4ce8e4c1",
   "commits": [
     {
       "author": {
@@ -15,14 +15,14 @@
         "username": "github-actions[bot]"
       },
       "distinct": true,
-      "id": "5697132778e42d5e0546a1479f8a7ec22d29551f",
-      "message": "Update Template @ d937f8f",
-      "timestamp": "2021-10-22T05:22:21Z",
-      "tree_id": "228a57003ad9e29cfc741d1a78b052c89e077101",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/5697132778e42d5e0546a1479f8a7ec22d29551f"
+      "id": "ca8dcb8dc1abb3bbffc9c70b90cf5e639943fdce",
+      "message": "Update Template @ 2c25388",
+      "timestamp": "2021-10-24T04:52:15Z",
+      "tree_id": "8b2f258443def0457f6633d587c2c2657154ec0f",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/ca8dcb8dc1abb3bbffc9c70b90cf5e639943fdce"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/compare/90a71b883fd5...5697132778e4",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/compare/59413ce663ca...ca8dcb8dc1ab",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -38,11 +38,11 @@
       "username": "github-actions[bot]"
     },
     "distinct": true,
-    "id": "5697132778e42d5e0546a1479f8a7ec22d29551f",
-    "message": "Update Template @ d937f8f",
-    "timestamp": "2021-10-22T05:22:21Z",
-    "tree_id": "228a57003ad9e29cfc741d1a78b052c89e077101",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/5697132778e42d5e0546a1479f8a7ec22d29551f"
+    "id": "ca8dcb8dc1abb3bbffc9c70b90cf5e639943fdce",
+    "message": "Update Template @ 2c25388",
+    "timestamp": "2021-10-24T04:52:15Z",
+    "tree_id": "8b2f258443def0457f6633d587c2c2657154ec0f",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/ca8dcb8dc1abb3bbffc9c70b90cf5e639943fdce"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -151,9 +151,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/pulls{/number}",
-    "pushed_at": 1634880143,
+    "pushed_at": 1635051137,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/releases{/id}",
-    "size": 61,
+    "size": 65,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.DiscordIntegration.git",
     "stargazers": 0,
     "stargazers_count": 0,
@@ -166,7 +166,7 @@
     "teams_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/git/trees{/sha}",
-    "updated_at": "2021-10-22T04:23:11Z",
+    "updated_at": "2021-10-24T04:36:30Z",
     "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration",
     "visibility": "public",
     "watchers": 0,
