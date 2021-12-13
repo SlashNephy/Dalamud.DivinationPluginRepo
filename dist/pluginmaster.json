@@ -1,20 +1,13 @@
 [
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.39",
+    "AssemblyVersion": "0.1.0.40",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
-      "other",
-      "jobs",
-      "ui",
-      "minigames",
-      "inventory",
-      "sound",
-      "social",
       "utility"
     ],
-    "Changelog": "92abc49: Fix missing inheritance of IDalamudPlugin\n6271850: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.AetheryteLinkInChat\n38f58a8: Update workflow",
-    "DalamudApiLevel": 4,
+    "Changelog": "19d7db7: Dalamud api 5\n92abc49: Fix missing inheritance of IDalamudPlugin\n6271850: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.AetheryteLinkInChat",
+    "DalamudApiLevel": 5,
     "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!",
     "DownloadCount": 3,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.AetheryteLinkInChat",
@@ -24,7 +17,7 @@
     "InternalName": "Divination.AetheryteLinkInChat",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1635051127,
+    "LastUpdated": 1639415149,
     "LoadPriority": 0,
     "Name": "Divination.AetheryteLinkInChat",
     "Punchline": "Easy teleport for Mob Hunting",
@@ -32,7 +25,7 @@
     "Tags": [
       "teleporter"
     ],
-    "TestingAssemblyVersion": "0.1.0.39"
+    "TestingAssemblyVersion": "0.1.0.40"
   },
   {
     "ApplicableVersion": "any",
@@ -94,7 +87,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1639411624,
+    "LastUpdated": 1639415582,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -154,7 +147,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1639411624,
+    "LastUpdated": 1639415582,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
