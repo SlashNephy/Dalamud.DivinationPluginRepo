@@ -1,7 +1,7 @@
 {
-  "after": "dce5782b45b3adcaaef7de9876b6a5e9c1b521dd",
+  "after": "ea356c5b2857036b4c9c91169c35905670b0501f",
   "base_ref": null,
-  "before": "c7622dd5660c37f81a821c8277713b11eb89b1a5",
+  "before": "dce5782b45b3adcaaef7de9876b6a5e9c1b521dd",
   "commits": [
     {
       "author": {
@@ -15,17 +15,359 @@
         "username": "github-actions[bot]"
       },
       "distinct": true,
-      "id": "dce5782b45b3adcaaef7de9876b6a5e9c1b521dd",
+      "id": "8ca9da15de8a2bb68839e17bfe10b0b897c2d236",
+      "message": "Update Common to 56bbe32",
+      "timestamp": "2021-10-19T12:34:20Z",
+      "tree_id": "203ad9218b9165e32acdb9db37fea8f00ef86ced",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/8ca9da15de8a2bb68839e17bfe10b0b897c2d236"
+    },
+    {
+      "author": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "committer": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "distinct": true,
+      "id": "fc1868e8b1c11eea680479bf1706262592b162e7",
+      "message": "Update Common to 4b32e38",
+      "timestamp": "2021-10-19T13:24:07Z",
+      "tree_id": "181de8f2fbbbf51e5ba1aa9816844fd5aa9a0919",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/fc1868e8b1c11eea680479bf1706262592b162e7"
+    },
+    {
+      "author": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "committer": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "distinct": true,
+      "id": "f5852fe364a00c2faaae73682cf9b1db3d6e530a",
+      "message": "Update Common to 4e86c9b",
+      "timestamp": "2021-10-19T13:44:40Z",
+      "tree_id": "eb2b23e3bc301cfb40e33fb7ca17b21ec834cc05",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/f5852fe364a00c2faaae73682cf9b1db3d6e530a"
+    },
+    {
+      "author": {
+        "email": "spica@starry.blue",
+        "name": "Nep",
+        "username": "SlashNephy"
+      },
+      "committer": {
+        "email": "spica@starry.blue",
+        "name": "Nep",
+        "username": "SlashNephy"
+      },
+      "distinct": true,
+      "id": "5c2e27068bd94be9f618643bf956304780e9fa47",
+      "message": "Revert to conventional commands",
+      "timestamp": "2021-10-19T22:49:47+09:00",
+      "tree_id": "64d397e3eff4ae0b4696743bc325845aca0f7775",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/5c2e27068bd94be9f618643bf956304780e9fa47"
+    },
+    {
+      "author": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "committer": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "distinct": true,
+      "id": "49908e0a6e7604915761a05f02a8053a20570f87",
+      "message": "Update Common to 2bcff51",
+      "timestamp": "2021-10-19T14:19:25Z",
+      "tree_id": "7e201391a83401e1dc72a6603f19d27d390022ae",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/49908e0a6e7604915761a05f02a8053a20570f87"
+    },
+    {
+      "author": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "committer": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "distinct": true,
+      "id": "ebbadf9f71ca8f35bf391aa13d137180a2662ce6",
+      "message": "Update Common to 2d40dde",
+      "timestamp": "2021-10-19T15:05:09Z",
+      "tree_id": "121a04f36c3d2f87a57d20837ab3f28bb6207885",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/ebbadf9f71ca8f35bf391aa13d137180a2662ce6"
+    },
+    {
+      "author": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "committer": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "distinct": true,
+      "id": "43158ce12b960c74d0b4b21c1a2d9bbb6d1285c7",
+      "message": "Update Common to 3ae7f5b",
+      "timestamp": "2021-10-19T15:27:40Z",
+      "tree_id": "f700807ea7a56b6896e0d816dd9c114955e0d3d3",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/43158ce12b960c74d0b4b21c1a2d9bbb6d1285c7"
+    },
+    {
+      "author": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "committer": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "distinct": true,
+      "id": "c1c40493d0ff8b1e3be77123ec6e0229afbbcedf",
+      "message": "Update Common to e260ee9",
+      "timestamp": "2021-10-19T17:25:20Z",
+      "tree_id": "3a21f8fe8611e6cec778fb2aa9dc6b1d92798c01",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/c1c40493d0ff8b1e3be77123ec6e0229afbbcedf"
+    },
+    {
+      "author": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "committer": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "distinct": true,
+      "id": "8821cae5e53bb03da835749aa00c153c26d424cb",
+      "message": "Update Template to 1a0a650",
+      "timestamp": "2021-10-21T06:35:00Z",
+      "tree_id": "1feccb3714ceab3ac2c7553ecba830039f2111f5",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/8821cae5e53bb03da835749aa00c153c26d424cb"
+    },
+    {
+      "author": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "committer": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "distinct": true,
+      "id": "489a04a070e3646d0eccf92c3b442f009566f211",
+      "message": "Update Template @ 73fd081",
+      "timestamp": "2021-10-22T04:23:14Z",
+      "tree_id": "735c19463302b8756e35213c2902182efd6474b3",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/489a04a070e3646d0eccf92c3b442f009566f211"
+    },
+    {
+      "author": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "committer": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "distinct": true,
+      "id": "7bed780060493acfd32c7311880ffdcbea5844f5",
+      "message": "Update Template @ d937f8f",
+      "timestamp": "2021-10-22T05:22:28Z",
+      "tree_id": "58b53257423e442e022ed89fbdf6f4a657234299",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/7bed780060493acfd32c7311880ffdcbea5844f5"
+    },
+    {
+      "author": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "committer": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "distinct": true,
+      "id": "afa0770ac7afcf94d606e0d50b8f4ddb93c72b1f",
+      "message": "Update Template @ 2dd8d36",
+      "timestamp": "2021-10-22T05:39:11Z",
+      "tree_id": "cdcbb37f470da51b5d743e8c08785af43e8dfff9",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/afa0770ac7afcf94d606e0d50b8f4ddb93c72b1f"
+    },
+    {
+      "author": {
+        "email": "spica@starry.blue",
+        "name": "Nep",
+        "username": "SlashNephy"
+      },
+      "committer": {
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
+      },
+      "distinct": true,
+      "id": "f5b1206893f8b7f1617b8506dcb775e21be5df2b",
+      "message": "Update build.yml",
+      "timestamp": "2021-10-22T14:45:06+09:00",
+      "tree_id": "a709c85a3e576460c71b92465133db87f651c5b7",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/f5b1206893f8b7f1617b8506dcb775e21be5df2b"
+    },
+    {
+      "author": {
+        "email": "spica@starry.blue",
+        "name": "Nep",
+        "username": "SlashNephy"
+      },
+      "committer": {
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
+      },
+      "distinct": true,
+      "id": "0d7aea6609bcb866f392a796c1017d5146e15edb",
+      "message": "Update build.yml",
+      "timestamp": "2021-10-22T14:48:33+09:00",
+      "tree_id": "aad20569bf4288461a9186d53e3395f2d698b408",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/0d7aea6609bcb866f392a796c1017d5146e15edb"
+    },
+    {
+      "author": {
+        "email": "spica@starry.blue",
+        "name": "Nep",
+        "username": "SlashNephy"
+      },
+      "committer": {
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
+      },
+      "distinct": true,
+      "id": "9aca661b0872016277b777ad887756d9151b2278",
+      "message": "Update build.yml",
+      "timestamp": "2021-10-22T14:51:28+09:00",
+      "tree_id": "17b6371d3532e473279f9b2e7945f2310dbfd4ec",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/9aca661b0872016277b777ad887756d9151b2278"
+    },
+    {
+      "author": {
+        "email": "spica@starry.blue",
+        "name": "Nep",
+        "username": "SlashNephy"
+      },
+      "committer": {
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
+      },
+      "distinct": true,
+      "id": "cbc810c0499235a600b717e8efc7167eeb1630fa",
+      "message": "Update build.yml",
+      "timestamp": "2021-10-22T14:56:46+09:00",
+      "tree_id": "2c0c53c3b505606d7e8f176ac5863c45088266db",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/cbc810c0499235a600b717e8efc7167eeb1630fa"
+    },
+    {
+      "author": {
+        "email": "spica@starry.blue",
+        "name": "Nep",
+        "username": "SlashNephy"
+      },
+      "committer": {
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
+      },
+      "distinct": true,
+      "id": "9a1014762340d7061b6d73cfb5bfa47b8a4a5009",
+      "message": "Update build.yml",
+      "timestamp": "2021-10-22T14:58:55+09:00",
+      "tree_id": "bcc4c21d431ed2c862693bf93c72a76ea9e12eaa",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/9a1014762340d7061b6d73cfb5bfa47b8a4a5009"
+    },
+    {
+      "author": {
+        "email": "spica@starry.blue",
+        "name": "Nep",
+        "username": "SlashNephy"
+      },
+      "committer": {
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
+      },
+      "distinct": true,
+      "id": "b2ad1e6135a2500304031d5c37d1504a7c2886f7",
+      "message": "Update build.yml",
+      "timestamp": "2021-10-22T15:11:44+09:00",
+      "tree_id": "c09be39b7bc27ffe61c718e282b7ef2659b22f98",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/b2ad1e6135a2500304031d5c37d1504a7c2886f7"
+    },
+    {
+      "author": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "committer": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "distinct": true,
+      "id": "7b0e00f3166655274ef566ddc042d0257a781182",
+      "message": "Update Template @ 5c3f8c8",
+      "timestamp": "2021-10-24T04:36:33Z",
+      "tree_id": "ff48c88ca92e808f911c56b36336dbf87b8ece9d",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/7b0e00f3166655274ef566ddc042d0257a781182"
+    },
+    {
+      "author": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "committer": {
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
+      },
+      "distinct": true,
+      "id": "ea356c5b2857036b4c9c91169c35905670b0501f",
       "message": "Update Template @ 2c25388",
       "timestamp": "2021-10-24T04:52:22Z",
       "tree_id": "381002abbacaea8f3b7e914a375cf0837849d08d",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/dce5782b45b3adcaaef7de9876b6a5e9c1b521dd"
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/ea356c5b2857036b4c9c91169c35905670b0501f"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/compare/c7622dd5660c...dce5782b45b3",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/compare/dce5782b45b3...ea356c5b2857",
   "created": false,
   "deleted": false,
-  "forced": false,
+  "forced": true,
   "head_commit": {
     "author": {
       "email": "41898282+github-actions[bot]@users.noreply.github.com",
@@ -38,11 +380,11 @@
       "username": "github-actions[bot]"
     },
     "distinct": true,
-    "id": "dce5782b45b3adcaaef7de9876b6a5e9c1b521dd",
+    "id": "ea356c5b2857036b4c9c91169c35905670b0501f",
     "message": "Update Template @ 2c25388",
     "timestamp": "2021-10-24T04:52:22Z",
     "tree_id": "381002abbacaea8f3b7e914a375cf0837849d08d",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/dce5782b45b3adcaaef7de9876b6a5e9c1b521dd"
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/ea356c5b2857036b4c9c91169c35905670b0501f"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -59,8 +401,8 @@
     "url": "https://api.github.com/orgs/horoscope-dev"
   },
   "pusher": {
-    "email": "spica@starry.blue",
-    "name": "SlashNephy"
+    "email": "admin@suzutan.jp",
+    "name": "suzutan"
   },
   "ref": "refs/heads/master",
   "repository": {
@@ -151,9 +493,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.PowerUtils/pulls{/number}",
-    "pushed_at": 1635051144,
+    "pushed_at": 1647956344,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.PowerUtils/releases{/id}",
-    "size": 49,
+    "size": 50,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.PowerUtils.git",
     "stargazers": 0,
     "stargazers_count": 0,
@@ -166,30 +508,30 @@
     "teams_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.PowerUtils/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.PowerUtils/git/trees{/sha}",
-    "updated_at": "2021-10-24T04:36:38Z",
+    "updated_at": "2021-10-24T04:52:27Z",
     "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils",
     "visibility": "public",
     "watchers": 0,
     "watchers_count": 0
   },
   "sender": {
-    "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
-    "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
-    "followers_url": "https://api.github.com/users/SlashNephy/followers",
-    "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
-    "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+    "avatar_url": "https://avatars.githubusercontent.com/u/6679870?v=4",
+    "events_url": "https://api.github.com/users/suzutan/events{/privacy}",
+    "followers_url": "https://api.github.com/users/suzutan/followers",
+    "following_url": "https://api.github.com/users/suzutan/following{/other_user}",
+    "gists_url": "https://api.github.com/users/suzutan/gists{/gist_id}",
     "gravatar_id": "",
-    "html_url": "https://github.com/SlashNephy",
-    "id": 7302150,
-    "login": "SlashNephy",
-    "node_id": "MDQ6VXNlcjczMDIxNTA=",
-    "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
-    "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
-    "repos_url": "https://api.github.com/users/SlashNephy/repos",
+    "html_url": "https://github.com/suzutan",
+    "id": 6679870,
+    "login": "suzutan",
+    "node_id": "MDQ6VXNlcjY2Nzk4NzA=",
+    "organizations_url": "https://api.github.com/users/suzutan/orgs",
+    "received_events_url": "https://api.github.com/users/suzutan/received_events",
+    "repos_url": "https://api.github.com/users/suzutan/repos",
     "site_admin": false,
-    "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+    "starred_url": "https://api.github.com/users/suzutan/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/suzutan/subscriptions",
     "type": "User",
-    "url": "https://api.github.com/users/SlashNephy"
+    "url": "https://api.github.com/users/suzutan"
   }
 }
