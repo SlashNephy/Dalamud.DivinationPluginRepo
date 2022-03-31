@@ -29,7 +29,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.41",
+    "AssemblyVersion": "0.1.0.42",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -44,7 +44,7 @@
     "Changelog": "dabbe6d: feat: Support Dalamud API 5\n90ee97a: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.Calculator\nd1278a2: Update workflow",
     "DalamudApiLevel": 5,
     "Description": "Simple plugin to just add /calc command.",
-    "DownloadCount": 5,
+    "DownloadCount": 8,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.Calculator",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Calculator",
     "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -52,7 +52,7 @@
     "InternalName": "Divination.Calculator",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1648704216,
+    "LastUpdated": 1648704699,
     "LoadPriority": 0,
     "Name": "Divination.Calculator",
     "Punchline": "/calc 33 - 4",
@@ -60,7 +60,7 @@
     "Tags": [
       "utility"
     ],
-    "TestingAssemblyVersion": "0.1.0.41"
+    "TestingAssemblyVersion": "0.1.0.42"
   },
   {
     "ApplicableVersion": "any",
@@ -79,7 +79,7 @@
     "Changelog": "bae282b: delete: /cc command\n\nbecause native console is no longer used\nd20ae01: feat: readable columns\nfeaa556: feat: Support Dalamud API 5\nd7968ae: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.Debugger\n9859748: Control window should open at startup",
     "DalamudApiLevel": 5,
     "Description": "Tiny tool to inspect game...",
-    "DownloadCount": 28,
+    "DownloadCount": 29,
     "DownloadLinkInstall": "https://dl.horoscope.dev/stable/Divination.Debugger",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Debugger",
     "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -87,7 +87,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1648704344,
+    "LastUpdated": 1648704818,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -115,7 +115,7 @@
     "Changelog": "7a84d1e: feat: Support Patch 6.0x\n189acf0: Logging on receiving payloads\n7e2ebc3: Export constants\nf1007d2: Re-support IPC features\n3b1c6fc: Fix Verbose logging\n6718b89: Fix Title offset invalid",
     "DalamudApiLevel": 5,
     "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
-    "DownloadCount": 15,
+    "DownloadCount": 16,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.DiscordIntegration",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.DiscordIntegration",
     "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -147,7 +147,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1648704344,
+    "LastUpdated": 1648704818,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
@@ -240,7 +240,7 @@
     "Changelog": "08b6aaf: feat: Support Dalamud API 6\n118accc: Update workflow",
     "DalamudApiLevel": 5,
     "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).",
-    "DownloadCount": 10,
+    "DownloadCount": 11,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.Voiceroid2Talker",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Voiceroid2Talker",
     "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
