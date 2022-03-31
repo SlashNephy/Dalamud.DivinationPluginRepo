@@ -1,7 +1,7 @@
 {
-  "after": "f26363227b1a67a46fd77df3ac1c8340bfc3a554",
+  "after": "feaa556861ea3a0315047b319d6b59a5401455c3",
   "base_ref": null,
-  "before": "ffc949dca0f47bcb721dbaf404d058659d46fa2e",
+  "before": "f26363227b1a67a46fd77df3ac1c8340bfc3a554",
   "commits": [
     {
       "author": {
@@ -15,17 +15,17 @@
         "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "f26363227b1a67a46fd77df3ac1c8340bfc3a554",
+      "id": "feaa556861ea3a0315047b319d6b59a5401455c3",
       "message": "feat: Support Dalamud API 5",
-      "timestamp": "2022-03-31T13:10:24+09:00",
-      "tree_id": "917f2252123b766bec6d0a5532bcce6a6b8a8814",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/f26363227b1a67a46fd77df3ac1c8340bfc3a554"
+      "timestamp": "2022-03-31T13:37:35+09:00",
+      "tree_id": "8fcbe867e96e3deec5318628dd5465936dc4badb",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/feaa556861ea3a0315047b319d6b59a5401455c3"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/compare/ffc949dca0f4...f26363227b1a",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/compare/f26363227b1a...feaa556861ea",
   "created": false,
   "deleted": false,
-  "forced": false,
+  "forced": true,
   "head_commit": {
     "author": {
       "email": "spica@starry.blue",
@@ -38,11 +38,11 @@
       "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "f26363227b1a67a46fd77df3ac1c8340bfc3a554",
+    "id": "feaa556861ea3a0315047b319d6b59a5401455c3",
     "message": "feat: Support Dalamud API 5",
-    "timestamp": "2022-03-31T13:10:24+09:00",
-    "tree_id": "917f2252123b766bec6d0a5532bcce6a6b8a8814",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/f26363227b1a67a46fd77df3ac1c8340bfc3a554"
+    "timestamp": "2022-03-31T13:37:35+09:00",
+    "tree_id": "8fcbe867e96e3deec5318628dd5465936dc4badb",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/feaa556861ea3a0315047b319d6b59a5401455c3"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -151,7 +151,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Debugger/pulls{/number}",
-    "pushed_at": 1648699829,
+    "pushed_at": 1648701460,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Debugger/releases{/id}",
     "size": 42,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.Debugger.git",
