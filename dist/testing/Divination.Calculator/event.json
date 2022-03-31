@@ -1,7 +1,7 @@
 {
-  "after": "e18ec643d09f4991770e0d8b46e4c846b7931747",
+  "after": "455cdd8796260f8d65f309be2e3b8ff8eef4fe4d",
   "base_ref": null,
-  "before": "dabbe6da9a7cbdf5e875eca3a904f70b9e37d0a7",
+  "before": "e18ec643d09f4991770e0d8b46e4c846b7931747",
   "commits": [
     {
       "author": {
@@ -15,14 +15,14 @@
         "username": "github-actions[bot]"
       },
       "distinct": true,
-      "id": "e18ec643d09f4991770e0d8b46e4c846b7931747",
-      "message": "Update Common to 2f111a4",
-      "timestamp": "2022-03-31T05:23:36Z",
-      "tree_id": "f4c39fe0fdec17e848da7996d98957117ca8d059",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/e18ec643d09f4991770e0d8b46e4c846b7931747"
+      "id": "455cdd8796260f8d65f309be2e3b8ff8eef4fe4d",
+      "message": "Update Common to b3b0bfa",
+      "timestamp": "2022-03-31T05:31:39Z",
+      "tree_id": "ec00d69a2a81b42698ebf6ba7a7b7bb321ceca86",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/455cdd8796260f8d65f309be2e3b8ff8eef4fe4d"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/compare/dabbe6da9a7c...e18ec643d09f",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/compare/e18ec643d09f...455cdd879626",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -38,11 +38,11 @@
       "username": "github-actions[bot]"
     },
     "distinct": true,
-    "id": "e18ec643d09f4991770e0d8b46e4c846b7931747",
-    "message": "Update Common to 2f111a4",
-    "timestamp": "2022-03-31T05:23:36Z",
-    "tree_id": "f4c39fe0fdec17e848da7996d98957117ca8d059",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/e18ec643d09f4991770e0d8b46e4c846b7931747"
+    "id": "455cdd8796260f8d65f309be2e3b8ff8eef4fe4d",
+    "message": "Update Common to b3b0bfa",
+    "timestamp": "2022-03-31T05:31:39Z",
+    "tree_id": "ec00d69a2a81b42698ebf6ba7a7b7bb321ceca86",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/455cdd8796260f8d65f309be2e3b8ff8eef4fe4d"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -151,7 +151,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/pulls{/number}",
-    "pushed_at": 1648704217,
+    "pushed_at": 1648704699,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/releases{/id}",
     "size": 31,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.Calculator.git",

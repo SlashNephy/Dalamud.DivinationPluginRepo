@@ -2,7 +2,7 @@
   "Author": "Asteria Nocturna",
   "Name": "Divination.Calculator",
   "InternalName": "Divination.Calculator",
-  "AssemblyVersion": "0.1.0.41",
+  "AssemblyVersion": "0.1.0.42",
   "Description": "Simple plugin to just add /calc command.",
   "ApplicableVersion": "any",
   "Tags": [
