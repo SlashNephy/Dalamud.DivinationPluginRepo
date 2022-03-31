@@ -44,7 +44,7 @@
     "Changelog": "dabbe6d: feat: Support Dalamud API 5\n90ee97a: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.Calculator\nd1278a2: Update workflow",
     "DalamudApiLevel": 5,
     "Description": "Simple plugin to just add /calc command.",
-    "DownloadCount": 8,
+    "DownloadCount": 9,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.Calculator",
     "DownloadLinkTesting": "https://dl.horoscope.dev/testing/Divination.Calculator",
     "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
@@ -87,7 +87,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1648704818,
+    "LastUpdated": 1648704846,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -147,7 +147,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1648704818,
+    "LastUpdated": 1648704846,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
@@ -155,7 +155,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.45",
+    "AssemblyVersion": "0.1.0.47",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -178,7 +178,7 @@
     "InternalName": "Divination.PowerUtils",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1648703049,
+    "LastUpdated": 1648704704,
     "LoadPriority": 0,
     "Name": "Divination.PowerUtils",
     "Punchline": "Save Energy!",
@@ -186,7 +186,7 @@
     "Tags": [
       "Command"
     ],
-    "TestingAssemblyVersion": "0.1.0.45"
+    "TestingAssemblyVersion": "0.1.0.47"
   },
   {
     "ApplicableVersion": "any",
@@ -225,7 +225,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.41",
+    "AssemblyVersion": "0.1.0.42",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -248,7 +248,7 @@
     "InternalName": "Divination.Voiceroid2Talker",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1648704219,
+    "LastUpdated": 1648704701,
     "LoadPriority": 0,
     "Name": "Divination.Voiceroid2Talker",
     "Punchline": "Text-to-Speech for Voiceroid2",
@@ -257,6 +257,6 @@
       "Text-to-speech",
       "Voiceroid"
     ],
-    "TestingAssemblyVersion": "0.1.0.41"
+    "TestingAssemblyVersion": "0.1.0.42"
   }
 ]
