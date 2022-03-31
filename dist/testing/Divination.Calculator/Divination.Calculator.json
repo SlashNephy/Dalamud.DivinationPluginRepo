@@ -2,7 +2,7 @@
   "Author": "Asteria Nocturna",
   "Name": "Divination.Calculator",
   "InternalName": "Divination.Calculator",
-  "AssemblyVersion": "0.1.0.39",
+  "AssemblyVersion": "0.1.0.40",
   "Description": "Simple plugin to just add /calc command.",
   "ApplicableVersion": "any",
   "Tags": [
@@ -18,7 +18,7 @@
     "social",
     "utility"
   ],
-  "DalamudApiLevel": 4,
+  "DalamudApiLevel": 5,
   "LoadPriority": 0,
   "ImageUrls": [],
   "Punchline": "/calc 33 - 4"
