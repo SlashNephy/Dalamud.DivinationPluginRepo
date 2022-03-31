@@ -1,48 +1,48 @@
 {
-  "after": "e729d3e58d5ab15dfd92a001b58f59e9ceef614c",
+  "after": "08b6aafaf55c9f25e94bbcf0030d3f0ac642de2a",
   "base_ref": null,
-  "before": "74f8ad9ab463ad78ce2266f7ac52e48a261c5d72",
+  "before": "e729d3e58d5ab15dfd92a001b58f59e9ceef614c",
   "commits": [
     {
       "author": {
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "name": "github-actions",
-        "username": "github-actions[bot]"
+        "email": "spica@starry.blue",
+        "name": "Nep",
+        "username": "SlashNephy"
       },
       "committer": {
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "name": "github-actions",
-        "username": "github-actions[bot]"
+        "email": "spica@starry.blue",
+        "name": "Nep",
+        "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "e729d3e58d5ab15dfd92a001b58f59e9ceef614c",
-      "message": "Update Template @ 2c25388",
-      "timestamp": "2021-10-24T04:52:37Z",
-      "tree_id": "a8054a77bfda25a8bad3b439462b9b253cf25c4f",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commit/e729d3e58d5ab15dfd92a001b58f59e9ceef614c"
+      "id": "08b6aafaf55c9f25e94bbcf0030d3f0ac642de2a",
+      "message": "feat: Support Dalamud API 6",
+      "timestamp": "2022-03-31T13:59:59+09:00",
+      "tree_id": "7f65266787abf15893fcb78a1c7334e6a638095b",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commit/08b6aafaf55c9f25e94bbcf0030d3f0ac642de2a"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/compare/74f8ad9ab463...e729d3e58d5a",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/compare/e729d3e58d5a...08b6aafaf55c",
   "created": false,
   "deleted": false,
   "forced": false,
   "head_commit": {
     "author": {
-      "email": "41898282+github-actions[bot]@users.noreply.github.com",
-      "name": "github-actions",
-      "username": "github-actions[bot]"
+      "email": "spica@starry.blue",
+      "name": "Nep",
+      "username": "SlashNephy"
     },
     "committer": {
-      "email": "41898282+github-actions[bot]@users.noreply.github.com",
-      "name": "github-actions",
-      "username": "github-actions[bot]"
+      "email": "spica@starry.blue",
+      "name": "Nep",
+      "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "e729d3e58d5ab15dfd92a001b58f59e9ceef614c",
-    "message": "Update Template @ 2c25388",
-    "timestamp": "2021-10-24T04:52:37Z",
-    "tree_id": "a8054a77bfda25a8bad3b439462b9b253cf25c4f",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commit/e729d3e58d5ab15dfd92a001b58f59e9ceef614c"
+    "id": "08b6aafaf55c9f25e94bbcf0030d3f0ac642de2a",
+    "message": "feat: Support Dalamud API 6",
+    "timestamp": "2022-03-31T13:59:59+09:00",
+    "tree_id": "7f65266787abf15893fcb78a1c7334e6a638095b",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commit/08b6aafaf55c9f25e94bbcf0030d3f0ac642de2a"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -123,7 +123,7 @@
     "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
-      "email": "contact@horoscope.dev",
+      "email": null,
       "events_url": "https://api.github.com/users/horoscope-dev/events{/privacy}",
       "followers_url": "https://api.github.com/users/horoscope-dev/followers",
       "following_url": "https://api.github.com/users/horoscope-dev/following{/other_user}",
@@ -145,9 +145,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/pulls{/number}",
-    "pushed_at": 1635051159,
+    "pushed_at": 1648702804,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/releases{/id}",
-    "size": 37,
+    "size": 39,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.Voiceroid2Talker.git",
     "stargazers": 0,
     "stargazers_count": 0,
@@ -165,7 +165,7 @@
       "voiceroid"
     ],
     "trees_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/git/trees{/sha}",
-    "updated_at": "2021-10-24T04:36:52Z",
+    "updated_at": "2021-10-24T04:52:41Z",
     "url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker",
     "visibility": "public",
     "watchers": 0,
