@@ -76,8 +76,8 @@
       "social",
       "utility"
     ],
-    "Changelog": "d7968ae: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.Debugger\n9859748: Control window should open at startup\na1b0bce: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.Debugger\n8692b41: Update workflow",
-    "DalamudApiLevel": 4,
+    "Changelog": "f263632: feat: Support Dalamud API 5\nd7968ae: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.Debugger\n9859748: Control window should open at startup\na1b0bce: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.Debugger\n8692b41: Update workflow",
+    "DalamudApiLevel": 5,
     "Description": "Tiny tool to inspect game...",
     "DownloadCount": 23,
     "DownloadLinkInstall": "https://dl.horoscope.dev/stable/Divination.Debugger",
@@ -87,7 +87,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1648696513,
+    "LastUpdated": 1648699990,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -96,7 +96,7 @@
       "Development",
       "Debug"
     ],
-    "TestingAssemblyVersion": "0.1.0.42"
+    "TestingAssemblyVersion": "0.1.0.43"
   },
   {
     "ApplicableVersion": "any",
@@ -147,7 +147,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1648696513,
+    "LastUpdated": 1648699990,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
