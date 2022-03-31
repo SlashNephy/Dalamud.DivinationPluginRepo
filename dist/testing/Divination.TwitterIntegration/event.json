@@ -1,48 +1,48 @@
 {
-  "after": "412da0301e7d65deb975f51297e24371e5b4daef",
+  "after": "39f73bc6c8e77e03521a145bfcb6583629023aef",
   "base_ref": null,
-  "before": "1836a419dd8e499af6706bdef5b7d79f412db629",
+  "before": "a636d57224c13339b694b8de4f660ee71dd58845",
   "commits": [
     {
       "author": {
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "name": "github-actions",
-        "username": "github-actions[bot]"
+        "email": "spica@starry.blue",
+        "name": "Nep",
+        "username": "SlashNephy"
       },
       "committer": {
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "name": "github-actions",
-        "username": "github-actions[bot]"
+        "email": "spica@starry.blue",
+        "name": "Nep",
+        "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "412da0301e7d65deb975f51297e24371e5b4daef",
-      "message": "Update Template @ 5c3f8c8",
-      "timestamp": "2021-10-24T04:36:10Z",
-      "tree_id": "6e5e9ca5eececc4f0cc8aa2b41322c4265482d84",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/412da0301e7d65deb975f51297e24371e5b4daef"
+      "id": "39f73bc6c8e77e03521a145bfcb6583629023aef",
+      "message": "feat: Support Dalamud API 5",
+      "timestamp": "2022-03-31T14:02:00+09:00",
+      "tree_id": "01a01c2825e30600c4d8747539dc6f58e4dc662a",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/39f73bc6c8e77e03521a145bfcb6583629023aef"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/compare/1836a419dd8e...412da0301e7d",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/compare/a636d57224c1...39f73bc6c8e7",
   "created": false,
   "deleted": false,
   "forced": false,
   "head_commit": {
     "author": {
-      "email": "41898282+github-actions[bot]@users.noreply.github.com",
-      "name": "github-actions",
-      "username": "github-actions[bot]"
+      "email": "spica@starry.blue",
+      "name": "Nep",
+      "username": "SlashNephy"
     },
     "committer": {
-      "email": "41898282+github-actions[bot]@users.noreply.github.com",
-      "name": "github-actions",
-      "username": "github-actions[bot]"
+      "email": "spica@starry.blue",
+      "name": "Nep",
+      "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "412da0301e7d65deb975f51297e24371e5b4daef",
-    "message": "Update Template @ 5c3f8c8",
-    "timestamp": "2021-10-24T04:36:10Z",
-    "tree_id": "6e5e9ca5eececc4f0cc8aa2b41322c4265482d84",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/412da0301e7d65deb975f51297e24371e5b4daef"
+    "id": "39f73bc6c8e77e03521a145bfcb6583629023aef",
+    "message": "feat: Support Dalamud API 5",
+    "timestamp": "2022-03-31T14:02:00+09:00",
+    "tree_id": "01a01c2825e30600c4d8747539dc6f58e4dc662a",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/39f73bc6c8e77e03521a145bfcb6583629023aef"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -129,7 +129,7 @@
     "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
-      "email": "contact@horoscope.dev",
+      "email": null,
       "events_url": "https://api.github.com/users/horoscope-dev/events{/privacy}",
       "followers_url": "https://api.github.com/users/horoscope-dev/followers",
       "following_url": "https://api.github.com/users/horoscope-dev/following{/other_user}",
@@ -151,9 +151,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/pulls{/number}",
-    "pushed_at": 1635050172,
+    "pushed_at": 1648702924,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/releases{/id}",
-    "size": 35,
+    "size": 37,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.TwitterIntegration.git",
     "stargazers": 1,
     "stargazers_count": 1,
@@ -170,7 +170,7 @@
       "twitter"
     ],
     "trees_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees{/sha}",
-    "updated_at": "2021-10-22T06:17:29Z",
+    "updated_at": "2021-10-24T04:52:04Z",
     "url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration",
     "visibility": "public",
     "watchers": 1,
