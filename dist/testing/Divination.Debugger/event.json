@@ -1,7 +1,7 @@
 {
-  "after": "3a68e914620def58c00771216a5fb9e3b4d0016a",
+  "after": "13ee3a62cd31fa019e0dabe0b3131c31bbf7565e",
   "base_ref": null,
-  "before": "e3c613dea5f1deabe1449a02163621f6657f4b8e",
+  "before": "3a68e914620def58c00771216a5fb9e3b4d0016a",
   "commits": [
     {
       "author": {
@@ -15,32 +15,14 @@
         "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "221391179b6786add4164268c0f47a3d630d51f7",
-      "message": "fix: index is no longer skipped",
-      "timestamp": "2022-04-03T18:17:27+09:00",
-      "tree_id": "09be720c5d90a01bd26e7012d73cda45a3bc4dd8",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/221391179b6786add4164268c0f47a3d630d51f7"
-    },
-    {
-      "author": {
-        "email": "spica@starry.blue",
-        "name": "Nep",
-        "username": "SlashNephy"
-      },
-      "committer": {
-        "email": "spica@starry.blue",
-        "name": "Nep",
-        "username": "SlashNephy"
-      },
-      "distinct": true,
-      "id": "3a68e914620def58c00771216a5fb9e3b4d0016a",
-      "message": "feat: add Clear button",
-      "timestamp": "2022-04-03T18:17:37+09:00",
-      "tree_id": "8fd534236e7056e0663f2b6e911bbe41668b76ea",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/3a68e914620def58c00771216a5fb9e3b4d0016a"
+      "id": "13ee3a62cd31fa019e0dabe0b3131c31bbf7565e",
+      "message": "fix: network value filtering",
+      "timestamp": "2022-04-03T18:25:19+09:00",
+      "tree_id": "b0a034deb2b25bbe3dd4e9b1bdfaaa41c405ce70",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/13ee3a62cd31fa019e0dabe0b3131c31bbf7565e"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/compare/e3c613dea5f1...3a68e914620d",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/compare/3a68e914620d...13ee3a62cd31",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -56,11 +38,11 @@
       "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "3a68e914620def58c00771216a5fb9e3b4d0016a",
-    "message": "feat: add Clear button",
-    "timestamp": "2022-04-03T18:17:37+09:00",
-    "tree_id": "8fd534236e7056e0663f2b6e911bbe41668b76ea",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/3a68e914620def58c00771216a5fb9e3b4d0016a"
+    "id": "13ee3a62cd31fa019e0dabe0b3131c31bbf7565e",
+    "message": "fix: network value filtering",
+    "timestamp": "2022-04-03T18:25:19+09:00",
+    "tree_id": "b0a034deb2b25bbe3dd4e9b1bdfaaa41c405ce70",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/13ee3a62cd31fa019e0dabe0b3131c31bbf7565e"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -169,7 +151,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Debugger/pulls{/number}",
-    "pushed_at": 1648977461,
+    "pushed_at": 1648977924,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Debugger/releases{/id}",
     "size": 63,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.Debugger.git",
