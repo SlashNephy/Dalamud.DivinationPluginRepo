@@ -29,7 +29,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.42",
+    "AssemblyVersion": "0.1.0.44",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -41,7 +41,7 @@
       "social",
       "utility"
     ],
-    "Changelog": "dabbe6d: feat: Support Dalamud API 5\n90ee97a: Merge branch 'master' of https://github.com/SlashNephy/Dalamud.Divination.Calculator\nd1278a2: Update workflow",
+    "Changelog": "dabbe6d: feat: Support Dalamud API 5",
     "DalamudApiLevel": 5,
     "Description": "Simple plugin to just add /calc command.",
     "DownloadCount": 12,
@@ -52,7 +52,7 @@
     "InternalName": "Divination.Calculator",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1648704699,
+    "LastUpdated": 1648971366,
     "LoadPriority": 0,
     "Name": "Divination.Calculator",
     "Punchline": "/calc 33 - 4",
@@ -60,7 +60,7 @@
     "Tags": [
       "utility"
     ],
-    "TestingAssemblyVersion": "0.1.0.42"
+    "TestingAssemblyVersion": "0.1.0.44"
   },
   {
     "ApplicableVersion": "any",
@@ -87,7 +87,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1648971443,
+    "LastUpdated": 1648971475,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -147,7 +147,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1648971443,
+    "LastUpdated": 1648971475,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
@@ -155,7 +155,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.47",
+    "AssemblyVersion": "0.1.0.49",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -167,7 +167,7 @@
       "social",
       "utility"
     ],
-    "Changelog": "7245a13: feat: Support Dalamud API 5\nb2ad1e6: Update build.yml\n9a10147: Update build.yml\ncbc810c: Update build.yml\n9aca661: Update build.yml\n0d7aea6: Update build.yml\nf5b1206: Update build.yml\n5c2e270: Revert to conventional commands\n062e5a6: fix poweroff args",
+    "Changelog": "7245a13: feat: Support Dalamud API 5\nb2ad1e6: Update build.yml\n9a10147: Update build.yml\ncbc810c: Update build.yml\n9aca661: Update build.yml\n0d7aea6: Update build.yml\nf5b1206: Update build.yml\n5c2e270: Revert to conventional commands",
     "DalamudApiLevel": 5,
     "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management",
     "DownloadCount": 12,
@@ -178,7 +178,7 @@
     "InternalName": "Divination.PowerUtils",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1648704704,
+    "LastUpdated": 1648971359,
     "LoadPriority": 0,
     "Name": "Divination.PowerUtils",
     "Punchline": "Save Energy!",
@@ -186,11 +186,11 @@
     "Tags": [
       "Command"
     ],
-    "TestingAssemblyVersion": "0.1.0.47"
+    "TestingAssemblyVersion": "0.1.0.49"
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.42",
+    "AssemblyVersion": "0.1.0.46",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -202,7 +202,7 @@
       "social",
       "utility"
     ],
-    "Changelog": "39f73bc: feat: Support Dalamud API 5\n6974726: Update workflow\n9a95360: Update Common to cd683d4169d8869d272bb0c442c81d5b0021c5ba",
+    "Changelog": "39f73bc: feat: Support Dalamud API 5",
     "DalamudApiLevel": 5,
     "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat",
     "DownloadCount": 11,
@@ -213,7 +213,7 @@
     "InternalName": "Divination.TwitterIntegration",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1648702920,
+    "LastUpdated": 1648971337,
     "LoadPriority": 0,
     "Name": "Divination.TwitterIntegration",
     "Punchline": "Tweet in FFXIV chat.",
@@ -221,11 +221,11 @@
     "Tags": [
       "Twitter"
     ],
-    "TestingAssemblyVersion": "0.1.0.42"
+    "TestingAssemblyVersion": "0.1.0.46"
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.42",
+    "AssemblyVersion": "0.1.0.44",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -237,7 +237,7 @@
       "social",
       "utility"
     ],
-    "Changelog": "08b6aaf: feat: Support Dalamud API 6\n118accc: Update workflow",
+    "Changelog": "08b6aaf: feat: Support Dalamud API 6",
     "DalamudApiLevel": 5,
     "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).",
     "DownloadCount": 16,
@@ -248,7 +248,7 @@
     "InternalName": "Divination.Voiceroid2Talker",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1648704701,
+    "LastUpdated": 1648971373,
     "LoadPriority": 0,
     "Name": "Divination.Voiceroid2Talker",
     "Punchline": "Text-to-Speech for Voiceroid2",
@@ -257,6 +257,6 @@
       "Text-to-speech",
       "Voiceroid"
     ],
-    "TestingAssemblyVersion": "0.1.0.42"
+    "TestingAssemblyVersion": "0.1.0.44"
   }
 ]
