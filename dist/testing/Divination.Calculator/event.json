@@ -1,7 +1,7 @@
 {
-  "after": "455cdd8796260f8d65f309be2e3b8ff8eef4fe4d",
+  "after": "92723dec7f53c217b1df1201829d19d4e52422d7",
   "base_ref": null,
-  "before": "e18ec643d09f4991770e0d8b46e4c846b7931747",
+  "before": "753701e8678a3990b03137530e8ffe41206b7340",
   "commits": [
     {
       "author": {
@@ -15,14 +15,14 @@
         "username": "github-actions[bot]"
       },
       "distinct": true,
-      "id": "455cdd8796260f8d65f309be2e3b8ff8eef4fe4d",
-      "message": "Update Common to b3b0bfa",
-      "timestamp": "2022-03-31T05:31:39Z",
-      "tree_id": "ec00d69a2a81b42698ebf6ba7a7b7bb321ceca86",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/455cdd8796260f8d65f309be2e3b8ff8eef4fe4d"
+      "id": "92723dec7f53c217b1df1201829d19d4e52422d7",
+      "message": "Update Template @ 8025025",
+      "timestamp": "2022-04-03T16:36:06+09:00",
+      "tree_id": "966966bc9501a77b1687b992f36f6b2ea48cbada",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/92723dec7f53c217b1df1201829d19d4e52422d7"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/compare/e18ec643d09f...455cdd879626",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/compare/753701e8678a...92723dec7f53",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -38,11 +38,11 @@
       "username": "github-actions[bot]"
     },
     "distinct": true,
-    "id": "455cdd8796260f8d65f309be2e3b8ff8eef4fe4d",
-    "message": "Update Common to b3b0bfa",
-    "timestamp": "2022-03-31T05:31:39Z",
-    "tree_id": "ec00d69a2a81b42698ebf6ba7a7b7bb321ceca86",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/455cdd8796260f8d65f309be2e3b8ff8eef4fe4d"
+    "id": "92723dec7f53c217b1df1201829d19d4e52422d7",
+    "message": "Update Template @ 8025025",
+    "timestamp": "2022-04-03T16:36:06+09:00",
+    "tree_id": "966966bc9501a77b1687b992f36f6b2ea48cbada",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/92723dec7f53c217b1df1201829d19d4e52422d7"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -59,8 +59,8 @@
     "url": "https://api.github.com/orgs/horoscope-dev"
   },
   "pusher": {
-    "email": "74955427+ap-horoscope@users.noreply.github.com",
-    "name": "ap-horoscope"
+    "email": "spica@starry.blue",
+    "name": "SlashNephy"
   },
   "ref": "refs/heads/master",
   "repository": {
@@ -151,9 +151,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/pulls{/number}",
-    "pushed_at": 1648704699,
+    "pushed_at": 1648971367,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/releases{/id}",
-    "size": 31,
+    "size": 33,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.Calculator.git",
     "stargazers": 0,
     "stargazers_count": 0,
@@ -173,23 +173,23 @@
     "watchers_count": 0
   },
   "sender": {
-    "avatar_url": "https://avatars.githubusercontent.com/u/74955427?v=4",
-    "events_url": "https://api.github.com/users/ap-horoscope/events{/privacy}",
-    "followers_url": "https://api.github.com/users/ap-horoscope/followers",
-    "following_url": "https://api.github.com/users/ap-horoscope/following{/other_user}",
-    "gists_url": "https://api.github.com/users/ap-horoscope/gists{/gist_id}",
+    "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+    "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+    "followers_url": "https://api.github.com/users/SlashNephy/followers",
+    "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+    "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
     "gravatar_id": "",
-    "html_url": "https://github.com/ap-horoscope",
-    "id": 74955427,
-    "login": "ap-horoscope",
-    "node_id": "MDQ6VXNlcjc0OTU1NDI3",
-    "organizations_url": "https://api.github.com/users/ap-horoscope/orgs",
-    "received_events_url": "https://api.github.com/users/ap-horoscope/received_events",
-    "repos_url": "https://api.github.com/users/ap-horoscope/repos",
+    "html_url": "https://github.com/SlashNephy",
+    "id": 7302150,
+    "login": "SlashNephy",
+    "node_id": "MDQ6VXNlcjczMDIxNTA=",
+    "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+    "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+    "repos_url": "https://api.github.com/users/SlashNephy/repos",
     "site_admin": false,
-    "starred_url": "https://api.github.com/users/ap-horoscope/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/ap-horoscope/subscriptions",
+    "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
     "type": "User",
-    "url": "https://api.github.com/users/ap-horoscope"
+    "url": "https://api.github.com/users/SlashNephy"
   }
 }
