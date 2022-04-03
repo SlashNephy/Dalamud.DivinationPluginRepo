@@ -2,7 +2,7 @@
   "Author": "Horoscope developers",
   "Name": "Divination.AetheryteLinkInChat",
   "InternalName": "Divination.AetheryteLinkInChat",
-  "AssemblyVersion": "0.1.0.44",
+  "AssemblyVersion": "0.1.0.45",
   "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!",
   "ApplicableVersion": "any",
   "Tags": [
