@@ -1,7 +1,7 @@
 {
-  "after": "0b3ca6c87bbb2b51c97b5c103c79033fffd4900c",
+  "after": "97079b12f698ab4154406d8e690bc0bbb7cadf0e",
   "base_ref": null,
-  "before": "c451ef408b37a6b82ba9393b98edae37dd67d9ac",
+  "before": "0b3ca6c87bbb2b51c97b5c103c79033fffd4900c",
   "commits": [
     {
       "author": {
@@ -15,14 +15,32 @@
         "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "0b3ca6c87bbb2b51c97b5c103c79033fffd4900c",
-      "message": "fix: Enum.GetName receives non-enum accidentally",
-      "timestamp": "2022-04-03T17:07:29+09:00",
-      "tree_id": "88e97fc02dedbe1c4a904445f0e4e4fadf3434d2",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/0b3ca6c87bbb2b51c97b5c103c79033fffd4900c"
+      "id": "4e31c817a7e1ad84be798975ecae6e9ac4d44a68",
+      "message": "fix: priority between LocalPlayer and Target",
+      "timestamp": "2022-04-03T17:13:07+09:00",
+      "tree_id": "e0360f892351ce24f861b71956a22ae251824703",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/4e31c817a7e1ad84be798975ecae6e9ac4d44a68"
+    },
+    {
+      "author": {
+        "email": "spica@starry.blue",
+        "name": "Nep",
+        "username": "SlashNephy"
+      },
+      "committer": {
+        "email": "spica@starry.blue",
+        "name": "Nep",
+        "username": "SlashNephy"
+      },
+      "distinct": true,
+      "id": "97079b12f698ab4154406d8e690bc0bbb7cadf0e",
+      "message": "feat: show Opcode",
+      "timestamp": "2022-04-03T17:25:40+09:00",
+      "tree_id": "c0e42eeade70bbc40a045476f016324558c0a614",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/97079b12f698ab4154406d8e690bc0bbb7cadf0e"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/compare/c451ef408b37...0b3ca6c87bbb",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/compare/0b3ca6c87bbb...97079b12f698",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -38,11 +56,11 @@
       "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "0b3ca6c87bbb2b51c97b5c103c79033fffd4900c",
-    "message": "fix: Enum.GetName receives non-enum accidentally",
-    "timestamp": "2022-04-03T17:07:29+09:00",
-    "tree_id": "88e97fc02dedbe1c4a904445f0e4e4fadf3434d2",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/0b3ca6c87bbb2b51c97b5c103c79033fffd4900c"
+    "id": "97079b12f698ab4154406d8e690bc0bbb7cadf0e",
+    "message": "feat: show Opcode",
+    "timestamp": "2022-04-03T17:25:40+09:00",
+    "tree_id": "c0e42eeade70bbc40a045476f016324558c0a614",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/97079b12f698ab4154406d8e690bc0bbb7cadf0e"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -151,7 +169,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Debugger/pulls{/number}",
-    "pushed_at": 1648973254,
+    "pushed_at": 1648974779,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Debugger/releases{/id}",
     "size": 57,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.Debugger.git",
