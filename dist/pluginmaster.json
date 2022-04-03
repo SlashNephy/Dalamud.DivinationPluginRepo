@@ -87,7 +87,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1648971502,
+    "LastUpdated": 1648971549,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -147,7 +147,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1648971502,
+    "LastUpdated": 1648971549,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
@@ -155,7 +155,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.49",
+    "AssemblyVersion": "0.1.0.50",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "other",
@@ -178,7 +178,7 @@
     "InternalName": "Divination.PowerUtils",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1648971359,
+    "LastUpdated": 1648971398,
     "LoadPriority": 0,
     "Name": "Divination.PowerUtils",
     "Punchline": "Save Energy!",
@@ -186,7 +186,7 @@
     "Tags": [
       "Command"
     ],
-    "TestingAssemblyVersion": "0.1.0.49"
+    "TestingAssemblyVersion": "0.1.0.50"
   },
   {
     "ApplicableVersion": "any",
