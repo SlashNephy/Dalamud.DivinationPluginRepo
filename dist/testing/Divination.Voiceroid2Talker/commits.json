@@ -1,5 +1,84 @@
 [
   {
+    "sha": "9808e0c8a20d7d3c71e421c992a51b528b81dd2e",
+    "node_id": "C_kwDOGAEgydoAKDk4MDhlMGM4YTIwZDdkM2M3MWU0MjFjOTkyYTUxYjUyOGI4MWRkMmU",
+    "commit": {
+      "author": {
+        "name": "Nep",
+        "email": "spica@starry.blue",
+        "date": "2022-04-17T05:37:51Z"
+      },
+      "committer": {
+        "name": "Nep",
+        "email": "spica@starry.blue",
+        "date": "2022-04-17T05:37:51Z"
+      },
+      "message": "feat: Support Patch 6.1",
+      "tree": {
+        "sha": "fbca5fb2e60d8c8d6a9db6b994d1d184e2a36aae",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/git/trees/fbca5fb2e60d8c8d6a9db6b994d1d184e2a36aae"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/git/commits/9808e0c8a20d7d3c71e421c992a51b528b81dd2e",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commits/9808e0c8a20d7d3c71e421c992a51b528b81dd2e",
+    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commit/9808e0c8a20d7d3c71e421c992a51b528b81dd2e",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commits/9808e0c8a20d7d3c71e421c992a51b528b81dd2e/comments",
+    "author": {
+      "login": "SlashNephy",
+      "id": 7302150,
+      "node_id": "MDQ6VXNlcjczMDIxNTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SlashNephy",
+      "html_url": "https://github.com/SlashNephy",
+      "followers_url": "https://api.github.com/users/SlashNephy/followers",
+      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+      "repos_url": "https://api.github.com/users/SlashNephy/repos",
+      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "SlashNephy",
+      "id": 7302150,
+      "node_id": "MDQ6VXNlcjczMDIxNTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SlashNephy",
+      "html_url": "https://github.com/SlashNephy",
+      "followers_url": "https://api.github.com/users/SlashNephy/followers",
+      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+      "repos_url": "https://api.github.com/users/SlashNephy/repos",
+      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a5b352facbd9a23a291f00f88b9845ee405765ad",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commits/a5b352facbd9a23a291f00f88b9845ee405765ad",
+        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commit/a5b352facbd9a23a291f00f88b9845ee405765ad"
+      }
+    ]
+  },
+  {
     "sha": "a5b352facbd9a23a291f00f88b9845ee405765ad",
     "node_id": "C_kwDOGAEgydoAKGE1YjM1MmZhY2JkOWEyM2EyOTFmMDBmODhiOTg0NWVlNDA1NzY1YWQ",
     "commit": {
@@ -2287,85 +2366,6 @@
         "sha": "40cecca0e8b31dbd805cf9c3ca410dc0c5dea5ae",
         "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commits/40cecca0e8b31dbd805cf9c3ca410dc0c5dea5ae",
         "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commit/40cecca0e8b31dbd805cf9c3ca410dc0c5dea5ae"
-      }
-    ]
-  },
-  {
-    "sha": "40cecca0e8b31dbd805cf9c3ca410dc0c5dea5ae",
-    "node_id": "C_kwDOGAEgydoAKDQwY2VjY2EwZThiMzFkYmQ4MDVjZjljM2NhNDEwZGMwYzVkZWE1YWU",
-    "commit": {
-      "author": {
-        "name": "github-actions",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2021-10-18T15:12:28Z"
-      },
-      "committer": {
-        "name": "github-actions",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2021-10-18T15:12:28Z"
-      },
-      "message": "Update Common to 1475a36",
-      "tree": {
-        "sha": "374454467c465ca33e212ff8606b0721cab84079",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/git/trees/374454467c465ca33e212ff8606b0721cab84079"
-      },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/git/commits/40cecca0e8b31dbd805cf9c3ca410dc0c5dea5ae",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
-    },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commits/40cecca0e8b31dbd805cf9c3ca410dc0c5dea5ae",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commit/40cecca0e8b31dbd805cf9c3ca410dc0c5dea5ae",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commits/40cecca0e8b31dbd805cf9c3ca410dc0c5dea5ae/comments",
-    "author": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "5b280b09973855329f09960fe83b62be01704025",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commits/5b280b09973855329f09960fe83b62be01704025",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commit/5b280b09973855329f09960fe83b62be01704025"
       }
     ]
   }
