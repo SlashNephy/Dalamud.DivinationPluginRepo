@@ -80,7 +80,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1650173806,
+    "LastUpdated": 1650173966,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -140,7 +140,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1650173806,
+    "LastUpdated": 1650173966,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
@@ -176,20 +176,13 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.47",
+    "AssemblyVersion": "0.1.0.48",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
-      "other",
-      "jobs",
-      "ui",
-      "minigames",
-      "inventory",
-      "sound",
-      "social",
-      "utility"
+      "social"
     ],
-    "Changelog": "39f73bc: feat: Support Dalamud API 5",
-    "DalamudApiLevel": 5,
+    "Changelog": "e88a5f9: feat: Support Patch 6.1\n39f73bc: feat: Support Dalamud API 5",
+    "DalamudApiLevel": 6,
     "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat",
     "DownloadCount": 29,
     "DownloadLinkInstall": "https://dl.horoscope.dev/testing/Divination.TwitterIntegration",
@@ -199,7 +192,7 @@
     "InternalName": "Divination.TwitterIntegration",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1648971401,
+    "LastUpdated": 1650173821,
     "LoadPriority": 0,
     "Name": "Divination.TwitterIntegration",
     "Punchline": "Tweet in FFXIV chat.",
@@ -207,7 +200,7 @@
     "Tags": [
       "Twitter"
     ],
-    "TestingAssemblyVersion": "0.1.0.47"
+    "TestingAssemblyVersion": "0.1.0.48"
   },
   {
     "ApplicableVersion": "any",
