@@ -1,48 +1,48 @@
 {
-  "after": "62811fb1e29f95395d36a48b6fe8c20e4a364434",
+  "after": "e88a5f9b28ace7d42afe0613dc2278cf0d2631e3",
   "base_ref": null,
-  "before": "88fe5f0d1cd00f5e9ac9b3d78a08c591721a7244",
+  "before": "62811fb1e29f95395d36a48b6fe8c20e4a364434",
   "commits": [
     {
       "author": {
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "name": "github-actions",
-        "username": "github-actions[bot]"
+        "email": "spica@starry.blue",
+        "name": "Nep",
+        "username": "SlashNephy"
       },
       "committer": {
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "name": "github-actions",
-        "username": "github-actions[bot]"
+        "email": "spica@starry.blue",
+        "name": "Nep",
+        "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "62811fb1e29f95395d36a48b6fe8c20e4a364434",
-      "message": "Update Common to 785b244",
-      "timestamp": "2022-04-03T07:36:41Z",
-      "tree_id": "28f3776990c0727d08789fa64ba7e19a1daed190",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/62811fb1e29f95395d36a48b6fe8c20e4a364434"
+      "id": "e88a5f9b28ace7d42afe0613dc2278cf0d2631e3",
+      "message": "feat: Support Patch 6.1",
+      "timestamp": "2022-04-17T14:37:01+09:00",
+      "tree_id": "bbcfea4293a909d65e4366b457cfbb07d837a850",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/e88a5f9b28ace7d42afe0613dc2278cf0d2631e3"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/compare/88fe5f0d1cd0...62811fb1e29f",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/compare/62811fb1e29f...e88a5f9b28ac",
   "created": false,
   "deleted": false,
   "forced": false,
   "head_commit": {
     "author": {
-      "email": "41898282+github-actions[bot]@users.noreply.github.com",
-      "name": "github-actions",
-      "username": "github-actions[bot]"
+      "email": "spica@starry.blue",
+      "name": "Nep",
+      "username": "SlashNephy"
     },
     "committer": {
-      "email": "41898282+github-actions[bot]@users.noreply.github.com",
-      "name": "github-actions",
-      "username": "github-actions[bot]"
+      "email": "spica@starry.blue",
+      "name": "Nep",
+      "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "62811fb1e29f95395d36a48b6fe8c20e4a364434",
-    "message": "Update Common to 785b244",
-    "timestamp": "2022-04-03T07:36:41Z",
-    "tree_id": "28f3776990c0727d08789fa64ba7e19a1daed190",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/62811fb1e29f95395d36a48b6fe8c20e4a364434"
+    "id": "e88a5f9b28ace7d42afe0613dc2278cf0d2631e3",
+    "message": "feat: Support Patch 6.1",
+    "timestamp": "2022-04-17T14:37:01+09:00",
+    "tree_id": "bbcfea4293a909d65e4366b457cfbb07d837a850",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/e88a5f9b28ace7d42afe0613dc2278cf0d2631e3"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -59,8 +59,8 @@
     "url": "https://api.github.com/orgs/horoscope-dev"
   },
   "pusher": {
-    "email": "74955427+ap-horoscope@users.noreply.github.com",
-    "name": "ap-horoscope"
+    "email": "spica@starry.blue",
+    "name": "SlashNephy"
   },
   "ref": "refs/heads/master",
   "repository": {
@@ -151,9 +151,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/pulls{/number}",
-    "pushed_at": 1648971401,
+    "pushed_at": 1650173824,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/releases{/id}",
-    "size": 43,
+    "size": 44,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.TwitterIntegration.git",
     "stargazers": 1,
     "stargazers_count": 1,
@@ -177,23 +177,23 @@
     "watchers_count": 1
   },
   "sender": {
-    "avatar_url": "https://avatars.githubusercontent.com/u/74955427?v=4",
-    "events_url": "https://api.github.com/users/ap-horoscope/events{/privacy}",
-    "followers_url": "https://api.github.com/users/ap-horoscope/followers",
-    "following_url": "https://api.github.com/users/ap-horoscope/following{/other_user}",
-    "gists_url": "https://api.github.com/users/ap-horoscope/gists{/gist_id}",
+    "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+    "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+    "followers_url": "https://api.github.com/users/SlashNephy/followers",
+    "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+    "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
     "gravatar_id": "",
-    "html_url": "https://github.com/ap-horoscope",
-    "id": 74955427,
-    "login": "ap-horoscope",
-    "node_id": "MDQ6VXNlcjc0OTU1NDI3",
-    "organizations_url": "https://api.github.com/users/ap-horoscope/orgs",
-    "received_events_url": "https://api.github.com/users/ap-horoscope/received_events",
-    "repos_url": "https://api.github.com/users/ap-horoscope/repos",
+    "html_url": "https://github.com/SlashNephy",
+    "id": 7302150,
+    "login": "SlashNephy",
+    "node_id": "MDQ6VXNlcjczMDIxNTA=",
+    "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+    "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+    "repos_url": "https://api.github.com/users/SlashNephy/repos",
     "site_admin": false,
-    "starred_url": "https://api.github.com/users/ap-horoscope/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/ap-horoscope/subscriptions",
+    "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
     "type": "User",
-    "url": "https://api.github.com/users/ap-horoscope"
+    "url": "https://api.github.com/users/SlashNephy"
   }
 }
