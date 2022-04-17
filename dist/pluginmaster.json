@@ -32,17 +32,10 @@
     "AssemblyVersion": "0.1.0.45",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
-      "other",
-      "jobs",
-      "ui",
-      "minigames",
-      "inventory",
-      "sound",
-      "social",
       "utility"
     ],
-    "Changelog": "dabbe6d: feat: Support Dalamud API 5",
-    "DalamudApiLevel": 5,
+    "Changelog": "70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
+    "DalamudApiLevel": 6,
     "Description": "Simple plugin to just add /calc command.",
     "DownloadCount": 42,
     "DownloadLinkInstall": "https://dl.horoscope.dev/stable/Divination.Calculator",
@@ -52,7 +45,7 @@
     "InternalName": "Divination.Calculator",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1648971397,
+    "LastUpdated": 1650173597,
     "LoadPriority": 0,
     "Name": "Divination.Calculator",
     "Punchline": "/calc 33 - 4",
@@ -60,7 +53,7 @@
     "Tags": [
       "utility"
     ],
-    "TestingAssemblyVersion": "0.1.0.45"
+    "TestingAssemblyVersion": "0.1.0.46"
   },
   {
     "ApplicableVersion": "any",
@@ -87,7 +80,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1650168377,
+    "LastUpdated": 1650173706,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -147,7 +140,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1650168377,
+    "LastUpdated": 1650173706,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
