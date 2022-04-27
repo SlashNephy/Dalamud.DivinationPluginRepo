@@ -45,7 +45,7 @@
     "InternalName": "Divination.Calculator",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1650173597,
+    "LastUpdated": 1651064265,
     "LoadPriority": 0,
     "Name": "Divination.Calculator",
     "Punchline": "/calc 33 - 4",
@@ -53,7 +53,7 @@
     "Tags": [
       "utility"
     ],
-    "TestingAssemblyVersion": "0.1.0.46"
+    "TestingAssemblyVersion": "0.1.0.48"
   },
   {
     "ApplicableVersion": "any",
@@ -80,7 +80,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1651064520,
+    "LastUpdated": 1651064574,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -140,7 +140,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1651064520,
+    "LastUpdated": 1651064574,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
@@ -176,7 +176,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.48",
+    "AssemblyVersion": "0.1.0.50",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "social"
@@ -192,7 +192,7 @@
     "InternalName": "Divination.TwitterIntegration",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1650173821,
+    "LastUpdated": 1651064280,
     "LoadPriority": 0,
     "Name": "Divination.TwitterIntegration",
     "Punchline": "Tweet in FFXIV chat.",
@@ -200,7 +200,7 @@
     "Tags": [
       "Twitter"
     ],
-    "TestingAssemblyVersion": "0.1.0.48"
+    "TestingAssemblyVersion": "0.1.0.50"
   },
   {
     "ApplicableVersion": "any",
