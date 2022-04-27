@@ -1,48 +1,48 @@
 {
-  "after": "9808e0c8a20d7d3c71e421c992a51b528b81dd2e",
+  "after": "fedcacf3a0e08688ccc7073ab5baee0ce7e9a69e",
   "base_ref": null,
-  "before": "a5b352facbd9a23a291f00f88b9845ee405765ad",
+  "before": "cd4f7e8fe5177efe40b320932b1256d53f250a43",
   "commits": [
     {
       "author": {
-        "email": "spica@starry.blue",
-        "name": "Nep",
-        "username": "SlashNephy"
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
       },
       "committer": {
-        "email": "spica@starry.blue",
-        "name": "Nep",
-        "username": "SlashNephy"
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions",
+        "username": "github-actions[bot]"
       },
       "distinct": true,
-      "id": "9808e0c8a20d7d3c71e421c992a51b528b81dd2e",
-      "message": "feat: Support Patch 6.1",
-      "timestamp": "2022-04-17T14:37:51+09:00",
-      "tree_id": "fbca5fb2e60d8c8d6a9db6b994d1d184e2a36aae",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commit/9808e0c8a20d7d3c71e421c992a51b528b81dd2e"
+      "id": "fedcacf3a0e08688ccc7073ab5baee0ce7e9a69e",
+      "message": "Update Common to 4f581ad",
+      "timestamp": "2022-04-27T12:57:50Z",
+      "tree_id": "fae0c49b64ccf730c4dc3d5123a17818e83e11ba",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commit/fedcacf3a0e08688ccc7073ab5baee0ce7e9a69e"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/compare/a5b352facbd9...9808e0c8a20d",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/compare/cd4f7e8fe517...fedcacf3a0e0",
   "created": false,
   "deleted": false,
   "forced": false,
   "head_commit": {
     "author": {
-      "email": "spica@starry.blue",
-      "name": "Nep",
-      "username": "SlashNephy"
+      "email": "41898282+github-actions[bot]@users.noreply.github.com",
+      "name": "github-actions",
+      "username": "github-actions[bot]"
     },
     "committer": {
-      "email": "spica@starry.blue",
-      "name": "Nep",
-      "username": "SlashNephy"
+      "email": "41898282+github-actions[bot]@users.noreply.github.com",
+      "name": "github-actions",
+      "username": "github-actions[bot]"
     },
     "distinct": true,
-    "id": "9808e0c8a20d7d3c71e421c992a51b528b81dd2e",
-    "message": "feat: Support Patch 6.1",
-    "timestamp": "2022-04-17T14:37:51+09:00",
-    "tree_id": "fbca5fb2e60d8c8d6a9db6b994d1d184e2a36aae",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commit/9808e0c8a20d7d3c71e421c992a51b528b81dd2e"
+    "id": "fedcacf3a0e08688ccc7073ab5baee0ce7e9a69e",
+    "message": "Update Common to 4f581ad",
+    "timestamp": "2022-04-27T12:57:50Z",
+    "tree_id": "fae0c49b64ccf730c4dc3d5123a17818e83e11ba",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/commit/fedcacf3a0e08688ccc7073ab5baee0ce7e9a69e"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -59,8 +59,8 @@
     "url": "https://api.github.com/orgs/horoscope-dev"
   },
   "pusher": {
-    "email": "spica@starry.blue",
-    "name": "SlashNephy"
+    "email": "74955427+ap-horoscope@users.noreply.github.com",
+    "name": "ap-horoscope"
   },
   "ref": "refs/heads/master",
   "repository": {
@@ -145,9 +145,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/pulls{/number}",
-    "pushed_at": 1650173873,
+    "pushed_at": 1651064270,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Voiceroid2Talker/releases{/id}",
-    "size": 43,
+    "size": 45,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.Voiceroid2Talker.git",
     "stargazers": 0,
     "stargazers_count": 0,
@@ -172,23 +172,23 @@
     "watchers_count": 0
   },
   "sender": {
-    "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
-    "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
-    "followers_url": "https://api.github.com/users/SlashNephy/followers",
-    "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
-    "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+    "avatar_url": "https://avatars.githubusercontent.com/u/74955427?v=4",
+    "events_url": "https://api.github.com/users/ap-horoscope/events{/privacy}",
+    "followers_url": "https://api.github.com/users/ap-horoscope/followers",
+    "following_url": "https://api.github.com/users/ap-horoscope/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ap-horoscope/gists{/gist_id}",
     "gravatar_id": "",
-    "html_url": "https://github.com/SlashNephy",
-    "id": 7302150,
-    "login": "SlashNephy",
-    "node_id": "MDQ6VXNlcjczMDIxNTA=",
-    "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
-    "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
-    "repos_url": "https://api.github.com/users/SlashNephy/repos",
+    "html_url": "https://github.com/ap-horoscope",
+    "id": 74955427,
+    "login": "ap-horoscope",
+    "node_id": "MDQ6VXNlcjc0OTU1NDI3",
+    "organizations_url": "https://api.github.com/users/ap-horoscope/orgs",
+    "received_events_url": "https://api.github.com/users/ap-horoscope/received_events",
+    "repos_url": "https://api.github.com/users/ap-horoscope/repos",
     "site_admin": false,
-    "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+    "starred_url": "https://api.github.com/users/ap-horoscope/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ap-horoscope/subscriptions",
     "type": "User",
-    "url": "https://api.github.com/users/SlashNephy"
+    "url": "https://api.github.com/users/ap-horoscope"
   }
 }
