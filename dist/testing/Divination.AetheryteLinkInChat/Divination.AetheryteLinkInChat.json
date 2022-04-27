@@ -1,8 +1,8 @@
 {
-  "Author": "Horoscope developers",
+  "Author": "Asteria Nocturna",
   "Name": "Divination.AetheryteLinkInChat",
   "InternalName": "Divination.AetheryteLinkInChat",
-  "AssemblyVersion": "0.1.0.45",
+  "AssemblyVersion": "0.1.0.42",
   "Description": "Dalamud Plugin to add a link to teleport to the nearest aetheryte. Teleporter plugin required!",
   "ApplicableVersion": "any",
   "Tags": [
@@ -11,7 +11,7 @@
   "CategoryTags": [
     "utility"
   ],
-  "DalamudApiLevel": 5,
+  "DalamudApiLevel": 6,
   "LoadPriority": 0,
   "ImageUrls": [],
   "Punchline": "Easy teleport for Mob Hunting"
