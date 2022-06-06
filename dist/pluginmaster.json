@@ -77,7 +77,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1654503235,
+    "LastUpdated": 1654503762,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -102,7 +102,7 @@
       "social",
       "utility"
     ],
-    "Changelog": "82544f1: DalamudApiLevel 5 -> 6\n16e8666: feat: Support Patch 6.1\n7a84d1e: feat: Support Patch 6.0x\n189acf0: Logging on receiving payloads\n7e2ebc3: Export constants\nf1007d2: Re-support IPC features",
+    "Changelog": "5d2c35b: Update DiscordIntegrationPlugin.cs\n82544f1: DalamudApiLevel 5 -> 6\n16e8666: feat: Support Patch 6.1\n7a84d1e: feat: Support Patch 6.0x\n189acf0: Logging on receiving payloads\n7e2ebc3: Export constants\nf1007d2: Re-support IPC features",
     "DalamudApiLevel": 6,
     "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
     "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.DiscordIntegration/latest.zip",
@@ -112,7 +112,7 @@
     "InternalName": "Divination.DiscordIntegration",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1651064971,
+    "LastUpdated": 1654503624,
     "LoadPriority": 0,
     "Name": "Divination.DiscordIntegration",
     "Punchline": "Fully-customizable Rich Presence Plugin",
@@ -120,7 +120,7 @@
     "Tags": [
       "Discord"
     ],
-    "TestingAssemblyVersion": "0.1.0.53"
+    "TestingAssemblyVersion": "0.1.0.54"
   },
   {
     "ApplicableVersion": "any",
@@ -135,7 +135,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1654503235,
+    "LastUpdated": 1654503762,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
