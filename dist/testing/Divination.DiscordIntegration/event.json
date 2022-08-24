@@ -1,7 +1,7 @@
 {
-  "after": "5d2c35b1eb87458b1657ab7507eb860b663cb742",
+  "after": "c250b99c6fb5a605930438f8023d1aedafd40ba3",
   "base_ref": null,
-  "before": "82544f10c89a757894b6e079f5b29f642c1f719b",
+  "before": "5d2c35b1eb87458b1657ab7507eb860b663cb742",
   "commits": [
     {
       "author": {
@@ -10,19 +10,73 @@
         "username": "a1hena"
       },
       "committer": {
-        "email": "noreply@github.com",
-        "name": "GitHub",
-        "username": "web-flow"
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "name": "a1hena",
+        "username": "a1hena"
       },
       "distinct": true,
-      "id": "5d2c35b1eb87458b1657ab7507eb860b663cb742",
-      "message": "Update DiscordIntegrationPlugin.cs",
-      "timestamp": "2022-06-06T17:20:24+09:00",
-      "tree_id": "2b3cf42d60715fabe4fb5f8a8f3f5c08526cc953",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/5d2c35b1eb87458b1657ab7507eb860b663cb742"
+      "id": "e94834c92525a7e8238b30e5936dcdb24c9673aa",
+      "message": "Update Common",
+      "timestamp": "2022-05-03T12:54:10+09:00",
+      "tree_id": "94391d451a08aef536e542431d815a9ee60ed84d",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/e94834c92525a7e8238b30e5936dcdb24c9673aa"
+    },
+    {
+      "author": {
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "name": "a1hena",
+        "username": "a1hena"
+      },
+      "committer": {
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "name": "a1hena",
+        "username": "a1hena"
+      },
+      "distinct": true,
+      "id": "82e9aa4db2fc4c5ff635cb32a642906cbce5b4a0",
+      "message": "Merge branch master of https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration",
+      "timestamp": "2022-08-24T15:47:41+09:00",
+      "tree_id": "3372b7545058798e65988c7bc1c0bdf42ea9a97e",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/82e9aa4db2fc4c5ff635cb32a642906cbce5b4a0"
+    },
+    {
+      "author": {
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "name": "a1hena",
+        "username": "a1hena"
+      },
+      "committer": {
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "name": "a1hena",
+        "username": "a1hena"
+      },
+      "distinct": true,
+      "id": "75b16f2b4976048b4cf595ce0198febba0a5d4a7",
+      "message": "Update Common",
+      "timestamp": "2022-08-24T15:48:04+09:00",
+      "tree_id": "47ee57021a1c80eda1798c800684a68269706bb7",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/75b16f2b4976048b4cf595ce0198febba0a5d4a7"
+    },
+    {
+      "author": {
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "name": "a1hena",
+        "username": "a1hena"
+      },
+      "committer": {
+        "email": "102157679+a1hena@users.noreply.github.com",
+        "name": "a1hena",
+        "username": "a1hena"
+      },
+      "distinct": true,
+      "id": "c250b99c6fb5a605930438f8023d1aedafd40ba3",
+      "message": "re-enable .NET6",
+      "timestamp": "2022-08-24T15:48:14+09:00",
+      "tree_id": "8cc88ec9c52eb0fc8c74bd3835a7e7dde3518eae",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/c250b99c6fb5a605930438f8023d1aedafd40ba3"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/compare/82544f10c89a...5d2c35b1eb87",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/compare/5d2c35b1eb87...c250b99c6fb5",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -33,16 +87,16 @@
       "username": "a1hena"
     },
     "committer": {
-      "email": "noreply@github.com",
-      "name": "GitHub",
-      "username": "web-flow"
+      "email": "102157679+a1hena@users.noreply.github.com",
+      "name": "a1hena",
+      "username": "a1hena"
     },
     "distinct": true,
-    "id": "5d2c35b1eb87458b1657ab7507eb860b663cb742",
-    "message": "Update DiscordIntegrationPlugin.cs",
-    "timestamp": "2022-06-06T17:20:24+09:00",
-    "tree_id": "2b3cf42d60715fabe4fb5f8a8f3f5c08526cc953",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/5d2c35b1eb87458b1657ab7507eb860b663cb742"
+    "id": "c250b99c6fb5a605930438f8023d1aedafd40ba3",
+    "message": "re-enable .NET6",
+    "timestamp": "2022-08-24T15:48:14+09:00",
+    "tree_id": "8cc88ec9c52eb0fc8c74bd3835a7e7dde3518eae",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/c250b99c6fb5a605930438f8023d1aedafd40ba3"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -151,9 +205,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/pulls{/number}",
-    "pushed_at": 1654503624,
+    "pushed_at": 1661323696,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/releases{/id}",
-    "size": 46,
+    "size": 48,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.DiscordIntegration.git",
     "stargazers": 0,
     "stargazers_count": 0,
@@ -170,7 +224,8 @@
     "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration",
     "visibility": "public",
     "watchers": 0,
-    "watchers_count": 0
+    "watchers_count": 0,
+    "web_commit_signoff_required": false
   },
   "sender": {
     "avatar_url": "https://avatars.githubusercontent.com/u/102157679?v=4",
