@@ -1,48 +1,48 @@
 {
-  "after": "e4d2c723d738e8b02d27afc7f68836b68b6eb52b",
+  "after": "688db78cc03eae8028746f946218e45831169939",
   "base_ref": null,
-  "before": "1e1463301be8be43e8cc9f7cef4f3ac4f2c57ae1",
+  "before": "e4d2c723d738e8b02d27afc7f68836b68b6eb52b",
   "commits": [
     {
       "author": {
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "name": "github-actions",
-        "username": "github-actions[bot]"
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
       },
       "committer": {
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "name": "github-actions",
-        "username": "github-actions[bot]"
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "e4d2c723d738e8b02d27afc7f68836b68b6eb52b",
-      "message": "Update Common to 4f581ad",
-      "timestamp": "2022-04-27T12:57:46Z",
-      "tree_id": "635a66dbf544ee66ea629556b59c430161e86c5e",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/e4d2c723d738e8b02d27afc7f68836b68b6eb52b"
+      "id": "688db78cc03eae8028746f946218e45831169939",
+      "message": "🔧 chore(renovate): update config",
+      "timestamp": "2022-08-26T22:27:52+09:00",
+      "tree_id": "f486e114c1c4e7b16b9f384e3636142c8e2c33a0",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/688db78cc03eae8028746f946218e45831169939"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/compare/1e1463301be8...e4d2c723d738",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/compare/e4d2c723d738...688db78cc03e",
   "created": false,
   "deleted": false,
   "forced": false,
   "head_commit": {
     "author": {
-      "email": "41898282+github-actions[bot]@users.noreply.github.com",
-      "name": "github-actions",
-      "username": "github-actions[bot]"
+      "email": "spica@starry.blue",
+      "name": "SlashNephy",
+      "username": "SlashNephy"
     },
     "committer": {
-      "email": "41898282+github-actions[bot]@users.noreply.github.com",
-      "name": "github-actions",
-      "username": "github-actions[bot]"
+      "email": "spica@starry.blue",
+      "name": "SlashNephy",
+      "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "e4d2c723d738e8b02d27afc7f68836b68b6eb52b",
-    "message": "Update Common to 4f581ad",
-    "timestamp": "2022-04-27T12:57:46Z",
-    "tree_id": "635a66dbf544ee66ea629556b59c430161e86c5e",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/e4d2c723d738e8b02d27afc7f68836b68b6eb52b"
+    "id": "688db78cc03eae8028746f946218e45831169939",
+    "message": "🔧 chore(renovate): update config",
+    "timestamp": "2022-08-26T22:27:52+09:00",
+    "tree_id": "f486e114c1c4e7b16b9f384e3636142c8e2c33a0",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/688db78cc03eae8028746f946218e45831169939"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -59,8 +59,8 @@
     "url": "https://api.github.com/orgs/horoscope-dev"
   },
   "pusher": {
-    "email": "74955427+ap-horoscope@users.noreply.github.com",
-    "name": "ap-horoscope"
+    "email": "spica@starry.blue",
+    "name": "SlashNephy"
   },
   "ref": "refs/heads/master",
   "repository": {
@@ -151,9 +151,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Debugger/pulls{/number}",
-    "pushed_at": 1651064266,
+    "pushed_at": 1661520472,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Debugger/releases{/id}",
-    "size": 78,
+    "size": 42,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.Debugger.git",
     "stargazers": 0,
     "stargazers_count": 0,
@@ -173,26 +173,27 @@
     "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger",
     "visibility": "public",
     "watchers": 0,
-    "watchers_count": 0
+    "watchers_count": 0,
+    "web_commit_signoff_required": false
   },
   "sender": {
-    "avatar_url": "https://avatars.githubusercontent.com/u/74955427?v=4",
-    "events_url": "https://api.github.com/users/ap-horoscope/events{/privacy}",
-    "followers_url": "https://api.github.com/users/ap-horoscope/followers",
-    "following_url": "https://api.github.com/users/ap-horoscope/following{/other_user}",
-    "gists_url": "https://api.github.com/users/ap-horoscope/gists{/gist_id}",
+    "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+    "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+    "followers_url": "https://api.github.com/users/SlashNephy/followers",
+    "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+    "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
     "gravatar_id": "",
-    "html_url": "https://github.com/ap-horoscope",
-    "id": 74955427,
-    "login": "ap-horoscope",
-    "node_id": "MDQ6VXNlcjc0OTU1NDI3",
-    "organizations_url": "https://api.github.com/users/ap-horoscope/orgs",
-    "received_events_url": "https://api.github.com/users/ap-horoscope/received_events",
-    "repos_url": "https://api.github.com/users/ap-horoscope/repos",
+    "html_url": "https://github.com/SlashNephy",
+    "id": 7302150,
+    "login": "SlashNephy",
+    "node_id": "MDQ6VXNlcjczMDIxNTA=",
+    "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+    "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+    "repos_url": "https://api.github.com/users/SlashNephy/repos",
     "site_admin": false,
-    "starred_url": "https://api.github.com/users/ap-horoscope/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/ap-horoscope/subscriptions",
+    "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
     "type": "User",
-    "url": "https://api.github.com/users/ap-horoscope"
+    "url": "https://api.github.com/users/SlashNephy"
   }
 }
