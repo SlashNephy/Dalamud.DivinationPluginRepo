@@ -1,102 +1,48 @@
 {
-  "after": "c250b99c6fb5a605930438f8023d1aedafd40ba3",
+  "after": "1b9d7658b5acd51cb1f706355c17c6f3be301f71",
   "base_ref": null,
-  "before": "5d2c35b1eb87458b1657ab7507eb860b663cb742",
+  "before": "c250b99c6fb5a605930438f8023d1aedafd40ba3",
   "commits": [
     {
       "author": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
       },
       "committer": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "e94834c92525a7e8238b30e5936dcdb24c9673aa",
-      "message": "Update Common",
-      "timestamp": "2022-05-03T12:54:10+09:00",
-      "tree_id": "94391d451a08aef536e542431d815a9ee60ed84d",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/e94834c92525a7e8238b30e5936dcdb24c9673aa"
-    },
-    {
-      "author": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "committer": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "distinct": true,
-      "id": "82e9aa4db2fc4c5ff635cb32a642906cbce5b4a0",
-      "message": "Merge branch master of https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration",
-      "timestamp": "2022-08-24T15:47:41+09:00",
-      "tree_id": "3372b7545058798e65988c7bc1c0bdf42ea9a97e",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/82e9aa4db2fc4c5ff635cb32a642906cbce5b4a0"
-    },
-    {
-      "author": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "committer": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "distinct": true,
-      "id": "75b16f2b4976048b4cf595ce0198febba0a5d4a7",
-      "message": "Update Common",
-      "timestamp": "2022-08-24T15:48:04+09:00",
-      "tree_id": "47ee57021a1c80eda1798c800684a68269706bb7",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/75b16f2b4976048b4cf595ce0198febba0a5d4a7"
-    },
-    {
-      "author": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "committer": {
-        "email": "102157679+a1hena@users.noreply.github.com",
-        "name": "a1hena",
-        "username": "a1hena"
-      },
-      "distinct": true,
-      "id": "c250b99c6fb5a605930438f8023d1aedafd40ba3",
-      "message": "re-enable .NET6",
-      "timestamp": "2022-08-24T15:48:14+09:00",
-      "tree_id": "8cc88ec9c52eb0fc8c74bd3835a7e7dde3518eae",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/c250b99c6fb5a605930438f8023d1aedafd40ba3"
+      "id": "1b9d7658b5acd51cb1f706355c17c6f3be301f71",
+      "message": "🔧 chore(renovate): update config",
+      "timestamp": "2022-08-26T22:27:52+09:00",
+      "tree_id": "189b81ea9b2f8386ed648565f3644e4a317af12b",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/1b9d7658b5acd51cb1f706355c17c6f3be301f71"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/compare/5d2c35b1eb87...c250b99c6fb5",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/compare/c250b99c6fb5...1b9d7658b5ac",
   "created": false,
   "deleted": false,
   "forced": false,
   "head_commit": {
     "author": {
-      "email": "102157679+a1hena@users.noreply.github.com",
-      "name": "a1hena",
-      "username": "a1hena"
+      "email": "spica@starry.blue",
+      "name": "SlashNephy",
+      "username": "SlashNephy"
     },
     "committer": {
-      "email": "102157679+a1hena@users.noreply.github.com",
-      "name": "a1hena",
-      "username": "a1hena"
+      "email": "spica@starry.blue",
+      "name": "SlashNephy",
+      "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "c250b99c6fb5a605930438f8023d1aedafd40ba3",
-    "message": "re-enable .NET6",
-    "timestamp": "2022-08-24T15:48:14+09:00",
-    "tree_id": "8cc88ec9c52eb0fc8c74bd3835a7e7dde3518eae",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/c250b99c6fb5a605930438f8023d1aedafd40ba3"
+    "id": "1b9d7658b5acd51cb1f706355c17c6f3be301f71",
+    "message": "🔧 chore(renovate): update config",
+    "timestamp": "2022-08-26T22:27:52+09:00",
+    "tree_id": "189b81ea9b2f8386ed648565f3644e4a317af12b",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/1b9d7658b5acd51cb1f706355c17c6f3be301f71"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -113,8 +59,8 @@
     "url": "https://api.github.com/orgs/horoscope-dev"
   },
   "pusher": {
-    "email": "102157679+a1hena@users.noreply.github.com",
-    "name": "a1hena"
+    "email": "spica@starry.blue",
+    "name": "SlashNephy"
   },
   "ref": "refs/heads/master",
   "repository": {
@@ -205,9 +151,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/pulls{/number}",
-    "pushed_at": 1661323696,
+    "pushed_at": 1661520472,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/releases{/id}",
-    "size": 48,
+    "size": 50,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.DiscordIntegration.git",
     "stargazers": 0,
     "stargazers_count": 0,
@@ -228,23 +174,23 @@
     "web_commit_signoff_required": false
   },
   "sender": {
-    "avatar_url": "https://avatars.githubusercontent.com/u/102157679?v=4",
-    "events_url": "https://api.github.com/users/a1hena/events{/privacy}",
-    "followers_url": "https://api.github.com/users/a1hena/followers",
-    "following_url": "https://api.github.com/users/a1hena/following{/other_user}",
-    "gists_url": "https://api.github.com/users/a1hena/gists{/gist_id}",
+    "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+    "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+    "followers_url": "https://api.github.com/users/SlashNephy/followers",
+    "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+    "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
     "gravatar_id": "",
-    "html_url": "https://github.com/a1hena",
-    "id": 102157679,
-    "login": "a1hena",
-    "node_id": "U_kgDOBhbNbw",
-    "organizations_url": "https://api.github.com/users/a1hena/orgs",
-    "received_events_url": "https://api.github.com/users/a1hena/received_events",
-    "repos_url": "https://api.github.com/users/a1hena/repos",
+    "html_url": "https://github.com/SlashNephy",
+    "id": 7302150,
+    "login": "SlashNephy",
+    "node_id": "MDQ6VXNlcjczMDIxNTA=",
+    "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+    "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+    "repos_url": "https://api.github.com/users/SlashNephy/repos",
     "site_admin": false,
-    "starred_url": "https://api.github.com/users/a1hena/starred{/owner}{/repo}",
-    "subscriptions_url": "https://api.github.com/users/a1hena/subscriptions",
+    "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
     "type": "User",
-    "url": "https://api.github.com/users/a1hena"
+    "url": "https://api.github.com/users/SlashNephy"
   }
 }
