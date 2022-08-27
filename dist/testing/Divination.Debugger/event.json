@@ -1,8 +1,26 @@
 {
-  "after": "ad4d6251aad09e6b3d09c0df34a6c861bd809d06",
+  "after": "5d555efefb87194ec317d26ab23c23e36e215c9f",
   "base_ref": null,
-  "before": "688db78cc03eae8028746f946218e45831169939",
+  "before": "ad4d6251aad09e6b3d09c0df34a6c861bd809d06",
   "commits": [
+    {
+      "author": {
+        "email": "29139614+renovate[bot]@users.noreply.github.com",
+        "name": "renovate[bot]",
+        "username": "renovate[bot]"
+      },
+      "committer": {
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
+      },
+      "distinct": false,
+      "id": "4473e287cdfcf27a5e8a92010e44cdc5501e714a",
+      "message": "chore(deps): update dependency dalamudpackager to v2.1.8",
+      "timestamp": "2022-08-27T10:38:49Z",
+      "tree_id": "7e719e276e491584be3bc2190fd2faa6f093fac9",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/4473e287cdfcf27a5e8a92010e44cdc5501e714a"
+    },
     {
       "author": {
         "email": "spica@starry.blue",
@@ -10,19 +28,19 @@
         "username": "SlashNephy"
       },
       "committer": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
       },
       "distinct": true,
-      "id": "ad4d6251aad09e6b3d09c0df34a6c861bd809d06",
-      "message": "Template の変更に追従",
-      "timestamp": "2022-08-27T15:07:53+09:00",
-      "tree_id": "988075814a4d41f7f76fb1c77c3371bc2ff00f77",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/ad4d6251aad09e6b3d09c0df34a6c861bd809d06"
+      "id": "5d555efefb87194ec317d26ab23c23e36e215c9f",
+      "message": "Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8",
+      "timestamp": "2022-08-27T19:41:16+09:00",
+      "tree_id": "7e719e276e491584be3bc2190fd2faa6f093fac9",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/5d555efefb87194ec317d26ab23c23e36e215c9f"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/compare/688db78cc03e...ad4d6251aad0",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/compare/ad4d6251aad0...5d555efefb87",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -33,16 +51,16 @@
       "username": "SlashNephy"
     },
     "committer": {
-      "email": "spica@starry.blue",
-      "name": "SlashNephy",
-      "username": "SlashNephy"
+      "email": "noreply@github.com",
+      "name": "GitHub",
+      "username": "web-flow"
     },
     "distinct": true,
-    "id": "ad4d6251aad09e6b3d09c0df34a6c861bd809d06",
-    "message": "Template の変更に追従",
-    "timestamp": "2022-08-27T15:07:53+09:00",
-    "tree_id": "988075814a4d41f7f76fb1c77c3371bc2ff00f77",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/ad4d6251aad09e6b3d09c0df34a6c861bd809d06"
+    "id": "5d555efefb87194ec317d26ab23c23e36e215c9f",
+    "message": "Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8",
+    "timestamp": "2022-08-27T19:41:16+09:00",
+    "tree_id": "7e719e276e491584be3bc2190fd2faa6f093fac9",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger/commit/5d555efefb87194ec317d26ab23c23e36e215c9f"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -124,8 +142,8 @@
     "name": "Dalamud.Divination.Debugger",
     "node_id": "MDEwOlJlcG9zaXRvcnk0MDI3MzMxNzQ=",
     "notifications_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Debugger/notifications{?since,all,participating}",
-    "open_issues": 9,
-    "open_issues_count": 9,
+    "open_issues": 8,
+    "open_issues_count": 8,
     "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -151,9 +169,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Debugger/pulls{/number}",
-    "pushed_at": 1661580474,
+    "pushed_at": 1661596876,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Debugger/releases{/id}",
-    "size": 49,
+    "size": 53,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.Debugger.git",
     "stargazers": 0,
     "stargazers_count": 0,
@@ -166,10 +184,12 @@
     "teams_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Debugger/teams",
     "topics": [
       "dalamud",
-      "dalamud-plugin"
+      "dalamud-plugin",
+      "divination-plugin",
+      "ffxiv"
     ],
     "trees_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Debugger/git/trees{/sha}",
-    "updated_at": "2021-10-24T04:52:49Z",
+    "updated_at": "2022-08-27T06:08:55Z",
     "url": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger",
     "visibility": "public",
     "watchers": 0,
