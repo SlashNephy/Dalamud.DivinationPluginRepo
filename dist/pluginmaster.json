@@ -77,7 +77,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1661959648,
+    "LastUpdated": 1661961192,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -128,7 +128,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1661959648,
+    "LastUpdated": 1661961192,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
@@ -160,6 +160,40 @@
       "Command"
     ],
     "TestingAssemblyVersion": "0.1.0.54"
+  },
+  {
+    "ApplicableVersion": "any",
+    "AssemblyVersion": "0.1.0.112",
+    "Author": "[Author]",
+    "CategoryTags": [
+      "other",
+      "jobs",
+      "ui",
+      "minigames",
+      "inventory",
+      "sound",
+      "social",
+      "utility"
+    ],
+    "Changelog": "1e1cb90: Reusable workflows \u3092\u4f7f\u3046\n0cce2fd: \ud83e\uddf9 dotnet format\nbaf23bb: Merge remote-tracking branch 'origin/master'\n\n# Conflicts:\n#\tDivination.Template/PluginConfig.cs\n#\tDivination.Template/PluginConfigWindow.cs\n#\tDivination.Template/PluginDefinition.cs\n#\tDivination.Template/TemplatePlugin.cs\n6dec12c: \u30c6\u30f3\u30d7\u30ec\u66f4\u65b0\n4482cde: \ud83e\uddf9 dotnet format\n359cb33: Update stuff\nf6887e7: CI \u3067 dotnet format \u3059\u308b\na2cb269: Common \u306e Submodule \u3092\u5ec3\u6b62\nf24c8b0: .editorconfig \u8ffd\u52a0\ncc36b47: Update dependencies\nf294b24: \ud83d\udd27 chore(renovate): update config\n052fe47: \u5b9f\u88c5\u5909\u66f4\n120d9b7: fix linebreak\nda9fb7c: .NET 6\nba75470: Update README.md\n59e16a9: Update Common\n7ba0189: Update Common\n4240d06: rollback: .net5\n8025025: Merge pull request #1 from horoscope-dev/net6.0\n\nfeat: Support .NET 6.0\nbeb2593: Update Common\ncada42d: feat: Support .NET 6.0\nbad7f72: Add --nologo argument\ne44d374: Disable parallel build for GitVersion compatibility\n4e9f978: Update build.yml\n04bf10d: Fix escape issue FINALLY\n7e9e6a5: Update build.yml\n451573e: Escape quote \n\nRef https://github.com/dotnet/msbuild/issues/471\nc0b03f7: Set pull_strategy: NO-PULL\n42d22e8: Update Divination.Template.json",
+    "DalamudApiLevel": 7,
+    "Description": "[Description]",
+    "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.Template/latest.zip",
+    "DownloadLinkTesting": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.Template/latest.zip",
+    "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+    "ImageUrls": [],
+    "InternalName": "Divination.Template",
+    "IsHide": false,
+    "IsTestingExclusive": true,
+    "LastUpdated": 1661961084,
+    "LoadPriority": 0,
+    "Name": "[Name]",
+    "Punchline": "[Punchline]",
+    "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Template",
+    "Tags": [
+      "[Tag]"
+    ],
+    "TestingAssemblyVersion": "0.1.0.112"
   },
   {
     "ApplicableVersion": "any",
