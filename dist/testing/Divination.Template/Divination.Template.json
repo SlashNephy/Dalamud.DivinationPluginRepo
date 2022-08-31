@@ -1,0 +1,25 @@
+{
+  "Author": "[Author]",
+  "Name": "[Name]",
+  "InternalName": "Divination.Template",
+  "AssemblyVersion": "0.1.0.112",
+  "Description": "[Description]",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "[Tag]"
+  ],
+  "CategoryTags": [
+    "other",
+    "jobs",
+    "ui",
+    "minigames",
+    "inventory",
+    "sound",
+    "social",
+    "utility"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "Punchline": "[Punchline]"
+}
