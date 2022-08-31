@@ -1,5 +1,163 @@
 [
   {
+    "sha": "f5f8ed58dca0452f2a9aeb3b044ec43c80edbb9e",
+    "node_id": "C_kwDOGAAUKtoAKGY1ZjhlZDU4ZGNhMDQ1MmYyYTlhZWIzYjA0NGVjNDNjODBlZGJiOWU",
+    "commit": {
+      "author": {
+        "name": "SlashNephy",
+        "email": "SlashNephy@users.noreply.github.com",
+        "date": "2022-08-31T16:05:52Z"
+      },
+      "committer": {
+        "name": "github-actions[bot]",
+        "email": "github-actions[bot]@users.noreply.github.com",
+        "date": "2022-08-31T16:05:52Z"
+      },
+      "message": "🧹 dotnet format",
+      "tree": {
+        "sha": "eb4e0281cb40526848f9c39ee6483ba6903f8577",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/git/trees/eb4e0281cb40526848f9c39ee6483ba6903f8577"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/git/commits/f5f8ed58dca0452f2a9aeb3b044ec43c80edbb9e",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/commits/f5f8ed58dca0452f2a9aeb3b044ec43c80edbb9e",
+    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/f5f8ed58dca0452f2a9aeb3b044ec43c80edbb9e",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/commits/f5f8ed58dca0452f2a9aeb3b044ec43c80edbb9e/comments",
+    "author": {
+      "login": "SlashNephy",
+      "id": 7302150,
+      "node_id": "MDQ6VXNlcjczMDIxNTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SlashNephy",
+      "html_url": "https://github.com/SlashNephy",
+      "followers_url": "https://api.github.com/users/SlashNephy/followers",
+      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+      "repos_url": "https://api.github.com/users/SlashNephy/repos",
+      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4c36da1f2b9d56e4331bbe2a2309ab01c17f8002",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/commits/4c36da1f2b9d56e4331bbe2a2309ab01c17f8002",
+        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/4c36da1f2b9d56e4331bbe2a2309ab01c17f8002"
+      }
+    ]
+  },
+  {
+    "sha": "4c36da1f2b9d56e4331bbe2a2309ab01c17f8002",
+    "node_id": "C_kwDOGAAUKtoAKDRjMzZkYTFmMmI5ZDU2ZTQzMzFiYmUyYTIzMDlhYjAxYzE3ZjgwMDI",
+    "commit": {
+      "author": {
+        "name": "SlashNephy",
+        "email": "spica@starry.blue",
+        "date": "2022-08-31T15:58:49Z"
+      },
+      "committer": {
+        "name": "SlashNephy",
+        "email": "spica@starry.blue",
+        "date": "2022-08-31T15:58:49Z"
+      },
+      "message": "Reusable workflows を使う",
+      "tree": {
+        "sha": "71e370be85698513a19409ab314c809db46285bc",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/git/trees/71e370be85698513a19409ab314c809db46285bc"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/git/commits/4c36da1f2b9d56e4331bbe2a2309ab01c17f8002",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\niHUEABYKAB0WIQQQwltaPFlrIz+Qbja8ooVSURUZ0wUCYw+FOQAKCRC8ooVSURUZ\n09Q2AQCMIgSzBy4s3uJhWH8iOGN/cUkUmzzpOGXiLufERo4eRAEAnSqEa6wlhEm+\n+sDua7Czhw5oZN/Fde6aExYKikBrnAE=\n=fJIC\n-----END PGP SIGNATURE-----",
+        "payload": "tree 71e370be85698513a19409ab314c809db46285bc\nparent 7d4b5fe09241b7b2aa15c89346440186d9a82b79\nauthor SlashNephy <spica@starry.blue> 1661961529 +0900\ncommitter SlashNephy <spica@starry.blue> 1661961529 +0900\n\nReusable workflows を使う\n"
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/commits/4c36da1f2b9d56e4331bbe2a2309ab01c17f8002",
+    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/4c36da1f2b9d56e4331bbe2a2309ab01c17f8002",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/commits/4c36da1f2b9d56e4331bbe2a2309ab01c17f8002/comments",
+    "author": {
+      "login": "SlashNephy",
+      "id": 7302150,
+      "node_id": "MDQ6VXNlcjczMDIxNTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SlashNephy",
+      "html_url": "https://github.com/SlashNephy",
+      "followers_url": "https://api.github.com/users/SlashNephy/followers",
+      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+      "repos_url": "https://api.github.com/users/SlashNephy/repos",
+      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "SlashNephy",
+      "id": 7302150,
+      "node_id": "MDQ6VXNlcjczMDIxNTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SlashNephy",
+      "html_url": "https://github.com/SlashNephy",
+      "followers_url": "https://api.github.com/users/SlashNephy/followers",
+      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+      "repos_url": "https://api.github.com/users/SlashNephy/repos",
+      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7d4b5fe09241b7b2aa15c89346440186d9a82b79",
+        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/commits/7d4b5fe09241b7b2aa15c89346440186d9a82b79",
+        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/7d4b5fe09241b7b2aa15c89346440186d9a82b79"
+      }
+    ]
+  },
+  {
     "sha": "7d4b5fe09241b7b2aa15c89346440186d9a82b79",
     "node_id": "C_kwDOGAAUKtoAKDdkNGI1ZmUwOTI0MWI3YjJhYTE1Yzg5MzQ2NDQwMTg2ZDlhODJiNzk",
     "commit": {
@@ -2213,164 +2371,6 @@
         "sha": "6d6ac76994020fd4bcff403b347b1fc7e395cbe9",
         "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/commits/6d6ac76994020fd4bcff403b347b1fc7e395cbe9",
         "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/6d6ac76994020fd4bcff403b347b1fc7e395cbe9"
-      }
-    ]
-  },
-  {
-    "sha": "6d6ac76994020fd4bcff403b347b1fc7e395cbe9",
-    "node_id": "C_kwDOGAAUKtoAKDZkNmFjNzY5OTQwMjBmZDRiY2ZmNDAzYjM0N2IxZmM3ZTM5NWNiZTk",
-    "commit": {
-      "author": {
-        "name": "github-actions",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2021-10-22T06:17:39Z"
-      },
-      "committer": {
-        "name": "github-actions",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2021-10-22T06:17:39Z"
-      },
-      "message": "Update Template @ 2239e26",
-      "tree": {
-        "sha": "88f2e7449e0cb135fbd5e7fa1094df3a1ced3aed",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/git/trees/88f2e7449e0cb135fbd5e7fa1094df3a1ced3aed"
-      },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/git/commits/6d6ac76994020fd4bcff403b347b1fc7e395cbe9",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
-    },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/commits/6d6ac76994020fd4bcff403b347b1fc7e395cbe9",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/6d6ac76994020fd4bcff403b347b1fc7e395cbe9",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/commits/6d6ac76994020fd4bcff403b347b1fc7e395cbe9/comments",
-    "author": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "e35c24d4a452e25a7b665b5f22404c9225207294",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/commits/e35c24d4a452e25a7b665b5f22404c9225207294",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/e35c24d4a452e25a7b665b5f22404c9225207294"
-      }
-    ]
-  },
-  {
-    "sha": "e35c24d4a452e25a7b665b5f22404c9225207294",
-    "node_id": "C_kwDOGAAUKtoAKGUzNWMyNGQ0YTQ1MmUyNWE3YjY2NWI1ZjIyNDA0YzkyMjUyMDcyOTQ",
-    "commit": {
-      "author": {
-        "name": "github-actions",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2021-10-22T05:39:04Z"
-      },
-      "committer": {
-        "name": "github-actions",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2021-10-22T05:39:04Z"
-      },
-      "message": "Update Template @ 2dd8d36",
-      "tree": {
-        "sha": "9aff59c1048f484697b7318bc51727e76e3dcbdb",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/git/trees/9aff59c1048f484697b7318bc51727e76e3dcbdb"
-      },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/git/commits/e35c24d4a452e25a7b665b5f22404c9225207294",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
-    },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/commits/e35c24d4a452e25a7b665b5f22404c9225207294",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/e35c24d4a452e25a7b665b5f22404c9225207294",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/commits/e35c24d4a452e25a7b665b5f22404c9225207294/comments",
-    "author": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "5697132778e42d5e0546a1479f8a7ec22d29551f",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/commits/5697132778e42d5e0546a1479f8a7ec22d29551f",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/5697132778e42d5e0546a1479f8a7ec22d29551f"
       }
     ]
   }
