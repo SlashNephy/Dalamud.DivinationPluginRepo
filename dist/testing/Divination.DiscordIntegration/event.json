@@ -1,7 +1,7 @@
 {
-  "after": "12fcc043c68e516e8ddc52fcba019405bcc03b50",
+  "after": "82c55add37acba79d52ea28359e96b191b82c545",
   "base_ref": null,
-  "before": "8788afe2bc33a5bca17eb920e969157d95ce26a2",
+  "before": "12fcc043c68e516e8ddc52fcba019405bcc03b50",
   "commits": [
     {
       "author": {
@@ -15,14 +15,32 @@
         "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "12fcc043c68e516e8ddc52fcba019405bcc03b50",
-      "message": "アクション変えてみる",
-      "timestamp": "2022-08-31T23:27:16+09:00",
-      "tree_id": "7d7a45d572ac8924fbb4379170ad1721533e02b4",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/12fcc043c68e516e8ddc52fcba019405bcc03b50"
+      "id": "d1d912b4dbe261bbe7dafb7a4232c0da09925898",
+      "message": "バージョン戦略を変更",
+      "timestamp": "2022-08-31T23:43:37+09:00",
+      "tree_id": "4d66256d3653d31c44261a3fdf794886a335c8d9",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/d1d912b4dbe261bbe7dafb7a4232c0da09925898"
+    },
+    {
+      "author": {
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
+      },
+      "committer": {
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
+      },
+      "distinct": true,
+      "id": "82c55add37acba79d52ea28359e96b191b82c545",
+      "message": "gitversion.json を読む",
+      "timestamp": "2022-08-31T23:55:55+09:00",
+      "tree_id": "8092d3e391d535f1bf9c4963fce9cacb887afb89",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/82c55add37acba79d52ea28359e96b191b82c545"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/compare/8788afe2bc33...12fcc043c68e",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/compare/12fcc043c68e...82c55add37ac",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -38,11 +56,11 @@
       "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "12fcc043c68e516e8ddc52fcba019405bcc03b50",
-    "message": "アクション変えてみる",
-    "timestamp": "2022-08-31T23:27:16+09:00",
-    "tree_id": "7d7a45d572ac8924fbb4379170ad1721533e02b4",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/12fcc043c68e516e8ddc52fcba019405bcc03b50"
+    "id": "82c55add37acba79d52ea28359e96b191b82c545",
+    "message": "gitversion.json を読む",
+    "timestamp": "2022-08-31T23:55:55+09:00",
+    "tree_id": "8092d3e391d535f1bf9c4963fce9cacb887afb89",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/82c55add37acba79d52ea28359e96b191b82c545"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -151,9 +169,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/pulls{/number}",
-    "pushed_at": 1661956038,
+    "pushed_at": 1661957761,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/releases{/id}",
-    "size": 57,
+    "size": 60,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.DiscordIntegration.git",
     "stargazers": 0,
     "stargazers_count": 0,
