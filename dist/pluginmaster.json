@@ -77,7 +77,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1661961208,
+    "LastUpdated": 1661962123,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -95,7 +95,7 @@
     "CategoryTags": [
       "social"
     ],
-    "Changelog": "7d4b5fe: \u30af\u30ea\u30fc\u30f3\u30a2\u30c3\u30d7\nd5fead1: \u30d1\u30b9\u4fee\u6b63\n82c55ad: gitversion.json \u3092\u8aad\u3080\nd1d912b: \u30d0\u30fc\u30b8\u30e7\u30f3\u6226\u7565\u3092\u5909\u66f4\n12fcc04: \u30a2\u30af\u30b7\u30e7\u30f3\u5909\u3048\u3066\u307f\u308b\n8788afe: \u30d0\u30fc\u30b8\u30e7\u30f3\u60c5\u5831\u306e\u8868\u8a18\u3092\u4fee\u6b63\n4e068da: csproj \u306b TargetFramework \u3092\u66f8\u304b\u306a\u3044\n5555f4c: \ud83e\uddf9 dotnet format\n6e294d7: Dalamud 7\n773ad0a: Common \u3092 Nuget \u7d4c\u7531\u3067\u53c2\u7167\u3059\u308b\n1b9d765: \ud83d\udd27 chore(renovate): update config\nc250b99: re-enable .NET6\n75b16f2: Update Common\n82e9aa4: Merge branch 'master' of https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration\n5d2c35b: Update DiscordIntegrationPlugin.cs\ne94834c: Update Common\n82544f1: DalamudApiLevel 5 -> 6\n16e8666: feat: Support Patch 6.1\n7a84d1e: feat: Support Patch 6.0x",
+    "Changelog": "f5f8ed5: \ud83e\uddf9 dotnet format\n4c36da1: Reusable workflows \u3092\u4f7f\u3046\n7d4b5fe: \u30af\u30ea\u30fc\u30f3\u30a2\u30c3\u30d7\nd5fead1: \u30d1\u30b9\u4fee\u6b63\n82c55ad: gitversion.json \u3092\u8aad\u3080\nd1d912b: \u30d0\u30fc\u30b8\u30e7\u30f3\u6226\u7565\u3092\u5909\u66f4\n12fcc04: \u30a2\u30af\u30b7\u30e7\u30f3\u5909\u3048\u3066\u307f\u308b\n8788afe: \u30d0\u30fc\u30b8\u30e7\u30f3\u60c5\u5831\u306e\u8868\u8a18\u3092\u4fee\u6b63\n4e068da: csproj \u306b TargetFramework \u3092\u66f8\u304b\u306a\u3044\n5555f4c: \ud83e\uddf9 dotnet format\n6e294d7: Dalamud 7\n773ad0a: Common \u3092 Nuget \u7d4c\u7531\u3067\u53c2\u7167\u3059\u308b\n1b9d765: \ud83d\udd27 chore(renovate): update config\nc250b99: re-enable .NET6\n75b16f2: Update Common\n82e9aa4: Merge branch 'master' of https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration\n5d2c35b: Update DiscordIntegrationPlugin.cs\ne94834c: Update Common\n82544f1: DalamudApiLevel 5 -> 6\n16e8666: feat: Support Patch 6.1\n7a84d1e: feat: Support Patch 6.0x",
     "DalamudApiLevel": 7,
     "Description": "Dalamud Plugin to support Rich Presence for FFXIV.",
     "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.DiscordIntegration/latest.zip",
@@ -105,7 +105,7 @@
     "InternalName": "Divination.DiscordIntegration",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1661959421,
+    "LastUpdated": 1661961529,
     "LoadPriority": 0,
     "Name": "Divination.DiscordIntegration",
     "Punchline": "Fully-customizable Discord Rich Presence",
@@ -113,7 +113,7 @@
     "Tags": [
       "Discord"
     ],
-    "TestingAssemblyVersion": "0.1.0.69"
+    "TestingAssemblyVersion": "0.1.0.70"
   },
   {
     "ApplicableVersion": "any",
@@ -128,7 +128,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1661961208,
+    "LastUpdated": 1661962123,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
