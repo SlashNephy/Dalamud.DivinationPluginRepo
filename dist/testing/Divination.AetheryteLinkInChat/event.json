@@ -1,8 +1,26 @@
 {
-  "after": "8067ed4951087056c52ac4206613634c594560aa",
+  "after": "55768eb53047e36e5a0964ff1c402611e0403f0b",
   "base_ref": null,
-  "before": "ac094e7fbcc61c01b1bad48bd7bf8df3237a3f4d",
+  "before": "8067ed4951087056c52ac4206613634c594560aa",
   "commits": [
+    {
+      "author": {
+        "email": "29139614+renovate[bot]@users.noreply.github.com",
+        "name": "renovate[bot]",
+        "username": "renovate[bot]"
+      },
+      "committer": {
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
+      },
+      "distinct": false,
+      "id": "a5ffb083f9873092dedc3187b4687a02621f8dc9",
+      "message": "Update dependency gitversion.tool to v5.10.3",
+      "timestamp": "2022-08-26T17:15:54Z",
+      "tree_id": "980969bc095eeba40114c992ebccc2ad8c600749",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/commit/a5ffb083f9873092dedc3187b4687a02621f8dc9"
+    },
     {
       "author": {
         "email": "spica@starry.blue",
@@ -10,19 +28,19 @@
         "username": "SlashNephy"
       },
       "committer": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
       },
       "distinct": true,
-      "id": "8067ed4951087056c52ac4206613634c594560aa",
-      "message": "🔧 chore(renovate): update config",
-      "timestamp": "2022-08-26T22:27:52+09:00",
-      "tree_id": "03650f18288955ee9e8819c425aae2c00ebeaf25",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/commit/8067ed4951087056c52ac4206613634c594560aa"
+      "id": "55768eb53047e36e5a0964ff1c402611e0403f0b",
+      "message": "Merge pull request #4 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.10.3",
+      "timestamp": "2022-09-12T20:17:14+09:00",
+      "tree_id": "980969bc095eeba40114c992ebccc2ad8c600749",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/commit/55768eb53047e36e5a0964ff1c402611e0403f0b"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/compare/ac094e7fbcc6...8067ed495108",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/compare/8067ed495108...55768eb53047",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -33,16 +51,16 @@
       "username": "SlashNephy"
     },
     "committer": {
-      "email": "spica@starry.blue",
-      "name": "SlashNephy",
-      "username": "SlashNephy"
+      "email": "noreply@github.com",
+      "name": "GitHub",
+      "username": "web-flow"
     },
     "distinct": true,
-    "id": "8067ed4951087056c52ac4206613634c594560aa",
-    "message": "🔧 chore(renovate): update config",
-    "timestamp": "2022-08-26T22:27:52+09:00",
-    "tree_id": "03650f18288955ee9e8819c425aae2c00ebeaf25",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/commit/8067ed4951087056c52ac4206613634c594560aa"
+    "id": "55768eb53047e36e5a0964ff1c402611e0403f0b",
+    "message": "Merge pull request #4 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.10.3",
+    "timestamp": "2022-09-12T20:17:14+09:00",
+    "tree_id": "980969bc095eeba40114c992ebccc2ad8c600749",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/commit/55768eb53047e36e5a0964ff1c402611e0403f0b"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -124,8 +142,8 @@
     "name": "Dalamud.Divination.AetheryteLinkInChat",
     "node_id": "R_kgDOHC24pw",
     "notifications_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/notifications{?since,all,participating}",
-    "open_issues": 0,
-    "open_issues_count": 0,
+    "open_issues": 7,
+    "open_issues_count": 7,
     "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -151,9 +169,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/pulls{/number}",
-    "pushed_at": 1661520472,
+    "pushed_at": 1662981434,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/releases{/id}",
-    "size": 37,
+    "size": 43,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.AetheryteLinkInChat.git",
     "stargazers": 0,
     "stargazers_count": 0,
