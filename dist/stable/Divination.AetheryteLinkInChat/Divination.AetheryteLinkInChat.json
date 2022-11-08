@@ -1,0 +1,18 @@
+{
+  "Author": "Asteria Nocturna",
+  "Name": "Divination.AetheryteLinkInChat",
+  "InternalName": "Divination.AetheryteLinkInChat",
+  "AssemblyVersion": "0.1.0.56",
+  "Description": "Add a link to teleport to the nearest aetheryte into map link in chat. Teleporter plugin required!",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "teleporter"
+  ],
+  "CategoryTags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "Punchline": "Quick teleport for Mob Hunting"
+}
