@@ -6,7 +6,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "Changelog": "460130e: stg \u306e\u30d0\u30a4\u30ca\u30ea\u3092\u4f7f\u3046\n46d1612: Update README.md\n97968fd: \u30ea\u30d5\u30a1\u30af\u30bf\u30ea\u30f3\u30b0\n0d27d70: .NET 6\n55768eb: Merge pull request #4 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.10.3\na5ffb08: Update dependency gitversion.tool to v5.10.3\n8067ed4: \ud83d\udd27 chore(renovate): update config\nac094e7: .NET 6 and Api7\nccae22e: Delete Common\n94cb72e: Update packages.lock.json\nd329d45: Update AetheryteLinkInChatPlugin.cs\nb8b929b: Update Divination.AetheryteLinkInChat.csproj\nf41e162: Delete .gitmodules\nb2d320b: remove Common dependencies\n51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5",
+    "Changelog": "355c8e4: \ud83e\uddf9 dotnet format\n1555d9d: reusable workflows \u3092\u4f7f\u3046\n460130e: stg \u306e\u30d0\u30a4\u30ca\u30ea\u3092\u4f7f\u3046\n46d1612: Update README.md\n97968fd: \u30ea\u30d5\u30a1\u30af\u30bf\u30ea\u30f3\u30b0\n0d27d70: .NET 6\n55768eb: Merge pull request #4 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.10.3\na5ffb08: Update dependency gitversion.tool to v5.10.3\n8067ed4: \ud83d\udd27 chore(renovate): update config\nac094e7: .NET 6 and Api7\nccae22e: Delete Common\n94cb72e: Update packages.lock.json\nd329d45: Update AetheryteLinkInChatPlugin.cs\nb8b929b: Update Divination.AetheryteLinkInChat.csproj\nf41e162: Delete .gitmodules\nb2d320b: remove Common dependencies\n51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5",
     "DalamudApiLevel": 7,
     "Description": "Add a link to teleport to the nearest aetheryte into map link in chat. Teleporter plugin required!",
     "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.AetheryteLinkInChat/latest.zip",
@@ -16,7 +16,7 @@
     "InternalName": "Divination.AetheryteLinkInChat",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1667919793,
+    "LastUpdated": 1667921410,
     "LoadPriority": 0,
     "Name": "Divination.AetheryteLinkInChat",
     "Punchline": "Quick teleport for Mob Hunting",
@@ -24,7 +24,7 @@
     "Tags": [
       "teleporter"
     ],
-    "TestingAssemblyVersion": "0.1.0.56"
+    "TestingAssemblyVersion": "0.1.0.57"
   },
   {
     "ApplicableVersion": "any",
@@ -77,7 +77,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1667920684,
+    "LastUpdated": 1667921516,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -128,7 +128,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1667920684,
+    "LastUpdated": 1667921516,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
