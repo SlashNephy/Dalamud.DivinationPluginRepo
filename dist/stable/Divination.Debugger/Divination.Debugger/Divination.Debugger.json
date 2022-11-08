@@ -1,0 +1,19 @@
+{
+  "Author": "Asteria Nocturna",
+  "Name": "Divination.Debugger",
+  "InternalName": "Divination.Debugger",
+  "AssemblyVersion": "0.1.0.71",
+  "Description": "Tiny tool to inspect game...",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Development",
+    "Debug"
+  ],
+  "CategoryTags": [
+    "utility"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "ImageUrls": [],
+  "Punchline": "You don't need this unless you are developer."
+}
