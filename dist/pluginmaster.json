@@ -55,7 +55,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.70",
+    "AssemblyVersion": "0.1.0.71",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "utility"
@@ -121,7 +121,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1667925333,
+    "LastUpdated": 1667926048,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
