@@ -1,7 +1,7 @@
 {
-  "after": "46d1612b5c9fd50384963d4530d0641896835946",
+  "after": "460130e9d18c2c8d9975949979ccab9c1d408828",
   "base_ref": null,
-  "before": "0d27d7067fe60d833ae75ad208a10c4b9e8a4f24",
+  "before": "46d1612b5c9fd50384963d4530d0641896835946",
   "commits": [
     {
       "author": {
@@ -15,32 +15,14 @@
         "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "97968fd8b46077e0e5b48746e77d0d9dc50a9591",
-      "message": "リファクタリング",
-      "timestamp": "2022-11-08T23:56:46+09:00",
-      "tree_id": "bc0324a2142df05377bfa24f800854c9eedd9204",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/commit/97968fd8b46077e0e5b48746e77d0d9dc50a9591"
-    },
-    {
-      "author": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "committer": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "distinct": true,
-      "id": "46d1612b5c9fd50384963d4530d0641896835946",
-      "message": "Update README.md",
-      "timestamp": "2022-11-08T23:56:54+09:00",
-      "tree_id": "c9a52217bb4e52d5dc62e555aa444a0e882a5943",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/commit/46d1612b5c9fd50384963d4530d0641896835946"
+      "id": "460130e9d18c2c8d9975949979ccab9c1d408828",
+      "message": "stg のバイナリを使う",
+      "timestamp": "2022-11-09T00:03:13+09:00",
+      "tree_id": "d4a6c1d87fd6df14f26f8023e7daf8fb82d4e3bb",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/commit/460130e9d18c2c8d9975949979ccab9c1d408828"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/compare/0d27d7067fe6...46d1612b5c9f",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/compare/46d1612b5c9f...460130e9d18c",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -56,11 +38,11 @@
       "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "46d1612b5c9fd50384963d4530d0641896835946",
-    "message": "Update README.md",
-    "timestamp": "2022-11-08T23:56:54+09:00",
-    "tree_id": "c9a52217bb4e52d5dc62e555aa444a0e882a5943",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/commit/46d1612b5c9fd50384963d4530d0641896835946"
+    "id": "460130e9d18c2c8d9975949979ccab9c1d408828",
+    "message": "stg のバイナリを使う",
+    "timestamp": "2022-11-09T00:03:13+09:00",
+    "tree_id": "d4a6c1d87fd6df14f26f8023e7daf8fb82d4e3bb",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/commit/460130e9d18c2c8d9975949979ccab9c1d408828"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -170,7 +152,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/pulls{/number}",
-    "pushed_at": 1667919422,
+    "pushed_at": 1667919796,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.AetheryteLinkInChat/releases{/id}",
     "size": 46,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.AetheryteLinkInChat.git",
