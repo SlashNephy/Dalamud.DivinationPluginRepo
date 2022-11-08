@@ -1,5 +1,49 @@
 {
-  "inputs": null,
+  "after": "6a4dab20bdc64c4362607bc8343e484ee41bc84e",
+  "base_ref": null,
+  "before": "dae271d56e055661753744d9e9930132237bc6ef",
+  "commits": [
+    {
+      "author": {
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
+      },
+      "committer": {
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
+      },
+      "distinct": true,
+      "id": "6a4dab20bdc64c4362607bc8343e484ee41bc84e",
+      "message": "Update README",
+      "timestamp": "2022-11-09T01:02:31+09:00",
+      "tree_id": "69396033ac173910e0082be133da4c61d3412dcb",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/6a4dab20bdc64c4362607bc8343e484ee41bc84e"
+    }
+  ],
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/compare/dae271d56e05...6a4dab20bdc6",
+  "created": false,
+  "deleted": false,
+  "forced": false,
+  "head_commit": {
+    "author": {
+      "email": "spica@starry.blue",
+      "name": "SlashNephy",
+      "username": "SlashNephy"
+    },
+    "committer": {
+      "email": "spica@starry.blue",
+      "name": "SlashNephy",
+      "username": "SlashNephy"
+    },
+    "distinct": true,
+    "id": "6a4dab20bdc64c4362607bc8343e484ee41bc84e",
+    "message": "Update README",
+    "timestamp": "2022-11-09T01:02:31+09:00",
+    "tree_id": "69396033ac173910e0082be133da4c61d3412dcb",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/6a4dab20bdc64c4362607bc8343e484ee41bc84e"
+  },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
     "description": "",
@@ -13,6 +57,10 @@
     "public_members_url": "https://api.github.com/orgs/horoscope-dev/public_members{/member}",
     "repos_url": "https://api.github.com/orgs/horoscope-dev/repos",
     "url": "https://api.github.com/orgs/horoscope-dev"
+  },
+  "pusher": {
+    "email": "spica@starry.blue",
+    "name": "SlashNephy"
   },
   "ref": "refs/heads/master",
   "repository": {
@@ -29,7 +77,7 @@
     "compare_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/compare/{base}...{head}",
     "contents_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/contents/{+path}",
     "contributors_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/contributors",
-    "created_at": "2021-09-03T05:35:38Z",
+    "created_at": 1630647338,
     "default_branch": "master",
     "deployments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/deployments",
     "description": "🪄 Dalamud Plugin to support Rich Presence for FFXIV",
@@ -70,6 +118,7 @@
       "spdx_id": "MIT",
       "url": "https://api.github.com/licenses/mit"
     },
+    "master_branch": "master",
     "merges_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/merges",
     "milestones_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/milestones{/number}",
     "mirror_url": null,
@@ -78,8 +127,10 @@
     "notifications_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/notifications{?since,all,participating}",
     "open_issues": 3,
     "open_issues_count": 3,
+    "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
+      "email": null,
       "events_url": "https://api.github.com/users/horoscope-dev/events{/privacy}",
       "followers_url": "https://api.github.com/users/horoscope-dev/followers",
       "following_url": "https://api.github.com/users/horoscope-dev/following{/other_user}",
@@ -88,6 +139,7 @@
       "html_url": "https://github.com/horoscope-dev",
       "id": 7855451,
       "login": "horoscope-dev",
+      "name": "horoscope-dev",
       "node_id": "MDEyOk9yZ2FuaXphdGlvbjc4NTU0NTE=",
       "organizations_url": "https://api.github.com/users/horoscope-dev/orgs",
       "received_events_url": "https://api.github.com/users/horoscope-dev/received_events",
@@ -100,10 +152,11 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/pulls{/number}",
-    "pushed_at": "2022-11-08T15:34:47Z",
+    "pushed_at": 1667923358,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/releases{/id}",
     "size": 82,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.DiscordIntegration.git",
+    "stargazers": 1,
     "stargazers_count": 1,
     "stargazers_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/stargazers",
     "statuses_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/statuses/{sha}",
@@ -115,7 +168,7 @@
     "topics": [],
     "trees_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/git/trees{/sha}",
     "updated_at": "2022-11-08T15:33:39Z",
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration",
     "visibility": "public",
     "watchers": 1,
     "watchers_count": 1,
@@ -140,6 +193,5 @@
     "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
     "type": "User",
     "url": "https://api.github.com/users/SlashNephy"
-  },
-  "workflow": ".github/workflows/ci.yml"
+  }
 }
