@@ -55,7 +55,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.36",
+    "AssemblyVersion": "0.1.0.70",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "utility"
@@ -70,7 +70,7 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1667923556,
+    "LastUpdated": 1667923639,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
@@ -79,7 +79,7 @@
       "Development",
       "Debug"
     ],
-    "TestingAssemblyVersion": "0.1.0.69"
+    "TestingAssemblyVersion": "0.1.0.70"
   },
   {
     "ApplicableVersion": "any",
@@ -121,7 +121,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1667923556,
+    "LastUpdated": 1667923639,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
