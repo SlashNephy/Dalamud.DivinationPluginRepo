@@ -1,8 +1,26 @@
 {
-  "after": "4c36da1f2b9d56e4331bbe2a2309ab01c17f8002",
+  "after": "dae271d56e055661753744d9e9930132237bc6ef",
   "base_ref": null,
-  "before": "7d4b5fe09241b7b2aa15c89346440186d9a82b79",
+  "before": "f5f8ed58dca0452f2a9aeb3b044ec43c80edbb9e",
   "commits": [
+    {
+      "author": {
+        "email": "29139614+renovate[bot]@users.noreply.github.com",
+        "name": "renovate[bot]",
+        "username": "renovate[bot]"
+      },
+      "committer": {
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
+      },
+      "distinct": false,
+      "id": "cade51e9409a84a9350d933f008b667e8e3eba2b",
+      "message": "Update dependency DiscordRichPresence to v1.1.1.14",
+      "timestamp": "2022-10-21T15:11:41Z",
+      "tree_id": "3bce9604c55c7ec96ad1ae1cd423edd717b12675",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/cade51e9409a84a9350d933f008b667e8e3eba2b"
+    },
     {
       "author": {
         "email": "spica@starry.blue",
@@ -10,19 +28,19 @@
         "username": "SlashNephy"
       },
       "committer": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
       },
       "distinct": true,
-      "id": "4c36da1f2b9d56e4331bbe2a2309ab01c17f8002",
-      "message": "Reusable workflows を使う",
-      "timestamp": "2022-09-01T00:58:49+09:00",
-      "tree_id": "71e370be85698513a19409ab314c809db46285bc",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/4c36da1f2b9d56e4331bbe2a2309ab01c17f8002"
+      "id": "dae271d56e055661753744d9e9930132237bc6ef",
+      "message": "Merge pull request #12 from horoscope-dev/renovate/discordrichpresence-1.x\n\nUpdate dependency DiscordRichPresence to v1.1.1.14",
+      "timestamp": "2022-11-09T00:34:29+09:00",
+      "tree_id": "3bce9604c55c7ec96ad1ae1cd423edd717b12675",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/dae271d56e055661753744d9e9930132237bc6ef"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/compare/7d4b5fe09241...4c36da1f2b9d",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/compare/f5f8ed58dca0...dae271d56e05",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -33,16 +51,16 @@
       "username": "SlashNephy"
     },
     "committer": {
-      "email": "spica@starry.blue",
-      "name": "SlashNephy",
-      "username": "SlashNephy"
+      "email": "noreply@github.com",
+      "name": "GitHub",
+      "username": "web-flow"
     },
     "distinct": true,
-    "id": "4c36da1f2b9d56e4331bbe2a2309ab01c17f8002",
-    "message": "Reusable workflows を使う",
-    "timestamp": "2022-09-01T00:58:49+09:00",
-    "tree_id": "71e370be85698513a19409ab314c809db46285bc",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/4c36da1f2b9d56e4331bbe2a2309ab01c17f8002"
+    "id": "dae271d56e055661753744d9e9930132237bc6ef",
+    "message": "Merge pull request #12 from horoscope-dev/renovate/discordrichpresence-1.x\n\nUpdate dependency DiscordRichPresence to v1.1.1.14",
+    "timestamp": "2022-11-09T00:34:29+09:00",
+    "tree_id": "3bce9604c55c7ec96ad1ae1cd423edd717b12675",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration/commit/dae271d56e055661753744d9e9930132237bc6ef"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -93,11 +111,12 @@
     "git_refs_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/git/refs{/sha}",
     "git_tags_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/git/tags{/sha}",
     "git_url": "git://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration.git",
+    "has_discussions": false,
     "has_downloads": true,
     "has_issues": true,
     "has_pages": false,
     "has_projects": true,
-    "has_wiki": true,
+    "has_wiki": false,
     "homepage": "",
     "hooks_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/hooks",
     "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration",
@@ -124,8 +143,8 @@
     "name": "Dalamud.Divination.DiscordIntegration",
     "node_id": "MDEwOlJlcG9zaXRvcnk0MDI2NTgzNDY=",
     "notifications_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/notifications{?since,all,participating}",
-    "open_issues": 2,
-    "open_issues_count": 2,
+    "open_issues": 3,
+    "open_issues_count": 3,
     "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -151,12 +170,12 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/pulls{/number}",
-    "pushed_at": 1661961913,
+    "pushed_at": 1667921669,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/releases{/id}",
-    "size": 63,
+    "size": 82,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.DiscordIntegration.git",
-    "stargazers": 0,
-    "stargazers_count": 0,
+    "stargazers": 1,
+    "stargazers_count": 1,
     "stargazers_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/stargazers",
     "statuses_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/subscribers",
@@ -166,11 +185,11 @@
     "teams_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.DiscordIntegration/git/trees{/sha}",
-    "updated_at": "2021-10-24T04:52:19Z",
+    "updated_at": "2022-11-08T15:33:39Z",
     "url": "https://github.com/horoscope-dev/Dalamud.Divination.DiscordIntegration",
     "visibility": "public",
-    "watchers": 0,
-    "watchers_count": 0,
+    "watchers": 1,
+    "watchers_count": 1,
     "web_commit_signoff_required": false
   },
   "sender": {
