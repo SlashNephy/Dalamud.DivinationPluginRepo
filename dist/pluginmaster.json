@@ -122,7 +122,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1667995177,
+    "LastUpdated": 1667995419,
     "LoadPriority": 0,
     "Name": "Divination.InstanceIDViewer",
     "Punchline": "",
@@ -134,13 +134,13 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.54",
+    "AssemblyVersion": "0.1.0.58",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "utility"
     ],
-    "Changelog": "707d83e: \ud83d\udd27 chore(renovate): update config\nc48c154: feat: Support Patch 6.1\n7245a13: feat: Support Dalamud API 5\nb2ad1e6: Update build.yml\n9a10147: Update build.yml\ncbc810c: Update build.yml\n9aca661: Update build.yml\n0d7aea6: Update build.yml\nf5b1206: Update build.yml\n5c2e270: Revert to conventional commands",
-    "DalamudApiLevel": 6,
+    "Changelog": "9c4e535: Merge remote-tracking branch 'origin/master'\nc2095ea: \u30b5\u30d6\u30e2\u30b8\u30e5\u30fc\u30eb\u9664\u53bb\n00c46f8: \ud83e\uddf9 dotnet format\n0db1577: API 7\n707d83e: \ud83d\udd27 chore(renovate): update config\nc48c154: feat: Support Patch 6.1\n7245a13: feat: Support Dalamud API 5\nb2ad1e6: Update build.yml\n9a10147: Update build.yml\ncbc810c: Update build.yml\n9aca661: Update build.yml\n0d7aea6: Update build.yml\nf5b1206: Update build.yml",
+    "DalamudApiLevel": 7,
     "Description": "Add /power save, /power balance, /power perf, /monitoroff commands for power management",
     "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.PowerUtils/latest.zip",
     "DownloadLinkTesting": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.PowerUtils/latest.zip",
@@ -149,7 +149,7 @@
     "InternalName": "Divination.PowerUtils",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1661520472,
+    "LastUpdated": 1667995262,
     "LoadPriority": 0,
     "Name": "Divination.PowerUtils",
     "Punchline": "Save Energy!",
@@ -157,7 +157,7 @@
     "Tags": [
       "Command"
     ],
-    "TestingAssemblyVersion": "0.1.0.54"
+    "TestingAssemblyVersion": "0.1.0.58"
   },
   {
     "ApplicableVersion": "any",
