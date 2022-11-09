@@ -1,7 +1,7 @@
 {
-  "after": "707d83e00ae566d6dfed70068156fb9169bce163",
+  "after": "9c4e5352b4a9833d685ad4b6d8740ab5da39fd7b",
   "base_ref": null,
-  "before": "4538f74d524f4c470350030c1af1a3e7ecf2a830",
+  "before": "00c46f80798e481e1985b8124eecdee0162759b4",
   "commits": [
     {
       "author": {
@@ -15,14 +15,32 @@
         "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "707d83e00ae566d6dfed70068156fb9169bce163",
-      "message": "🔧 chore(renovate): update config",
-      "timestamp": "2022-08-26T22:27:52+09:00",
-      "tree_id": "554733fad99b3ea469aa9dbec1ee9be7f3ca21e7",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/707d83e00ae566d6dfed70068156fb9169bce163"
+      "id": "c2095eafae99b5bb33f330757ec0647fa85229fa",
+      "message": "サブモジュール除去",
+      "timestamp": "2022-11-09T21:00:50+09:00",
+      "tree_id": "8d8d89fe24700688bbd1a2d59e37f5854672c129",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/c2095eafae99b5bb33f330757ec0647fa85229fa"
+    },
+    {
+      "author": {
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
+      },
+      "committer": {
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
+      },
+      "distinct": true,
+      "id": "9c4e5352b4a9833d685ad4b6d8740ab5da39fd7b",
+      "message": "Merge remote-tracking branch origin/master",
+      "timestamp": "2022-11-09T21:01:02+09:00",
+      "tree_id": "7716e5f92100c8490dc98233bf1a7a17f7598e71",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/9c4e5352b4a9833d685ad4b6d8740ab5da39fd7b"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/compare/4538f74d524f...707d83e00ae5",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/compare/00c46f80798e...9c4e5352b4a9",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -38,11 +56,11 @@
       "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "707d83e00ae566d6dfed70068156fb9169bce163",
-    "message": "🔧 chore(renovate): update config",
-    "timestamp": "2022-08-26T22:27:52+09:00",
-    "tree_id": "554733fad99b3ea469aa9dbec1ee9be7f3ca21e7",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/707d83e00ae566d6dfed70068156fb9169bce163"
+    "id": "9c4e5352b4a9833d685ad4b6d8740ab5da39fd7b",
+    "message": "Merge remote-tracking branch origin/master",
+    "timestamp": "2022-11-09T21:01:02+09:00",
+    "tree_id": "7716e5f92100c8490dc98233bf1a7a17f7598e71",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.PowerUtils/commit/9c4e5352b4a9833d685ad4b6d8740ab5da39fd7b"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -93,6 +111,7 @@
     "git_refs_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.PowerUtils/git/refs{/sha}",
     "git_tags_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.PowerUtils/git/tags{/sha}",
     "git_url": "git://github.com/horoscope-dev/Dalamud.Divination.PowerUtils.git",
+    "has_discussions": false,
     "has_downloads": true,
     "has_issues": true,
     "has_pages": false,
@@ -124,8 +143,8 @@
     "name": "Dalamud.Divination.PowerUtils",
     "node_id": "MDEwOlJlcG9zaXRvcnk0MDI2NjIyMTQ=",
     "notifications_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.PowerUtils/notifications{?since,all,participating}",
-    "open_issues": 0,
-    "open_issues_count": 0,
+    "open_issues": 9,
+    "open_issues_count": 9,
     "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -151,9 +170,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.PowerUtils/pulls{/number}",
-    "pushed_at": 1661520472,
+    "pushed_at": 1667995263,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.PowerUtils/releases{/id}",
-    "size": 30,
+    "size": 37,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.PowerUtils.git",
     "stargazers": 0,
     "stargazers_count": 0,
