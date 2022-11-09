@@ -1,7 +1,7 @@
 {
-  "after": "54f71b8c33bb32fb11319b47f62515a0d5d14cf3",
+  "after": "63fc1440efff616b1ddafbffbf0329b60facb082",
   "base_ref": null,
-  "before": "07f4089e5ec229082fae8fb7d7c52824c9da7f87",
+  "before": "34105d8239c2f79f77c883398147a723f28befa3",
   "commits": [
     {
       "author": {
@@ -15,17 +15,17 @@
         "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "54f71b8c33bb32fb11319b47f62515a0d5d14cf3",
-      "message": "🔧 chore(renovate): update config",
-      "timestamp": "2022-08-26T22:27:52+09:00",
-      "tree_id": "f26fca71c36b699208e30dd25fe6e75379cd4d97",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/54f71b8c33bb32fb11319b47f62515a0d5d14cf3"
+      "id": "63fc1440efff616b1ddafbffbf0329b60facb082",
+      "message": "API 7",
+      "timestamp": "2022-11-09T20:30:19+09:00",
+      "tree_id": "2c949e31a3eb816c75282af7de001ff449d5e02b",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/63fc1440efff616b1ddafbffbf0329b60facb082"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/compare/07f4089e5ec2...54f71b8c33bb",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/compare/34105d8239c2...63fc1440efff",
   "created": false,
   "deleted": false,
-  "forced": false,
+  "forced": true,
   "head_commit": {
     "author": {
       "email": "spica@starry.blue",
@@ -38,11 +38,11 @@
       "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "54f71b8c33bb32fb11319b47f62515a0d5d14cf3",
-    "message": "🔧 chore(renovate): update config",
-    "timestamp": "2022-08-26T22:27:52+09:00",
-    "tree_id": "f26fca71c36b699208e30dd25fe6e75379cd4d97",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/54f71b8c33bb32fb11319b47f62515a0d5d14cf3"
+    "id": "63fc1440efff616b1ddafbffbf0329b60facb082",
+    "message": "API 7",
+    "timestamp": "2022-11-09T20:30:19+09:00",
+    "tree_id": "2c949e31a3eb816c75282af7de001ff449d5e02b",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/63fc1440efff616b1ddafbffbf0329b60facb082"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -93,6 +93,7 @@
     "git_refs_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/refs{/sha}",
     "git_tags_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/tags{/sha}",
     "git_url": "git://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration.git",
+    "has_discussions": false,
     "has_downloads": true,
     "has_issues": true,
     "has_pages": false,
@@ -124,8 +125,8 @@
     "name": "Dalamud.Divination.TwitterIntegration",
     "node_id": "MDEwOlJlcG9zaXRvcnk0MDI2NTE5NDE=",
     "notifications_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/notifications{?since,all,participating}",
-    "open_issues": 0,
-    "open_issues_count": 0,
+    "open_issues": 9,
+    "open_issues_count": 9,
     "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -151,9 +152,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/pulls{/number}",
-    "pushed_at": 1661520472,
+    "pushed_at": 1667993425,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/releases{/id}",
-    "size": 32,
+    "size": 39,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.TwitterIntegration.git",
     "stargazers": 1,
     "stargazers_count": 1,
