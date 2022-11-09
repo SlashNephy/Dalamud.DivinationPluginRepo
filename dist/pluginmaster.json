@@ -121,7 +121,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1667993546,
+    "LastUpdated": 1667993871,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
@@ -217,13 +217,13 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.48",
+    "AssemblyVersion": "0.1.0.50",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "utility"
     ],
-    "Changelog": "9808e0c: feat: Support Patch 6.1\n08b6aaf: feat: Support Dalamud API 6",
-    "DalamudApiLevel": 6,
+    "Changelog": "bf74b5c: \ud83e\uddf9 dotnet format\n0f21f2f: API 7\n0f5b930: \ud83d\udd27 chore(renovate): update config\n9808e0c: feat: Support Patch 6.1\n08b6aaf: feat: Support Dalamud API 6",
+    "DalamudApiLevel": 7,
     "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).",
     "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.Voiceroid2Talker/latest.zip",
     "DownloadLinkTesting": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.Voiceroid2Talker/latest.zip",
@@ -232,7 +232,7 @@
     "InternalName": "Divination.Voiceroid2Talker",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1651064270,
+    "LastUpdated": 1667993750,
     "LoadPriority": 0,
     "Name": "Divination.Voiceroid2Talker",
     "Punchline": "Text-to-Speech for Voiceroid2",
@@ -241,6 +241,6 @@
       "Text-to-speech",
       "Voiceroid"
     ],
-    "TestingAssemblyVersion": "0.1.0.48"
+    "TestingAssemblyVersion": "0.1.0.50"
   }
 ]
