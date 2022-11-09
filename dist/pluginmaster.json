@@ -33,8 +33,8 @@
     "CategoryTags": [
       "utility"
     ],
-    "Changelog": "bc3e948: \ud83d\udd27 chore(renovate): update config\n70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
-    "DalamudApiLevel": 6,
+    "Changelog": "17dadef: \ud83e\uddf9 dotnet format\n90f0198: API 7\nbc3e948: \ud83d\udd27 chore(renovate): update config\n70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
+    "DalamudApiLevel": 7,
     "Description": "Simple plugin to just add /calc command.",
     "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.Calculator/latest.zip",
     "DownloadLinkTesting": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.Calculator/latest.zip",
@@ -43,7 +43,7 @@
     "InternalName": "Divination.Calculator",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1661520472,
+    "LastUpdated": 1667993001,
     "LoadPriority": 0,
     "Name": "Divination.Calculator",
     "Punchline": "/calc 33 - 4",
@@ -51,7 +51,7 @@
     "Tags": [
       "utility"
     ],
-    "TestingAssemblyVersion": "0.1.0.49"
+    "TestingAssemblyVersion": "0.1.0.50"
   },
   {
     "ApplicableVersion": "any",
@@ -121,7 +121,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1667988377,
+    "LastUpdated": 1667993127,
     "LoadPriority": 0,
     "Name": "InstanceIDViewer",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
