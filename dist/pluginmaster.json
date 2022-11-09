@@ -112,20 +112,25 @@
     "ApplicableVersion": "any",
     "AssemblyVersion": "6.11.1.0",
     "Author": "Horoscope developers",
-    "Changelog": null,
-    "DalamudApiLevel": 6,
+    "Changelog": "983d0c9: \ud83e\uddf9 dotnet format\n0c37ca6: reusable workflow \u3092\u4f7f\u3046\nd38dffc: \ud83d\udd27 chore(renovate): update config\nf7080d1: .NET 6/Api7\n575f29e: Bump version to 6.11.0\n87fb5ed: DalamudApiLevel 5 -> 6\n55b6259: Dalamud api 5\n47e921a: Update build.yaml\nbacd86d: fix\n6d27f69: fix project name\n6577000: fix PLUGIN_PROJECT_NAME\n00685a5: rename\nbfe5652: Dlalamud API4\n0f7745f: Dlalamud API4\n240d645: Delete InstanceIDViewer.sln.DotSettings.user\nedfde33: Create README.md\nef1e4df: fix\n5c73961: init",
+    "DalamudApiLevel": 7,
     "Description": "show instance id in chat when instance changed",
     "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.InstanceIDViewer/latest.zip",
     "DownloadLinkTesting": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.InstanceIDViewer/latest.zip",
     "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+    "ImageUrls": [],
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1667993871,
+    "LastUpdated": 1667995177,
     "LoadPriority": 0,
-    "Name": "InstanceIDViewer",
+    "Name": "Divination.InstanceIDViewer",
+    "Punchline": "",
     "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer",
-    "TestingAssemblyVersion": "0.1.0.0"
+    "Tags": [
+      "Discord"
+    ],
+    "TestingAssemblyVersion": "6.11.1.4"
   },
   {
     "ApplicableVersion": "any",
