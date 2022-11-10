@@ -112,7 +112,7 @@
     "ApplicableVersion": "any",
     "AssemblyVersion": "6.11.1.0",
     "Author": "Horoscope developers",
-    "Changelog": "983d0c9: \ud83e\uddf9 dotnet format\n0c37ca6: reusable workflow \u3092\u4f7f\u3046\nd38dffc: \ud83d\udd27 chore(renovate): update config\nf7080d1: .NET 6/Api7\n575f29e: Bump version to 6.11.0\n87fb5ed: DalamudApiLevel 5 -> 6\n55b6259: Dalamud api 5\n47e921a: Update build.yaml\nbacd86d: fix\n6d27f69: fix project name\n6577000: fix PLUGIN_PROJECT_NAME\n00685a5: rename\nbfe5652: Dlalamud API4\n0f7745f: Dlalamud API4\n240d645: Delete InstanceIDViewer.sln.DotSettings.user\nedfde33: Create README.md\nef1e4df: fix\n5c73961: init",
+    "Changelog": "4afbd88: \ud83e\uddf9 dotnet format\n841b8b4: DtrBar \u3067\u30b5\u30fc\u30d0\u30fc\u60c5\u5831\u30d0\u30fc\u306b\u30a4\u30f3\u30b9\u30bf\u30f3\u30b9ID\u3092\u8868\u793a\u3059\u308b\u3088\u3046\u306b\n1d2a188: \u30d3\u30eb\u30c9\u69cb\u6210\u304c\u9593\u9055\u3063\u3066\u3044\u305f\n983d0c9: \ud83e\uddf9 dotnet format\n0c37ca6: reusable workflow \u3092\u4f7f\u3046\nd38dffc: \ud83d\udd27 chore(renovate): update config\nf7080d1: .NET 6/Api7\n575f29e: Bump version to 6.11.0\n87fb5ed: DalamudApiLevel 5 -> 6\n55b6259: Dalamud api 5\n47e921a: Update build.yaml\nbacd86d: fix\n6d27f69: fix project name\n6577000: fix PLUGIN_PROJECT_NAME\n00685a5: rename\nbfe5652: Dlalamud API4\n0f7745f: Dlalamud API4\n240d645: Delete InstanceIDViewer.sln.DotSettings.user\nedfde33: Create README.md\nef1e4df: fix\n5c73961: init",
     "DalamudApiLevel": 7,
     "Description": "show instance id in chat when instance changed",
     "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.InstanceIDViewer/latest.zip",
@@ -122,7 +122,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1668081016,
+    "LastUpdated": 1668082303,
     "LoadPriority": 0,
     "Name": "Divination.InstanceIDViewer",
     "Punchline": "",
@@ -130,7 +130,7 @@
     "Tags": [
       "Discord"
     ],
-    "TestingAssemblyVersion": "6.11.1.4"
+    "TestingAssemblyVersion": "6.11.1.7"
   },
   {
     "ApplicableVersion": "any",
