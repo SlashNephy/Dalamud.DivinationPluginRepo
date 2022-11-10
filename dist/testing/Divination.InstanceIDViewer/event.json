@@ -1,7 +1,7 @@
 {
-  "after": "0c37ca65a1390eefbc55a12ba9736b76fd0323be",
+  "after": "841b8b42e3e228de66c80a8561aab777248e4dd2",
   "base_ref": null,
-  "before": "d38dffc5b0b78f2693e36f35695ba483723eeb7a",
+  "before": "983d0c9b1e0364905907b251e0c2a2cd6ceebf82",
   "commits": [
     {
       "author": {
@@ -15,14 +15,32 @@
         "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "0c37ca65a1390eefbc55a12ba9736b76fd0323be",
-      "message": "reusable workflow を使う",
-      "timestamp": "2022-11-09T20:56:48+09:00",
-      "tree_id": "3722c1c8062533d852a76b88cfacf4accad40487",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/0c37ca65a1390eefbc55a12ba9736b76fd0323be"
+      "id": "1d2a18831af31dc7011cdc3ebfe18b32c846879b",
+      "message": "ビルド構成が間違っていた",
+      "timestamp": "2022-11-10T21:08:23+09:00",
+      "tree_id": "24861647c30c6eeb4e692d45953e0e908c3d878b",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/1d2a18831af31dc7011cdc3ebfe18b32c846879b"
+    },
+    {
+      "author": {
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
+      },
+      "committer": {
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
+      },
+      "distinct": true,
+      "id": "841b8b42e3e228de66c80a8561aab777248e4dd2",
+      "message": "DtrBar でサーバー情報バーにインスタンスIDを表示するように",
+      "timestamp": "2022-11-10T21:10:02+09:00",
+      "tree_id": "6eb5bfbb4c2c143809d0d0da69fe5e0bb14f2a62",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/841b8b42e3e228de66c80a8561aab777248e4dd2"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/compare/d38dffc5b0b7...0c37ca65a139",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/compare/983d0c9b1e03...841b8b42e3e2",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -38,11 +56,11 @@
       "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "0c37ca65a1390eefbc55a12ba9736b76fd0323be",
-    "message": "reusable workflow を使う",
-    "timestamp": "2022-11-09T20:56:48+09:00",
-    "tree_id": "3722c1c8062533d852a76b88cfacf4accad40487",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/0c37ca65a1390eefbc55a12ba9736b76fd0323be"
+    "id": "841b8b42e3e228de66c80a8561aab777248e4dd2",
+    "message": "DtrBar でサーバー情報バーにインスタンスIDを表示するように",
+    "timestamp": "2022-11-10T21:10:02+09:00",
+    "tree_id": "6eb5bfbb4c2c143809d0d0da69fe5e0bb14f2a62",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/841b8b42e3e228de66c80a8561aab777248e4dd2"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -146,9 +164,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/pulls{/number}",
-    "pushed_at": 1667995010,
+    "pushed_at": 1668082205,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/releases{/id}",
-    "size": 272,
+    "size": 278,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.InstanceIDViewer.git",
     "stargazers": 0,
     "stargazers_count": 0,
