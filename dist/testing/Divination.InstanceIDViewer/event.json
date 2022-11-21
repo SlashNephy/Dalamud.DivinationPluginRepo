@@ -1,7 +1,7 @@
 {
-  "after": "2675eac355769beeed8039988ce96ef666e83ee0",
+  "after": "4778e1517c7712b0b8e9421c051964eebcca0aaf",
   "base_ref": null,
-  "before": "4afbd883b3f786406f36996e211f4f1fa7d2d2f0",
+  "before": "2675eac355769beeed8039988ce96ef666e83ee0",
   "commits": [
     {
       "author": {
@@ -15,11 +15,29 @@
         "username": "web-flow"
       },
       "distinct": false,
-      "id": "580363ea87cad51c42b8696072f961527a555d31",
-      "message": "Update dependency DalamudPackager to v2.1.8",
-      "timestamp": "2022-11-20T15:13:18Z",
-      "tree_id": "790286e6b9220db022235e0aa16085557143eabc",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/580363ea87cad51c42b8696072f961527a555d31"
+      "id": "d7ddaa49bbf3793e71c7f053d874b2e076ae2a47",
+      "message": "Update dependency GitVersion.MsBuild to v5.11.1",
+      "timestamp": "2022-11-21T00:05:17Z",
+      "tree_id": "0dc3239427b301d24dba3d26fe1b4cc5644c5677",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/d7ddaa49bbf3793e71c7f053d874b2e076ae2a47"
+    },
+    {
+      "author": {
+        "email": "renovate[bot]@users.noreply.github.com",
+        "name": "renovate[bot]",
+        "username": "renovate[bot]"
+      },
+      "committer": {
+        "email": "github-actions[bot]@users.noreply.github.com",
+        "name": "github-actions[bot]",
+        "username": "github-actions[bot]"
+      },
+      "distinct": false,
+      "id": "c84e2e4c69650b54bf68725beb4262562ba13d4b",
+      "message": "🧹 dotnet format",
+      "timestamp": "2022-11-21T00:05:55Z",
+      "tree_id": "cd1a9a88289d203088563e1aa161a2725e0959df",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/c84e2e4c69650b54bf68725beb4262562ba13d4b"
     },
     {
       "author": {
@@ -33,14 +51,14 @@
         "username": "web-flow"
       },
       "distinct": true,
-      "id": "2675eac355769beeed8039988ce96ef666e83ee0",
-      "message": "Merge pull request #3 from horoscope-dev/renovate/dalamudpackager-2.x\n\nUpdate dependency DalamudPackager to v2.1.8",
-      "timestamp": "2022-11-21T10:13:08+09:00",
-      "tree_id": "790286e6b9220db022235e0aa16085557143eabc",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/2675eac355769beeed8039988ce96ef666e83ee0"
+      "id": "4778e1517c7712b0b8e9421c051964eebcca0aaf",
+      "message": "Merge pull request #4 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1",
+      "timestamp": "2022-11-21T10:13:30+09:00",
+      "tree_id": "d32caad81c5d83fc105687c1a78b3c9a5036c514",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/4778e1517c7712b0b8e9421c051964eebcca0aaf"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/compare/4afbd883b3f7...2675eac35576",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/compare/2675eac35576...4778e1517c77",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -56,11 +74,11 @@
       "username": "web-flow"
     },
     "distinct": true,
-    "id": "2675eac355769beeed8039988ce96ef666e83ee0",
-    "message": "Merge pull request #3 from horoscope-dev/renovate/dalamudpackager-2.x\n\nUpdate dependency DalamudPackager to v2.1.8",
-    "timestamp": "2022-11-21T10:13:08+09:00",
-    "tree_id": "790286e6b9220db022235e0aa16085557143eabc",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/2675eac355769beeed8039988ce96ef666e83ee0"
+    "id": "4778e1517c7712b0b8e9421c051964eebcca0aaf",
+    "message": "Merge pull request #4 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1",
+    "timestamp": "2022-11-21T10:13:30+09:00",
+    "tree_id": "d32caad81c5d83fc105687c1a78b3c9a5036c514",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/4778e1517c7712b0b8e9421c051964eebcca0aaf"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -137,8 +155,8 @@
     "name": "Dalamud.Divination.InstanceIDViewer",
     "node_id": "R_kgDOHC3fyA",
     "notifications_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/notifications{?since,all,participating}",
-    "open_issues": 2,
-    "open_issues_count": 2,
+    "open_issues": 1,
+    "open_issues_count": 1,
     "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -164,7 +182,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/pulls{/number}",
-    "pushed_at": 1668993188,
+    "pushed_at": 1668993210,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/releases{/id}",
     "size": 279,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.InstanceIDViewer.git",
