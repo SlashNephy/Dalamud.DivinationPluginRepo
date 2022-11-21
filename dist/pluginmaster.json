@@ -125,7 +125,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1669046797,
+    "LastUpdated": 1669050822,
     "LoadPriority": 0,
     "Name": "Divination.InstanceIDViewer",
     "Punchline": "",
@@ -134,6 +134,40 @@
       "Discord"
     ],
     "TestingAssemblyVersion": "6.11.1.13"
+  },
+  {
+    "ApplicableVersion": "any",
+    "AssemblyVersion": "0.1.0.1",
+    "Author": "[Author]",
+    "CategoryTags": [
+      "other",
+      "jobs",
+      "ui",
+      "minigames",
+      "inventory",
+      "sound",
+      "social",
+      "utility"
+    ],
+    "Changelog": "9a83c73: \ud83e\uddf9 dotnet format\nb7d57be: rename Template\neb35051: Initial commit",
+    "DalamudApiLevel": 7,
+    "Description": "[Description]",
+    "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.PerfectComplex/latest.zip",
+    "DownloadLinkTesting": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.PerfectComplex/latest.zip",
+    "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+    "ImageUrls": [],
+    "InternalName": "Divination.PerfectComplex",
+    "IsHide": false,
+    "IsTestingExclusive": true,
+    "LastUpdated": 1669034916,
+    "LoadPriority": 0,
+    "Name": "[Name]",
+    "Punchline": "[Punchline]",
+    "RepoUrl": "https://github.com/horoscope-dev/Divination.PerfectComplex",
+    "Tags": [
+      "[Tag]"
+    ],
+    "TestingAssemblyVersion": "0.1.0.1"
   },
   {
     "ApplicableVersion": "any",
