@@ -125,7 +125,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1668993299,
+    "LastUpdated": 1668993319,
     "LoadPriority": 0,
     "Name": "Divination.InstanceIDViewer",
     "Punchline": "",
@@ -133,7 +133,7 @@
     "Tags": [
       "Discord"
     ],
-    "TestingAssemblyVersion": "6.11.1.10"
+    "TestingAssemblyVersion": "6.11.1.13"
   },
   {
     "ApplicableVersion": "any",
