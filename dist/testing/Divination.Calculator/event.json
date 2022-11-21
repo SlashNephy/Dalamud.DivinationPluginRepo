@@ -1,8 +1,26 @@
 {
-  "after": "90f0198b22bd2c9aab934d0e01fb7a8ff13b3266",
+  "after": "26b4ffae15f793fd6b4f359141f5686b05e705d3",
   "base_ref": null,
-  "before": "bc3e94818ffc6b6177e993a7c1134489015a8b52",
+  "before": "17dadef39547df26f87d8874a00188df88384938",
   "commits": [
+    {
+      "author": {
+        "email": "29139614+renovate[bot]@users.noreply.github.com",
+        "name": "renovate[bot]",
+        "username": "renovate[bot]"
+      },
+      "committer": {
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
+      },
+      "distinct": false,
+      "id": "1c32ca6130ceb9045266b9852912c12a14726a88",
+      "message": "chore(deps): update dependency dalamudpackager to v2.1.8",
+      "timestamp": "2022-11-20T11:25:53Z",
+      "tree_id": "3fbc2515c6402de2a98051f4132c228d13b4d912",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/1c32ca6130ceb9045266b9852912c12a14726a88"
+    },
     {
       "author": {
         "email": "spica@starry.blue",
@@ -10,19 +28,19 @@
         "username": "SlashNephy"
       },
       "committer": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
       },
       "distinct": true,
-      "id": "90f0198b22bd2c9aab934d0e01fb7a8ff13b3266",
-      "message": "API 7",
-      "timestamp": "2022-11-09T20:23:21+09:00",
-      "tree_id": "0b9d6cf6f9d69d35f020470a5a8fdcd8a8f6930c",
-      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/90f0198b22bd2c9aab934d0e01fb7a8ff13b3266"
+      "id": "26b4ffae15f793fd6b4f359141f5686b05e705d3",
+      "message": "Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8",
+      "timestamp": "2022-11-21T10:36:43+09:00",
+      "tree_id": "3fbc2515c6402de2a98051f4132c228d13b4d912",
+      "url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/26b4ffae15f793fd6b4f359141f5686b05e705d3"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/compare/bc3e94818ffc...90f0198b22bd",
+  "compare": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/compare/17dadef39547...26b4ffae15f7",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -33,16 +51,16 @@
       "username": "SlashNephy"
     },
     "committer": {
-      "email": "spica@starry.blue",
-      "name": "SlashNephy",
-      "username": "SlashNephy"
+      "email": "noreply@github.com",
+      "name": "GitHub",
+      "username": "web-flow"
     },
     "distinct": true,
-    "id": "90f0198b22bd2c9aab934d0e01fb7a8ff13b3266",
-    "message": "API 7",
-    "timestamp": "2022-11-09T20:23:21+09:00",
-    "tree_id": "0b9d6cf6f9d69d35f020470a5a8fdcd8a8f6930c",
-    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/90f0198b22bd2c9aab934d0e01fb7a8ff13b3266"
+    "id": "26b4ffae15f793fd6b4f359141f5686b05e705d3",
+    "message": "Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8",
+    "timestamp": "2022-11-21T10:36:43+09:00",
+    "tree_id": "3fbc2515c6402de2a98051f4132c228d13b4d912",
+    "url": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator/commit/26b4ffae15f793fd6b4f359141f5686b05e705d3"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -125,8 +143,8 @@
     "name": "Dalamud.Divination.Calculator",
     "node_id": "MDEwOlJlcG9zaXRvcnk0MDI2NzQ0NDY=",
     "notifications_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/notifications{?since,all,participating}",
-    "open_issues": 10,
-    "open_issues_count": 10,
+    "open_issues": 4,
+    "open_issues_count": 4,
     "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -152,9 +170,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/pulls{/number}",
-    "pushed_at": 1667993004,
+    "pushed_at": 1668994603,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.Calculator/releases{/id}",
-    "size": 32,
+    "size": 34,
     "ssh_url": "git@github.com:horoscope-dev/Dalamud.Divination.Calculator.git",
     "stargazers": 0,
     "stargazers_count": 0,
