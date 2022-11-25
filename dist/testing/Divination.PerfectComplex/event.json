@@ -1,8 +1,26 @@
 {
-  "after": "b7d57be086146f7f00c99e69e442e6ce6c3168f4",
+  "after": "3799fecc34138202d7ce7182e4e0e75c2da19ed9",
   "base_ref": null,
-  "before": "eb35051760bdc57f8d745fec4eee94d1f82ad93a",
+  "before": "9a83c73d99d4c13f1fd664699a5f437a65bdfc3b",
   "commits": [
+    {
+      "author": {
+        "email": "29139614+renovate[bot]@users.noreply.github.com",
+        "name": "renovate[bot]",
+        "username": "renovate[bot]"
+      },
+      "committer": {
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
+      },
+      "distinct": false,
+      "id": "9c1f4ddcbc3c47dee45a9a36765670c852a539dc",
+      "message": "Update dependency gitversion.tool to v5.11.1",
+      "timestamp": "2022-11-25T17:36:59Z",
+      "tree_id": "d40bd13b7a0716cddee649ec4677bca17d9b9fa8",
+      "url": "https://github.com/horoscope-dev/Divination.PerfectComplex/commit/9c1f4ddcbc3c47dee45a9a36765670c852a539dc"
+    },
     {
       "author": {
         "email": "spica@starry.blue",
@@ -10,19 +28,19 @@
         "username": "SlashNephy"
       },
       "committer": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
       },
       "distinct": true,
-      "id": "b7d57be086146f7f00c99e69e442e6ce6c3168f4",
-      "message": "rename Template",
-      "timestamp": "2022-11-21T21:48:36+09:00",
-      "tree_id": "2ec71d9834cef502f16961d5afbb4d060fc81a30",
-      "url": "https://github.com/horoscope-dev/Divination.PerfectComplex/commit/b7d57be086146f7f00c99e69e442e6ce6c3168f4"
+      "id": "3799fecc34138202d7ce7182e4e0e75c2da19ed9",
+      "message": "Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1",
+      "timestamp": "2022-11-26T02:58:52+09:00",
+      "tree_id": "d40bd13b7a0716cddee649ec4677bca17d9b9fa8",
+      "url": "https://github.com/horoscope-dev/Divination.PerfectComplex/commit/3799fecc34138202d7ce7182e4e0e75c2da19ed9"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Divination.PerfectComplex/compare/eb35051760bd...b7d57be08614",
+  "compare": "https://github.com/horoscope-dev/Divination.PerfectComplex/compare/9a83c73d99d4...3799fecc3413",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -33,16 +51,16 @@
       "username": "SlashNephy"
     },
     "committer": {
-      "email": "spica@starry.blue",
-      "name": "SlashNephy",
-      "username": "SlashNephy"
+      "email": "noreply@github.com",
+      "name": "GitHub",
+      "username": "web-flow"
     },
     "distinct": true,
-    "id": "b7d57be086146f7f00c99e69e442e6ce6c3168f4",
-    "message": "rename Template",
-    "timestamp": "2022-11-21T21:48:36+09:00",
-    "tree_id": "2ec71d9834cef502f16961d5afbb4d060fc81a30",
-    "url": "https://github.com/horoscope-dev/Divination.PerfectComplex/commit/b7d57be086146f7f00c99e69e442e6ce6c3168f4"
+    "id": "3799fecc34138202d7ce7182e4e0e75c2da19ed9",
+    "message": "Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1",
+    "timestamp": "2022-11-26T02:58:52+09:00",
+    "tree_id": "d40bd13b7a0716cddee649ec4677bca17d9b9fa8",
+    "url": "https://github.com/horoscope-dev/Divination.PerfectComplex/commit/3799fecc34138202d7ce7182e4e0e75c2da19ed9"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -152,9 +170,9 @@
     },
     "private": true,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Divination.PerfectComplex/pulls{/number}",
-    "pushed_at": 1669050702,
+    "pushed_at": 1669399132,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Divination.PerfectComplex/releases{/id}",
-    "size": 3,
+    "size": 9,
     "ssh_url": "git@github.com:horoscope-dev/Divination.PerfectComplex.git",
     "stargazers": 0,
     "stargazers_count": 0,

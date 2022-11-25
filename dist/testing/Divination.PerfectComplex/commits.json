@@ -1,5 +1,168 @@
 [
   {
+    "sha": "3799fecc34138202d7ce7182e4e0e75c2da19ed9",
+    "node_id": "C_kwDOIeb01toAKDM3OTlmZWNjMzQxMzgyMDJkN2NlNzE4MmU0ZTBlNzVjMmRhMTllZDk",
+    "commit": {
+      "author": {
+        "name": "SlashNephy",
+        "email": "spica@starry.blue",
+        "date": "2022-11-25T17:58:52Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-11-25T17:58:52Z"
+      },
+      "message": "Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1",
+      "tree": {
+        "sha": "d40bd13b7a0716cddee649ec4677bca17d9b9fa8",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.PerfectComplex/git/trees/d40bd13b7a0716cddee649ec4677bca17d9b9fa8"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.PerfectComplex/git/commits/3799fecc34138202d7ce7182e4e0e75c2da19ed9",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjgQJcCRBK7hj4Ov3rIwAAPYQIAF2T3JEU15Q6iFig0NwkN/7K\nmyckXTietsIPia3PfT1b5Nh1V2JbUb+3Zo42sgUjNaYmMonVbuA5CnbcrKwU1NFr\n4SVkpgzZ+2gG0CDbyWk4qlzZZCDrps5EQNMHZubHKhCKtOa5oWB9PBQdsuG1a71E\namnDi/0uDNYimYr5E61LlT9uWDEZBqWmhGSKt1oVdKVFj7dcgLhsXSnNae0waMtR\nH2q3BeDlA4H7HqwxO04fyBkBATLWGlO6zLjeRlnQm6U8M7Xbt9alAWkwWRGiW0An\n1POc7XKFlwLkm7I03xQTXnJ0xljek91j46QL7jQpSZXcqZbE2CzPGvUipXpj3Tc=\n=YGsg\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree d40bd13b7a0716cddee649ec4677bca17d9b9fa8\nparent 9a83c73d99d4c13f1fd664699a5f437a65bdfc3b\nparent 9c1f4ddcbc3c47dee45a9a36765670c852a539dc\nauthor SlashNephy <spica@starry.blue> 1669399132 +0900\ncommitter GitHub <noreply@github.com> 1669399132 +0900\n\nMerge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1"
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.PerfectComplex/commits/3799fecc34138202d7ce7182e4e0e75c2da19ed9",
+    "html_url": "https://github.com/horoscope-dev/Divination.PerfectComplex/commit/3799fecc34138202d7ce7182e4e0e75c2da19ed9",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.PerfectComplex/commits/3799fecc34138202d7ce7182e4e0e75c2da19ed9/comments",
+    "author": {
+      "login": "SlashNephy",
+      "id": 7302150,
+      "node_id": "MDQ6VXNlcjczMDIxNTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SlashNephy",
+      "html_url": "https://github.com/SlashNephy",
+      "followers_url": "https://api.github.com/users/SlashNephy/followers",
+      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+      "repos_url": "https://api.github.com/users/SlashNephy/repos",
+      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9a83c73d99d4c13f1fd664699a5f437a65bdfc3b",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.PerfectComplex/commits/9a83c73d99d4c13f1fd664699a5f437a65bdfc3b",
+        "html_url": "https://github.com/horoscope-dev/Divination.PerfectComplex/commit/9a83c73d99d4c13f1fd664699a5f437a65bdfc3b"
+      },
+      {
+        "sha": "9c1f4ddcbc3c47dee45a9a36765670c852a539dc",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.PerfectComplex/commits/9c1f4ddcbc3c47dee45a9a36765670c852a539dc",
+        "html_url": "https://github.com/horoscope-dev/Divination.PerfectComplex/commit/9c1f4ddcbc3c47dee45a9a36765670c852a539dc"
+      }
+    ]
+  },
+  {
+    "sha": "9c1f4ddcbc3c47dee45a9a36765670c852a539dc",
+    "node_id": "C_kwDOIeb01toAKDljMWY0ZGRjYmMzYzQ3ZGVlNDVhOWEzNjc2NTY3MGM4NTJhNTM5ZGM",
+    "commit": {
+      "author": {
+        "name": "renovate[bot]",
+        "email": "29139614+renovate[bot]@users.noreply.github.com",
+        "date": "2022-11-25T17:36:59Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-11-25T17:36:59Z"
+      },
+      "message": "Update dependency gitversion.tool to v5.11.1",
+      "tree": {
+        "sha": "d40bd13b7a0716cddee649ec4677bca17d9b9fa8",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.PerfectComplex/git/trees/d40bd13b7a0716cddee649ec4677bca17d9b9fa8"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.PerfectComplex/git/commits/9c1f4ddcbc3c47dee45a9a36765670c852a539dc",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjgP07CRBK7hj4Ov3rIwAAT7sIABPbzEX1XPgGVjbnxW7SOkFP\nPSYx6leNMGFDURDqUo4AFfsBglXgiqrO187Vu33LrLfTxepWQbjqypYxLOEbRe+j\nAus/UN+bD/TaPZNNyxNIafrCDvO5sQDely+1yeS8kwiuwkLeusj8VeqTHiZXYDGa\nj5VWNNkXUU6QJB55ORXT0feIQYEp0GLLHccHPOgPiH2ybnHrk+gmT4BVpHMvkJDY\n4DvpDN3DqL7E75LajGp3wb6EnyeOdRxJfZiSkyZmpZcx+e+bHf6NtHZHXSfuuIad\nGFhr/6g/KzXRx4Ri9pI4+qgjCMKR//y297UItAX2NXIpPqGeUbu0FdpBx3p4q6I=\n=IKay\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree d40bd13b7a0716cddee649ec4677bca17d9b9fa8\nparent 9a83c73d99d4c13f1fd664699a5f437a65bdfc3b\nauthor renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 1669397819 +0000\ncommitter GitHub <noreply@github.com> 1669397819 +0000\n\nUpdate dependency gitversion.tool to v5.11.1"
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.PerfectComplex/commits/9c1f4ddcbc3c47dee45a9a36765670c852a539dc",
+    "html_url": "https://github.com/horoscope-dev/Divination.PerfectComplex/commit/9c1f4ddcbc3c47dee45a9a36765670c852a539dc",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.PerfectComplex/commits/9c1f4ddcbc3c47dee45a9a36765670c852a539dc/comments",
+    "author": {
+      "login": "renovate[bot]",
+      "id": 29139614,
+      "node_id": "MDM6Qm90MjkxMzk2MTQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/2740?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/renovate%5Bbot%5D",
+      "html_url": "https://github.com/apps/renovate",
+      "followers_url": "https://api.github.com/users/renovate%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/renovate%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/renovate%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/renovate%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/renovate%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/renovate%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/renovate%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/renovate%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/renovate%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "9a83c73d99d4c13f1fd664699a5f437a65bdfc3b",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.PerfectComplex/commits/9a83c73d99d4c13f1fd664699a5f437a65bdfc3b",
+        "html_url": "https://github.com/horoscope-dev/Divination.PerfectComplex/commit/9a83c73d99d4c13f1fd664699a5f437a65bdfc3b"
+      }
+    ]
+  },
+  {
     "sha": "9a83c73d99d4c13f1fd664699a5f437a65bdfc3b",
     "node_id": "C_kwDOIeb01toAKDlhODNjNzNkOTlkNGMxM2YxZmQ2NjQ2OTlhNWY0MzdhNjViZGZjM2I",
     "commit": {
