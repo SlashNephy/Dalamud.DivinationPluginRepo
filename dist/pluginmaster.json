@@ -125,7 +125,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1669392385,
+    "LastUpdated": 1669399247,
     "LoadPriority": 0,
     "Name": "Divination.InstanceIDViewer",
     "Punchline": "",
@@ -137,7 +137,7 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.1",
+    "AssemblyVersion": "0.1.0.4",
     "Author": "[Author]",
     "CategoryTags": [
       "other",
@@ -149,7 +149,7 @@
       "social",
       "utility"
     ],
-    "Changelog": "9a83c73: \ud83e\uddf9 dotnet format\nb7d57be: rename Template\neb35051: Initial commit",
+    "Changelog": "3799fec: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n9c1f4dd: Update dependency gitversion.tool to v5.11.1\n9a83c73: \ud83e\uddf9 dotnet format\nb7d57be: rename Template\neb35051: Initial commit",
     "DalamudApiLevel": 7,
     "Description": "[Description]",
     "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.PerfectComplex/latest.zip",
@@ -159,7 +159,7 @@
     "InternalName": "Divination.PerfectComplex",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1669034916,
+    "LastUpdated": 1669399132,
     "LoadPriority": 0,
     "Name": "[Name]",
     "Punchline": "[Punchline]",
@@ -167,7 +167,7 @@
     "Tags": [
       "[Tag]"
     ],
-    "TestingAssemblyVersion": "0.1.0.1"
+    "TestingAssemblyVersion": "0.1.0.4"
   },
   {
     "ApplicableVersion": "any",
