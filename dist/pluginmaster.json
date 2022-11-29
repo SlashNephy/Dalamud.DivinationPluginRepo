@@ -33,7 +33,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "Changelog": "26b4ffa: Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8\n1c32ca6: chore(deps): update dependency dalamudpackager to v2.1.8\n17dadef: \ud83e\uddf9 dotnet format\n90f0198: API 7\nbc3e948: \ud83d\udd27 chore(renovate): update config\n70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
+    "Changelog": "a3438d0: Merge pull request #12 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\n26b4ffa: Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8\n2ce1f36: \ud83e\uddf9 dotnet format\n62e0bb9: chore(deps): update dependency gitversion.msbuild to v5.11.1\n1c32ca6: chore(deps): update dependency dalamudpackager to v2.1.8\n17dadef: \ud83e\uddf9 dotnet format\n90f0198: API 7\nbc3e948: \ud83d\udd27 chore(renovate): update config\n70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
     "DalamudApiLevel": 7,
     "Description": "Simple plugin to just add /calc command.",
     "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.Calculator/latest.zip",
@@ -43,15 +43,15 @@
     "InternalName": "Divination.Calculator",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1668994603,
+    "LastUpdated": 1669692304,
     "LoadPriority": 0,
     "Name": "Divination.Calculator",
     "Punchline": "/calc 33 - 4",
-    "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Calculator",
+    "RepoUrl": "https://github.com/horoscope-dev/Divination.Calculator",
     "Tags": [
       "utility"
     ],
-    "TestingAssemblyVersion": "0.1.0.53"
+    "TestingAssemblyVersion": "0.1.0.56"
   },
   {
     "ApplicableVersion": "any",
@@ -125,7 +125,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1669689172,
+    "LastUpdated": 1669692424,
     "LoadPriority": 0,
     "Name": "Divination.InstanceIDViewer",
     "Punchline": "",
