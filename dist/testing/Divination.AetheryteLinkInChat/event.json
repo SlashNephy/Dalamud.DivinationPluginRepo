@@ -1,7 +1,7 @@
 {
-  "after": "bb142f182719f6bf80971c7bcf50d9629d5ca8f6",
+  "after": "24e53ae442728a83e7aa1dcdf36cc8c7fc358e6f",
   "base_ref": null,
-  "before": "355c8e4399a9b3d95ba5222842b75c023a9512ad",
+  "before": "943131867a861565949e5479aeb4678bbc76ef18",
   "commits": [
     {
       "author": {
@@ -10,19 +10,19 @@
         "username": "SlashNephy"
       },
       "committer": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
       },
       "distinct": true,
-      "id": "bb142f182719f6bf80971c7bcf50d9629d5ca8f6",
-      "message": "Teleporter plugin is no longer needed",
-      "timestamp": "2022-12-01T21:57:54+09:00",
-      "tree_id": "277d0505b1e88df89538b4028e7d648642821048",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/bb142f182719f6bf80971c7bcf50d9629d5ca8f6"
+      "id": "24e53ae442728a83e7aa1dcdf36cc8c7fc358e6f",
+      "message": "Update README.md",
+      "timestamp": "2022-12-02T11:37:31+09:00",
+      "tree_id": "0fab4a33985f6ac963d1ecebf2b63eb0722cecbb",
+      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/24e53ae442728a83e7aa1dcdf36cc8c7fc358e6f"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/compare/355c8e4399a9...bb142f182719",
+  "compare": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/compare/943131867a86...24e53ae44272",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -33,16 +33,16 @@
       "username": "SlashNephy"
     },
     "committer": {
-      "email": "spica@starry.blue",
-      "name": "SlashNephy",
-      "username": "SlashNephy"
+      "email": "noreply@github.com",
+      "name": "GitHub",
+      "username": "web-flow"
     },
     "distinct": true,
-    "id": "bb142f182719f6bf80971c7bcf50d9629d5ca8f6",
-    "message": "Teleporter plugin is no longer needed",
-    "timestamp": "2022-12-01T21:57:54+09:00",
-    "tree_id": "277d0505b1e88df89538b4028e7d648642821048",
-    "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/bb142f182719f6bf80971c7bcf50d9629d5ca8f6"
+    "id": "24e53ae442728a83e7aa1dcdf36cc8c7fc358e6f",
+    "message": "Update README.md",
+    "timestamp": "2022-12-02T11:37:31+09:00",
+    "tree_id": "0fab4a33985f6ac963d1ecebf2b63eb0722cecbb",
+    "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/24e53ae442728a83e7aa1dcdf36cc8c7fc358e6f"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -152,9 +152,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/pulls{/number}",
-    "pushed_at": 1669899482,
+    "pushed_at": 1669948651,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/releases{/id}",
-    "size": 41,
+    "size": 45,
     "ssh_url": "git@github.com:horoscope-dev/Divination.AetheryteLinkInChat.git",
     "stargazers": 0,
     "stargazers_count": 0,
