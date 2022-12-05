@@ -1,7 +1,7 @@
 [
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.56",
+    "AssemblyVersion": "0.1.0.61",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "utility"
@@ -125,7 +125,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1670234775,
+    "LastUpdated": 1670241740,
     "LoadPriority": 0,
     "Name": "Divination.InstanceIDViewer",
     "Punchline": "",
