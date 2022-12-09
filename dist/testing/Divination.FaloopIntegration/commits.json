@@ -1,5 +1,168 @@
 [
   {
+    "sha": "3ce229ebfc475c003a1c689070439d3728cf646f",
+    "node_id": "C_kwDOIkuHX9oAKDNjZTIyOWViZmM0NzVjMDAzYTFjNjg5MDcwNDM5ZDM3MjhjZjY0NmY",
+    "commit": {
+      "author": {
+        "name": "SlashNephy",
+        "email": "spica@starry.blue",
+        "date": "2022-12-09T18:27:10Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-12-09T18:27:10Z"
+      },
+      "message": "Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1",
+      "tree": {
+        "sha": "05e39a1a40bd4885ae166055d4e9653682a0200e",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/git/trees/05e39a1a40bd4885ae166055d4e9653682a0200e"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/git/commits/3ce229ebfc475c003a1c689070439d3728cf646f",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjk33+CRBK7hj4Ov3rIwAADa0IADiLQl81WqgX56veDD/b6MTZ\nBQtCyC0N3dOgvkQHtIMS3JrwXMAC91PnADmSEB0PDOvmLYWde6gdnEA5FaS5sUZD\nTcn3wUg0gEh04fFIABdIW1JN1ZD3+mzQuhBz987xjbdRQYOInWohEaEaqYNfeyid\n/Z1zn+D+hkTzJGHHzVLXvyFFfpzIa+qPITzX5utDREfUQzCHCkrFa2BhsNps7KOv\nEeHDi4137k85p1fJfc7P0/ZORY56dqClwwzeOLUU4YNZzYLT6HKQP2xoeEG3LhZs\nIIk4OVixDPkP5j5fVssqGwku083Yv9fSHaXWmyYJ6JFbATtHo7cGB4PNu/oMn00=\n=YcAu\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 05e39a1a40bd4885ae166055d4e9653682a0200e\nparent ffe49d723e4fe6ca91d21b52cb88cc735ea038e7\nparent 1ee9d92e98f94dc134afb4eeb497b3cd33f8e9f0\nauthor SlashNephy <spica@starry.blue> 1670610430 +0900\ncommitter GitHub <noreply@github.com> 1670610430 +0900\n\nMerge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1"
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/commits/3ce229ebfc475c003a1c689070439d3728cf646f",
+    "html_url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/3ce229ebfc475c003a1c689070439d3728cf646f",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/commits/3ce229ebfc475c003a1c689070439d3728cf646f/comments",
+    "author": {
+      "login": "SlashNephy",
+      "id": 7302150,
+      "node_id": "MDQ6VXNlcjczMDIxNTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SlashNephy",
+      "html_url": "https://github.com/SlashNephy",
+      "followers_url": "https://api.github.com/users/SlashNephy/followers",
+      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+      "repos_url": "https://api.github.com/users/SlashNephy/repos",
+      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ffe49d723e4fe6ca91d21b52cb88cc735ea038e7",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/commits/ffe49d723e4fe6ca91d21b52cb88cc735ea038e7",
+        "html_url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/ffe49d723e4fe6ca91d21b52cb88cc735ea038e7"
+      },
+      {
+        "sha": "1ee9d92e98f94dc134afb4eeb497b3cd33f8e9f0",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/commits/1ee9d92e98f94dc134afb4eeb497b3cd33f8e9f0",
+        "html_url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/1ee9d92e98f94dc134afb4eeb497b3cd33f8e9f0"
+      }
+    ]
+  },
+  {
+    "sha": "1ee9d92e98f94dc134afb4eeb497b3cd33f8e9f0",
+    "node_id": "C_kwDOIkuHX9oAKDFlZTlkOTJlOThmOTRkYzEzNGFmYjRlZWI0OTdiM2NkMzNmOGU5ZjA",
+    "commit": {
+      "author": {
+        "name": "renovate[bot]",
+        "email": "29139614+renovate[bot]@users.noreply.github.com",
+        "date": "2022-12-09T17:15:13Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-12-09T17:15:13Z"
+      },
+      "message": "Update dependency gitversion.tool to v5.11.1",
+      "tree": {
+        "sha": "05e39a1a40bd4885ae166055d4e9653682a0200e",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/git/trees/05e39a1a40bd4885ae166055d4e9653682a0200e"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/git/commits/1ee9d92e98f94dc134afb4eeb497b3cd33f8e9f0",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjk20hCRBK7hj4Ov3rIwAAatgIAFuZro/XknjqDzMdV+6BHjZU\nkieT2TF97wh98sr4REdne4ks7F3ukiN4Q3+79rlUt03vHLyCp27uMSyKf9RfnREl\nNtCxgmHo26GaUynlYaLuVy49wu2C83zIpIqBa8I8DIeLuRjl1T1pzA9okhrHrwkR\nY2QFrLs+Z8OJbc96u84OqrzODYK/YGy2nxyCruKKu/S7H3uZSOBNZ4WIJrKgBSJr\np4GN/lio0q5JdSJwP7+NRVFoXuzAm1bf32af0nqXXHxIUaI06An4FuttEwNrujTb\nMJUZb4Y3OlnjHDjXdrgmaoLy0KbkjdnoDj1TdU2B8pXkMZCYNu4SEhN6+qwdlhs=\n=+v9G\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 05e39a1a40bd4885ae166055d4e9653682a0200e\nparent ffe49d723e4fe6ca91d21b52cb88cc735ea038e7\nauthor renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 1670606113 +0000\ncommitter GitHub <noreply@github.com> 1670606113 +0000\n\nUpdate dependency gitversion.tool to v5.11.1"
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/commits/1ee9d92e98f94dc134afb4eeb497b3cd33f8e9f0",
+    "html_url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/1ee9d92e98f94dc134afb4eeb497b3cd33f8e9f0",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/commits/1ee9d92e98f94dc134afb4eeb497b3cd33f8e9f0/comments",
+    "author": {
+      "login": "renovate[bot]",
+      "id": 29139614,
+      "node_id": "MDM6Qm90MjkxMzk2MTQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/2740?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/renovate%5Bbot%5D",
+      "html_url": "https://github.com/apps/renovate",
+      "followers_url": "https://api.github.com/users/renovate%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/renovate%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/renovate%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/renovate%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/renovate%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/renovate%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/renovate%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/renovate%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/renovate%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ffe49d723e4fe6ca91d21b52cb88cc735ea038e7",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/commits/ffe49d723e4fe6ca91d21b52cb88cc735ea038e7",
+        "html_url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/ffe49d723e4fe6ca91d21b52cb88cc735ea038e7"
+      }
+    ]
+  },
+  {
     "sha": "ffe49d723e4fe6ca91d21b52cb88cc735ea038e7",
     "node_id": "C_kwDOIkuHX9oAKGZmZTQ5ZDcyM2U0ZmU2Y2E5MWQyMWI1MmNiODhjYzczNWVhMDM4ZTc",
     "commit": {

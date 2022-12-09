@@ -1,8 +1,26 @@
 {
-  "after": "e0f8938ec55f43bb690b3019e360d2771aabe3a3",
+  "after": "3ce229ebfc475c003a1c689070439d3728cf646f",
   "base_ref": null,
-  "before": "9a65177a2f67dd096d778a20f79f5fa5c121b114",
+  "before": "ffe49d723e4fe6ca91d21b52cb88cc735ea038e7",
   "commits": [
+    {
+      "author": {
+        "email": "29139614+renovate[bot]@users.noreply.github.com",
+        "name": "renovate[bot]",
+        "username": "renovate[bot]"
+      },
+      "committer": {
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
+      },
+      "distinct": false,
+      "id": "1ee9d92e98f94dc134afb4eeb497b3cd33f8e9f0",
+      "message": "Update dependency gitversion.tool to v5.11.1",
+      "timestamp": "2022-12-09T17:15:13Z",
+      "tree_id": "05e39a1a40bd4885ae166055d4e9653682a0200e",
+      "url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/1ee9d92e98f94dc134afb4eeb497b3cd33f8e9f0"
+    },
     {
       "author": {
         "email": "spica@starry.blue",
@@ -10,19 +28,19 @@
         "username": "SlashNephy"
       },
       "committer": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
+        "email": "noreply@github.com",
+        "name": "GitHub",
+        "username": "web-flow"
       },
       "distinct": true,
-      "id": "e0f8938ec55f43bb690b3019e360d2771aabe3a3",
-      "message": "Publish",
-      "timestamp": "2022-12-09T22:59:38+09:00",
-      "tree_id": "65bf560e81ce907d36b1478fa55bedc89e7402ab",
-      "url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/e0f8938ec55f43bb690b3019e360d2771aabe3a3"
+      "id": "3ce229ebfc475c003a1c689070439d3728cf646f",
+      "message": "Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1",
+      "timestamp": "2022-12-10T03:27:10+09:00",
+      "tree_id": "05e39a1a40bd4885ae166055d4e9653682a0200e",
+      "url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/3ce229ebfc475c003a1c689070439d3728cf646f"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Divination.FaloopIntegration/compare/9a65177a2f67...e0f8938ec55f",
+  "compare": "https://github.com/horoscope-dev/Divination.FaloopIntegration/compare/ffe49d723e4f...3ce229ebfc47",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -33,16 +51,16 @@
       "username": "SlashNephy"
     },
     "committer": {
-      "email": "spica@starry.blue",
-      "name": "SlashNephy",
-      "username": "SlashNephy"
+      "email": "noreply@github.com",
+      "name": "GitHub",
+      "username": "web-flow"
     },
     "distinct": true,
-    "id": "e0f8938ec55f43bb690b3019e360d2771aabe3a3",
-    "message": "Publish",
-    "timestamp": "2022-12-09T22:59:38+09:00",
-    "tree_id": "65bf560e81ce907d36b1478fa55bedc89e7402ab",
-    "url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/e0f8938ec55f43bb690b3019e360d2771aabe3a3"
+    "id": "3ce229ebfc475c003a1c689070439d3728cf646f",
+    "message": "Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1",
+    "timestamp": "2022-12-10T03:27:10+09:00",
+    "tree_id": "05e39a1a40bd4885ae166055d4e9653682a0200e",
+    "url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/3ce229ebfc475c003a1c689070439d3728cf646f"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -64,7 +82,7 @@
   },
   "ref": "refs/heads/master",
   "repository": {
-    "allow_forking": false,
+    "allow_forking": true,
     "archive_url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/{archive_format}{/ref}",
     "archived": false,
     "assignees_url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/assignees{/user}",
@@ -98,7 +116,7 @@
     "has_issues": true,
     "has_pages": false,
     "has_projects": true,
-    "has_wiki": true,
+    "has_wiki": false,
     "homepage": null,
     "hooks_url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/hooks",
     "html_url": "https://github.com/horoscope-dev/Divination.FaloopIntegration",
@@ -150,11 +168,11 @@
       "type": "Organization",
       "url": "https://api.github.com/users/horoscope-dev"
     },
-    "private": true,
+    "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/pulls{/number}",
-    "pushed_at": 1670594385,
+    "pushed_at": 1670610430,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/releases{/id}",
-    "size": 4,
+    "size": 38,
     "ssh_url": "git@github.com:horoscope-dev/Divination.FaloopIntegration.git",
     "stargazers": 0,
     "stargazers_count": 0,
@@ -167,9 +185,9 @@
     "teams_url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/git/trees{/sha}",
-    "updated_at": "2022-12-07T11:22:45Z",
+    "updated_at": "2022-12-09T15:46:31Z",
     "url": "https://github.com/horoscope-dev/Divination.FaloopIntegration",
-    "visibility": "private",
+    "visibility": "public",
     "watchers": 0,
     "watchers_count": 0,
     "web_commit_signoff_required": false
