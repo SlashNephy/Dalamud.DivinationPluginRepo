@@ -110,6 +110,34 @@
   },
   {
     "ApplicableVersion": "any",
+    "AssemblyVersion": "0.1.0.1",
+    "Author": "Asteria Nocturna",
+    "CategoryTags": [
+      "social",
+      "utility"
+    ],
+    "Changelog": "ffe49d7: \ud83e\uddf9 dotnet format\ne0f8938: Publish\n9a65177: Initial commit",
+    "DalamudApiLevel": 7,
+    "Description": "Provide simple integration with Faloop. Mob notification in chat.",
+    "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.FaloopIntegration/latest.zip",
+    "DownloadLinkTesting": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.FaloopIntegration/latest.zip",
+    "IconUrl": "https://avatars.githubusercontent.com/u/7855451?v=4&s=64",
+    "ImageUrls": [],
+    "InternalName": "Divination.FaloopIntegration",
+    "IsHide": false,
+    "IsTestingExclusive": true,
+    "LastUpdated": 1670594378,
+    "LoadPriority": 0,
+    "Name": "Divination.FaloopIntegration",
+    "Punchline": "Faloop notification in chat",
+    "RepoUrl": "https://github.com/horoscope-dev/Divination.FaloopIntegration",
+    "Tags": [
+      "mobhunt"
+    ],
+    "TestingAssemblyVersion": "0.1.0.1"
+  },
+  {
+    "ApplicableVersion": "any",
     "AssemblyVersion": "6.11.1.0",
     "Author": "Horoscope developers",
     "CategoryTags": [
@@ -125,7 +153,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1670587659,
+    "LastUpdated": 1670594500,
     "LoadPriority": 0,
     "Name": "Divination.InstanceIDViewer",
     "Punchline": "",
