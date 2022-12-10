@@ -1,25 +1,25 @@
 {
-  "after": "3ce229ebfc475c003a1c689070439d3728cf646f",
+  "after": "a785e82aed297467edb025809262bfaaf89cc3ab",
   "base_ref": null,
-  "before": "ffe49d723e4fe6ca91d21b52cb88cc735ea038e7",
+  "before": "3ce229ebfc475c003a1c689070439d3728cf646f",
   "commits": [
     {
       "author": {
-        "email": "29139614+renovate[bot]@users.noreply.github.com",
-        "name": "renovate[bot]",
-        "username": "renovate[bot]"
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
       },
       "committer": {
-        "email": "noreply@github.com",
-        "name": "GitHub",
-        "username": "web-flow"
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
       },
-      "distinct": false,
-      "id": "1ee9d92e98f94dc134afb4eeb497b3cd33f8e9f0",
-      "message": "Update dependency gitversion.tool to v5.11.1",
-      "timestamp": "2022-12-09T17:15:13Z",
-      "tree_id": "05e39a1a40bd4885ae166055d4e9653682a0200e",
-      "url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/1ee9d92e98f94dc134afb4eeb497b3cd33f8e9f0"
+      "distinct": true,
+      "id": "008ce6b80e9ca2421d860049509401efaf484dcd",
+      "message": "同名のイベントに対して他にハンドラーを受け取れないようだった",
+      "timestamp": "2022-12-10T16:14:59+09:00",
+      "tree_id": "47661468b386f3a997c880b84e1dbadaf635b282",
+      "url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/008ce6b80e9ca2421d860049509401efaf484dcd"
     },
     {
       "author": {
@@ -28,19 +28,37 @@
         "username": "SlashNephy"
       },
       "committer": {
-        "email": "noreply@github.com",
-        "name": "GitHub",
-        "username": "web-flow"
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "3ce229ebfc475c003a1c689070439d3728cf646f",
-      "message": "Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1",
-      "timestamp": "2022-12-10T03:27:10+09:00",
-      "tree_id": "05e39a1a40bd4885ae166055d4e9653682a0200e",
-      "url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/3ce229ebfc475c003a1c689070439d3728cf646f"
+      "id": "eb2d3079f6d36c6dc36874f62e0ce55ad62e518a",
+      "message": "デバッグログを追加",
+      "timestamp": "2022-12-10T16:15:19+09:00",
+      "tree_id": "0bb12c8b3a4dc362c25b09496ed4691456dd7014",
+      "url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/eb2d3079f6d36c6dc36874f62e0ce55ad62e518a"
+    },
+    {
+      "author": {
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
+      },
+      "committer": {
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
+      },
+      "distinct": true,
+      "id": "a785e82aed297467edb025809262bfaaf89cc3ab",
+      "message": "Merge remote-tracking branch origin/master",
+      "timestamp": "2022-12-10T16:15:26+09:00",
+      "tree_id": "2418ed7f67cc7d797f3d10d16235574ef9880477",
+      "url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/a785e82aed297467edb025809262bfaaf89cc3ab"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Divination.FaloopIntegration/compare/ffe49d723e4f...3ce229ebfc47",
+  "compare": "https://github.com/horoscope-dev/Divination.FaloopIntegration/compare/3ce229ebfc47...a785e82aed29",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -51,16 +69,16 @@
       "username": "SlashNephy"
     },
     "committer": {
-      "email": "noreply@github.com",
-      "name": "GitHub",
-      "username": "web-flow"
+      "email": "spica@starry.blue",
+      "name": "SlashNephy",
+      "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "3ce229ebfc475c003a1c689070439d3728cf646f",
-    "message": "Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1",
-    "timestamp": "2022-12-10T03:27:10+09:00",
-    "tree_id": "05e39a1a40bd4885ae166055d4e9653682a0200e",
-    "url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/3ce229ebfc475c003a1c689070439d3728cf646f"
+    "id": "a785e82aed297467edb025809262bfaaf89cc3ab",
+    "message": "Merge remote-tracking branch origin/master",
+    "timestamp": "2022-12-10T16:15:26+09:00",
+    "tree_id": "2418ed7f67cc7d797f3d10d16235574ef9880477",
+    "url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/a785e82aed297467edb025809262bfaaf89cc3ab"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -170,7 +188,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/pulls{/number}",
-    "pushed_at": 1670610430,
+    "pushed_at": 1670656526,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/releases{/id}",
     "size": 38,
     "ssh_url": "git@github.com:horoscope-dev/Divination.FaloopIntegration.git",
