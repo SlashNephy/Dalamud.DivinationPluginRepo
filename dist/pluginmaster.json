@@ -6,7 +6,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "Changelog": "156f394: Merge pull request #14 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n4ff148e: \u30a8\u30fc\u30c6\u30e9\u30a4\u30c8\u540d\u304c\u9014\u4e2d\u3067\u6539\u884c\u3055\u308c\u305f\u5834\u5408\u306b\u30c6\u30ec\u30dd\u3067\u304d\u306a\u304f\u306a\u3063\u3066\u3044\u305f\u306e\u3092\u4fee\u6b63\n76a575d: \u540d\u524d\u5909\u66f4\n24e53ae: Update README.md\n9431318: \ud83e\uddf9 dotnet format\nbb142f1: Teleporter plugin is no longer needed\n2efd9f2: Update dependency gitversion.tool to v5.11.1\n355c8e4: \ud83e\uddf9 dotnet format\n1555d9d: reusable workflows \u3092\u4f7f\u3046\n460130e: stg \u306e\u30d0\u30a4\u30ca\u30ea\u3092\u4f7f\u3046\n46d1612: Update README.md\n97968fd: \u30ea\u30d5\u30a1\u30af\u30bf\u30ea\u30f3\u30b0\n0d27d70: .NET 6\n55768eb: Merge pull request #4 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.10.3\na5ffb08: Update dependency gitversion.tool to v5.10.3\n8067ed4: \ud83d\udd27 chore(renovate): update config\nac094e7: .NET 6 and Api7\nccae22e: Delete Common\n94cb72e: Update packages.lock.json\nd329d45: Update AetheryteLinkInChatPlugin.cs\nb8b929b: Update Divination.AetheryteLinkInChat.csproj\nf41e162: Delete .gitmodules\nb2d320b: remove Common dependencies\n51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5",
+    "Changelog": "1483f69: Update README.md\n4896680: \u30a2\u30d7\u30c7\n156f394: Merge pull request #14 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n4ff148e: \u30a8\u30fc\u30c6\u30e9\u30a4\u30c8\u540d\u304c\u9014\u4e2d\u3067\u6539\u884c\u3055\u308c\u305f\u5834\u5408\u306b\u30c6\u30ec\u30dd\u3067\u304d\u306a\u304f\u306a\u3063\u3066\u3044\u305f\u306e\u3092\u4fee\u6b63\n76a575d: \u540d\u524d\u5909\u66f4\n24e53ae: Update README.md\n9431318: \ud83e\uddf9 dotnet format\nbb142f1: Teleporter plugin is no longer needed\n2efd9f2: Update dependency gitversion.tool to v5.11.1\n355c8e4: \ud83e\uddf9 dotnet format\n1555d9d: reusable workflows \u3092\u4f7f\u3046\n460130e: stg \u306e\u30d0\u30a4\u30ca\u30ea\u3092\u4f7f\u3046\n46d1612: Update README.md\n97968fd: \u30ea\u30d5\u30a1\u30af\u30bf\u30ea\u30f3\u30b0\n0d27d70: .NET 6\n55768eb: Merge pull request #4 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.10.3\na5ffb08: Update dependency gitversion.tool to v5.10.3\n8067ed4: \ud83d\udd27 chore(renovate): update config\nac094e7: .NET 6 and Api7\nccae22e: Delete Common\n94cb72e: Update packages.lock.json\nd329d45: Update AetheryteLinkInChatPlugin.cs\nb8b929b: Update Divination.AetheryteLinkInChat.csproj\nf41e162: Delete .gitmodules\nb2d320b: remove Common dependencies\n51a50e1: DalamudApiLevel 5 -> 6\nd8fabbd: Dalamud api 5",
     "DalamudApiLevel": 7,
     "Description": "Add a link to teleport to the nearest aetheryte into map link in chat.",
     "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.AetheryteLinkInChat/latest.zip",
@@ -16,7 +16,7 @@
     "InternalName": "Divination.AetheryteLinkInChat",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1670694323,
+    "LastUpdated": 1670694414,
     "LoadPriority": 0,
     "Name": "Divination.AetheryteLinkInChat",
     "Punchline": "Quick teleport for Mob Hunting",
@@ -24,7 +24,7 @@
     "Tags": [
       "teleporter"
     ],
-    "TestingAssemblyVersion": "0.1.0.63"
+    "TestingAssemblyVersion": "0.1.0.65"
   },
   {
     "ApplicableVersion": "any",
@@ -153,7 +153,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1670694425,
+    "LastUpdated": 1670694529,
     "LoadPriority": 0,
     "Name": "Divination.InstanceIDViewer",
     "Punchline": "",
