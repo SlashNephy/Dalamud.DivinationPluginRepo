@@ -110,13 +110,13 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.12",
+    "AssemblyVersion": "0.1.0.15",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "social",
       "utility"
     ],
-    "Changelog": "6ab1db2: \ud83e\uddf9 dotnet format\n5805511: \u8a2d\u5b9a\u3092\u6574\u7406\n82aad7b: 10\u79d2\u4ee5\u4e0a\u306e\u3068\u304d\u306b\u79d2\u6570\u3092\u51fa\u3059\n4f9dc76: Merge remote-tracking branch 'origin/master'\ndbf9970: \u30bf\u30a4\u30e0\u30be\u30fc\u30f3\u3092\u4fee\u6b63\nee6f83b: \ud83e\uddf9 dotnet format\na785e82: Merge remote-tracking branch 'origin/master'\neb2d307: \u30c7\u30d0\u30c3\u30b0\u30ed\u30b0\u3092\u8ffd\u52a0\n008ce6b: \u540c\u540d\u306e\u30a4\u30d9\u30f3\u30c8\u306b\u5bfe\u3057\u3066\u4ed6\u306b\u30cf\u30f3\u30c9\u30e9\u30fc\u3092\u53d7\u3051\u53d6\u308c\u306a\u3044\u3088\u3046\u3060\u3063\u305f\n3ce229e: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n1ee9d92: Update dependency gitversion.tool to v5.11.1\nffe49d7: \ud83e\uddf9 dotnet format\ne0f8938: Publish\n9a65177: Initial commit",
+    "Changelog": "2a38ff7: Merge remote-tracking branch 'origin/master'\n0d8490a: \u30d1\u30fc\u30c6\u30a3\u52df\u96c6\u306b\u5bfe\u5fdc\n6ab1db2: \ud83e\uddf9 dotnet format\n5805511: \u8a2d\u5b9a\u3092\u6574\u7406\n82aad7b: 10\u79d2\u4ee5\u4e0a\u306e\u3068\u304d\u306b\u79d2\u6570\u3092\u51fa\u3059\n4f9dc76: Merge remote-tracking branch 'origin/master'\ndbf9970: \u30bf\u30a4\u30e0\u30be\u30fc\u30f3\u3092\u4fee\u6b63\nee6f83b: \ud83e\uddf9 dotnet format\na785e82: Merge remote-tracking branch 'origin/master'\neb2d307: \u30c7\u30d0\u30c3\u30b0\u30ed\u30b0\u3092\u8ffd\u52a0\n008ce6b: \u540c\u540d\u306e\u30a4\u30d9\u30f3\u30c8\u306b\u5bfe\u3057\u3066\u4ed6\u306b\u30cf\u30f3\u30c9\u30e9\u30fc\u3092\u53d7\u3051\u53d6\u308c\u306a\u3044\u3088\u3046\u3060\u3063\u305f\n3ce229e: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n1ee9d92: Update dependency gitversion.tool to v5.11.1\nffe49d7: \ud83e\uddf9 dotnet format\ne0f8938: Publish\n9a65177: Initial commit",
     "DalamudApiLevel": 7,
     "Description": "Provide simple integration with Faloop. Mob notification in chat.",
     "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.FaloopIntegration/latest.zip",
@@ -126,7 +126,7 @@
     "InternalName": "Divination.FaloopIntegration",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1670679398,
+    "LastUpdated": 1670682934,
     "LoadPriority": 0,
     "Name": "Divination.FaloopIntegration",
     "Punchline": "Faloop notification in chat",
@@ -134,7 +134,7 @@
     "Tags": [
       "mobhunt"
     ],
-    "TestingAssemblyVersion": "0.1.0.12"
+    "TestingAssemblyVersion": "0.1.0.15"
   },
   {
     "ApplicableVersion": "any",
@@ -153,7 +153,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1670679548,
+    "LastUpdated": 1670683045,
     "LoadPriority": 0,
     "Name": "Divination.InstanceIDViewer",
     "Punchline": "",
