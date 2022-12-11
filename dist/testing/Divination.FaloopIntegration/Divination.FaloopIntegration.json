@@ -2,7 +2,7 @@
   "Author": "Asteria Nocturna",
   "Name": "Divination.FaloopIntegration",
   "InternalName": "Divination.FaloopIntegration",
-  "AssemblyVersion": "0.1.0.19",
+  "AssemblyVersion": "0.1.0.21",
   "Description": "Provide simple integration with Faloop. Mob notification in chat.",
   "ApplicableVersion": "any",
   "Tags": [
