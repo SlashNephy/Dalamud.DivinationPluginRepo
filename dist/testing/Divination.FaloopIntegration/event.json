@@ -1,7 +1,7 @@
 {
-  "after": "3d3a520fa19828523905ef047d5fa1840fd14c6e",
+  "after": "bd12183872f071e07ba8547720b0f397e171f7d2",
   "base_ref": null,
-  "before": "ad8b5df5c537b6b4a5f0b41712643a82dacdae4f",
+  "before": "3d3a520fa19828523905ef047d5fa1840fd14c6e",
   "commits": [
     {
       "author": {
@@ -15,14 +15,14 @@
         "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "3d3a520fa19828523905ef047d5fa1840fd14c6e",
-      "message": "自分のパーティ募集は無視",
-      "timestamp": "2022-12-11T13:59:22+09:00",
-      "tree_id": "8d941dd2a309e4b1ff44da2ce87ba4e4662ae06c",
-      "url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/3d3a520fa19828523905ef047d5fa1840fd14c6e"
+      "id": "bd12183872f071e07ba8547720b0f397e171f7d2",
+      "message": "同じパーティ募集は無視",
+      "timestamp": "2022-12-11T17:35:36+09:00",
+      "tree_id": "d7d22e0f8e874b1ba1e76f39dece7d4d962fb2ad",
+      "url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/bd12183872f071e07ba8547720b0f397e171f7d2"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Divination.FaloopIntegration/compare/ad8b5df5c537...3d3a520fa198",
+  "compare": "https://github.com/horoscope-dev/Divination.FaloopIntegration/compare/3d3a520fa198...bd12183872f0",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -38,11 +38,11 @@
       "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "3d3a520fa19828523905ef047d5fa1840fd14c6e",
-    "message": "自分のパーティ募集は無視",
-    "timestamp": "2022-12-11T13:59:22+09:00",
-    "tree_id": "8d941dd2a309e4b1ff44da2ce87ba4e4662ae06c",
-    "url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/3d3a520fa19828523905ef047d5fa1840fd14c6e"
+    "id": "bd12183872f071e07ba8547720b0f397e171f7d2",
+    "message": "同じパーティ募集は無視",
+    "timestamp": "2022-12-11T17:35:36+09:00",
+    "tree_id": "d7d22e0f8e874b1ba1e76f39dece7d4d962fb2ad",
+    "url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/bd12183872f071e07ba8547720b0f397e171f7d2"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -152,9 +152,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/pulls{/number}",
-    "pushed_at": 1670734769,
+    "pushed_at": 1670747745,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/releases{/id}",
-    "size": 63,
+    "size": 67,
     "ssh_url": "git@github.com:horoscope-dev/Divination.FaloopIntegration.git",
     "stargazers": 0,
     "stargazers_count": 0,
