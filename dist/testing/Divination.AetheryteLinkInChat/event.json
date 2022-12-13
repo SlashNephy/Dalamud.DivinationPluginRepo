@@ -1,43 +1,25 @@
 {
-  "after": "89c972133b5b4ee7a649fe8a929ada7bbb7f70c7",
+  "after": "3fa44a8a415c59f07e4b80971fc9d0abbf3017a2",
   "base_ref": null,
-  "before": "401240e7252a0d9a154504aa0ca02584cbc72385",
+  "before": "6ad4fabe66343174f0b963443b718d7965e5edd1",
   "commits": [
     {
       "author": {
-        "email": "29139614+renovate[bot]@users.noreply.github.com",
-        "name": "renovate[bot]",
-        "username": "renovate[bot]"
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
       },
       "committer": {
-        "email": "noreply@github.com",
-        "name": "GitHub",
-        "username": "web-flow"
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
       },
-      "distinct": false,
-      "id": "56c92fae7028b0e804d0592b3eb051318bcb2c45",
-      "message": "Update dependency GitVersion.MsBuild to v5.11.1",
-      "timestamp": "2022-11-18T15:18:07Z",
-      "tree_id": "a6b22ac22d91a878be90215416e67a63601c2068",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/56c92fae7028b0e804d0592b3eb051318bcb2c45"
-    },
-    {
-      "author": {
-        "email": "renovate[bot]@users.noreply.github.com",
-        "name": "renovate[bot]",
-        "username": "renovate[bot]"
-      },
-      "committer": {
-        "email": "github-actions[bot]@users.noreply.github.com",
-        "name": "github-actions[bot]",
-        "username": "github-actions[bot]"
-      },
-      "distinct": false,
-      "id": "c12b05db69347f22aacdddde85cefc4a7f2fcf10",
-      "message": "🧹 dotnet format",
-      "timestamp": "2022-11-18T15:18:41Z",
-      "tree_id": "7c45402b031c2341f7f5e7c690b73487ec7831b1",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/c12b05db69347f22aacdddde85cefc4a7f2fcf10"
+      "distinct": true,
+      "id": "6d3d940cee9c5380ff16e7553796a57d26407c21",
+      "message": "エリア移動中にもキューする",
+      "timestamp": "2022-12-13T19:50:46+09:00",
+      "tree_id": "4b9e72756b59f0c0926da1d8ce844a747c71a883",
+      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/6d3d940cee9c5380ff16e7553796a57d26407c21"
     },
     {
       "author": {
@@ -46,19 +28,19 @@
         "username": "SlashNephy"
       },
       "committer": {
-        "email": "noreply@github.com",
-        "name": "GitHub",
-        "username": "web-flow"
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "89c972133b5b4ee7a649fe8a929ada7bbb7f70c7",
-      "message": "Merge pull request #13 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1",
-      "timestamp": "2022-12-13T00:05:27+09:00",
-      "tree_id": "4cfe6053f801ff768f56d7e4351d84ced3072412",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/89c972133b5b4ee7a649fe8a929ada7bbb7f70c7"
+      "id": "3fa44a8a415c59f07e4b80971fc9d0abbf3017a2",
+      "message": "Merge remote-tracking branch origin/master",
+      "timestamp": "2022-12-13T19:50:53+09:00",
+      "tree_id": "3584244f3ead8b8fae31646b5abc6ec68f44f111",
+      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/3fa44a8a415c59f07e4b80971fc9d0abbf3017a2"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/compare/401240e7252a...89c972133b5b",
+  "compare": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/compare/6ad4fabe6634...3fa44a8a415c",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -69,16 +51,16 @@
       "username": "SlashNephy"
     },
     "committer": {
-      "email": "noreply@github.com",
-      "name": "GitHub",
-      "username": "web-flow"
+      "email": "spica@starry.blue",
+      "name": "SlashNephy",
+      "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "89c972133b5b4ee7a649fe8a929ada7bbb7f70c7",
-    "message": "Merge pull request #13 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1",
-    "timestamp": "2022-12-13T00:05:27+09:00",
-    "tree_id": "4cfe6053f801ff768f56d7e4351d84ced3072412",
-    "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/89c972133b5b4ee7a649fe8a929ada7bbb7f70c7"
+    "id": "3fa44a8a415c59f07e4b80971fc9d0abbf3017a2",
+    "message": "Merge remote-tracking branch origin/master",
+    "timestamp": "2022-12-13T19:50:53+09:00",
+    "tree_id": "3584244f3ead8b8fae31646b5abc6ec68f44f111",
+    "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/3fa44a8a415c59f07e4b80971fc9d0abbf3017a2"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -188,9 +170,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/pulls{/number}",
-    "pushed_at": 1670857527,
+    "pushed_at": 1670928654,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/releases{/id}",
-    "size": 53,
+    "size": 60,
     "ssh_url": "git@github.com:horoscope-dev/Divination.AetheryteLinkInChat.git",
     "stargazers": 0,
     "stargazers_count": 0,
