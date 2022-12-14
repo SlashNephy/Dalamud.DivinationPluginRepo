@@ -1,5 +1,168 @@
 [
   {
+    "sha": "9c56b60a2ac01add8753aae23f7ef807e0f8f5c0",
+    "node_id": "C_kwDOIkuHX9oAKDljNTZiNjBhMmFjMDFhZGQ4NzUzYWFlMjNmN2VmODA3ZTBmOGY1YzA",
+    "commit": {
+      "author": {
+        "name": "SlashNephy",
+        "email": "spica@starry.blue",
+        "date": "2022-12-14T15:46:54Z"
+      },
+      "committer": {
+        "name": "SlashNephy",
+        "email": "spica@starry.blue",
+        "date": "2022-12-14T15:46:54Z"
+      },
+      "message": "Merge remote-tracking branch 'origin/master'",
+      "tree": {
+        "sha": "c548fcabf35e75935e34682fff59faa281f18723",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/git/trees/c548fcabf35e75935e34682fff59faa281f18723"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/git/commits/9c56b60a2ac01add8753aae23f7ef807e0f8f5c0",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgmKyxkRODn2l2+wC7bRsXnXQA5b\n8/nR/ogbVjoeT/5PAAAAADZ2l0AAAAAAAAAAZzaGE1MTIAAABTAAAAC3NzaC1lZDI1NTE5\nAAAAQIKaFptS+IxKWBZIV2ORyNsmkf8ZBkKRfLXCMlqq+gvqfBUVnatft69/GGzfEFaQTY\nPjiOUNGPDgpiWOcPWlBQY=\n-----END SSH SIGNATURE-----",
+        "payload": "tree c548fcabf35e75935e34682fff59faa281f18723\nparent 3eee367291a4ba74e1261aa69401b5ff04f552e0\nparent dda6a1f848182b34b35104fabe9a747c5fad3edd\nauthor SlashNephy <spica@starry.blue> 1671032814 +0900\ncommitter SlashNephy <spica@starry.blue> 1671032814 +0900\n\nMerge remote-tracking branch 'origin/master'\n"
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/commits/9c56b60a2ac01add8753aae23f7ef807e0f8f5c0",
+    "html_url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/9c56b60a2ac01add8753aae23f7ef807e0f8f5c0",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/commits/9c56b60a2ac01add8753aae23f7ef807e0f8f5c0/comments",
+    "author": {
+      "login": "SlashNephy",
+      "id": 7302150,
+      "node_id": "MDQ6VXNlcjczMDIxNTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SlashNephy",
+      "html_url": "https://github.com/SlashNephy",
+      "followers_url": "https://api.github.com/users/SlashNephy/followers",
+      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+      "repos_url": "https://api.github.com/users/SlashNephy/repos",
+      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "SlashNephy",
+      "id": 7302150,
+      "node_id": "MDQ6VXNlcjczMDIxNTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SlashNephy",
+      "html_url": "https://github.com/SlashNephy",
+      "followers_url": "https://api.github.com/users/SlashNephy/followers",
+      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+      "repos_url": "https://api.github.com/users/SlashNephy/repos",
+      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3eee367291a4ba74e1261aa69401b5ff04f552e0",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/commits/3eee367291a4ba74e1261aa69401b5ff04f552e0",
+        "html_url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/3eee367291a4ba74e1261aa69401b5ff04f552e0"
+      },
+      {
+        "sha": "dda6a1f848182b34b35104fabe9a747c5fad3edd",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/commits/dda6a1f848182b34b35104fabe9a747c5fad3edd",
+        "html_url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/dda6a1f848182b34b35104fabe9a747c5fad3edd"
+      }
+    ]
+  },
+  {
+    "sha": "3eee367291a4ba74e1261aa69401b5ff04f552e0",
+    "node_id": "C_kwDOIkuHX9oAKDNlZWUzNjcyOTFhNGJhNzRlMTI2MWFhNjk0MDFiNWZmMDRmNTUyZTA",
+    "commit": {
+      "author": {
+        "name": "SlashNephy",
+        "email": "spica@starry.blue",
+        "date": "2022-12-14T15:46:49Z"
+      },
+      "committer": {
+        "name": "SlashNephy",
+        "email": "spica@starry.blue",
+        "date": "2022-12-14T15:46:49Z"
+      },
+      "message": "受信していない討伐報告を非表示にするオプション",
+      "tree": {
+        "sha": "df43214b77427c7d0722cb2f9d066ec7db7262d6",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/git/trees/df43214b77427c7d0722cb2f9d066ec7db7262d6"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/git/commits/3eee367291a4ba74e1261aa69401b5ff04f552e0",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgmKyxkRODn2l2+wC7bRsXnXQA5b\n8/nR/ogbVjoeT/5PAAAAADZ2l0AAAAAAAAAAZzaGE1MTIAAABTAAAAC3NzaC1lZDI1NTE5\nAAAAQLSHW/RdUnBYhWyFJiUDx6jUJpunIBg9b3usCI3YmXp8qUy/37n4Zd6l7EAssm0P8i\npPL7Vn3g86pGK43ynEgQ8=\n-----END SSH SIGNATURE-----",
+        "payload": "tree df43214b77427c7d0722cb2f9d066ec7db7262d6\nparent 1c949fc56d8254e0cfa0bd6b4e7a1edf31e16e28\nauthor SlashNephy <spica@starry.blue> 1671032809 +0900\ncommitter SlashNephy <spica@starry.blue> 1671032809 +0900\n\n受信していない討伐報告を非表示にするオプション\n"
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/commits/3eee367291a4ba74e1261aa69401b5ff04f552e0",
+    "html_url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/3eee367291a4ba74e1261aa69401b5ff04f552e0",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/commits/3eee367291a4ba74e1261aa69401b5ff04f552e0/comments",
+    "author": {
+      "login": "SlashNephy",
+      "id": 7302150,
+      "node_id": "MDQ6VXNlcjczMDIxNTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SlashNephy",
+      "html_url": "https://github.com/SlashNephy",
+      "followers_url": "https://api.github.com/users/SlashNephy/followers",
+      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+      "repos_url": "https://api.github.com/users/SlashNephy/repos",
+      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "SlashNephy",
+      "id": 7302150,
+      "node_id": "MDQ6VXNlcjczMDIxNTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SlashNephy",
+      "html_url": "https://github.com/SlashNephy",
+      "followers_url": "https://api.github.com/users/SlashNephy/followers",
+      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+      "repos_url": "https://api.github.com/users/SlashNephy/repos",
+      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "1c949fc56d8254e0cfa0bd6b4e7a1edf31e16e28",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/commits/1c949fc56d8254e0cfa0bd6b4e7a1edf31e16e28",
+        "html_url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/1c949fc56d8254e0cfa0bd6b4e7a1edf31e16e28"
+      }
+    ]
+  },
+  {
     "sha": "dda6a1f848182b34b35104fabe9a747c5fad3edd",
     "node_id": "C_kwDOIkuHX9oAKGRkYTZhMWY4NDgxODJiMzRiMzUxMDRmYWJlOWE3NDdjNWZhZDNlZGQ",
     "commit": {
@@ -2234,81 +2397,6 @@
         "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/commits/9a65177a2f67dd096d778a20f79f5fa5c121b114",
         "html_url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/9a65177a2f67dd096d778a20f79f5fa5c121b114"
       }
-    ]
-  },
-  {
-    "sha": "9a65177a2f67dd096d778a20f79f5fa5c121b114",
-    "node_id": "C_kwDOIkuHX9oAKDlhNjUxNzdhMmY2N2RkMDk2ZDc3OGEyMGY3OWY1ZmE1YzEyMWIxMTQ",
-    "commit": {
-      "author": {
-        "name": "SlashNephy",
-        "email": "spica@starry.blue",
-        "date": "2022-12-07T11:22:40Z"
-      },
-      "committer": {
-        "name": "GitHub",
-        "email": "noreply@github.com",
-        "date": "2022-12-07T11:22:40Z"
-      },
-      "message": "Initial commit",
-      "tree": {
-        "sha": "d75d2b9ecab70375d936c38b4ffa7e4b92591ae8",
-        "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/git/trees/d75d2b9ecab70375d936c38b4ffa7e4b92591ae8"
-      },
-      "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/git/commits/9a65177a2f67dd096d778a20f79f5fa5c121b114",
-      "comment_count": 0,
-      "verification": {
-        "verified": true,
-        "reason": "valid",
-        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjkHeACRBK7hj4Ov3rIwAASowIABK21Fd6pDWJiFKrKStoBuJr\n+mbkW5BT1Agz4IMLfOUTkRjsCwfhEHz1DyT9R+01RYA0+6q6v5X/rzTOYR5ZMUX/\ntM26WkTiN6YjXwh5t5pPpjGLlI7eHC+MQeZ6uKwIyiE/XYNPza3Yh0NBcbrQfVjy\nYm3QAaElRRthr/OTaGLzZb68017j1B519inbeHpdLoeLuA1XpMt4PKhK6cYd9UH1\nhI5Td9iNIEJUw1kQ5K6ppobhojlUgPKQnWKnbgNrOXRXaO073xc2TcEqBUXsBxAA\nAB7wfT/6D3H8FBnHHOvZe/Aas+ieMzYQdJwbdkQ2RLRXbBJf7rYRD1ISblnvLRI=\n=XqkU\n-----END PGP SIGNATURE-----\n",
-        "payload": "tree d75d2b9ecab70375d936c38b4ffa7e4b92591ae8\nauthor SlashNephy <spica@starry.blue> 1670412160 +0900\ncommitter GitHub <noreply@github.com> 1670412160 +0900\n\nInitial commit"
-      }
-    },
-    "url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/commits/9a65177a2f67dd096d778a20f79f5fa5c121b114",
-    "html_url": "https://github.com/horoscope-dev/Divination.FaloopIntegration/commit/9a65177a2f67dd096d778a20f79f5fa5c121b114",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.FaloopIntegration/commits/9a65177a2f67dd096d778a20f79f5fa5c121b114/comments",
-    "author": {
-      "login": "SlashNephy",
-      "id": 7302150,
-      "node_id": "MDQ6VXNlcjczMDIxNTA=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/SlashNephy",
-      "html_url": "https://github.com/SlashNephy",
-      "followers_url": "https://api.github.com/users/SlashNephy/followers",
-      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
-      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
-      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
-      "repos_url": "https://api.github.com/users/SlashNephy/repos",
-      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "web-flow",
-      "id": 19864447,
-      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
-      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/web-flow",
-      "html_url": "https://github.com/web-flow",
-      "followers_url": "https://api.github.com/users/web-flow/followers",
-      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
-      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
-      "organizations_url": "https://api.github.com/users/web-flow/orgs",
-      "repos_url": "https://api.github.com/users/web-flow/repos",
-      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/web-flow/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-
     ]
   }
 ]
