@@ -1,7 +1,7 @@
 {
-  "after": "3fa44a8a415c59f07e4b80971fc9d0abbf3017a2",
+  "after": "176ce9a29173d6ef8a19e87bcaa784c2406204cf",
   "base_ref": null,
-  "before": "6ad4fabe66343174f0b963443b718d7965e5edd1",
+  "before": "3fa44a8a415c59f07e4b80971fc9d0abbf3017a2",
   "commits": [
     {
       "author": {
@@ -15,11 +15,11 @@
         "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "6d3d940cee9c5380ff16e7553796a57d26407c21",
-      "message": "エリア移動中にもキューする",
-      "timestamp": "2022-12-13T19:50:46+09:00",
-      "tree_id": "4b9e72756b59f0c0926da1d8ce844a747c71a883",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/6d3d940cee9c5380ff16e7553796a57d26407c21"
+      "id": "2e9d59f34502691355e259e1b434bbd17cdc2521",
+      "message": "ローカライズ",
+      "timestamp": "2022-12-17T23:00:59+09:00",
+      "tree_id": "ded47ed3ddea9c437976a778a1507315242f3343",
+      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/2e9d59f34502691355e259e1b434bbd17cdc2521"
     },
     {
       "author": {
@@ -33,14 +33,50 @@
         "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "3fa44a8a415c59f07e4b80971fc9d0abbf3017a2",
-      "message": "Merge remote-tracking branch origin/master",
-      "timestamp": "2022-12-13T19:50:53+09:00",
-      "tree_id": "3584244f3ead8b8fae31646b5abc6ec68f44f111",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/3fa44a8a415c59f07e4b80971fc9d0abbf3017a2"
+      "id": "97863551c21b050d4a75ced327e9c25fdcb3a0e4",
+      "message": "隣接エリアを跨ぐ最短経路を計算できるように",
+      "timestamp": "2022-12-18T12:58:17+09:00",
+      "tree_id": "7582429876858061192d81bd54f6b7552c39363c",
+      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/97863551c21b050d4a75ced327e9c25fdcb3a0e4"
+    },
+    {
+      "author": {
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
+      },
+      "committer": {
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
+      },
+      "distinct": true,
+      "id": "fd3a79a61ad446ad4844c572daeb605b0a425443",
+      "message": "エリア移動にはコストを足す",
+      "timestamp": "2022-12-18T13:03:40+09:00",
+      "tree_id": "56d883c09fa7196d8041ace0504566c5b458325c",
+      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/fd3a79a61ad446ad4844c572daeb605b0a425443"
+    },
+    {
+      "author": {
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
+      },
+      "committer": {
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
+      },
+      "distinct": true,
+      "id": "176ce9a29173d6ef8a19e87bcaa784c2406204cf",
+      "message": "チャットのフォーマット変更",
+      "timestamp": "2022-12-18T13:31:35+09:00",
+      "tree_id": "4e37946ab9959693540ccf2b8c17f0e8d16f63e5",
+      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/176ce9a29173d6ef8a19e87bcaa784c2406204cf"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/compare/6ad4fabe6634...3fa44a8a415c",
+  "compare": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/compare/3fa44a8a415c...176ce9a29173",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -56,11 +92,11 @@
       "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "3fa44a8a415c59f07e4b80971fc9d0abbf3017a2",
-    "message": "Merge remote-tracking branch origin/master",
-    "timestamp": "2022-12-13T19:50:53+09:00",
-    "tree_id": "3584244f3ead8b8fae31646b5abc6ec68f44f111",
-    "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/3fa44a8a415c59f07e4b80971fc9d0abbf3017a2"
+    "id": "176ce9a29173d6ef8a19e87bcaa784c2406204cf",
+    "message": "チャットのフォーマット変更",
+    "timestamp": "2022-12-18T13:31:35+09:00",
+    "tree_id": "4e37946ab9959693540ccf2b8c17f0e8d16f63e5",
+    "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/176ce9a29173d6ef8a19e87bcaa784c2406204cf"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -115,7 +151,7 @@
     "has_downloads": true,
     "has_issues": true,
     "has_pages": false,
-    "has_projects": true,
+    "has_projects": false,
     "has_wiki": false,
     "homepage": "",
     "hooks_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/hooks",
@@ -143,8 +179,8 @@
     "name": "Divination.AetheryteLinkInChat",
     "node_id": "R_kgDOHC24pw",
     "notifications_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/notifications{?since,all,participating}",
-    "open_issues": 2,
-    "open_issues_count": 2,
+    "open_issues": 3,
+    "open_issues_count": 3,
     "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -170,12 +206,12 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/pulls{/number}",
-    "pushed_at": 1670928654,
+    "pushed_at": 1671337900,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/releases{/id}",
-    "size": 60,
+    "size": 65,
     "ssh_url": "git@github.com:horoscope-dev/Divination.AetheryteLinkInChat.git",
-    "stargazers": 0,
-    "stargazers_count": 0,
+    "stargazers": 1,
+    "stargazers_count": 1,
     "stargazers_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/stargazers",
     "statuses_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/subscribers",
@@ -189,11 +225,11 @@
       "mob-hunting"
     ],
     "trees_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/git/trees{/sha}",
-    "updated_at": "2022-12-11T11:33:35Z",
+    "updated_at": "2022-12-14T19:08:03Z",
     "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat",
     "visibility": "public",
-    "watchers": 0,
-    "watchers_count": 0,
+    "watchers": 1,
+    "watchers_count": 1,
     "web_commit_signoff_required": false
   },
   "sender": {
