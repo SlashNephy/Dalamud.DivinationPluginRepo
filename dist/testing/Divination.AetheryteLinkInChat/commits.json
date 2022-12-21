@@ -1,5 +1,163 @@
 [
   {
+    "sha": "3febecf0c4d4ebaa0ca03b83b1c3c4af32f7f83e",
+    "node_id": "C_kwDOHC24p9oAKDNmZWJlY2YwYzRkNGViYWEwY2EwM2I4M2IxYzNjNGFmMzJmN2Y4M2U",
+    "commit": {
+      "author": {
+        "name": "SlashNephy",
+        "email": "SlashNephy@users.noreply.github.com",
+        "date": "2022-12-21T10:49:57Z"
+      },
+      "committer": {
+        "name": "github-actions[bot]",
+        "email": "41898282+github-actions[bot]@users.noreply.github.com",
+        "date": "2022-12-21T10:49:57Z"
+      },
+      "message": "🧹 dotnet format",
+      "tree": {
+        "sha": "a7832e8b32f631ac5eb3d35b6bede156e31f6fc4",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/git/trees/a7832e8b32f631ac5eb3d35b6bede156e31f6fc4"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/git/commits/3febecf0c4d4ebaa0ca03b83b1c3c4af32f7f83e",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/commits/3febecf0c4d4ebaa0ca03b83b1c3c4af32f7f83e",
+    "html_url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/3febecf0c4d4ebaa0ca03b83b1c3c4af32f7f83e",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/commits/3febecf0c4d4ebaa0ca03b83b1c3c4af32f7f83e/comments",
+    "author": {
+      "login": "SlashNephy",
+      "id": 7302150,
+      "node_id": "MDQ6VXNlcjczMDIxNTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SlashNephy",
+      "html_url": "https://github.com/SlashNephy",
+      "followers_url": "https://api.github.com/users/SlashNephy/followers",
+      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+      "repos_url": "https://api.github.com/users/SlashNephy/repos",
+      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "feeb6e754906108a05df805bd02a8178b4886dc9",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/commits/feeb6e754906108a05df805bd02a8178b4886dc9",
+        "html_url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/feeb6e754906108a05df805bd02a8178b4886dc9"
+      }
+    ]
+  },
+  {
+    "sha": "feeb6e754906108a05df805bd02a8178b4886dc9",
+    "node_id": "C_kwDOHC24p9oAKGZlZWI2ZTc1NDkwNjEwOGEwNWRmODA1YmQwMmE4MTc4YjQ4ODZkYzk",
+    "commit": {
+      "author": {
+        "name": "SlashNephy",
+        "email": "spica@starry.blue",
+        "date": "2022-12-21T10:49:11Z"
+      },
+      "committer": {
+        "name": "SlashNephy",
+        "email": "spica@starry.blue",
+        "date": "2022-12-21T10:49:11Z"
+      },
+      "message": "ローカライズの機能を Common に追いやった",
+      "tree": {
+        "sha": "34b6fd2feb4b078c4b4638dac562869a538a9e9e",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/git/trees/34b6fd2feb4b078c4b4638dac562869a538a9e9e"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/git/commits/feeb6e754906108a05df805bd02a8178b4886dc9",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgmKyxkRODn2l2+wC7bRsXnXQA5b\n8/nR/ogbVjoeT/5PAAAAADZ2l0AAAAAAAAAAZzaGE1MTIAAABTAAAAC3NzaC1lZDI1NTE5\nAAAAQNPu286TEauppGXGCpQ5PrPoOkmxd0YnaGQjw+X1nyrzCnfdOQTNqK79ZdqBwIKH1R\nGnpXY0QySiB5nStZRnwAw=\n-----END SSH SIGNATURE-----",
+        "payload": "tree 34b6fd2feb4b078c4b4638dac562869a538a9e9e\nparent 36c8e227360bddd197f060b312084199e7bcead5\nauthor SlashNephy <spica@starry.blue> 1671619751 +0900\ncommitter SlashNephy <spica@starry.blue> 1671619751 +0900\n\nローカライズの機能を Common に追いやった\n"
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/commits/feeb6e754906108a05df805bd02a8178b4886dc9",
+    "html_url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/feeb6e754906108a05df805bd02a8178b4886dc9",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/commits/feeb6e754906108a05df805bd02a8178b4886dc9/comments",
+    "author": {
+      "login": "SlashNephy",
+      "id": 7302150,
+      "node_id": "MDQ6VXNlcjczMDIxNTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SlashNephy",
+      "html_url": "https://github.com/SlashNephy",
+      "followers_url": "https://api.github.com/users/SlashNephy/followers",
+      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+      "repos_url": "https://api.github.com/users/SlashNephy/repos",
+      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "SlashNephy",
+      "id": 7302150,
+      "node_id": "MDQ6VXNlcjczMDIxNTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SlashNephy",
+      "html_url": "https://github.com/SlashNephy",
+      "followers_url": "https://api.github.com/users/SlashNephy/followers",
+      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+      "repos_url": "https://api.github.com/users/SlashNephy/repos",
+      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "36c8e227360bddd197f060b312084199e7bcead5",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/commits/36c8e227360bddd197f060b312084199e7bcead5",
+        "html_url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/36c8e227360bddd197f060b312084199e7bcead5"
+      }
+    ]
+  },
+  {
     "sha": "36c8e227360bddd197f060b312084199e7bcead5",
     "node_id": "C_kwDOHC24p9oAKDM2YzhlMjI3MzYwYmRkZDE5N2YwNjBiMzEyMDg0MTk5ZTdiY2VhZDU",
     "commit": {
@@ -2233,164 +2391,6 @@
         "sha": "355c8e4399a9b3d95ba5222842b75c023a9512ad",
         "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/commits/355c8e4399a9b3d95ba5222842b75c023a9512ad",
         "html_url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/355c8e4399a9b3d95ba5222842b75c023a9512ad"
-      }
-    ]
-  },
-  {
-    "sha": "355c8e4399a9b3d95ba5222842b75c023a9512ad",
-    "node_id": "C_kwDOHC24p9oAKDM1NWM4ZTQzOTlhOWIzZDk1YmE1MjIyODQyYjc1YzAyM2E5NTEyYWQ",
-    "commit": {
-      "author": {
-        "name": "SlashNephy",
-        "email": "SlashNephy@users.noreply.github.com",
-        "date": "2022-11-08T15:30:45Z"
-      },
-      "committer": {
-        "name": "github-actions[bot]",
-        "email": "github-actions[bot]@users.noreply.github.com",
-        "date": "2022-11-08T15:30:45Z"
-      },
-      "message": "🧹 dotnet format",
-      "tree": {
-        "sha": "d441c2cb17324f05e0ff5d6dca044e92a714e0c3",
-        "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/git/trees/d441c2cb17324f05e0ff5d6dca044e92a714e0c3"
-      },
-      "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/git/commits/355c8e4399a9b3d95ba5222842b75c023a9512ad",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
-    },
-    "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/commits/355c8e4399a9b3d95ba5222842b75c023a9512ad",
-    "html_url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/355c8e4399a9b3d95ba5222842b75c023a9512ad",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/commits/355c8e4399a9b3d95ba5222842b75c023a9512ad/comments",
-    "author": {
-      "login": "SlashNephy",
-      "id": 7302150,
-      "node_id": "MDQ6VXNlcjczMDIxNTA=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/SlashNephy",
-      "html_url": "https://github.com/SlashNephy",
-      "followers_url": "https://api.github.com/users/SlashNephy/followers",
-      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
-      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
-      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
-      "repos_url": "https://api.github.com/users/SlashNephy/repos",
-      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "1555d9da3b01135f405f983c3338cfdce7a33667",
-        "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/commits/1555d9da3b01135f405f983c3338cfdce7a33667",
-        "html_url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/1555d9da3b01135f405f983c3338cfdce7a33667"
-      }
-    ]
-  },
-  {
-    "sha": "1555d9da3b01135f405f983c3338cfdce7a33667",
-    "node_id": "C_kwDOHC24p9oAKDE1NTVkOWRhM2IwMTEzNWY0MDVmOTgzYzMzMzhjZmRjZTdhMzM2Njc",
-    "commit": {
-      "author": {
-        "name": "SlashNephy",
-        "email": "spica@starry.blue",
-        "date": "2022-11-08T15:30:10Z"
-      },
-      "committer": {
-        "name": "SlashNephy",
-        "email": "spica@starry.blue",
-        "date": "2022-11-08T15:30:10Z"
-      },
-      "message": "reusable workflows を使う",
-      "tree": {
-        "sha": "1a8deae8de9307af06c4f0ce568f0eaf31f40113",
-        "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/git/trees/1a8deae8de9307af06c4f0ce568f0eaf31f40113"
-      },
-      "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/git/commits/1555d9da3b01135f405f983c3338cfdce7a33667",
-      "comment_count": 0,
-      "verification": {
-        "verified": true,
-        "reason": "valid",
-        "signature": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgmKyxkRODn2l2+wC7bRsXnXQA5b\n8/nR/ogbVjoeT/5PAAAAADZ2l0AAAAAAAAAAZzaGE1MTIAAABTAAAAC3NzaC1lZDI1NTE5\nAAAAQKjLwxDTm+QqBPSqwS4ICGbz6mQ3j9o/7WBXcAStxap/rEShBJJrMOSXJwbRKWobiZ\n4iujANiv1egl95NOKc9AU=\n-----END SSH SIGNATURE-----",
-        "payload": "tree 1a8deae8de9307af06c4f0ce568f0eaf31f40113\nparent 460130e9d18c2c8d9975949979ccab9c1d408828\nauthor SlashNephy <spica@starry.blue> 1667921410 +0900\ncommitter SlashNephy <spica@starry.blue> 1667921410 +0900\n\nreusable workflows を使う\n"
-      }
-    },
-    "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/commits/1555d9da3b01135f405f983c3338cfdce7a33667",
-    "html_url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/1555d9da3b01135f405f983c3338cfdce7a33667",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/commits/1555d9da3b01135f405f983c3338cfdce7a33667/comments",
-    "author": {
-      "login": "SlashNephy",
-      "id": 7302150,
-      "node_id": "MDQ6VXNlcjczMDIxNTA=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/SlashNephy",
-      "html_url": "https://github.com/SlashNephy",
-      "followers_url": "https://api.github.com/users/SlashNephy/followers",
-      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
-      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
-      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
-      "repos_url": "https://api.github.com/users/SlashNephy/repos",
-      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "SlashNephy",
-      "id": 7302150,
-      "node_id": "MDQ6VXNlcjczMDIxNTA=",
-      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/SlashNephy",
-      "html_url": "https://github.com/SlashNephy",
-      "followers_url": "https://api.github.com/users/SlashNephy/followers",
-      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
-      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
-      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
-      "repos_url": "https://api.github.com/users/SlashNephy/repos",
-      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
-      "type": "User",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "460130e9d18c2c8d9975949979ccab9c1d408828",
-        "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/commits/460130e9d18c2c8d9975949979ccab9c1d408828",
-        "html_url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/460130e9d18c2c8d9975949979ccab9c1d408828"
       }
     ]
   }

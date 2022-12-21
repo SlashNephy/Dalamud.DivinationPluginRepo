@@ -1,7 +1,7 @@
 {
-  "after": "faa11ba401492d2f4d8180ceeaff411e3ac87e1e",
+  "after": "feeb6e754906108a05df805bd02a8178b4886dc9",
   "base_ref": null,
-  "before": "c57d8dec21d571532f592ac15f1ba345f3396e54",
+  "before": "36c8e227360bddd197f060b312084199e7bcead5",
   "commits": [
     {
       "author": {
@@ -15,68 +15,14 @@
         "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "a4732943c5fa87bc69abe98dda64ee752dc67728",
-      "message": "都市内エーテライトを利用する場合は距離ゼロ",
-      "timestamp": "2022-12-18T13:54:35+09:00",
-      "tree_id": "e4e6863542fda4f7d3ba3fa958f6874bce451f60",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/a4732943c5fa87bc69abe98dda64ee752dc67728"
-    },
-    {
-      "author": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "committer": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "distinct": true,
-      "id": "f67e06b70cc1d38e5e960355d81e5e611365745d",
-      "message": "キューのテレポを実行する場合にもメッセージを出す",
-      "timestamp": "2022-12-20T13:42:25+09:00",
-      "tree_id": "845623c81c63d9e5e56659ccb73675e9424afc40",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/f67e06b70cc1d38e5e960355d81e5e611365745d"
-    },
-    {
-      "author": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "committer": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "distinct": true,
-      "id": "980c26e760d7ba66510d44f431ee4f8b67796623",
-      "message": "対象の ConditionFlag を追加",
-      "timestamp": "2022-12-20T13:56:44+09:00",
-      "tree_id": "8a40e9194dcf78658c2b1ded3116cfd4c70a1240",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/980c26e760d7ba66510d44f431ee4f8b67796623"
-    },
-    {
-      "author": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "committer": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "distinct": true,
-      "id": "faa11ba401492d2f4d8180ceeaff411e3ac87e1e",
-      "message": "Merge remote-tracking branch origin/master\n\n# Conflicts:\n#\tDivination.AetheryteLinkInChat/AetheryteSolver.cs\n#\tDivination.AetheryteLinkInChat/Localize/Localization.cs\n#\tDivination.AetheryteLinkInChat/Teleporter.cs",
-      "timestamp": "2022-12-20T13:57:22+09:00",
-      "tree_id": "ecc06e97571d840c92198c1dc33d1a7566863c85",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/faa11ba401492d2f4d8180ceeaff411e3ac87e1e"
+      "id": "feeb6e754906108a05df805bd02a8178b4886dc9",
+      "message": "ローカライズの機能を Common に追いやった",
+      "timestamp": "2022-12-21T19:49:11+09:00",
+      "tree_id": "34b6fd2feb4b078c4b4638dac562869a538a9e9e",
+      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/feeb6e754906108a05df805bd02a8178b4886dc9"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/compare/c57d8dec21d5...faa11ba40149",
+  "compare": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/compare/36c8e227360b...feeb6e754906",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -92,11 +38,11 @@
       "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "faa11ba401492d2f4d8180ceeaff411e3ac87e1e",
-    "message": "Merge remote-tracking branch origin/master\n\n# Conflicts:\n#\tDivination.AetheryteLinkInChat/AetheryteSolver.cs\n#\tDivination.AetheryteLinkInChat/Localize/Localization.cs\n#\tDivination.AetheryteLinkInChat/Teleporter.cs",
-    "timestamp": "2022-12-20T13:57:22+09:00",
-    "tree_id": "ecc06e97571d840c92198c1dc33d1a7566863c85",
-    "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/faa11ba401492d2f4d8180ceeaff411e3ac87e1e"
+    "id": "feeb6e754906108a05df805bd02a8178b4886dc9",
+    "message": "ローカライズの機能を Common に追いやった",
+    "timestamp": "2022-12-21T19:49:11+09:00",
+    "tree_id": "34b6fd2feb4b078c4b4638dac562869a538a9e9e",
+    "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/feeb6e754906108a05df805bd02a8178b4886dc9"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -206,9 +152,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/pulls{/number}",
-    "pushed_at": 1671512249,
+    "pushed_at": 1671619758,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/releases{/id}",
-    "size": 81,
+    "size": 73,
     "ssh_url": "git@github.com:horoscope-dev/Divination.AetheryteLinkInChat.git",
     "stargazers": 1,
     "stargazers_count": 1,
