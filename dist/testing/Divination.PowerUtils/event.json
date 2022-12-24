@@ -1,7 +1,7 @@
 {
-  "after": "2fbe9fe1abd5cb62f9bc1c89a39b9ceeaa57f037",
+  "after": "930b290e3de635ae4c4e2d0562a80e458ee8c81e",
   "base_ref": null,
-  "before": "9c4e5352b4a9833d685ad4b6d8740ab5da39fd7b",
+  "before": "2fbe9fe1abd5cb62f9bc1c89a39b9ceeaa57f037",
   "commits": [
     {
       "author": {
@@ -15,29 +15,11 @@
         "username": "web-flow"
       },
       "distinct": false,
-      "id": "ab8761fc239849b02a2cdd7395dc258afe8b0299",
-      "message": "chore(deps): update dependency gitversion.msbuild to v5.11.1",
-      "timestamp": "2022-11-20T09:23:13Z",
-      "tree_id": "f8017a4e81cb5edc02f082bf1d32b522f6d0e271",
-      "url": "https://github.com/horoscope-dev/Divination.PowerUtils/commit/ab8761fc239849b02a2cdd7395dc258afe8b0299"
-    },
-    {
-      "author": {
-        "email": "renovate[bot]@users.noreply.github.com",
-        "name": "renovate[bot]",
-        "username": "renovate[bot]"
-      },
-      "committer": {
-        "email": "github-actions[bot]@users.noreply.github.com",
-        "name": "github-actions[bot]",
-        "username": "github-actions[bot]"
-      },
-      "distinct": false,
-      "id": "7593cba473dd2f43a14dda5c7eea3be53b925166",
-      "message": "🧹 dotnet format",
-      "timestamp": "2022-11-20T09:23:43Z",
-      "tree_id": "607aab9e7149e392ee33061cdfc263bd488fe55d",
-      "url": "https://github.com/horoscope-dev/Divination.PowerUtils/commit/7593cba473dd2f43a14dda5c7eea3be53b925166"
+      "id": "a19a69ef448163e747a6760d82205a595f774c0e",
+      "message": "chore(deps): update dependency gitversion.tool to v5.11.1",
+      "timestamp": "2022-11-20T09:23:23Z",
+      "tree_id": "afd43a3734a895276844af6c3358260693d4479d",
+      "url": "https://github.com/horoscope-dev/Divination.PowerUtils/commit/a19a69ef448163e747a6760d82205a595f774c0e"
     },
     {
       "author": {
@@ -51,14 +33,14 @@
         "username": "web-flow"
       },
       "distinct": true,
-      "id": "2fbe9fe1abd5cb62f9bc1c89a39b9ceeaa57f037",
-      "message": "Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1",
-      "timestamp": "2022-12-25T02:35:07+09:00",
-      "tree_id": "607aab9e7149e392ee33061cdfc263bd488fe55d",
-      "url": "https://github.com/horoscope-dev/Divination.PowerUtils/commit/2fbe9fe1abd5cb62f9bc1c89a39b9ceeaa57f037"
+      "id": "930b290e3de635ae4c4e2d0562a80e458ee8c81e",
+      "message": "Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1",
+      "timestamp": "2022-12-25T02:35:16+09:00",
+      "tree_id": "23780ed4ff70b0dff8ba726159fe25fafec56c59",
+      "url": "https://github.com/horoscope-dev/Divination.PowerUtils/commit/930b290e3de635ae4c4e2d0562a80e458ee8c81e"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Divination.PowerUtils/compare/9c4e5352b4a9...2fbe9fe1abd5",
+  "compare": "https://github.com/horoscope-dev/Divination.PowerUtils/compare/2fbe9fe1abd5...930b290e3de6",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -74,11 +56,11 @@
       "username": "web-flow"
     },
     "distinct": true,
-    "id": "2fbe9fe1abd5cb62f9bc1c89a39b9ceeaa57f037",
-    "message": "Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1",
-    "timestamp": "2022-12-25T02:35:07+09:00",
-    "tree_id": "607aab9e7149e392ee33061cdfc263bd488fe55d",
-    "url": "https://github.com/horoscope-dev/Divination.PowerUtils/commit/2fbe9fe1abd5cb62f9bc1c89a39b9ceeaa57f037"
+    "id": "930b290e3de635ae4c4e2d0562a80e458ee8c81e",
+    "message": "Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1",
+    "timestamp": "2022-12-25T02:35:16+09:00",
+    "tree_id": "23780ed4ff70b0dff8ba726159fe25fafec56c59",
+    "url": "https://github.com/horoscope-dev/Divination.PowerUtils/commit/930b290e3de635ae4c4e2d0562a80e458ee8c81e"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -161,8 +143,8 @@
     "name": "Divination.PowerUtils",
     "node_id": "MDEwOlJlcG9zaXRvcnk0MDI2NjIyMTQ=",
     "notifications_url": "https://api.github.com/repos/horoscope-dev/Divination.PowerUtils/notifications{?since,all,participating}",
-    "open_issues": 3,
-    "open_issues_count": 3,
+    "open_issues": 2,
+    "open_issues_count": 2,
     "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -188,7 +170,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Divination.PowerUtils/pulls{/number}",
-    "pushed_at": 1671903307,
+    "pushed_at": 1671903316,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Divination.PowerUtils/releases{/id}",
     "size": 40,
     "ssh_url": "git@github.com:horoscope-dev/Divination.PowerUtils.git",
