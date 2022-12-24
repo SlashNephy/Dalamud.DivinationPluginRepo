@@ -1,67 +1,5 @@
 {
-  "after": "51b6759de1fdb7514ed84a908d7125a1c163b076",
-  "base_ref": null,
-  "before": "3febecf0c4d4ebaa0ca03b83b1c3c4af32f7f83e",
-  "commits": [
-    {
-      "author": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "committer": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "distinct": true,
-      "id": "547f98bc45bffd5d2a7f6072a15cc7edf08b4099",
-      "message": "ミスって default になってた",
-      "timestamp": "2022-12-23T01:51:14+09:00",
-      "tree_id": "b2929855d6bd276423ffc48f2cee1ccb5a3074cb",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/547f98bc45bffd5d2a7f6072a15cc7edf08b4099"
-    },
-    {
-      "author": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "committer": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "distinct": true,
-      "id": "51b6759de1fdb7514ed84a908d7125a1c163b076",
-      "message": "Merge remote-tracking branch origin/master",
-      "timestamp": "2022-12-23T01:51:34+09:00",
-      "tree_id": "33a4bf2652b7ecafed818bf3eece9794be7b0650",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/51b6759de1fdb7514ed84a908d7125a1c163b076"
-    }
-  ],
-  "compare": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/compare/3febecf0c4d4...51b6759de1fd",
-  "created": false,
-  "deleted": false,
-  "forced": false,
-  "head_commit": {
-    "author": {
-      "email": "spica@starry.blue",
-      "name": "SlashNephy",
-      "username": "SlashNephy"
-    },
-    "committer": {
-      "email": "spica@starry.blue",
-      "name": "SlashNephy",
-      "username": "SlashNephy"
-    },
-    "distinct": true,
-    "id": "51b6759de1fdb7514ed84a908d7125a1c163b076",
-    "message": "Merge remote-tracking branch origin/master",
-    "timestamp": "2022-12-23T01:51:34+09:00",
-    "tree_id": "33a4bf2652b7ecafed818bf3eece9794be7b0650",
-    "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/51b6759de1fdb7514ed84a908d7125a1c163b076"
-  },
+  "inputs": null,
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
     "description": "",
@@ -75,10 +13,6 @@
     "public_members_url": "https://api.github.com/orgs/horoscope-dev/public_members{/member}",
     "repos_url": "https://api.github.com/orgs/horoscope-dev/repos",
     "url": "https://api.github.com/orgs/horoscope-dev"
-  },
-  "pusher": {
-    "email": "spica@starry.blue",
-    "name": "SlashNephy"
   },
   "ref": "refs/heads/master",
   "repository": {
@@ -95,7 +29,7 @@
     "compare_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/compare/{base}...{head}",
     "contents_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/contents/{+path}",
     "contributors_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/contributors",
-    "created_at": 1647952249,
+    "created_at": "2022-03-22T12:30:49Z",
     "default_branch": "master",
     "deployments_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/deployments",
     "description": "🚀 Dalamud Plugin to add a link to teleport to the nearest aetheryte.",
@@ -136,7 +70,6 @@
       "spdx_id": "MIT",
       "url": "https://api.github.com/licenses/mit"
     },
-    "master_branch": "master",
     "merges_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/merges",
     "milestones_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/milestones{/number}",
     "mirror_url": null,
@@ -145,10 +78,8 @@
     "notifications_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/notifications{?since,all,participating}",
     "open_issues": 2,
     "open_issues_count": 2,
-    "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
-      "email": null,
       "events_url": "https://api.github.com/users/horoscope-dev/events{/privacy}",
       "followers_url": "https://api.github.com/users/horoscope-dev/followers",
       "following_url": "https://api.github.com/users/horoscope-dev/following{/other_user}",
@@ -157,7 +88,6 @@
       "html_url": "https://github.com/horoscope-dev",
       "id": 7855451,
       "login": "horoscope-dev",
-      "name": "horoscope-dev",
       "node_id": "MDEyOk9yZ2FuaXphdGlvbjc4NTU0NTE=",
       "organizations_url": "https://api.github.com/users/horoscope-dev/orgs",
       "received_events_url": "https://api.github.com/users/horoscope-dev/received_events",
@@ -170,11 +100,10 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/pulls{/number}",
-    "pushed_at": 1671727895,
+    "pushed_at": "2022-12-22T16:51:35Z",
     "releases_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/releases{/id}",
-    "size": 75,
+    "size": 76,
     "ssh_url": "git@github.com:horoscope-dev/Divination.AetheryteLinkInChat.git",
-    "stargazers": 1,
     "stargazers_count": 1,
     "stargazers_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/stargazers",
     "statuses_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/statuses/{sha}",
@@ -190,7 +119,7 @@
     ],
     "trees_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/git/trees{/sha}",
     "updated_at": "2022-12-14T19:08:03Z",
-    "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat",
     "visibility": "public",
     "watchers": 1,
     "watchers_count": 1,
@@ -215,5 +144,6 @@
     "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
     "type": "User",
     "url": "https://api.github.com/users/SlashNephy"
-  }
+  },
+  "workflow": ".github/workflows/ci.yml"
 }
