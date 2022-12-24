@@ -153,7 +153,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1671903590,
+    "LastUpdated": 1671903801,
     "LoadPriority": 0,
     "Name": "Divination.InstanceIDViewer",
     "Punchline": "",
@@ -287,12 +287,12 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.50",
+    "AssemblyVersion": "0.1.0.56",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "utility"
     ],
-    "Changelog": "bf74b5c: \ud83e\uddf9 dotnet format\n0f21f2f: API 7\n0f5b930: \ud83d\udd27 chore(renovate): update config\n9808e0c: feat: Support Patch 6.1\n08b6aaf: feat: Support Dalamud API 6",
+    "Changelog": "a9c071a: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\n58cbb32: Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\nb95a902: \ud83e\uddf9 dotnet format\nfb86636: chore(deps): update dependency gitversion.tool to v5.11.1\neb8e9c9: chore(deps): update dependency gitversion.msbuild to v5.11.1\nbf74b5c: \ud83e\uddf9 dotnet format\n0f21f2f: API 7\n0f5b930: \ud83d\udd27 chore(renovate): update config\n9808e0c: feat: Support Patch 6.1\n08b6aaf: feat: Support Dalamud API 6",
     "DalamudApiLevel": 7,
     "Description": "Add /voiceroid2 command into FFXIV. Require SimpleVoiceroid2Proxy (https://github.com/SlashNephy/SimpleVoiceroid2Proxy).",
     "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.Voiceroid2Talker/latest.zip",
@@ -302,15 +302,15 @@
     "InternalName": "Divination.Voiceroid2Talker",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1667993750,
+    "LastUpdated": 1671903697,
     "LoadPriority": 0,
     "Name": "Divination.Voiceroid2Talker",
     "Punchline": "Text-to-Speech for Voiceroid2",
-    "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Voiceroid2Talker",
+    "RepoUrl": "https://github.com/horoscope-dev/Divination.Voiceroid2Talker",
     "Tags": [
       "Text-to-speech",
       "Voiceroid"
     ],
-    "TestingAssemblyVersion": "0.1.0.50"
+    "TestingAssemblyVersion": "0.1.0.56"
   }
 ]
