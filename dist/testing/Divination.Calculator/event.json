@@ -1,7 +1,7 @@
 {
-  "after": "a3438d051a1c0c660fa958515a059a1200d829eb",
+  "after": "c0aab4f40bac87c19ef94c722ef93b61dae2e11c",
   "base_ref": null,
-  "before": "26b4ffae15f793fd6b4f359141f5686b05e705d3",
+  "before": "a3438d051a1c0c660fa958515a059a1200d829eb",
   "commits": [
     {
       "author": {
@@ -15,29 +15,11 @@
         "username": "web-flow"
       },
       "distinct": false,
-      "id": "62e0bb94c809594489df82a5b4af23d5bc40f87b",
-      "message": "chore(deps): update dependency gitversion.msbuild to v5.11.1",
-      "timestamp": "2022-11-20T11:25:59Z",
-      "tree_id": "734a89e71244e96c883275a65c103e6ef866bee2",
-      "url": "https://github.com/horoscope-dev/Divination.Calculator/commit/62e0bb94c809594489df82a5b4af23d5bc40f87b"
-    },
-    {
-      "author": {
-        "email": "renovate[bot]@users.noreply.github.com",
-        "name": "renovate[bot]",
-        "username": "renovate[bot]"
-      },
-      "committer": {
-        "email": "github-actions[bot]@users.noreply.github.com",
-        "name": "github-actions[bot]",
-        "username": "github-actions[bot]"
-      },
-      "distinct": false,
-      "id": "2ce1f36e4b1e6c02fe52504a34b010b6c7ec189b",
-      "message": "🧹 dotnet format",
-      "timestamp": "2022-11-20T11:26:33Z",
-      "tree_id": "f0daa41f1ba925586dfcebc16d64786e57b3266e",
-      "url": "https://github.com/horoscope-dev/Divination.Calculator/commit/2ce1f36e4b1e6c02fe52504a34b010b6c7ec189b"
+      "id": "485afbec41708817914a824ae5bdfd5fd176e099",
+      "message": "chore(deps): update dependency gitversion.tool to v5.11.1",
+      "timestamp": "2022-11-20T11:26:06Z",
+      "tree_id": "139ad73ea15c70f4800beed7e2cbccb7cdd25a7d",
+      "url": "https://github.com/horoscope-dev/Divination.Calculator/commit/485afbec41708817914a824ae5bdfd5fd176e099"
     },
     {
       "author": {
@@ -51,14 +33,14 @@
         "username": "web-flow"
       },
       "distinct": true,
-      "id": "a3438d051a1c0c660fa958515a059a1200d829eb",
-      "message": "Merge pull request #12 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1",
-      "timestamp": "2022-11-29T12:25:04+09:00",
-      "tree_id": "abfe4168a8dc735b361b67a22dac2bf0a22868ac",
-      "url": "https://github.com/horoscope-dev/Divination.Calculator/commit/a3438d051a1c0c660fa958515a059a1200d829eb"
+      "id": "c0aab4f40bac87c19ef94c722ef93b61dae2e11c",
+      "message": "Merge pull request #3 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1",
+      "timestamp": "2022-12-25T02:36:55+09:00",
+      "tree_id": "b92bbcf39cb52bf7557f6a9e03a09238f66a82ca",
+      "url": "https://github.com/horoscope-dev/Divination.Calculator/commit/c0aab4f40bac87c19ef94c722ef93b61dae2e11c"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Divination.Calculator/compare/26b4ffae15f7...a3438d051a1c",
+  "compare": "https://github.com/horoscope-dev/Divination.Calculator/compare/a3438d051a1c...c0aab4f40bac",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -74,11 +56,11 @@
       "username": "web-flow"
     },
     "distinct": true,
-    "id": "a3438d051a1c0c660fa958515a059a1200d829eb",
-    "message": "Merge pull request #12 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1",
-    "timestamp": "2022-11-29T12:25:04+09:00",
-    "tree_id": "abfe4168a8dc735b361b67a22dac2bf0a22868ac",
-    "url": "https://github.com/horoscope-dev/Divination.Calculator/commit/a3438d051a1c0c660fa958515a059a1200d829eb"
+    "id": "c0aab4f40bac87c19ef94c722ef93b61dae2e11c",
+    "message": "Merge pull request #3 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1",
+    "timestamp": "2022-12-25T02:36:55+09:00",
+    "tree_id": "b92bbcf39cb52bf7557f6a9e03a09238f66a82ca",
+    "url": "https://github.com/horoscope-dev/Divination.Calculator/commit/c0aab4f40bac87c19ef94c722ef93b61dae2e11c"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -161,8 +143,8 @@
     "name": "Divination.Calculator",
     "node_id": "MDEwOlJlcG9zaXRvcnk0MDI2NzQ0NDY=",
     "notifications_url": "https://api.github.com/repos/horoscope-dev/Divination.Calculator/notifications{?since,all,participating}",
-    "open_issues": 3,
-    "open_issues_count": 3,
+    "open_issues": 2,
+    "open_issues_count": 2,
     "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -188,12 +170,12 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Divination.Calculator/pulls{/number}",
-    "pushed_at": 1669692304,
+    "pushed_at": 1671903415,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Divination.Calculator/releases{/id}",
-    "size": 35,
+    "size": 37,
     "ssh_url": "git@github.com:horoscope-dev/Divination.Calculator.git",
-    "stargazers": 0,
-    "stargazers_count": 0,
+    "stargazers": 1,
+    "stargazers_count": 1,
     "stargazers_url": "https://api.github.com/repos/horoscope-dev/Divination.Calculator/stargazers",
     "statuses_url": "https://api.github.com/repos/horoscope-dev/Divination.Calculator/statuses/{sha}",
     "subscribers_url": "https://api.github.com/repos/horoscope-dev/Divination.Calculator/subscribers",
@@ -203,11 +185,11 @@
     "teams_url": "https://api.github.com/repos/horoscope-dev/Divination.Calculator/teams",
     "topics": [],
     "trees_url": "https://api.github.com/repos/horoscope-dev/Divination.Calculator/git/trees{/sha}",
-    "updated_at": "2022-11-21T12:12:00Z",
+    "updated_at": "2022-11-29T03:30:46Z",
     "url": "https://github.com/horoscope-dev/Divination.Calculator",
     "visibility": "public",
-    "watchers": 0,
-    "watchers_count": 0,
+    "watchers": 1,
+    "watchers_count": 1,
     "web_commit_signoff_required": false
   },
   "sender": {
