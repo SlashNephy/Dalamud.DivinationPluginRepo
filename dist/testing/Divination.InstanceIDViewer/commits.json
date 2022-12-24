@@ -1,5 +1,168 @@
 [
   {
+    "sha": "314e7294ada0898b770d3171f02b062a322f949e",
+    "node_id": "C_kwDOHC3fyNoAKDMxNGU3Mjk0YWRhMDg5OGI3NzBkMzE3MWYwMmIwNjJhMzIyZjk0OWU",
+    "commit": {
+      "author": {
+        "name": "SlashNephy",
+        "email": "spica@starry.blue",
+        "date": "2022-12-24T17:32:10Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-12-24T17:32:10Z"
+      },
+      "message": "Merge pull request #11 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1",
+      "tree": {
+        "sha": "9ed8955121351759d0ed571de045d95a74a1bdcb",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/9ed8955121351759d0ed571de045d95a74a1bdcb"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/314e7294ada0898b770d3171f02b062a322f949e",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjpzeaCRBK7hj4Ov3rIwAA4DgIAHCoAf4x3CXQk9EADgSps0fS\ntAdaerKbg7pKcDxeSJuuX+R1pgJTjcdmm9RM4zJuvS6f6O1OYy/rEhHV1fAPHCoI\naoqsvMpE9Vv01/5WzPlWJUF1Ki5eIT0hKiZJeApF9HT/0JEhJsK/wjV54AYLdhfu\niDz+cc/Hw59EG6ZswyC/3Z6V2hMI9dlYZAx9AtpCfPK5YoH8k7fPXDKWELZFxqNF\n09bO3GUEI/3TnLPJzHfc1ul9hkoi9DcJ+vKZ8TCQSfgn9pMtz+tbIesUC/i97+ag\nuWqJ6EyGQPgvlU6Vk2dlB0TqDM7A1GPixIsG+qIX4pl+0lvx6NxJbW88dXh+8r4=\n=iEuR\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 9ed8955121351759d0ed571de045d95a74a1bdcb\nparent 4778e1517c7712b0b8e9421c051964eebcca0aaf\nparent 37756112fbaaa5ad0638df6b89ff7dd72e8979fc\nauthor SlashNephy <spica@starry.blue> 1671903130 +0900\ncommitter GitHub <noreply@github.com> 1671903130 +0900\n\nMerge pull request #11 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1"
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/314e7294ada0898b770d3171f02b062a322f949e",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/314e7294ada0898b770d3171f02b062a322f949e",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/314e7294ada0898b770d3171f02b062a322f949e/comments",
+    "author": {
+      "login": "SlashNephy",
+      "id": 7302150,
+      "node_id": "MDQ6VXNlcjczMDIxNTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SlashNephy",
+      "html_url": "https://github.com/SlashNephy",
+      "followers_url": "https://api.github.com/users/SlashNephy/followers",
+      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+      "repos_url": "https://api.github.com/users/SlashNephy/repos",
+      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4778e1517c7712b0b8e9421c051964eebcca0aaf",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/4778e1517c7712b0b8e9421c051964eebcca0aaf",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/4778e1517c7712b0b8e9421c051964eebcca0aaf"
+      },
+      {
+        "sha": "37756112fbaaa5ad0638df6b89ff7dd72e8979fc",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/37756112fbaaa5ad0638df6b89ff7dd72e8979fc",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/37756112fbaaa5ad0638df6b89ff7dd72e8979fc"
+      }
+    ]
+  },
+  {
+    "sha": "37756112fbaaa5ad0638df6b89ff7dd72e8979fc",
+    "node_id": "C_kwDOHC3fyNoAKDM3NzU2MTEyZmJhYWE1YWQwNjM4ZGY2Yjg5ZmY3ZGQ3MmU4OTc5ZmM",
+    "commit": {
+      "author": {
+        "name": "renovate[bot]",
+        "email": "29139614+renovate[bot]@users.noreply.github.com",
+        "date": "2022-11-25T15:48:29Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-11-25T15:48:29Z"
+      },
+      "message": "Update dependency gitversion.tool to v5.11.1",
+      "tree": {
+        "sha": "9ed8955121351759d0ed571de045d95a74a1bdcb",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/9ed8955121351759d0ed571de045d95a74a1bdcb"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/37756112fbaaa5ad0638df6b89ff7dd72e8979fc",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjgOPNCRBK7hj4Ov3rIwAA3soIACMTo49AwjUglXHRGs74jwMw\nFZnLJ+t8Y9coWzMSKXChzO6HYXhQWa7Vg35MSr5C+fpV76jgDj60JzUZ2SbJzg9e\nFudehgOcflOwewF82ld4So4aXiMm96/birMrOEsZF4yeV7FiWdsUjMufba5wOlEL\n0O87NQh+k+MIj/5EyDVS+IDwcPlqbn4B/mZ54aF9LwVHzCH+O1Ba25Uw3wcx68Ff\nIXk7zPuMfnV/faJNqcgsBLtJaD7ennujug6Ndq/cO2gq6JQCtPCPpa5W1WGrd7b9\n9l1ZvOC5ixhuhnykkXo8Wqgmve6gUGrQyMi1mJFzwKckoP/SQVFK5EEigyNknmY=\n=+vDP\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 9ed8955121351759d0ed571de045d95a74a1bdcb\nparent 4778e1517c7712b0b8e9421c051964eebcca0aaf\nauthor renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 1669391309 +0000\ncommitter GitHub <noreply@github.com> 1669391309 +0000\n\nUpdate dependency gitversion.tool to v5.11.1"
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/37756112fbaaa5ad0638df6b89ff7dd72e8979fc",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/37756112fbaaa5ad0638df6b89ff7dd72e8979fc",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/37756112fbaaa5ad0638df6b89ff7dd72e8979fc/comments",
+    "author": {
+      "login": "renovate[bot]",
+      "id": 29139614,
+      "node_id": "MDM6Qm90MjkxMzk2MTQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/2740?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/renovate%5Bbot%5D",
+      "html_url": "https://github.com/apps/renovate",
+      "followers_url": "https://api.github.com/users/renovate%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/renovate%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/renovate%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/renovate%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/renovate%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/renovate%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/renovate%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/renovate%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/renovate%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4778e1517c7712b0b8e9421c051964eebcca0aaf",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/4778e1517c7712b0b8e9421c051964eebcca0aaf",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/4778e1517c7712b0b8e9421c051964eebcca0aaf"
+      }
+    ]
+  },
+  {
     "sha": "4778e1517c7712b0b8e9421c051964eebcca0aaf",
     "node_id": "C_kwDOHC3fyNoAKDQ3NzhlMTUxN2M3NzEyYjBiOGU5NDIxYzA1MTk2NGVlYmNjYTBhYWY",
     "commit": {
@@ -16,9 +179,9 @@
       "message": "Merge pull request #4 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1",
       "tree": {
         "sha": "d32caad81c5d83fc105687c1a78b3c9a5036c514",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/d32caad81c5d83fc105687c1a78b3c9a5036c514"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/d32caad81c5d83fc105687c1a78b3c9a5036c514"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/4778e1517c7712b0b8e9421c051964eebcca0aaf",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/4778e1517c7712b0b8e9421c051964eebcca0aaf",
       "comment_count": 0,
       "verification": {
         "verified": true,
@@ -27,9 +190,9 @@
         "payload": "tree d32caad81c5d83fc105687c1a78b3c9a5036c514\nparent 2675eac355769beeed8039988ce96ef666e83ee0\nparent c84e2e4c69650b54bf68725beb4262562ba13d4b\nauthor SlashNephy <spica@starry.blue> 1668993210 +0900\ncommitter GitHub <noreply@github.com> 1668993210 +0900\n\nMerge pull request #4 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1"
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/4778e1517c7712b0b8e9421c051964eebcca0aaf",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/4778e1517c7712b0b8e9421c051964eebcca0aaf",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/4778e1517c7712b0b8e9421c051964eebcca0aaf/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/4778e1517c7712b0b8e9421c051964eebcca0aaf",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/4778e1517c7712b0b8e9421c051964eebcca0aaf",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/4778e1517c7712b0b8e9421c051964eebcca0aaf/comments",
     "author": {
       "login": "SlashNephy",
       "id": 7302150,
@@ -73,13 +236,13 @@
     "parents": [
       {
         "sha": "2675eac355769beeed8039988ce96ef666e83ee0",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/2675eac355769beeed8039988ce96ef666e83ee0",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/2675eac355769beeed8039988ce96ef666e83ee0"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/2675eac355769beeed8039988ce96ef666e83ee0",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/2675eac355769beeed8039988ce96ef666e83ee0"
       },
       {
         "sha": "c84e2e4c69650b54bf68725beb4262562ba13d4b",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/c84e2e4c69650b54bf68725beb4262562ba13d4b",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/c84e2e4c69650b54bf68725beb4262562ba13d4b"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/c84e2e4c69650b54bf68725beb4262562ba13d4b",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/c84e2e4c69650b54bf68725beb4262562ba13d4b"
       }
     ]
   },
@@ -100,9 +263,9 @@
       "message": "Merge pull request #3 from horoscope-dev/renovate/dalamudpackager-2.x\n\nUpdate dependency DalamudPackager to v2.1.8",
       "tree": {
         "sha": "790286e6b9220db022235e0aa16085557143eabc",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/790286e6b9220db022235e0aa16085557143eabc"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/790286e6b9220db022235e0aa16085557143eabc"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/2675eac355769beeed8039988ce96ef666e83ee0",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/2675eac355769beeed8039988ce96ef666e83ee0",
       "comment_count": 0,
       "verification": {
         "verified": true,
@@ -111,9 +274,9 @@
         "payload": "tree 790286e6b9220db022235e0aa16085557143eabc\nparent 4afbd883b3f786406f36996e211f4f1fa7d2d2f0\nparent 580363ea87cad51c42b8696072f961527a555d31\nauthor SlashNephy <spica@starry.blue> 1668993188 +0900\ncommitter GitHub <noreply@github.com> 1668993188 +0900\n\nMerge pull request #3 from horoscope-dev/renovate/dalamudpackager-2.x\n\nUpdate dependency DalamudPackager to v2.1.8"
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/2675eac355769beeed8039988ce96ef666e83ee0",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/2675eac355769beeed8039988ce96ef666e83ee0",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/2675eac355769beeed8039988ce96ef666e83ee0/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/2675eac355769beeed8039988ce96ef666e83ee0",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/2675eac355769beeed8039988ce96ef666e83ee0",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/2675eac355769beeed8039988ce96ef666e83ee0/comments",
     "author": {
       "login": "SlashNephy",
       "id": 7302150,
@@ -157,13 +320,13 @@
     "parents": [
       {
         "sha": "4afbd883b3f786406f36996e211f4f1fa7d2d2f0",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/4afbd883b3f786406f36996e211f4f1fa7d2d2f0",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/4afbd883b3f786406f36996e211f4f1fa7d2d2f0"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/4afbd883b3f786406f36996e211f4f1fa7d2d2f0",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/4afbd883b3f786406f36996e211f4f1fa7d2d2f0"
       },
       {
         "sha": "580363ea87cad51c42b8696072f961527a555d31",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/580363ea87cad51c42b8696072f961527a555d31",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/580363ea87cad51c42b8696072f961527a555d31"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/580363ea87cad51c42b8696072f961527a555d31",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/580363ea87cad51c42b8696072f961527a555d31"
       }
     ]
   },
@@ -184,9 +347,9 @@
       "message": "🧹 dotnet format",
       "tree": {
         "sha": "cd1a9a88289d203088563e1aa161a2725e0959df",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/cd1a9a88289d203088563e1aa161a2725e0959df"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/cd1a9a88289d203088563e1aa161a2725e0959df"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/c84e2e4c69650b54bf68725beb4262562ba13d4b",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/c84e2e4c69650b54bf68725beb4262562ba13d4b",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -195,9 +358,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/c84e2e4c69650b54bf68725beb4262562ba13d4b",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/c84e2e4c69650b54bf68725beb4262562ba13d4b",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/c84e2e4c69650b54bf68725beb4262562ba13d4b/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/c84e2e4c69650b54bf68725beb4262562ba13d4b",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/c84e2e4c69650b54bf68725beb4262562ba13d4b",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/c84e2e4c69650b54bf68725beb4262562ba13d4b/comments",
     "author": {
       "login": "renovate[bot]",
       "id": 29139614,
@@ -241,8 +404,8 @@
     "parents": [
       {
         "sha": "d7ddaa49bbf3793e71c7f053d874b2e076ae2a47",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/d7ddaa49bbf3793e71c7f053d874b2e076ae2a47",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/d7ddaa49bbf3793e71c7f053d874b2e076ae2a47"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/d7ddaa49bbf3793e71c7f053d874b2e076ae2a47",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/d7ddaa49bbf3793e71c7f053d874b2e076ae2a47"
       }
     ]
   },
@@ -263,9 +426,9 @@
       "message": "Update dependency GitVersion.MsBuild to v5.11.1",
       "tree": {
         "sha": "0dc3239427b301d24dba3d26fe1b4cc5644c5677",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/0dc3239427b301d24dba3d26fe1b4cc5644c5677"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/0dc3239427b301d24dba3d26fe1b4cc5644c5677"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/d7ddaa49bbf3793e71c7f053d874b2e076ae2a47",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/d7ddaa49bbf3793e71c7f053d874b2e076ae2a47",
       "comment_count": 0,
       "verification": {
         "verified": true,
@@ -274,9 +437,9 @@
         "payload": "tree 0dc3239427b301d24dba3d26fe1b4cc5644c5677\nparent 4afbd883b3f786406f36996e211f4f1fa7d2d2f0\nauthor renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 1668989117 +0000\ncommitter GitHub <noreply@github.com> 1668989117 +0000\n\nUpdate dependency GitVersion.MsBuild to v5.11.1"
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/d7ddaa49bbf3793e71c7f053d874b2e076ae2a47",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/d7ddaa49bbf3793e71c7f053d874b2e076ae2a47",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/d7ddaa49bbf3793e71c7f053d874b2e076ae2a47/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/d7ddaa49bbf3793e71c7f053d874b2e076ae2a47",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/d7ddaa49bbf3793e71c7f053d874b2e076ae2a47",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/d7ddaa49bbf3793e71c7f053d874b2e076ae2a47/comments",
     "author": {
       "login": "renovate[bot]",
       "id": 29139614,
@@ -320,8 +483,8 @@
     "parents": [
       {
         "sha": "4afbd883b3f786406f36996e211f4f1fa7d2d2f0",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/4afbd883b3f786406f36996e211f4f1fa7d2d2f0",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/4afbd883b3f786406f36996e211f4f1fa7d2d2f0"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/4afbd883b3f786406f36996e211f4f1fa7d2d2f0",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/4afbd883b3f786406f36996e211f4f1fa7d2d2f0"
       }
     ]
   },
@@ -342,9 +505,9 @@
       "message": "Update dependency DalamudPackager to v2.1.8",
       "tree": {
         "sha": "790286e6b9220db022235e0aa16085557143eabc",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/790286e6b9220db022235e0aa16085557143eabc"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/790286e6b9220db022235e0aa16085557143eabc"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/580363ea87cad51c42b8696072f961527a555d31",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/580363ea87cad51c42b8696072f961527a555d31",
       "comment_count": 0,
       "verification": {
         "verified": true,
@@ -353,9 +516,9 @@
         "payload": "tree 790286e6b9220db022235e0aa16085557143eabc\nparent 4afbd883b3f786406f36996e211f4f1fa7d2d2f0\nauthor renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 1668957198 +0000\ncommitter GitHub <noreply@github.com> 1668957198 +0000\n\nUpdate dependency DalamudPackager to v2.1.8"
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/580363ea87cad51c42b8696072f961527a555d31",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/580363ea87cad51c42b8696072f961527a555d31",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/580363ea87cad51c42b8696072f961527a555d31/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/580363ea87cad51c42b8696072f961527a555d31",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/580363ea87cad51c42b8696072f961527a555d31",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/580363ea87cad51c42b8696072f961527a555d31/comments",
     "author": {
       "login": "renovate[bot]",
       "id": 29139614,
@@ -399,8 +562,8 @@
     "parents": [
       {
         "sha": "4afbd883b3f786406f36996e211f4f1fa7d2d2f0",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/4afbd883b3f786406f36996e211f4f1fa7d2d2f0",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/4afbd883b3f786406f36996e211f4f1fa7d2d2f0"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/4afbd883b3f786406f36996e211f4f1fa7d2d2f0",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/4afbd883b3f786406f36996e211f4f1fa7d2d2f0"
       }
     ]
   },
@@ -421,9 +584,9 @@
       "message": "🧹 dotnet format",
       "tree": {
         "sha": "c87f5893f517255514ae14cb6788548a91861633",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/c87f5893f517255514ae14cb6788548a91861633"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/c87f5893f517255514ae14cb6788548a91861633"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/4afbd883b3f786406f36996e211f4f1fa7d2d2f0",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/4afbd883b3f786406f36996e211f4f1fa7d2d2f0",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -432,9 +595,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/4afbd883b3f786406f36996e211f4f1fa7d2d2f0",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/4afbd883b3f786406f36996e211f4f1fa7d2d2f0",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/4afbd883b3f786406f36996e211f4f1fa7d2d2f0/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/4afbd883b3f786406f36996e211f4f1fa7d2d2f0",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/4afbd883b3f786406f36996e211f4f1fa7d2d2f0",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/4afbd883b3f786406f36996e211f4f1fa7d2d2f0/comments",
     "author": {
       "login": "SlashNephy",
       "id": 7302150,
@@ -478,8 +641,8 @@
     "parents": [
       {
         "sha": "841b8b42e3e228de66c80a8561aab777248e4dd2",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/841b8b42e3e228de66c80a8561aab777248e4dd2",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/841b8b42e3e228de66c80a8561aab777248e4dd2"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/841b8b42e3e228de66c80a8561aab777248e4dd2",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/841b8b42e3e228de66c80a8561aab777248e4dd2"
       }
     ]
   },
@@ -500,9 +663,9 @@
       "message": "DtrBar でサーバー情報バーにインスタンスIDを表示するように",
       "tree": {
         "sha": "6eb5bfbb4c2c143809d0d0da69fe5e0bb14f2a62",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/6eb5bfbb4c2c143809d0d0da69fe5e0bb14f2a62"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/6eb5bfbb4c2c143809d0d0da69fe5e0bb14f2a62"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/841b8b42e3e228de66c80a8561aab777248e4dd2",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/841b8b42e3e228de66c80a8561aab777248e4dd2",
       "comment_count": 0,
       "verification": {
         "verified": true,
@@ -511,9 +674,9 @@
         "payload": "tree 6eb5bfbb4c2c143809d0d0da69fe5e0bb14f2a62\nparent 1d2a18831af31dc7011cdc3ebfe18b32c846879b\nauthor SlashNephy <spica@starry.blue> 1668082202 +0900\ncommitter SlashNephy <spica@starry.blue> 1668082202 +0900\n\nDtrBar でサーバー情報バーにインスタンスIDを表示するように\n"
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/841b8b42e3e228de66c80a8561aab777248e4dd2",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/841b8b42e3e228de66c80a8561aab777248e4dd2",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/841b8b42e3e228de66c80a8561aab777248e4dd2/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/841b8b42e3e228de66c80a8561aab777248e4dd2",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/841b8b42e3e228de66c80a8561aab777248e4dd2",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/841b8b42e3e228de66c80a8561aab777248e4dd2/comments",
     "author": {
       "login": "SlashNephy",
       "id": 7302150,
@@ -557,8 +720,8 @@
     "parents": [
       {
         "sha": "1d2a18831af31dc7011cdc3ebfe18b32c846879b",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/1d2a18831af31dc7011cdc3ebfe18b32c846879b",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/1d2a18831af31dc7011cdc3ebfe18b32c846879b"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/1d2a18831af31dc7011cdc3ebfe18b32c846879b",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/1d2a18831af31dc7011cdc3ebfe18b32c846879b"
       }
     ]
   },
@@ -579,9 +742,9 @@
       "message": "ビルド構成が間違っていた",
       "tree": {
         "sha": "24861647c30c6eeb4e692d45953e0e908c3d878b",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/24861647c30c6eeb4e692d45953e0e908c3d878b"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/24861647c30c6eeb4e692d45953e0e908c3d878b"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/1d2a18831af31dc7011cdc3ebfe18b32c846879b",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/1d2a18831af31dc7011cdc3ebfe18b32c846879b",
       "comment_count": 0,
       "verification": {
         "verified": true,
@@ -590,9 +753,9 @@
         "payload": "tree 24861647c30c6eeb4e692d45953e0e908c3d878b\nparent 983d0c9b1e0364905907b251e0c2a2cd6ceebf82\nauthor SlashNephy <spica@starry.blue> 1668082103 +0900\ncommitter SlashNephy <spica@starry.blue> 1668082103 +0900\n\nビルド構成が間違っていた\n"
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/1d2a18831af31dc7011cdc3ebfe18b32c846879b",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/1d2a18831af31dc7011cdc3ebfe18b32c846879b",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/1d2a18831af31dc7011cdc3ebfe18b32c846879b/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/1d2a18831af31dc7011cdc3ebfe18b32c846879b",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/1d2a18831af31dc7011cdc3ebfe18b32c846879b",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/1d2a18831af31dc7011cdc3ebfe18b32c846879b/comments",
     "author": {
       "login": "SlashNephy",
       "id": 7302150,
@@ -636,8 +799,8 @@
     "parents": [
       {
         "sha": "983d0c9b1e0364905907b251e0c2a2cd6ceebf82",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/983d0c9b1e0364905907b251e0c2a2cd6ceebf82",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/983d0c9b1e0364905907b251e0c2a2cd6ceebf82"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/983d0c9b1e0364905907b251e0c2a2cd6ceebf82",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/983d0c9b1e0364905907b251e0c2a2cd6ceebf82"
       }
     ]
   },
@@ -658,9 +821,9 @@
       "message": "🧹 dotnet format",
       "tree": {
         "sha": "fcf2d67d5eedba5c6bff59b03d8420b9f322b57c",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/fcf2d67d5eedba5c6bff59b03d8420b9f322b57c"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/fcf2d67d5eedba5c6bff59b03d8420b9f322b57c"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/983d0c9b1e0364905907b251e0c2a2cd6ceebf82",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/983d0c9b1e0364905907b251e0c2a2cd6ceebf82",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -669,9 +832,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/983d0c9b1e0364905907b251e0c2a2cd6ceebf82",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/983d0c9b1e0364905907b251e0c2a2cd6ceebf82",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/983d0c9b1e0364905907b251e0c2a2cd6ceebf82/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/983d0c9b1e0364905907b251e0c2a2cd6ceebf82",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/983d0c9b1e0364905907b251e0c2a2cd6ceebf82",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/983d0c9b1e0364905907b251e0c2a2cd6ceebf82/comments",
     "author": {
       "login": "SlashNephy",
       "id": 7302150,
@@ -715,8 +878,8 @@
     "parents": [
       {
         "sha": "0c37ca65a1390eefbc55a12ba9736b76fd0323be",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/0c37ca65a1390eefbc55a12ba9736b76fd0323be",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/0c37ca65a1390eefbc55a12ba9736b76fd0323be"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/0c37ca65a1390eefbc55a12ba9736b76fd0323be",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/0c37ca65a1390eefbc55a12ba9736b76fd0323be"
       }
     ]
   },
@@ -737,9 +900,9 @@
       "message": "reusable workflow を使う",
       "tree": {
         "sha": "3722c1c8062533d852a76b88cfacf4accad40487",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/3722c1c8062533d852a76b88cfacf4accad40487"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/3722c1c8062533d852a76b88cfacf4accad40487"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/0c37ca65a1390eefbc55a12ba9736b76fd0323be",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/0c37ca65a1390eefbc55a12ba9736b76fd0323be",
       "comment_count": 0,
       "verification": {
         "verified": true,
@@ -748,9 +911,9 @@
         "payload": "tree 3722c1c8062533d852a76b88cfacf4accad40487\nparent d38dffc5b0b78f2693e36f35695ba483723eeb7a\nauthor SlashNephy <spica@starry.blue> 1667995008 +0900\ncommitter SlashNephy <spica@starry.blue> 1667995008 +0900\n\nreusable workflow を使う\n"
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/0c37ca65a1390eefbc55a12ba9736b76fd0323be",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/0c37ca65a1390eefbc55a12ba9736b76fd0323be",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/0c37ca65a1390eefbc55a12ba9736b76fd0323be/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/0c37ca65a1390eefbc55a12ba9736b76fd0323be",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/0c37ca65a1390eefbc55a12ba9736b76fd0323be",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/0c37ca65a1390eefbc55a12ba9736b76fd0323be/comments",
     "author": {
       "login": "SlashNephy",
       "id": 7302150,
@@ -794,8 +957,8 @@
     "parents": [
       {
         "sha": "d38dffc5b0b78f2693e36f35695ba483723eeb7a",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/d38dffc5b0b78f2693e36f35695ba483723eeb7a",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/d38dffc5b0b78f2693e36f35695ba483723eeb7a"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/d38dffc5b0b78f2693e36f35695ba483723eeb7a",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/d38dffc5b0b78f2693e36f35695ba483723eeb7a"
       }
     ]
   },
@@ -816,9 +979,9 @@
       "message": "🔧 chore(renovate): update config",
       "tree": {
         "sha": "94283765462438cb5313df23772146f0b3b558e0",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/94283765462438cb5313df23772146f0b3b558e0"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/94283765462438cb5313df23772146f0b3b558e0"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/d38dffc5b0b78f2693e36f35695ba483723eeb7a",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/d38dffc5b0b78f2693e36f35695ba483723eeb7a",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -827,9 +990,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/d38dffc5b0b78f2693e36f35695ba483723eeb7a",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/d38dffc5b0b78f2693e36f35695ba483723eeb7a",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/d38dffc5b0b78f2693e36f35695ba483723eeb7a/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/d38dffc5b0b78f2693e36f35695ba483723eeb7a",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/d38dffc5b0b78f2693e36f35695ba483723eeb7a",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/d38dffc5b0b78f2693e36f35695ba483723eeb7a/comments",
     "author": {
       "login": "SlashNephy",
       "id": 7302150,
@@ -873,8 +1036,8 @@
     "parents": [
       {
         "sha": "f7080d192c05524ed303d2b08f7962d0ec9863f9",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/f7080d192c05524ed303d2b08f7962d0ec9863f9",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/f7080d192c05524ed303d2b08f7962d0ec9863f9"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/f7080d192c05524ed303d2b08f7962d0ec9863f9",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/f7080d192c05524ed303d2b08f7962d0ec9863f9"
       }
     ]
   },
@@ -895,9 +1058,9 @@
       "message": ".NET 6/Api7",
       "tree": {
         "sha": "63c19ea4d1b2cc8c5eee892cc0fc08ea42158647",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/63c19ea4d1b2cc8c5eee892cc0fc08ea42158647"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/63c19ea4d1b2cc8c5eee892cc0fc08ea42158647"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/f7080d192c05524ed303d2b08f7962d0ec9863f9",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/f7080d192c05524ed303d2b08f7962d0ec9863f9",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -906,9 +1069,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/f7080d192c05524ed303d2b08f7962d0ec9863f9",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/f7080d192c05524ed303d2b08f7962d0ec9863f9",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/f7080d192c05524ed303d2b08f7962d0ec9863f9/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/f7080d192c05524ed303d2b08f7962d0ec9863f9",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/f7080d192c05524ed303d2b08f7962d0ec9863f9",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/f7080d192c05524ed303d2b08f7962d0ec9863f9/comments",
     "author": {
       "login": "a1hena",
       "id": 102157679,
@@ -952,8 +1115,8 @@
     "parents": [
       {
         "sha": "575f29eff1854cca643d71e2eda8174ba895883e",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/575f29eff1854cca643d71e2eda8174ba895883e",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/575f29eff1854cca643d71e2eda8174ba895883e"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/575f29eff1854cca643d71e2eda8174ba895883e",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/575f29eff1854cca643d71e2eda8174ba895883e"
       }
     ]
   },
@@ -974,9 +1137,9 @@
       "message": "Bump version to 6.11.0",
       "tree": {
         "sha": "d43867590872a69e9c69d4f38a849da4219b85f6",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/d43867590872a69e9c69d4f38a849da4219b85f6"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/d43867590872a69e9c69d4f38a849da4219b85f6"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/575f29eff1854cca643d71e2eda8174ba895883e",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/575f29eff1854cca643d71e2eda8174ba895883e",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -985,9 +1148,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/575f29eff1854cca643d71e2eda8174ba895883e",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/575f29eff1854cca643d71e2eda8174ba895883e",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/575f29eff1854cca643d71e2eda8174ba895883e/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/575f29eff1854cca643d71e2eda8174ba895883e",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/575f29eff1854cca643d71e2eda8174ba895883e",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/575f29eff1854cca643d71e2eda8174ba895883e/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -1031,8 +1194,8 @@
     "parents": [
       {
         "sha": "87fb5ed802cd3db36de1fc902c289b6d7cf78cfe",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/87fb5ed802cd3db36de1fc902c289b6d7cf78cfe",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/87fb5ed802cd3db36de1fc902c289b6d7cf78cfe"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/87fb5ed802cd3db36de1fc902c289b6d7cf78cfe",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/87fb5ed802cd3db36de1fc902c289b6d7cf78cfe"
       }
     ]
   },
@@ -1053,9 +1216,9 @@
       "message": "DalamudApiLevel 5 -> 6",
       "tree": {
         "sha": "113b0812576e9a353fda0580fb51d8196f93e3e3",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/113b0812576e9a353fda0580fb51d8196f93e3e3"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/113b0812576e9a353fda0580fb51d8196f93e3e3"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/87fb5ed802cd3db36de1fc902c289b6d7cf78cfe",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/87fb5ed802cd3db36de1fc902c289b6d7cf78cfe",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1064,9 +1227,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/87fb5ed802cd3db36de1fc902c289b6d7cf78cfe",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/87fb5ed802cd3db36de1fc902c289b6d7cf78cfe",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/87fb5ed802cd3db36de1fc902c289b6d7cf78cfe/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/87fb5ed802cd3db36de1fc902c289b6d7cf78cfe",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/87fb5ed802cd3db36de1fc902c289b6d7cf78cfe",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/87fb5ed802cd3db36de1fc902c289b6d7cf78cfe/comments",
     "author": {
       "login": "SlashNephy",
       "id": 7302150,
@@ -1110,8 +1273,8 @@
     "parents": [
       {
         "sha": "55b62597f2aa27ef29b4001f6e6a7003f8ec93cc",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/55b62597f2aa27ef29b4001f6e6a7003f8ec93cc",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/55b62597f2aa27ef29b4001f6e6a7003f8ec93cc"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/55b62597f2aa27ef29b4001f6e6a7003f8ec93cc",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/55b62597f2aa27ef29b4001f6e6a7003f8ec93cc"
       }
     ]
   },
@@ -1132,9 +1295,9 @@
       "message": "Dalamud api 5",
       "tree": {
         "sha": "b0e7d91e39fac53d38a5cb0622b6d2c8483ef7ba",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/b0e7d91e39fac53d38a5cb0622b6d2c8483ef7ba"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/b0e7d91e39fac53d38a5cb0622b6d2c8483ef7ba"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/55b62597f2aa27ef29b4001f6e6a7003f8ec93cc",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/55b62597f2aa27ef29b4001f6e6a7003f8ec93cc",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1143,9 +1306,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/55b62597f2aa27ef29b4001f6e6a7003f8ec93cc",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/55b62597f2aa27ef29b4001f6e6a7003f8ec93cc",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/55b62597f2aa27ef29b4001f6e6a7003f8ec93cc/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/55b62597f2aa27ef29b4001f6e6a7003f8ec93cc",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/55b62597f2aa27ef29b4001f6e6a7003f8ec93cc",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/55b62597f2aa27ef29b4001f6e6a7003f8ec93cc/comments",
     "author": {
       "login": "a1hena",
       "id": 102157679,
@@ -1189,8 +1352,8 @@
     "parents": [
       {
         "sha": "47e921a779d808d0d39b0a26477746a5c6096aed",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/47e921a779d808d0d39b0a26477746a5c6096aed",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/47e921a779d808d0d39b0a26477746a5c6096aed"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/47e921a779d808d0d39b0a26477746a5c6096aed",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/47e921a779d808d0d39b0a26477746a5c6096aed"
       }
     ]
   },
@@ -1211,9 +1374,9 @@
       "message": "Update build.yaml",
       "tree": {
         "sha": "c4c6d8ad175091cbe5f0aa0df328b039bfb5e556",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/c4c6d8ad175091cbe5f0aa0df328b039bfb5e556"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/c4c6d8ad175091cbe5f0aa0df328b039bfb5e556"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/47e921a779d808d0d39b0a26477746a5c6096aed",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/47e921a779d808d0d39b0a26477746a5c6096aed",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1222,9 +1385,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/47e921a779d808d0d39b0a26477746a5c6096aed",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/47e921a779d808d0d39b0a26477746a5c6096aed",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/47e921a779d808d0d39b0a26477746a5c6096aed/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/47e921a779d808d0d39b0a26477746a5c6096aed",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/47e921a779d808d0d39b0a26477746a5c6096aed",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/47e921a779d808d0d39b0a26477746a5c6096aed/comments",
     "author": {
       "login": "a1hena",
       "id": 102157679,
@@ -1268,8 +1431,8 @@
     "parents": [
       {
         "sha": "bacd86df56f137b15afa7c71286fdd88531a0311",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/bacd86df56f137b15afa7c71286fdd88531a0311",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/bacd86df56f137b15afa7c71286fdd88531a0311"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/bacd86df56f137b15afa7c71286fdd88531a0311",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/bacd86df56f137b15afa7c71286fdd88531a0311"
       }
     ]
   },
@@ -1290,9 +1453,9 @@
       "message": "fix",
       "tree": {
         "sha": "fe541c1ee4396fdc429fbdba860e4532f52879f6",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/fe541c1ee4396fdc429fbdba860e4532f52879f6"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/fe541c1ee4396fdc429fbdba860e4532f52879f6"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/bacd86df56f137b15afa7c71286fdd88531a0311",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/bacd86df56f137b15afa7c71286fdd88531a0311",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1301,9 +1464,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/bacd86df56f137b15afa7c71286fdd88531a0311",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/bacd86df56f137b15afa7c71286fdd88531a0311",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/bacd86df56f137b15afa7c71286fdd88531a0311/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/bacd86df56f137b15afa7c71286fdd88531a0311",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/bacd86df56f137b15afa7c71286fdd88531a0311",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/bacd86df56f137b15afa7c71286fdd88531a0311/comments",
     "author": {
       "login": "a1hena",
       "id": 102157679,
@@ -1347,8 +1510,8 @@
     "parents": [
       {
         "sha": "6d27f6942dd155bd7e694314839ae73e19f50093",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/6d27f6942dd155bd7e694314839ae73e19f50093",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/6d27f6942dd155bd7e694314839ae73e19f50093"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/6d27f6942dd155bd7e694314839ae73e19f50093",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/6d27f6942dd155bd7e694314839ae73e19f50093"
       }
     ]
   },
@@ -1369,9 +1532,9 @@
       "message": "fix project name",
       "tree": {
         "sha": "6a2182ec556cab32ee33319c1eab1d5bae3a3f88",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/6a2182ec556cab32ee33319c1eab1d5bae3a3f88"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/6a2182ec556cab32ee33319c1eab1d5bae3a3f88"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/6d27f6942dd155bd7e694314839ae73e19f50093",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/6d27f6942dd155bd7e694314839ae73e19f50093",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1380,9 +1543,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/6d27f6942dd155bd7e694314839ae73e19f50093",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/6d27f6942dd155bd7e694314839ae73e19f50093",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/6d27f6942dd155bd7e694314839ae73e19f50093/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/6d27f6942dd155bd7e694314839ae73e19f50093",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/6d27f6942dd155bd7e694314839ae73e19f50093",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/6d27f6942dd155bd7e694314839ae73e19f50093/comments",
     "author": {
       "login": "a1hena",
       "id": 102157679,
@@ -1426,8 +1589,8 @@
     "parents": [
       {
         "sha": "65770009bc0d77649679f59691f851b531c8092d",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/65770009bc0d77649679f59691f851b531c8092d",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/65770009bc0d77649679f59691f851b531c8092d"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/65770009bc0d77649679f59691f851b531c8092d",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/65770009bc0d77649679f59691f851b531c8092d"
       }
     ]
   },
@@ -1448,9 +1611,9 @@
       "message": "fix PLUGIN_PROJECT_NAME",
       "tree": {
         "sha": "2a3ca47639ce7c131d7820910b52642a62386a38",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/2a3ca47639ce7c131d7820910b52642a62386a38"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/2a3ca47639ce7c131d7820910b52642a62386a38"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/65770009bc0d77649679f59691f851b531c8092d",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/65770009bc0d77649679f59691f851b531c8092d",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1459,9 +1622,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/65770009bc0d77649679f59691f851b531c8092d",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/65770009bc0d77649679f59691f851b531c8092d",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/65770009bc0d77649679f59691f851b531c8092d/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/65770009bc0d77649679f59691f851b531c8092d",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/65770009bc0d77649679f59691f851b531c8092d",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/65770009bc0d77649679f59691f851b531c8092d/comments",
     "author": {
       "login": "a1hena",
       "id": 102157679,
@@ -1505,8 +1668,8 @@
     "parents": [
       {
         "sha": "00685a5197a5b9d76d71eb1384abfb3306ace464",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/00685a5197a5b9d76d71eb1384abfb3306ace464",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/00685a5197a5b9d76d71eb1384abfb3306ace464"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/00685a5197a5b9d76d71eb1384abfb3306ace464",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/00685a5197a5b9d76d71eb1384abfb3306ace464"
       }
     ]
   },
@@ -1527,9 +1690,9 @@
       "message": "rename",
       "tree": {
         "sha": "4c98b7bab8eb07aac0b2257af6a314a2069adfce",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/4c98b7bab8eb07aac0b2257af6a314a2069adfce"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/4c98b7bab8eb07aac0b2257af6a314a2069adfce"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/00685a5197a5b9d76d71eb1384abfb3306ace464",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/00685a5197a5b9d76d71eb1384abfb3306ace464",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1538,9 +1701,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/00685a5197a5b9d76d71eb1384abfb3306ace464",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/00685a5197a5b9d76d71eb1384abfb3306ace464",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/00685a5197a5b9d76d71eb1384abfb3306ace464/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/00685a5197a5b9d76d71eb1384abfb3306ace464",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/00685a5197a5b9d76d71eb1384abfb3306ace464",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/00685a5197a5b9d76d71eb1384abfb3306ace464/comments",
     "author": {
       "login": "a1hena",
       "id": 102157679,
@@ -1584,8 +1747,8 @@
     "parents": [
       {
         "sha": "bfe5652f37836775d97f5e7b29bdec30372e8c1b",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/bfe5652f37836775d97f5e7b29bdec30372e8c1b",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/bfe5652f37836775d97f5e7b29bdec30372e8c1b"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/bfe5652f37836775d97f5e7b29bdec30372e8c1b",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/bfe5652f37836775d97f5e7b29bdec30372e8c1b"
       }
     ]
   },
@@ -1606,9 +1769,9 @@
       "message": "Dlalamud API4",
       "tree": {
         "sha": "08155789f09c2549f178bbd690bdf4ebac06a90f",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/08155789f09c2549f178bbd690bdf4ebac06a90f"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/08155789f09c2549f178bbd690bdf4ebac06a90f"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/bfe5652f37836775d97f5e7b29bdec30372e8c1b",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/bfe5652f37836775d97f5e7b29bdec30372e8c1b",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1617,9 +1780,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/bfe5652f37836775d97f5e7b29bdec30372e8c1b",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/bfe5652f37836775d97f5e7b29bdec30372e8c1b",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/bfe5652f37836775d97f5e7b29bdec30372e8c1b/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/bfe5652f37836775d97f5e7b29bdec30372e8c1b",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/bfe5652f37836775d97f5e7b29bdec30372e8c1b",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/bfe5652f37836775d97f5e7b29bdec30372e8c1b/comments",
     "author": {
       "login": "a1hena",
       "id": 102157679,
@@ -1663,8 +1826,8 @@
     "parents": [
       {
         "sha": "0f7745f25f8e0b26f5413f92a90659eaa381a3dc",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/0f7745f25f8e0b26f5413f92a90659eaa381a3dc",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/0f7745f25f8e0b26f5413f92a90659eaa381a3dc"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/0f7745f25f8e0b26f5413f92a90659eaa381a3dc",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/0f7745f25f8e0b26f5413f92a90659eaa381a3dc"
       }
     ]
   },
@@ -1685,9 +1848,9 @@
       "message": "Dlalamud API4",
       "tree": {
         "sha": "7aeb4a28d33f9c3f9324d884ee62af3d4197331e",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/7aeb4a28d33f9c3f9324d884ee62af3d4197331e"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/7aeb4a28d33f9c3f9324d884ee62af3d4197331e"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/0f7745f25f8e0b26f5413f92a90659eaa381a3dc",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/0f7745f25f8e0b26f5413f92a90659eaa381a3dc",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1696,9 +1859,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/0f7745f25f8e0b26f5413f92a90659eaa381a3dc",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/0f7745f25f8e0b26f5413f92a90659eaa381a3dc",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/0f7745f25f8e0b26f5413f92a90659eaa381a3dc/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/0f7745f25f8e0b26f5413f92a90659eaa381a3dc",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/0f7745f25f8e0b26f5413f92a90659eaa381a3dc",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/0f7745f25f8e0b26f5413f92a90659eaa381a3dc/comments",
     "author": {
       "login": "a1hena",
       "id": 102157679,
@@ -1742,8 +1905,8 @@
     "parents": [
       {
         "sha": "240d6456cc6150aacd67cb18ae83038d7a0c8f41",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/240d6456cc6150aacd67cb18ae83038d7a0c8f41",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/240d6456cc6150aacd67cb18ae83038d7a0c8f41"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/240d6456cc6150aacd67cb18ae83038d7a0c8f41",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/240d6456cc6150aacd67cb18ae83038d7a0c8f41"
       }
     ]
   },
@@ -1764,9 +1927,9 @@
       "message": "Delete InstanceIDViewer.sln.DotSettings.user",
       "tree": {
         "sha": "67b95deac5a6f9ffa311173fa85f361b5a45a330",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/67b95deac5a6f9ffa311173fa85f361b5a45a330"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/67b95deac5a6f9ffa311173fa85f361b5a45a330"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/240d6456cc6150aacd67cb18ae83038d7a0c8f41",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/240d6456cc6150aacd67cb18ae83038d7a0c8f41",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1775,9 +1938,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/240d6456cc6150aacd67cb18ae83038d7a0c8f41",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/240d6456cc6150aacd67cb18ae83038d7a0c8f41",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/240d6456cc6150aacd67cb18ae83038d7a0c8f41/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/240d6456cc6150aacd67cb18ae83038d7a0c8f41",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/240d6456cc6150aacd67cb18ae83038d7a0c8f41",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/240d6456cc6150aacd67cb18ae83038d7a0c8f41/comments",
     "author": {
       "login": "a1hena",
       "id": 102157679,
@@ -1821,8 +1984,8 @@
     "parents": [
       {
         "sha": "edfde33d60befec166721ed4bf2fc9345d3bce0c",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/edfde33d60befec166721ed4bf2fc9345d3bce0c",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/edfde33d60befec166721ed4bf2fc9345d3bce0c"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/edfde33d60befec166721ed4bf2fc9345d3bce0c",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/edfde33d60befec166721ed4bf2fc9345d3bce0c"
       }
     ]
   },
@@ -1843,9 +2006,9 @@
       "message": "Create README.md",
       "tree": {
         "sha": "32c2fabf72483f5c494d2d08ff74c8850b586386",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/32c2fabf72483f5c494d2d08ff74c8850b586386"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/32c2fabf72483f5c494d2d08ff74c8850b586386"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/edfde33d60befec166721ed4bf2fc9345d3bce0c",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/edfde33d60befec166721ed4bf2fc9345d3bce0c",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1854,9 +2017,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/edfde33d60befec166721ed4bf2fc9345d3bce0c",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/edfde33d60befec166721ed4bf2fc9345d3bce0c",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/edfde33d60befec166721ed4bf2fc9345d3bce0c/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/edfde33d60befec166721ed4bf2fc9345d3bce0c",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/edfde33d60befec166721ed4bf2fc9345d3bce0c",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/edfde33d60befec166721ed4bf2fc9345d3bce0c/comments",
     "author": {
       "login": "a1hena",
       "id": 102157679,
@@ -1900,8 +2063,8 @@
     "parents": [
       {
         "sha": "ef1e4df44cb5ad34126a0e1fdf3b8d4cff71efa0",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/ef1e4df44cb5ad34126a0e1fdf3b8d4cff71efa0",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/ef1e4df44cb5ad34126a0e1fdf3b8d4cff71efa0"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/ef1e4df44cb5ad34126a0e1fdf3b8d4cff71efa0",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/ef1e4df44cb5ad34126a0e1fdf3b8d4cff71efa0"
       }
     ]
   },
@@ -1922,9 +2085,9 @@
       "message": "fix",
       "tree": {
         "sha": "ae2b564ee82f675cd15aa9c4774e1fca01206a47",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/ae2b564ee82f675cd15aa9c4774e1fca01206a47"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/ae2b564ee82f675cd15aa9c4774e1fca01206a47"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/ef1e4df44cb5ad34126a0e1fdf3b8d4cff71efa0",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/ef1e4df44cb5ad34126a0e1fdf3b8d4cff71efa0",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1933,9 +2096,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/ef1e4df44cb5ad34126a0e1fdf3b8d4cff71efa0",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/ef1e4df44cb5ad34126a0e1fdf3b8d4cff71efa0",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/ef1e4df44cb5ad34126a0e1fdf3b8d4cff71efa0/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/ef1e4df44cb5ad34126a0e1fdf3b8d4cff71efa0",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/ef1e4df44cb5ad34126a0e1fdf3b8d4cff71efa0",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/ef1e4df44cb5ad34126a0e1fdf3b8d4cff71efa0/comments",
     "author": {
       "login": "a1hena",
       "id": 102157679,
@@ -1979,8 +2142,8 @@
     "parents": [
       {
         "sha": "5c7396165859ae0718857ff98af576294a8f4e1d",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/5c7396165859ae0718857ff98af576294a8f4e1d",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/5c7396165859ae0718857ff98af576294a8f4e1d"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/5c7396165859ae0718857ff98af576294a8f4e1d",
+        "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/5c7396165859ae0718857ff98af576294a8f4e1d"
       }
     ]
   },
@@ -2001,9 +2164,9 @@
       "message": "init",
       "tree": {
         "sha": "109cf186326e52b99be3a4399dddf1ed610d4ec0",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/trees/109cf186326e52b99be3a4399dddf1ed610d4ec0"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/trees/109cf186326e52b99be3a4399dddf1ed610d4ec0"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/git/commits/5c7396165859ae0718857ff98af576294a8f4e1d",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/git/commits/5c7396165859ae0718857ff98af576294a8f4e1d",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -2012,9 +2175,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/5c7396165859ae0718857ff98af576294a8f4e1d",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commit/5c7396165859ae0718857ff98af576294a8f4e1d",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.InstanceIDViewer/commits/5c7396165859ae0718857ff98af576294a8f4e1d/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/5c7396165859ae0718857ff98af576294a8f4e1d",
+    "html_url": "https://github.com/horoscope-dev/Divination.InstanceIDViewer/commit/5c7396165859ae0718857ff98af576294a8f4e1d",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.InstanceIDViewer/commits/5c7396165859ae0718857ff98af576294a8f4e1d/comments",
     "author": {
       "login": "a1hena",
       "id": 102157679,
