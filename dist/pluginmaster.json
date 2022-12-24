@@ -33,7 +33,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "Changelog": "a3438d0: Merge pull request #12 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\n26b4ffa: Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8\n2ce1f36: \ud83e\uddf9 dotnet format\n62e0bb9: chore(deps): update dependency gitversion.msbuild to v5.11.1\n1c32ca6: chore(deps): update dependency dalamudpackager to v2.1.8\n17dadef: \ud83e\uddf9 dotnet format\n90f0198: API 7\nbc3e948: \ud83d\udd27 chore(renovate): update config\n70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
+    "Changelog": "c0aab4f: Merge pull request #3 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\na3438d0: Merge pull request #12 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\n26b4ffa: Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8\n2ce1f36: \ud83e\uddf9 dotnet format\n485afbe: chore(deps): update dependency gitversion.tool to v5.11.1\n62e0bb9: chore(deps): update dependency gitversion.msbuild to v5.11.1\n1c32ca6: chore(deps): update dependency dalamudpackager to v2.1.8\n17dadef: \ud83e\uddf9 dotnet format\n90f0198: API 7\nbc3e948: \ud83d\udd27 chore(renovate): update config\n70a64f8: feat: Support Patch 6.1\ndabbe6d: feat: Support Dalamud API 5",
     "DalamudApiLevel": 7,
     "Description": "Simple plugin to just add /calc command.",
     "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.Calculator/latest.zip",
@@ -43,7 +43,7 @@
     "InternalName": "Divination.Calculator",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1669692304,
+    "LastUpdated": 1671903415,
     "LoadPriority": 0,
     "Name": "Divination.Calculator",
     "Punchline": "/calc 33 - 4",
@@ -51,7 +51,7 @@
     "Tags": [
       "utility"
     ],
-    "TestingAssemblyVersion": "0.1.0.56"
+    "TestingAssemblyVersion": "0.1.0.58"
   },
   {
     "ApplicableVersion": "any",
@@ -60,7 +60,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "Changelog": "fc5a6c9: SeIconChar \u3082\u8868\u793a\u53ef\u80fd\u306b\u3059\u308b\nb7fdf26: \u30e1\u30e2\u30ea\u7bc4\u56f2\u3092\u5909\u66f4\nfc19909: \ud83e\uddf9 dotnet format\naa8d5b2: \u30ea\u30d5\u30a1\u30af\u30bf\u30ea\u30f3\u30b0\n5d555ef: Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8\n4473e28: chore(deps): update dependency dalamudpackager to v2.1.8\nad4d625: Template \u306e\u5909\u66f4\u306b\u8ffd\u5f93\n688db78: \ud83d\udd27 chore(renovate): update config\n6aecbc7: feat: Support Patch 6.1\n8a9c2bb: fix: result won't show due to queue\n3181092: feat: log on matched packets\n13ee3a6: fix: network value filtering\n3a68e91: feat: add Clear button\n2213911: fix: index is no longer skipped\ne3c613d: fix: network data can overflow\n97079b1: feat: show Opcode\n4e31c81: fix: priority between LocalPlayer and Target\n0b3ca6c: fix: Enum.GetName receives non-enum accidentally\nc451ef4: fix: allow unsafe codes\n39638e2: feat: readable memory data view\nbae282b: delete: /cc command\n\nbecause native console is no longer used\nd20ae01: feat: readable columns\nfeaa556: feat: Support Dalamud API 5",
+    "Changelog": "a84b585: Merge pull request #3 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\n2f79521: Merge pull request #12 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\n9db02f8: \ud83e\uddf9 dotnet format\nad40198: chore(deps): update dependency gitversion.msbuild to v5.11.1\nfeb14f8: chore(deps): update dependency gitversion.tool to v5.11.1\nfc5a6c9: SeIconChar \u3082\u8868\u793a\u53ef\u80fd\u306b\u3059\u308b\nb7fdf26: \u30e1\u30e2\u30ea\u7bc4\u56f2\u3092\u5909\u66f4\nfc19909: \ud83e\uddf9 dotnet format\naa8d5b2: \u30ea\u30d5\u30a1\u30af\u30bf\u30ea\u30f3\u30b0\n5d555ef: Merge pull request #2 from horoscope-dev/renovate/dalamudpackager-2.x\n\nchore(deps): update dependency dalamudpackager to v2.1.8\n4473e28: chore(deps): update dependency dalamudpackager to v2.1.8\nad4d625: Template \u306e\u5909\u66f4\u306b\u8ffd\u5f93\n688db78: \ud83d\udd27 chore(renovate): update config\n6aecbc7: feat: Support Patch 6.1\n8a9c2bb: fix: result won't show due to queue\n3181092: feat: log on matched packets\n13ee3a6: fix: network value filtering\n3a68e91: feat: add Clear button\n2213911: fix: index is no longer skipped\ne3c613d: fix: network data can overflow\n97079b1: feat: show Opcode\n4e31c81: fix: priority between LocalPlayer and Target\n0b3ca6c: fix: Enum.GetName receives non-enum accidentally\nc451ef4: fix: allow unsafe codes\n39638e2: feat: readable memory data view",
     "DalamudApiLevel": 7,
     "Description": "Tiny tool to inspect game...",
     "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.Debugger/latest.zip",
@@ -70,16 +70,16 @@
     "InternalName": "Divination.Debugger",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1668080876,
+    "LastUpdated": 1671903402,
     "LoadPriority": 0,
     "Name": "Divination.Debugger",
     "Punchline": "You don't need this unless you are developer.",
-    "RepoUrl": "https://github.com/horoscope-dev/Dalamud.Divination.Debugger",
+    "RepoUrl": "https://github.com/horoscope-dev/Divination.Debugger",
     "Tags": [
       "Development",
       "Debug"
     ],
-    "TestingAssemblyVersion": "0.1.0.72"
+    "TestingAssemblyVersion": "0.1.0.77"
   },
   {
     "ApplicableVersion": "any",
@@ -153,7 +153,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1671903475,
+    "LastUpdated": 1671903512,
     "LoadPriority": 0,
     "Name": "Divination.InstanceIDViewer",
     "Punchline": "",
