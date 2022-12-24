@@ -1,7 +1,7 @@
 {
-  "after": "0d30f64165d44edb1b034a80fcc18e3183d604ae",
+  "after": "ede5fabc68174cbeae0e9f8dbeec70ce681d6a97",
   "base_ref": null,
-  "before": "ede5fabc68174cbeae0e9f8dbeec70ce681d6a97",
+  "before": "97ceb0fc0733638c4a0f455378d1effa49a93a7a",
   "commits": [
     {
       "author": {
@@ -15,29 +15,11 @@
         "username": "web-flow"
       },
       "distinct": false,
-      "id": "b2ba067a547445ded032a8f6cb42471d8249c60a",
-      "message": "Update dependency GitVersion.MsBuild to v5.11.1",
-      "timestamp": "2022-11-18T15:19:28Z",
-      "tree_id": "77bb1ef3946e212a10a95da18b7216cd4b631d23",
-      "url": "https://github.com/horoscope-dev/Divination.DiscordIntegration/commit/b2ba067a547445ded032a8f6cb42471d8249c60a"
-    },
-    {
-      "author": {
-        "email": "renovate[bot]@users.noreply.github.com",
-        "name": "renovate[bot]",
-        "username": "renovate[bot]"
-      },
-      "committer": {
-        "email": "github-actions[bot]@users.noreply.github.com",
-        "name": "github-actions[bot]",
-        "username": "github-actions[bot]"
-      },
-      "distinct": false,
-      "id": "e51c07676d28a3e567865f40a8eaa7b1c5e57803",
-      "message": "🧹 dotnet format",
-      "timestamp": "2022-11-18T15:20:09Z",
-      "tree_id": "20bd0dc7f67b0d4256752acc42f802fc7fa9fc51",
-      "url": "https://github.com/horoscope-dev/Divination.DiscordIntegration/commit/e51c07676d28a3e567865f40a8eaa7b1c5e57803"
+      "id": "f51539c06a99318bf8a4e1fdeca9bb01c915b2f0",
+      "message": "Update dependency gitversion.tool to v5.11.1",
+      "timestamp": "2022-11-18T15:19:36Z",
+      "tree_id": "d1abaa2174a2d7bac666f97cfeb7fd1901ea5a19",
+      "url": "https://github.com/horoscope-dev/Divination.DiscordIntegration/commit/f51539c06a99318bf8a4e1fdeca9bb01c915b2f0"
     },
     {
       "author": {
@@ -51,14 +33,14 @@
         "username": "web-flow"
       },
       "distinct": true,
-      "id": "0d30f64165d44edb1b034a80fcc18e3183d604ae",
-      "message": "Merge pull request #13 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1",
-      "timestamp": "2022-12-25T02:42:08+09:00",
-      "tree_id": "b86fe35502c3406bd2b699f6d9a581dfee7d6ada",
-      "url": "https://github.com/horoscope-dev/Divination.DiscordIntegration/commit/0d30f64165d44edb1b034a80fcc18e3183d604ae"
+      "id": "ede5fabc68174cbeae0e9f8dbeec70ce681d6a97",
+      "message": "Merge pull request #14 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1",
+      "timestamp": "2022-12-25T02:42:02+09:00",
+      "tree_id": "a0e8fe748ffb4182c37b595fb7250201cd57bab5",
+      "url": "https://github.com/horoscope-dev/Divination.DiscordIntegration/commit/ede5fabc68174cbeae0e9f8dbeec70ce681d6a97"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Divination.DiscordIntegration/compare/ede5fabc6817...0d30f64165d4",
+  "compare": "https://github.com/horoscope-dev/Divination.DiscordIntegration/compare/97ceb0fc0733...ede5fabc6817",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -74,11 +56,11 @@
       "username": "web-flow"
     },
     "distinct": true,
-    "id": "0d30f64165d44edb1b034a80fcc18e3183d604ae",
-    "message": "Merge pull request #13 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1",
-    "timestamp": "2022-12-25T02:42:08+09:00",
-    "tree_id": "b86fe35502c3406bd2b699f6d9a581dfee7d6ada",
-    "url": "https://github.com/horoscope-dev/Divination.DiscordIntegration/commit/0d30f64165d44edb1b034a80fcc18e3183d604ae"
+    "id": "ede5fabc68174cbeae0e9f8dbeec70ce681d6a97",
+    "message": "Merge pull request #14 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1",
+    "timestamp": "2022-12-25T02:42:02+09:00",
+    "tree_id": "a0e8fe748ffb4182c37b595fb7250201cd57bab5",
+    "url": "https://github.com/horoscope-dev/Divination.DiscordIntegration/commit/ede5fabc68174cbeae0e9f8dbeec70ce681d6a97"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -161,8 +143,8 @@
     "name": "Divination.DiscordIntegration",
     "node_id": "MDEwOlJlcG9zaXRvcnk0MDI2NTgzNDY=",
     "notifications_url": "https://api.github.com/repos/horoscope-dev/Divination.DiscordIntegration/notifications{?since,all,participating}",
-    "open_issues": 5,
-    "open_issues_count": 5,
+    "open_issues": 6,
+    "open_issues_count": 6,
     "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -188,7 +170,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Divination.DiscordIntegration/pulls{/number}",
-    "pushed_at": 1671903728,
+    "pushed_at": 1671903722,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Divination.DiscordIntegration/releases{/id}",
     "size": 79,
     "ssh_url": "git@github.com:horoscope-dev/Divination.DiscordIntegration.git",
