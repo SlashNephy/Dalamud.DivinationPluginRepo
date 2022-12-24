@@ -1,5 +1,410 @@
 [
   {
+    "sha": "731b882fd9ab95fb7927aa6be16226d73f76c5e3",
+    "node_id": "C_kwDOF__7JdoAKDczMWI4ODJmZDlhYjk1ZmI3OTI3YWE2YmUxNjIyNmQ3M2Y3NmM1ZTM",
+    "commit": {
+      "author": {
+        "name": "SlashNephy",
+        "email": "spica@starry.blue",
+        "date": "2022-12-24T17:36:13Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-12-24T17:36:13Z"
+      },
+      "message": "Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1",
+      "tree": {
+        "sha": "971facb9eba57360875efe8b729c22aa0d8f4365",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/971facb9eba57360875efe8b729c22aa0d8f4365"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/731b882fd9ab95fb7927aa6be16226d73f76c5e3",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjpziNCRBK7hj4Ov3rIwAAKXIIADqpq4aMilj4j2ct80Fl+KQd\ncpWiDXMewoxU4GAXRe/aqW0c4rYD6DfpDFuSCdJc0rB/H4tw6WfJ0Pt+UGbAr2bF\nElY6bHmdajYuwgHedGWUv1mpC3OXzjSlVC6rmldknum84KZbCrQJnnxfDlV7zUex\n6DhJl1HK301iqt7if6ws/liglQ5xJS48TWKRS11pMXc1RV5cS9CfFYnd1XyR86Je\nJ9JYLdZJEmwscrLgk1Gg8RH9pPOldmAnIM4V1f0zmQyGR8T6/yNCTie+cP8RQ/Ze\nfXMdUUM5L/UdUDWZLackf6crkmrosQHpWRn2HyloeQDGr+NUrK76XWhOrR3ndyM=\n=+oUu\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 971facb9eba57360875efe8b729c22aa0d8f4365\nparent 7da899ee35384b5e1f4a041e226d8397990c3e08\nparent 40896cf4a4f79d75dec740543237ad9b4b6257a2\nauthor SlashNephy <spica@starry.blue> 1671903373 +0900\ncommitter GitHub <noreply@github.com> 1671903373 +0900\n\nMerge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1"
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/731b882fd9ab95fb7927aa6be16226d73f76c5e3",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/731b882fd9ab95fb7927aa6be16226d73f76c5e3",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/731b882fd9ab95fb7927aa6be16226d73f76c5e3/comments",
+    "author": {
+      "login": "SlashNephy",
+      "id": 7302150,
+      "node_id": "MDQ6VXNlcjczMDIxNTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SlashNephy",
+      "html_url": "https://github.com/SlashNephy",
+      "followers_url": "https://api.github.com/users/SlashNephy/followers",
+      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+      "repos_url": "https://api.github.com/users/SlashNephy/repos",
+      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7da899ee35384b5e1f4a041e226d8397990c3e08",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/7da899ee35384b5e1f4a041e226d8397990c3e08",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/7da899ee35384b5e1f4a041e226d8397990c3e08"
+      },
+      {
+        "sha": "40896cf4a4f79d75dec740543237ad9b4b6257a2",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/40896cf4a4f79d75dec740543237ad9b4b6257a2",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/40896cf4a4f79d75dec740543237ad9b4b6257a2"
+      }
+    ]
+  },
+  {
+    "sha": "7da899ee35384b5e1f4a041e226d8397990c3e08",
+    "node_id": "C_kwDOF__7JdoAKDdkYTg5OWVlMzUzODRiNWUxZjRhMDQxZTIyNmQ4Mzk3OTkwYzNlMDg",
+    "commit": {
+      "author": {
+        "name": "SlashNephy",
+        "email": "spica@starry.blue",
+        "date": "2022-12-24T17:36:05Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-12-24T17:36:05Z"
+      },
+      "message": "Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1",
+      "tree": {
+        "sha": "41bb203d913d6fc3eb9ac00e0b00046cacd03f53",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/41bb203d913d6fc3eb9ac00e0b00046cacd03f53"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/7da899ee35384b5e1f4a041e226d8397990c3e08",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjpziFCRBK7hj4Ov3rIwAA7xoIAGNFRq3uHL1Yb30+3DTbE2Qp\nJFJUWH5BcROAKdNIJQYlLoh72MyGyRRErRbOzpki7wtmNwYCQtNPoGQ8vTzEavUf\nSFng9YHtRjgCo3o6RYMcQA9g2ci9Dqxf559r6lYD8FJpyE9HOs8tyvRRJKjNU0HM\nc4vkBRMWEsL/DJq8LWAQnPphxcj964BYHmgW0miVsWC29XJ158GuvoFBSGnMiNaB\nr3ePZuk1BBMJvAdMl7kuUkP14ILlk2jJIcws4O7+u7nZuRMjBtryvY9R/c1uNlsL\nx7GdpspsShtUq4L/OPMtFWTdXF35oU9oroclIMhS7KwEviYfanJx6O3Y0PbZqVo=\n=NAgy\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 41bb203d913d6fc3eb9ac00e0b00046cacd03f53\nparent ffa0a464e432d2a17b71dc043c6e387fd3e8bf27\nparent f6033ddb21ff0e02f0e9924868353bc6727e79c5\nauthor SlashNephy <spica@starry.blue> 1671903365 +0900\ncommitter GitHub <noreply@github.com> 1671903365 +0900\n\nMerge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1"
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/7da899ee35384b5e1f4a041e226d8397990c3e08",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/7da899ee35384b5e1f4a041e226d8397990c3e08",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/7da899ee35384b5e1f4a041e226d8397990c3e08/comments",
+    "author": {
+      "login": "SlashNephy",
+      "id": 7302150,
+      "node_id": "MDQ6VXNlcjczMDIxNTA=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7302150?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/SlashNephy",
+      "html_url": "https://github.com/SlashNephy",
+      "followers_url": "https://api.github.com/users/SlashNephy/followers",
+      "following_url": "https://api.github.com/users/SlashNephy/following{/other_user}",
+      "gists_url": "https://api.github.com/users/SlashNephy/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/SlashNephy/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
+      "organizations_url": "https://api.github.com/users/SlashNephy/orgs",
+      "repos_url": "https://api.github.com/users/SlashNephy/repos",
+      "events_url": "https://api.github.com/users/SlashNephy/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/SlashNephy/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ffa0a464e432d2a17b71dc043c6e387fd3e8bf27",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/ffa0a464e432d2a17b71dc043c6e387fd3e8bf27",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/ffa0a464e432d2a17b71dc043c6e387fd3e8bf27"
+      },
+      {
+        "sha": "f6033ddb21ff0e02f0e9924868353bc6727e79c5",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/f6033ddb21ff0e02f0e9924868353bc6727e79c5",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/f6033ddb21ff0e02f0e9924868353bc6727e79c5"
+      }
+    ]
+  },
+  {
+    "sha": "f6033ddb21ff0e02f0e9924868353bc6727e79c5",
+    "node_id": "C_kwDOF__7JdoAKGY2MDMzZGRiMjFmZjBlMDJmMGU5OTI0ODY4MzUzYmM2NzI3ZTc5YzU",
+    "commit": {
+      "author": {
+        "name": "renovate[bot]",
+        "email": "renovate[bot]@users.noreply.github.com",
+        "date": "2022-11-20T13:35:21Z"
+      },
+      "committer": {
+        "name": "github-actions[bot]",
+        "email": "github-actions[bot]@users.noreply.github.com",
+        "date": "2022-11-20T13:35:21Z"
+      },
+      "message": "🧹 dotnet format",
+      "tree": {
+        "sha": "41bb203d913d6fc3eb9ac00e0b00046cacd03f53",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/41bb203d913d6fc3eb9ac00e0b00046cacd03f53"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/f6033ddb21ff0e02f0e9924868353bc6727e79c5",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/f6033ddb21ff0e02f0e9924868353bc6727e79c5",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/f6033ddb21ff0e02f0e9924868353bc6727e79c5",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/f6033ddb21ff0e02f0e9924868353bc6727e79c5/comments",
+    "author": {
+      "login": "renovate[bot]",
+      "id": 29139614,
+      "node_id": "MDM6Qm90MjkxMzk2MTQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/2740?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/renovate%5Bbot%5D",
+      "html_url": "https://github.com/apps/renovate",
+      "followers_url": "https://api.github.com/users/renovate%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/renovate%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/renovate%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/renovate%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/renovate%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/renovate%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/renovate%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/renovate%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/renovate%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "github-actions[bot]",
+      "id": 41898282,
+      "node_id": "MDM6Qm90NDE4OTgyODI=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
+      "html_url": "https://github.com/apps/github-actions",
+      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "cc155929e80b8b3e986f25efb7db38ddeffb1301",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/cc155929e80b8b3e986f25efb7db38ddeffb1301",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/cc155929e80b8b3e986f25efb7db38ddeffb1301"
+      }
+    ]
+  },
+  {
+    "sha": "40896cf4a4f79d75dec740543237ad9b4b6257a2",
+    "node_id": "C_kwDOF__7JdoAKDQwODk2Y2Y0YTRmNzlkNzVkZWM3NDA1NDMyMzdhZDliNGI2MjU3YTI",
+    "commit": {
+      "author": {
+        "name": "renovate[bot]",
+        "email": "29139614+renovate[bot]@users.noreply.github.com",
+        "date": "2022-11-20T13:34:56Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-11-20T13:34:56Z"
+      },
+      "message": "chore(deps): update dependency gitversion.tool to v5.11.1",
+      "tree": {
+        "sha": "8b83816f011e4b1031939f004289e2797190af5d",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/8b83816f011e4b1031939f004289e2797190af5d"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/40896cf4a4f79d75dec740543237ad9b4b6257a2",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjei0ACRBK7hj4Ov3rIwAAzrsIAA/eNRB41KY/xVJKQqPfFU2n\nSFB7mKmVV4khl2zCGW+Kw9YRPmwN4U71xl4CFZPKGw8ESnsasRhudwY7TxAApDhp\n6mewg9cae6421eOeEI5mZplcu+6T5Gzm9XViVWK/a6LxIFN5U88uLkHLvhwj2Nit\nKvB6XNO6Fi9zYrwdhc0UFZqalf9ZDosoEG1Mj4+pNwRo3xCwtgH+2u1J75XFWTyf\nyFZV/M2CnmVmuM2270n0uKrm+Ybsime8n+pzS81ZKixNXb/Lo4fVRwFDtd6h8Hv4\n7nxIMkFK5GteUIhLMBObHfeKdAZtO952Q6NQ3q7H90LMI/GO/hDsaYs+ycRK+vU=\n=gh8p\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 8b83816f011e4b1031939f004289e2797190af5d\nparent ffa0a464e432d2a17b71dc043c6e387fd3e8bf27\nauthor renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 1668951296 +0000\ncommitter GitHub <noreply@github.com> 1668951296 +0000\n\nchore(deps): update dependency gitversion.tool to v5.11.1"
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/40896cf4a4f79d75dec740543237ad9b4b6257a2",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/40896cf4a4f79d75dec740543237ad9b4b6257a2",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/40896cf4a4f79d75dec740543237ad9b4b6257a2/comments",
+    "author": {
+      "login": "renovate[bot]",
+      "id": 29139614,
+      "node_id": "MDM6Qm90MjkxMzk2MTQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/2740?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/renovate%5Bbot%5D",
+      "html_url": "https://github.com/apps/renovate",
+      "followers_url": "https://api.github.com/users/renovate%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/renovate%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/renovate%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/renovate%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/renovate%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/renovate%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/renovate%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/renovate%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/renovate%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ffa0a464e432d2a17b71dc043c6e387fd3e8bf27",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/ffa0a464e432d2a17b71dc043c6e387fd3e8bf27",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/ffa0a464e432d2a17b71dc043c6e387fd3e8bf27"
+      }
+    ]
+  },
+  {
+    "sha": "cc155929e80b8b3e986f25efb7db38ddeffb1301",
+    "node_id": "C_kwDOF__7JdoAKGNjMTU1OTI5ZTgwYjhiM2U5ODZmMjVlZmI3ZGIzOGRkZWZmYjEzMDE",
+    "commit": {
+      "author": {
+        "name": "renovate[bot]",
+        "email": "29139614+renovate[bot]@users.noreply.github.com",
+        "date": "2022-11-20T13:34:45Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-11-20T13:34:45Z"
+      },
+      "message": "chore(deps): update dependency gitversion.msbuild to v5.11.1",
+      "tree": {
+        "sha": "0afa4e0c3be492b5021523a88d118275efa74912",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/0afa4e0c3be492b5021523a88d118275efa74912"
+      },
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/cc155929e80b8b3e986f25efb7db38ddeffb1301",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjeiz1CRBK7hj4Ov3rIwAA2toIADmYHlxpx57NGFo1RI1jLL0Z\nSVqa+SYEmOM5ac5noeSAJBUkS91QWRiseYluYEjStNrnBrlxs+jasK7tR8tObIRq\neI1aqGUlRj4X+Q2hFwdoCMAn9ZqjjgaNPyeUUduLb7itHbuTLJq+OnM+z37Z6F9p\nDmwMKVJM2MUp0YttXh8r/r3vSAVa7KR3B1yjagoV2Qmg8PCnkTovohnAALyonoKi\nnedhaSWqVnO46sEHTarL27fMlzr5nLUws//13k4S94GWADhFzmefaaRCuh1gCjNM\nH4PVgg9ha3agoGKKK2FY9q/Mx1u5VyPkMUhu/8/lw8In9I9fgIl/2RtHKU4cpAw=\n=DY7t\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 0afa4e0c3be492b5021523a88d118275efa74912\nparent ffa0a464e432d2a17b71dc043c6e387fd3e8bf27\nauthor renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 1668951285 +0000\ncommitter GitHub <noreply@github.com> 1668951285 +0000\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1"
+      }
+    },
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/cc155929e80b8b3e986f25efb7db38ddeffb1301",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/cc155929e80b8b3e986f25efb7db38ddeffb1301",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/cc155929e80b8b3e986f25efb7db38ddeffb1301/comments",
+    "author": {
+      "login": "renovate[bot]",
+      "id": 29139614,
+      "node_id": "MDM6Qm90MjkxMzk2MTQ=",
+      "avatar_url": "https://avatars.githubusercontent.com/in/2740?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/renovate%5Bbot%5D",
+      "html_url": "https://github.com/apps/renovate",
+      "followers_url": "https://api.github.com/users/renovate%5Bbot%5D/followers",
+      "following_url": "https://api.github.com/users/renovate%5Bbot%5D/following{/other_user}",
+      "gists_url": "https://api.github.com/users/renovate%5Bbot%5D/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/renovate%5Bbot%5D/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/renovate%5Bbot%5D/subscriptions",
+      "organizations_url": "https://api.github.com/users/renovate%5Bbot%5D/orgs",
+      "repos_url": "https://api.github.com/users/renovate%5Bbot%5D/repos",
+      "events_url": "https://api.github.com/users/renovate%5Bbot%5D/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/renovate%5Bbot%5D/received_events",
+      "type": "Bot",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ffa0a464e432d2a17b71dc043c6e387fd3e8bf27",
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/ffa0a464e432d2a17b71dc043c6e387fd3e8bf27",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/ffa0a464e432d2a17b71dc043c6e387fd3e8bf27"
+      }
+    ]
+  },
+  {
     "sha": "ffa0a464e432d2a17b71dc043c6e387fd3e8bf27",
     "node_id": "C_kwDOF__7JdoAKGZmYTBhNDY0ZTQzMmQyYTE3YjcxZGMwNDNjNmUzODdmZDNlOGJmMjc",
     "commit": {
@@ -16,9 +421,9 @@
       "message": "🧹 dotnet format",
       "tree": {
         "sha": "69234583c6b9b02530d5a3dbec96a54f715e7634",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/69234583c6b9b02530d5a3dbec96a54f715e7634"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/69234583c6b9b02530d5a3dbec96a54f715e7634"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/ffa0a464e432d2a17b71dc043c6e387fd3e8bf27",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/ffa0a464e432d2a17b71dc043c6e387fd3e8bf27",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -27,9 +432,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/ffa0a464e432d2a17b71dc043c6e387fd3e8bf27",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/ffa0a464e432d2a17b71dc043c6e387fd3e8bf27",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/ffa0a464e432d2a17b71dc043c6e387fd3e8bf27/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/ffa0a464e432d2a17b71dc043c6e387fd3e8bf27",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/ffa0a464e432d2a17b71dc043c6e387fd3e8bf27",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/ffa0a464e432d2a17b71dc043c6e387fd3e8bf27/comments",
     "author": {
       "login": "SlashNephy",
       "id": 7302150,
@@ -73,8 +478,8 @@
     "parents": [
       {
         "sha": "63fc1440efff616b1ddafbffbf0329b60facb082",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/63fc1440efff616b1ddafbffbf0329b60facb082",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/63fc1440efff616b1ddafbffbf0329b60facb082"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/63fc1440efff616b1ddafbffbf0329b60facb082",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/63fc1440efff616b1ddafbffbf0329b60facb082"
       }
     ]
   },
@@ -95,9 +500,9 @@
       "message": "API 7",
       "tree": {
         "sha": "2c949e31a3eb816c75282af7de001ff449d5e02b",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/2c949e31a3eb816c75282af7de001ff449d5e02b"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/2c949e31a3eb816c75282af7de001ff449d5e02b"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/63fc1440efff616b1ddafbffbf0329b60facb082",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/63fc1440efff616b1ddafbffbf0329b60facb082",
       "comment_count": 0,
       "verification": {
         "verified": true,
@@ -106,9 +511,9 @@
         "payload": "tree 2c949e31a3eb816c75282af7de001ff449d5e02b\nparent 54f71b8c33bb32fb11319b47f62515a0d5d14cf3\nauthor SlashNephy <spica@starry.blue> 1667993410 +0900\ncommitter SlashNephy <spica@starry.blue> 1667993419 +0900\n\nAPI 7\n"
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/63fc1440efff616b1ddafbffbf0329b60facb082",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/63fc1440efff616b1ddafbffbf0329b60facb082",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/63fc1440efff616b1ddafbffbf0329b60facb082/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/63fc1440efff616b1ddafbffbf0329b60facb082",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/63fc1440efff616b1ddafbffbf0329b60facb082",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/63fc1440efff616b1ddafbffbf0329b60facb082/comments",
     "author": {
       "login": "SlashNephy",
       "id": 7302150,
@@ -152,8 +557,8 @@
     "parents": [
       {
         "sha": "54f71b8c33bb32fb11319b47f62515a0d5d14cf3",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/54f71b8c33bb32fb11319b47f62515a0d5d14cf3",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/54f71b8c33bb32fb11319b47f62515a0d5d14cf3"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/54f71b8c33bb32fb11319b47f62515a0d5d14cf3",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/54f71b8c33bb32fb11319b47f62515a0d5d14cf3"
       }
     ]
   },
@@ -174,9 +579,9 @@
       "message": "🔧 chore(renovate): update config",
       "tree": {
         "sha": "f26fca71c36b699208e30dd25fe6e75379cd4d97",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/f26fca71c36b699208e30dd25fe6e75379cd4d97"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/f26fca71c36b699208e30dd25fe6e75379cd4d97"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/54f71b8c33bb32fb11319b47f62515a0d5d14cf3",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/54f71b8c33bb32fb11319b47f62515a0d5d14cf3",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -185,9 +590,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/54f71b8c33bb32fb11319b47f62515a0d5d14cf3",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/54f71b8c33bb32fb11319b47f62515a0d5d14cf3",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/54f71b8c33bb32fb11319b47f62515a0d5d14cf3/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/54f71b8c33bb32fb11319b47f62515a0d5d14cf3",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/54f71b8c33bb32fb11319b47f62515a0d5d14cf3",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/54f71b8c33bb32fb11319b47f62515a0d5d14cf3/comments",
     "author": {
       "login": "SlashNephy",
       "id": 7302150,
@@ -231,8 +636,8 @@
     "parents": [
       {
         "sha": "07f4089e5ec229082fae8fb7d7c52824c9da7f87",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/07f4089e5ec229082fae8fb7d7c52824c9da7f87",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/07f4089e5ec229082fae8fb7d7c52824c9da7f87"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/07f4089e5ec229082fae8fb7d7c52824c9da7f87",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/07f4089e5ec229082fae8fb7d7c52824c9da7f87"
       }
     ]
   },
@@ -253,9 +658,9 @@
       "message": "Update Common to 4f581ad",
       "tree": {
         "sha": "fa2d0f03c35b656c4bd643c3d547801d4fede902",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/fa2d0f03c35b656c4bd643c3d547801d4fede902"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/fa2d0f03c35b656c4bd643c3d547801d4fede902"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/07f4089e5ec229082fae8fb7d7c52824c9da7f87",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/07f4089e5ec229082fae8fb7d7c52824c9da7f87",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -264,9 +669,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/07f4089e5ec229082fae8fb7d7c52824c9da7f87",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/07f4089e5ec229082fae8fb7d7c52824c9da7f87",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/07f4089e5ec229082fae8fb7d7c52824c9da7f87/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/07f4089e5ec229082fae8fb7d7c52824c9da7f87",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/07f4089e5ec229082fae8fb7d7c52824c9da7f87",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/07f4089e5ec229082fae8fb7d7c52824c9da7f87/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -310,8 +715,8 @@
     "parents": [
       {
         "sha": "c8bdde815ffe6d3c218807b23c65a9dd7b025a6b",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/c8bdde815ffe6d3c218807b23c65a9dd7b025a6b",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/c8bdde815ffe6d3c218807b23c65a9dd7b025a6b"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/c8bdde815ffe6d3c218807b23c65a9dd7b025a6b",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/c8bdde815ffe6d3c218807b23c65a9dd7b025a6b"
       }
     ]
   },
@@ -332,9 +737,9 @@
       "message": "Update Template @ 4240d06",
       "tree": {
         "sha": "6a5214d1a88aaac3a09b88a4b38eae6e8d17a716",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/6a5214d1a88aaac3a09b88a4b38eae6e8d17a716"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/6a5214d1a88aaac3a09b88a4b38eae6e8d17a716"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/c8bdde815ffe6d3c218807b23c65a9dd7b025a6b",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/c8bdde815ffe6d3c218807b23c65a9dd7b025a6b",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -343,9 +748,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/c8bdde815ffe6d3c218807b23c65a9dd7b025a6b",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/c8bdde815ffe6d3c218807b23c65a9dd7b025a6b",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/c8bdde815ffe6d3c218807b23c65a9dd7b025a6b/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/c8bdde815ffe6d3c218807b23c65a9dd7b025a6b",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/c8bdde815ffe6d3c218807b23c65a9dd7b025a6b",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/c8bdde815ffe6d3c218807b23c65a9dd7b025a6b/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -389,8 +794,8 @@
     "parents": [
       {
         "sha": "e88a5f9b28ace7d42afe0613dc2278cf0d2631e3",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/e88a5f9b28ace7d42afe0613dc2278cf0d2631e3",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/e88a5f9b28ace7d42afe0613dc2278cf0d2631e3"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/e88a5f9b28ace7d42afe0613dc2278cf0d2631e3",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/e88a5f9b28ace7d42afe0613dc2278cf0d2631e3"
       }
     ]
   },
@@ -411,9 +816,9 @@
       "message": "feat: Support Patch 6.1",
       "tree": {
         "sha": "bbcfea4293a909d65e4366b457cfbb07d837a850",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/bbcfea4293a909d65e4366b457cfbb07d837a850"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/bbcfea4293a909d65e4366b457cfbb07d837a850"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/e88a5f9b28ace7d42afe0613dc2278cf0d2631e3",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/e88a5f9b28ace7d42afe0613dc2278cf0d2631e3",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -422,9 +827,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/e88a5f9b28ace7d42afe0613dc2278cf0d2631e3",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/e88a5f9b28ace7d42afe0613dc2278cf0d2631e3",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/e88a5f9b28ace7d42afe0613dc2278cf0d2631e3/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/e88a5f9b28ace7d42afe0613dc2278cf0d2631e3",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/e88a5f9b28ace7d42afe0613dc2278cf0d2631e3",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/e88a5f9b28ace7d42afe0613dc2278cf0d2631e3/comments",
     "author": {
       "login": "SlashNephy",
       "id": 7302150,
@@ -468,8 +873,8 @@
     "parents": [
       {
         "sha": "62811fb1e29f95395d36a48b6fe8c20e4a364434",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/62811fb1e29f95395d36a48b6fe8c20e4a364434",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/62811fb1e29f95395d36a48b6fe8c20e4a364434"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/62811fb1e29f95395d36a48b6fe8c20e4a364434",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/62811fb1e29f95395d36a48b6fe8c20e4a364434"
       }
     ]
   },
@@ -490,9 +895,9 @@
       "message": "Update Common to 785b244",
       "tree": {
         "sha": "28f3776990c0727d08789fa64ba7e19a1daed190",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/28f3776990c0727d08789fa64ba7e19a1daed190"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/28f3776990c0727d08789fa64ba7e19a1daed190"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/62811fb1e29f95395d36a48b6fe8c20e4a364434",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/62811fb1e29f95395d36a48b6fe8c20e4a364434",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -501,9 +906,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/62811fb1e29f95395d36a48b6fe8c20e4a364434",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/62811fb1e29f95395d36a48b6fe8c20e4a364434",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/62811fb1e29f95395d36a48b6fe8c20e4a364434/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/62811fb1e29f95395d36a48b6fe8c20e4a364434",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/62811fb1e29f95395d36a48b6fe8c20e4a364434",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/62811fb1e29f95395d36a48b6fe8c20e4a364434/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -547,8 +952,8 @@
     "parents": [
       {
         "sha": "88fe5f0d1cd00f5e9ac9b3d78a08c591721a7244",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/88fe5f0d1cd00f5e9ac9b3d78a08c591721a7244",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/88fe5f0d1cd00f5e9ac9b3d78a08c591721a7244"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/88fe5f0d1cd00f5e9ac9b3d78a08c591721a7244",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/88fe5f0d1cd00f5e9ac9b3d78a08c591721a7244"
       }
     ]
   },
@@ -569,9 +974,9 @@
       "message": "Update Template @ 8025025",
       "tree": {
         "sha": "daacc4bf91a45174435e3bfd1c30d9309a22fd6b",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/daacc4bf91a45174435e3bfd1c30d9309a22fd6b"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/daacc4bf91a45174435e3bfd1c30d9309a22fd6b"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/88fe5f0d1cd00f5e9ac9b3d78a08c591721a7244",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/88fe5f0d1cd00f5e9ac9b3d78a08c591721a7244",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -580,9 +985,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/88fe5f0d1cd00f5e9ac9b3d78a08c591721a7244",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/88fe5f0d1cd00f5e9ac9b3d78a08c591721a7244",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/88fe5f0d1cd00f5e9ac9b3d78a08c591721a7244/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/88fe5f0d1cd00f5e9ac9b3d78a08c591721a7244",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/88fe5f0d1cd00f5e9ac9b3d78a08c591721a7244",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/88fe5f0d1cd00f5e9ac9b3d78a08c591721a7244/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -626,8 +1031,8 @@
     "parents": [
       {
         "sha": "f0fac5dfafb0ded7018d9d8bdcd23c720e2bf6db",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/f0fac5dfafb0ded7018d9d8bdcd23c720e2bf6db",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/f0fac5dfafb0ded7018d9d8bdcd23c720e2bf6db"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/f0fac5dfafb0ded7018d9d8bdcd23c720e2bf6db",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/f0fac5dfafb0ded7018d9d8bdcd23c720e2bf6db"
       }
     ]
   },
@@ -648,9 +1053,9 @@
       "message": "Update Common to 60ce632",
       "tree": {
         "sha": "f5a47e9631a67f2f3b943e4893cb1bf7be412a25",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/f5a47e9631a67f2f3b943e4893cb1bf7be412a25"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/f5a47e9631a67f2f3b943e4893cb1bf7be412a25"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/f0fac5dfafb0ded7018d9d8bdcd23c720e2bf6db",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/f0fac5dfafb0ded7018d9d8bdcd23c720e2bf6db",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -659,9 +1064,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/f0fac5dfafb0ded7018d9d8bdcd23c720e2bf6db",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/f0fac5dfafb0ded7018d9d8bdcd23c720e2bf6db",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/f0fac5dfafb0ded7018d9d8bdcd23c720e2bf6db/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/f0fac5dfafb0ded7018d9d8bdcd23c720e2bf6db",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/f0fac5dfafb0ded7018d9d8bdcd23c720e2bf6db",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/f0fac5dfafb0ded7018d9d8bdcd23c720e2bf6db/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -705,8 +1110,8 @@
     "parents": [
       {
         "sha": "7d55e618ec63a5608049553f0c5dc19dd01f8dae",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/7d55e618ec63a5608049553f0c5dc19dd01f8dae",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/7d55e618ec63a5608049553f0c5dc19dd01f8dae"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/7d55e618ec63a5608049553f0c5dc19dd01f8dae",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/7d55e618ec63a5608049553f0c5dc19dd01f8dae"
       }
     ]
   },
@@ -727,9 +1132,9 @@
       "message": "Update Common to b3b0bfa",
       "tree": {
         "sha": "143bf4bca97b16cf173d3be23397e6c77cf5e49c",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/143bf4bca97b16cf173d3be23397e6c77cf5e49c"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/143bf4bca97b16cf173d3be23397e6c77cf5e49c"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/7d55e618ec63a5608049553f0c5dc19dd01f8dae",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/7d55e618ec63a5608049553f0c5dc19dd01f8dae",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -738,9 +1143,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/7d55e618ec63a5608049553f0c5dc19dd01f8dae",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/7d55e618ec63a5608049553f0c5dc19dd01f8dae",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/7d55e618ec63a5608049553f0c5dc19dd01f8dae/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/7d55e618ec63a5608049553f0c5dc19dd01f8dae",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/7d55e618ec63a5608049553f0c5dc19dd01f8dae",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/7d55e618ec63a5608049553f0c5dc19dd01f8dae/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -784,8 +1189,8 @@
     "parents": [
       {
         "sha": "2acd6dbd236c4dc5965f5c25216fd44e3dd348e4",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/2acd6dbd236c4dc5965f5c25216fd44e3dd348e4",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/2acd6dbd236c4dc5965f5c25216fd44e3dd348e4"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/2acd6dbd236c4dc5965f5c25216fd44e3dd348e4",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/2acd6dbd236c4dc5965f5c25216fd44e3dd348e4"
       }
     ]
   },
@@ -806,9 +1211,9 @@
       "message": "Update Common to 2f111a4",
       "tree": {
         "sha": "1a8c548c6b227d8953634eab9dc74f2c51146fe4",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/1a8c548c6b227d8953634eab9dc74f2c51146fe4"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/1a8c548c6b227d8953634eab9dc74f2c51146fe4"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/2acd6dbd236c4dc5965f5c25216fd44e3dd348e4",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/2acd6dbd236c4dc5965f5c25216fd44e3dd348e4",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -817,9 +1222,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/2acd6dbd236c4dc5965f5c25216fd44e3dd348e4",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/2acd6dbd236c4dc5965f5c25216fd44e3dd348e4",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/2acd6dbd236c4dc5965f5c25216fd44e3dd348e4/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/2acd6dbd236c4dc5965f5c25216fd44e3dd348e4",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/2acd6dbd236c4dc5965f5c25216fd44e3dd348e4",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/2acd6dbd236c4dc5965f5c25216fd44e3dd348e4/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -863,8 +1268,8 @@
     "parents": [
       {
         "sha": "39f73bc6c8e77e03521a145bfcb6583629023aef",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/39f73bc6c8e77e03521a145bfcb6583629023aef",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/39f73bc6c8e77e03521a145bfcb6583629023aef"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/39f73bc6c8e77e03521a145bfcb6583629023aef",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/39f73bc6c8e77e03521a145bfcb6583629023aef"
       }
     ]
   },
@@ -885,9 +1290,9 @@
       "message": "feat: Support Dalamud API 5",
       "tree": {
         "sha": "01a01c2825e30600c4d8747539dc6f58e4dc662a",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/01a01c2825e30600c4d8747539dc6f58e4dc662a"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/01a01c2825e30600c4d8747539dc6f58e4dc662a"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/39f73bc6c8e77e03521a145bfcb6583629023aef",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/39f73bc6c8e77e03521a145bfcb6583629023aef",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -896,9 +1301,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/39f73bc6c8e77e03521a145bfcb6583629023aef",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/39f73bc6c8e77e03521a145bfcb6583629023aef",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/39f73bc6c8e77e03521a145bfcb6583629023aef/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/39f73bc6c8e77e03521a145bfcb6583629023aef",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/39f73bc6c8e77e03521a145bfcb6583629023aef",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/39f73bc6c8e77e03521a145bfcb6583629023aef/comments",
     "author": {
       "login": "SlashNephy",
       "id": 7302150,
@@ -942,8 +1347,8 @@
     "parents": [
       {
         "sha": "a636d57224c13339b694b8de4f660ee71dd58845",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/a636d57224c13339b694b8de4f660ee71dd58845",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/a636d57224c13339b694b8de4f660ee71dd58845"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/a636d57224c13339b694b8de4f660ee71dd58845",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/a636d57224c13339b694b8de4f660ee71dd58845"
       }
     ]
   },
@@ -964,9 +1369,9 @@
       "message": "Update Template @ 2c25388",
       "tree": {
         "sha": "88f0641b2a3e8244ba26faf16e009e53369cb066",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/88f0641b2a3e8244ba26faf16e009e53369cb066"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/88f0641b2a3e8244ba26faf16e009e53369cb066"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/a636d57224c13339b694b8de4f660ee71dd58845",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/a636d57224c13339b694b8de4f660ee71dd58845",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -975,9 +1380,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/a636d57224c13339b694b8de4f660ee71dd58845",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/a636d57224c13339b694b8de4f660ee71dd58845",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/a636d57224c13339b694b8de4f660ee71dd58845/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/a636d57224c13339b694b8de4f660ee71dd58845",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/a636d57224c13339b694b8de4f660ee71dd58845",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/a636d57224c13339b694b8de4f660ee71dd58845/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -1021,8 +1426,8 @@
     "parents": [
       {
         "sha": "412da0301e7d65deb975f51297e24371e5b4daef",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/412da0301e7d65deb975f51297e24371e5b4daef",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/412da0301e7d65deb975f51297e24371e5b4daef"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/412da0301e7d65deb975f51297e24371e5b4daef",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/412da0301e7d65deb975f51297e24371e5b4daef"
       }
     ]
   },
@@ -1043,9 +1448,9 @@
       "message": "Update Template @ 5c3f8c8",
       "tree": {
         "sha": "6e5e9ca5eececc4f0cc8aa2b41322c4265482d84",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/6e5e9ca5eececc4f0cc8aa2b41322c4265482d84"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/6e5e9ca5eececc4f0cc8aa2b41322c4265482d84"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/412da0301e7d65deb975f51297e24371e5b4daef",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/412da0301e7d65deb975f51297e24371e5b4daef",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1054,9 +1459,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/412da0301e7d65deb975f51297e24371e5b4daef",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/412da0301e7d65deb975f51297e24371e5b4daef",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/412da0301e7d65deb975f51297e24371e5b4daef/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/412da0301e7d65deb975f51297e24371e5b4daef",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/412da0301e7d65deb975f51297e24371e5b4daef",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/412da0301e7d65deb975f51297e24371e5b4daef/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -1100,8 +1505,8 @@
     "parents": [
       {
         "sha": "1836a419dd8e499af6706bdef5b7d79f412db629",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/1836a419dd8e499af6706bdef5b7d79f412db629",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/1836a419dd8e499af6706bdef5b7d79f412db629"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/1836a419dd8e499af6706bdef5b7d79f412db629",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/1836a419dd8e499af6706bdef5b7d79f412db629"
       }
     ]
   },
@@ -1122,9 +1527,9 @@
       "message": "Update Template @ 2239e26",
       "tree": {
         "sha": "f738b12c926dd863a5d68da9413edb851e4cbe69",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/f738b12c926dd863a5d68da9413edb851e4cbe69"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/f738b12c926dd863a5d68da9413edb851e4cbe69"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/1836a419dd8e499af6706bdef5b7d79f412db629",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/1836a419dd8e499af6706bdef5b7d79f412db629",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1133,9 +1538,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/1836a419dd8e499af6706bdef5b7d79f412db629",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/1836a419dd8e499af6706bdef5b7d79f412db629",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/1836a419dd8e499af6706bdef5b7d79f412db629/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/1836a419dd8e499af6706bdef5b7d79f412db629",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/1836a419dd8e499af6706bdef5b7d79f412db629",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/1836a419dd8e499af6706bdef5b7d79f412db629/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -1179,8 +1584,8 @@
     "parents": [
       {
         "sha": "aaa1f4d6e51467700f4a93a27961e676c9e54103",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/aaa1f4d6e51467700f4a93a27961e676c9e54103",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/aaa1f4d6e51467700f4a93a27961e676c9e54103"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/aaa1f4d6e51467700f4a93a27961e676c9e54103",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/aaa1f4d6e51467700f4a93a27961e676c9e54103"
       }
     ]
   },
@@ -1201,9 +1606,9 @@
       "message": "Update Template @ 2dd8d36",
       "tree": {
         "sha": "364b6b9b04aa64434ce98cf5d4f5babc918fd797",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/364b6b9b04aa64434ce98cf5d4f5babc918fd797"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/364b6b9b04aa64434ce98cf5d4f5babc918fd797"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/aaa1f4d6e51467700f4a93a27961e676c9e54103",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/aaa1f4d6e51467700f4a93a27961e676c9e54103",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1212,9 +1617,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/aaa1f4d6e51467700f4a93a27961e676c9e54103",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/aaa1f4d6e51467700f4a93a27961e676c9e54103",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/aaa1f4d6e51467700f4a93a27961e676c9e54103/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/aaa1f4d6e51467700f4a93a27961e676c9e54103",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/aaa1f4d6e51467700f4a93a27961e676c9e54103",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/aaa1f4d6e51467700f4a93a27961e676c9e54103/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -1258,8 +1663,8 @@
     "parents": [
       {
         "sha": "e2a1f8fcddcd97e7fd784f184f63030778ac342e",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/e2a1f8fcddcd97e7fd784f184f63030778ac342e",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/e2a1f8fcddcd97e7fd784f184f63030778ac342e"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/e2a1f8fcddcd97e7fd784f184f63030778ac342e",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/e2a1f8fcddcd97e7fd784f184f63030778ac342e"
       }
     ]
   },
@@ -1280,9 +1685,9 @@
       "message": "Update Template @ d937f8f",
       "tree": {
         "sha": "b79de1e1e5a4640d569ea2c14aa25c0ac879f785",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/b79de1e1e5a4640d569ea2c14aa25c0ac879f785"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/b79de1e1e5a4640d569ea2c14aa25c0ac879f785"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/e2a1f8fcddcd97e7fd784f184f63030778ac342e",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/e2a1f8fcddcd97e7fd784f184f63030778ac342e",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1291,9 +1696,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/e2a1f8fcddcd97e7fd784f184f63030778ac342e",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/e2a1f8fcddcd97e7fd784f184f63030778ac342e",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/e2a1f8fcddcd97e7fd784f184f63030778ac342e/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/e2a1f8fcddcd97e7fd784f184f63030778ac342e",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/e2a1f8fcddcd97e7fd784f184f63030778ac342e",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/e2a1f8fcddcd97e7fd784f184f63030778ac342e/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -1337,8 +1742,8 @@
     "parents": [
       {
         "sha": "576c02ad60077d8701be4584af6c61426b3174e4",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/576c02ad60077d8701be4584af6c61426b3174e4",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/576c02ad60077d8701be4584af6c61426b3174e4"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/576c02ad60077d8701be4584af6c61426b3174e4",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/576c02ad60077d8701be4584af6c61426b3174e4"
       }
     ]
   },
@@ -1359,9 +1764,9 @@
       "message": "Update Template @ 73fd081",
       "tree": {
         "sha": "19baa0013f9dace4fa21be2ea4b2c4054d8640a4",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/19baa0013f9dace4fa21be2ea4b2c4054d8640a4"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/19baa0013f9dace4fa21be2ea4b2c4054d8640a4"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/576c02ad60077d8701be4584af6c61426b3174e4",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/576c02ad60077d8701be4584af6c61426b3174e4",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1370,9 +1775,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/576c02ad60077d8701be4584af6c61426b3174e4",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/576c02ad60077d8701be4584af6c61426b3174e4",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/576c02ad60077d8701be4584af6c61426b3174e4/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/576c02ad60077d8701be4584af6c61426b3174e4",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/576c02ad60077d8701be4584af6c61426b3174e4",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/576c02ad60077d8701be4584af6c61426b3174e4/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -1416,8 +1821,8 @@
     "parents": [
       {
         "sha": "c5b7047c71073c60100ff1346ba0fec130e8a48c",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/c5b7047c71073c60100ff1346ba0fec130e8a48c",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/c5b7047c71073c60100ff1346ba0fec130e8a48c"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/c5b7047c71073c60100ff1346ba0fec130e8a48c",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/c5b7047c71073c60100ff1346ba0fec130e8a48c"
       }
     ]
   },
@@ -1438,9 +1843,9 @@
       "message": "Update Template to 1a0a650",
       "tree": {
         "sha": "2edfa9fa800070b1af4b4d27e023cb74680bc4d8",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/2edfa9fa800070b1af4b4d27e023cb74680bc4d8"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/2edfa9fa800070b1af4b4d27e023cb74680bc4d8"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/c5b7047c71073c60100ff1346ba0fec130e8a48c",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/c5b7047c71073c60100ff1346ba0fec130e8a48c",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1449,9 +1854,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/c5b7047c71073c60100ff1346ba0fec130e8a48c",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/c5b7047c71073c60100ff1346ba0fec130e8a48c",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/c5b7047c71073c60100ff1346ba0fec130e8a48c/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/c5b7047c71073c60100ff1346ba0fec130e8a48c",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/c5b7047c71073c60100ff1346ba0fec130e8a48c",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/c5b7047c71073c60100ff1346ba0fec130e8a48c/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -1495,8 +1900,8 @@
     "parents": [
       {
         "sha": "c55e9b3dc17debad188fcc7604434f72d1e7b345",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/c55e9b3dc17debad188fcc7604434f72d1e7b345",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/c55e9b3dc17debad188fcc7604434f72d1e7b345"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/c55e9b3dc17debad188fcc7604434f72d1e7b345",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/c55e9b3dc17debad188fcc7604434f72d1e7b345"
       }
     ]
   },
@@ -1517,9 +1922,9 @@
       "message": "Update Common to e260ee9",
       "tree": {
         "sha": "b618e84d68078d9d7ca31914df15d39c3b3f409f",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/b618e84d68078d9d7ca31914df15d39c3b3f409f"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/b618e84d68078d9d7ca31914df15d39c3b3f409f"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/c55e9b3dc17debad188fcc7604434f72d1e7b345",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/c55e9b3dc17debad188fcc7604434f72d1e7b345",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1528,9 +1933,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/c55e9b3dc17debad188fcc7604434f72d1e7b345",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/c55e9b3dc17debad188fcc7604434f72d1e7b345",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/c55e9b3dc17debad188fcc7604434f72d1e7b345/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/c55e9b3dc17debad188fcc7604434f72d1e7b345",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/c55e9b3dc17debad188fcc7604434f72d1e7b345",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/c55e9b3dc17debad188fcc7604434f72d1e7b345/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -1574,8 +1979,8 @@
     "parents": [
       {
         "sha": "d2d79579e70b3580751e2ebc238947c1ecafcb58",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/d2d79579e70b3580751e2ebc238947c1ecafcb58",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/d2d79579e70b3580751e2ebc238947c1ecafcb58"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/d2d79579e70b3580751e2ebc238947c1ecafcb58",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/d2d79579e70b3580751e2ebc238947c1ecafcb58"
       }
     ]
   },
@@ -1596,9 +2001,9 @@
       "message": "Update Common to 3ae7f5b",
       "tree": {
         "sha": "113bc67d06b8bdaeb4b339622d70f8160edcd598",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/113bc67d06b8bdaeb4b339622d70f8160edcd598"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/113bc67d06b8bdaeb4b339622d70f8160edcd598"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/d2d79579e70b3580751e2ebc238947c1ecafcb58",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/d2d79579e70b3580751e2ebc238947c1ecafcb58",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1607,9 +2012,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/d2d79579e70b3580751e2ebc238947c1ecafcb58",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/d2d79579e70b3580751e2ebc238947c1ecafcb58",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/d2d79579e70b3580751e2ebc238947c1ecafcb58/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/d2d79579e70b3580751e2ebc238947c1ecafcb58",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/d2d79579e70b3580751e2ebc238947c1ecafcb58",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/d2d79579e70b3580751e2ebc238947c1ecafcb58/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -1653,8 +2058,8 @@
     "parents": [
       {
         "sha": "166b74ce209bc26d3df14e289f7dbe56cf5e0f10",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/166b74ce209bc26d3df14e289f7dbe56cf5e0f10",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/166b74ce209bc26d3df14e289f7dbe56cf5e0f10"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/166b74ce209bc26d3df14e289f7dbe56cf5e0f10",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/166b74ce209bc26d3df14e289f7dbe56cf5e0f10"
       }
     ]
   },
@@ -1675,9 +2080,9 @@
       "message": "Update Common to 2d40dde",
       "tree": {
         "sha": "0bc650d0397726db85ad41780ec4c43caac6572c",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/0bc650d0397726db85ad41780ec4c43caac6572c"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/0bc650d0397726db85ad41780ec4c43caac6572c"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/166b74ce209bc26d3df14e289f7dbe56cf5e0f10",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/166b74ce209bc26d3df14e289f7dbe56cf5e0f10",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1686,9 +2091,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/166b74ce209bc26d3df14e289f7dbe56cf5e0f10",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/166b74ce209bc26d3df14e289f7dbe56cf5e0f10",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/166b74ce209bc26d3df14e289f7dbe56cf5e0f10/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/166b74ce209bc26d3df14e289f7dbe56cf5e0f10",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/166b74ce209bc26d3df14e289f7dbe56cf5e0f10",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/166b74ce209bc26d3df14e289f7dbe56cf5e0f10/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -1732,8 +2137,8 @@
     "parents": [
       {
         "sha": "8bf8ee34da79eda5813f3a561e246cc096d7e387",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/8bf8ee34da79eda5813f3a561e246cc096d7e387",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/8bf8ee34da79eda5813f3a561e246cc096d7e387"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/8bf8ee34da79eda5813f3a561e246cc096d7e387",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/8bf8ee34da79eda5813f3a561e246cc096d7e387"
       }
     ]
   },
@@ -1754,9 +2159,9 @@
       "message": "Update Common to 2bcff51",
       "tree": {
         "sha": "ad99a3ceb2169e3535dd72f093e7edcc418e1388",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/ad99a3ceb2169e3535dd72f093e7edcc418e1388"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/ad99a3ceb2169e3535dd72f093e7edcc418e1388"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/8bf8ee34da79eda5813f3a561e246cc096d7e387",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/8bf8ee34da79eda5813f3a561e246cc096d7e387",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1765,9 +2170,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/8bf8ee34da79eda5813f3a561e246cc096d7e387",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/8bf8ee34da79eda5813f3a561e246cc096d7e387",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/8bf8ee34da79eda5813f3a561e246cc096d7e387/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/8bf8ee34da79eda5813f3a561e246cc096d7e387",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/8bf8ee34da79eda5813f3a561e246cc096d7e387",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/8bf8ee34da79eda5813f3a561e246cc096d7e387/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -1811,8 +2216,8 @@
     "parents": [
       {
         "sha": "fbe3421a2dc1bf0956aaa67bf4196b19ebd842c5",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/fbe3421a2dc1bf0956aaa67bf4196b19ebd842c5",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/fbe3421a2dc1bf0956aaa67bf4196b19ebd842c5"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/fbe3421a2dc1bf0956aaa67bf4196b19ebd842c5",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/fbe3421a2dc1bf0956aaa67bf4196b19ebd842c5"
       }
     ]
   },
@@ -1833,9 +2238,9 @@
       "message": "Update Common to 4e86c9b",
       "tree": {
         "sha": "16fe971271fcd393b4abd09f95972b2bac188a95",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/16fe971271fcd393b4abd09f95972b2bac188a95"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/16fe971271fcd393b4abd09f95972b2bac188a95"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/fbe3421a2dc1bf0956aaa67bf4196b19ebd842c5",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/fbe3421a2dc1bf0956aaa67bf4196b19ebd842c5",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1844,9 +2249,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/fbe3421a2dc1bf0956aaa67bf4196b19ebd842c5",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/fbe3421a2dc1bf0956aaa67bf4196b19ebd842c5",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/fbe3421a2dc1bf0956aaa67bf4196b19ebd842c5/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/fbe3421a2dc1bf0956aaa67bf4196b19ebd842c5",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/fbe3421a2dc1bf0956aaa67bf4196b19ebd842c5",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/fbe3421a2dc1bf0956aaa67bf4196b19ebd842c5/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -1890,8 +2295,8 @@
     "parents": [
       {
         "sha": "57e050b028367b06f24672455542047f8abad9b5",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/57e050b028367b06f24672455542047f8abad9b5",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/57e050b028367b06f24672455542047f8abad9b5"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/57e050b028367b06f24672455542047f8abad9b5",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/57e050b028367b06f24672455542047f8abad9b5"
       }
     ]
   },
@@ -1912,9 +2317,9 @@
       "message": "Update Common to 4b32e38",
       "tree": {
         "sha": "f2e2701ac0c52b4157b3242ca46b4338c8ae9b30",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/f2e2701ac0c52b4157b3242ca46b4338c8ae9b30"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/trees/f2e2701ac0c52b4157b3242ca46b4338c8ae9b30"
       },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/57e050b028367b06f24672455542047f8abad9b5",
+      "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/git/commits/57e050b028367b06f24672455542047f8abad9b5",
       "comment_count": 0,
       "verification": {
         "verified": false,
@@ -1923,9 +2328,9 @@
         "payload": null
       }
     },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/57e050b028367b06f24672455542047f8abad9b5",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/57e050b028367b06f24672455542047f8abad9b5",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/57e050b028367b06f24672455542047f8abad9b5/comments",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/57e050b028367b06f24672455542047f8abad9b5",
+    "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/57e050b028367b06f24672455542047f8abad9b5",
+    "comments_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/57e050b028367b06f24672455542047f8abad9b5/comments",
     "author": {
       "login": "github-actions[bot]",
       "id": 41898282,
@@ -1969,403 +2374,8 @@
     "parents": [
       {
         "sha": "c563e41fa62bd3a2a00658bc3105375ef590fdea",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/c563e41fa62bd3a2a00658bc3105375ef590fdea",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/c563e41fa62bd3a2a00658bc3105375ef590fdea"
-      }
-    ]
-  },
-  {
-    "sha": "c563e41fa62bd3a2a00658bc3105375ef590fdea",
-    "node_id": "C_kwDOF__7JdoAKGM1NjNlNDFmYTYyYmQzYTJhMDA2NThiYzMxMDUzNzVlZjU5MGZkZWE",
-    "commit": {
-      "author": {
-        "name": "github-actions",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2021-10-19T12:34:20Z"
-      },
-      "committer": {
-        "name": "github-actions",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2021-10-19T12:34:20Z"
-      },
-      "message": "Update Common to 56bbe32",
-      "tree": {
-        "sha": "92ecb080d56ffce1e5b4d52bd730ac505144422c",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/92ecb080d56ffce1e5b4d52bd730ac505144422c"
-      },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/c563e41fa62bd3a2a00658bc3105375ef590fdea",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
-    },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/c563e41fa62bd3a2a00658bc3105375ef590fdea",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/c563e41fa62bd3a2a00658bc3105375ef590fdea",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/c563e41fa62bd3a2a00658bc3105375ef590fdea/comments",
-    "author": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "1270d58eb8663eb4549e76ecce390f969b0d6c45",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/1270d58eb8663eb4549e76ecce390f969b0d6c45",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/1270d58eb8663eb4549e76ecce390f969b0d6c45"
-      }
-    ]
-  },
-  {
-    "sha": "1270d58eb8663eb4549e76ecce390f969b0d6c45",
-    "node_id": "C_kwDOF__7JdoAKDEyNzBkNThlYjg2NjNlYjQ1NDllNzZlY2NlMzkwZjk2OWIwZDZjNDU",
-    "commit": {
-      "author": {
-        "name": "github-actions",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2021-10-19T12:10:53Z"
-      },
-      "committer": {
-        "name": "github-actions",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2021-10-19T12:10:53Z"
-      },
-      "message": "Update Common to be5d78b",
-      "tree": {
-        "sha": "e8df77bdc4bbbaff51260e05686d311526ef59e5",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/e8df77bdc4bbbaff51260e05686d311526ef59e5"
-      },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/1270d58eb8663eb4549e76ecce390f969b0d6c45",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
-    },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/1270d58eb8663eb4549e76ecce390f969b0d6c45",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/1270d58eb8663eb4549e76ecce390f969b0d6c45",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/1270d58eb8663eb4549e76ecce390f969b0d6c45/comments",
-    "author": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "afcb1af29b3dc161f98b6a2d58c4ad222034ef0e",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/afcb1af29b3dc161f98b6a2d58c4ad222034ef0e",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/afcb1af29b3dc161f98b6a2d58c4ad222034ef0e"
-      }
-    ]
-  },
-  {
-    "sha": "afcb1af29b3dc161f98b6a2d58c4ad222034ef0e",
-    "node_id": "C_kwDOF__7JdoAKGFmY2IxYWYyOWIzZGMxNjFmOThiNmEyZDU4YzRhZDIyMjAzNGVmMGU",
-    "commit": {
-      "author": {
-        "name": "github-actions",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2021-10-19T10:27:41Z"
-      },
-      "committer": {
-        "name": "github-actions",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2021-10-19T10:27:41Z"
-      },
-      "message": "Update Common to 2912a84",
-      "tree": {
-        "sha": "d1f6f7a39d6fef03782e1e45db97cc25db3e7efa",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/d1f6f7a39d6fef03782e1e45db97cc25db3e7efa"
-      },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/afcb1af29b3dc161f98b6a2d58c4ad222034ef0e",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
-    },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/afcb1af29b3dc161f98b6a2d58c4ad222034ef0e",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/afcb1af29b3dc161f98b6a2d58c4ad222034ef0e",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/afcb1af29b3dc161f98b6a2d58c4ad222034ef0e/comments",
-    "author": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "3a0b647db13bbb6e24fead5a1bc224c6fad3f5a6",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/3a0b647db13bbb6e24fead5a1bc224c6fad3f5a6",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/3a0b647db13bbb6e24fead5a1bc224c6fad3f5a6"
-      }
-    ]
-  },
-  {
-    "sha": "3a0b647db13bbb6e24fead5a1bc224c6fad3f5a6",
-    "node_id": "C_kwDOF__7JdoAKDNhMGI2NDdkYjEzYmJiNmUyNGZlYWQ1YTFiYzIyNGM2ZmFkM2Y1YTY",
-    "commit": {
-      "author": {
-        "name": "github-actions",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2021-10-19T09:27:32Z"
-      },
-      "committer": {
-        "name": "github-actions",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2021-10-19T09:27:32Z"
-      },
-      "message": "Update Common to 6e017bd",
-      "tree": {
-        "sha": "183d789508e374b22b540b84dcd2de83ccf5e7cc",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/183d789508e374b22b540b84dcd2de83ccf5e7cc"
-      },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/3a0b647db13bbb6e24fead5a1bc224c6fad3f5a6",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
-    },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/3a0b647db13bbb6e24fead5a1bc224c6fad3f5a6",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/3a0b647db13bbb6e24fead5a1bc224c6fad3f5a6",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/3a0b647db13bbb6e24fead5a1bc224c6fad3f5a6/comments",
-    "author": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "034e138a414fc0dc7abbb0bda6cdd7e7b5643ce9",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/034e138a414fc0dc7abbb0bda6cdd7e7b5643ce9",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/034e138a414fc0dc7abbb0bda6cdd7e7b5643ce9"
-      }
-    ]
-  },
-  {
-    "sha": "034e138a414fc0dc7abbb0bda6cdd7e7b5643ce9",
-    "node_id": "C_kwDOF__7JdoAKDAzNGUxMzhhNDE0ZmMwZGM3YWJiYjBiZGE2Y2RkN2U3YjU2NDNjZTk",
-    "commit": {
-      "author": {
-        "name": "github-actions",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2021-10-19T03:04:19Z"
-      },
-      "committer": {
-        "name": "github-actions",
-        "email": "41898282+github-actions[bot]@users.noreply.github.com",
-        "date": "2021-10-19T03:04:19Z"
-      },
-      "message": "Update Common to 3e58eee",
-      "tree": {
-        "sha": "e2d212f75ca6e98e5f6af74b3dc48c7d0da72292",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/trees/e2d212f75ca6e98e5f6af74b3dc48c7d0da72292"
-      },
-      "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/git/commits/034e138a414fc0dc7abbb0bda6cdd7e7b5643ce9",
-      "comment_count": 0,
-      "verification": {
-        "verified": false,
-        "reason": "unsigned",
-        "signature": null,
-        "payload": null
-      }
-    },
-    "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/034e138a414fc0dc7abbb0bda6cdd7e7b5643ce9",
-    "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/034e138a414fc0dc7abbb0bda6cdd7e7b5643ce9",
-    "comments_url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/034e138a414fc0dc7abbb0bda6cdd7e7b5643ce9/comments",
-    "author": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "site_admin": false
-    },
-    "committer": {
-      "login": "github-actions[bot]",
-      "id": 41898282,
-      "node_id": "MDM6Qm90NDE4OTgyODI=",
-      "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "gravatar_id": "",
-      "url": "https://api.github.com/users/github-actions%5Bbot%5D",
-      "html_url": "https://github.com/apps/github-actions",
-      "followers_url": "https://api.github.com/users/github-actions%5Bbot%5D/followers",
-      "following_url": "https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}",
-      "gists_url": "https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}",
-      "starred_url": "https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}",
-      "subscriptions_url": "https://api.github.com/users/github-actions%5Bbot%5D/subscriptions",
-      "organizations_url": "https://api.github.com/users/github-actions%5Bbot%5D/orgs",
-      "repos_url": "https://api.github.com/users/github-actions%5Bbot%5D/repos",
-      "events_url": "https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}",
-      "received_events_url": "https://api.github.com/users/github-actions%5Bbot%5D/received_events",
-      "type": "Bot",
-      "site_admin": false
-    },
-    "parents": [
-      {
-        "sha": "04b1366b8bde5a994c2656e44af59db163c28e07",
-        "url": "https://api.github.com/repos/horoscope-dev/Dalamud.Divination.TwitterIntegration/commits/04b1366b8bde5a994c2656e44af59db163c28e07",
-        "html_url": "https://github.com/horoscope-dev/Dalamud.Divination.TwitterIntegration/commit/04b1366b8bde5a994c2656e44af59db163c28e07"
+        "url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/commits/c563e41fa62bd3a2a00658bc3105375ef590fdea",
+        "html_url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/c563e41fa62bd3a2a00658bc3105375ef590fdea"
       }
     ]
   }
