@@ -1,7 +1,7 @@
 {
-  "after": "4c541c9cc4efc517bf2088732a48879d27f419c0",
+  "after": "9d054d074bee97c4b3cad959e8f3ce1e3ae0c399",
   "base_ref": null,
-  "before": "51b6759de1fdb7514ed84a908d7125a1c163b076",
+  "before": "c70b4944fa6959a90f13c3dee08036b24589a201",
   "commits": [
     {
       "author": {
@@ -15,11 +15,11 @@
         "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "cd513a2ad2eb991430af26f3e2c6415f8f7643fe",
-      "message": "fix loc on queued teleporting message",
-      "timestamp": "2022-12-24T23:17:28+09:00",
-      "tree_id": "497ddb7323c5bb5727399ee44986d7f4b1b6960c",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/cd513a2ad2eb991430af26f3e2c6415f8f7643fe"
+      "id": "dd2b5f99cb701d61dd3243e8f45a74d8ca3c5dec",
+      "message": "AetheryteList API を使う",
+      "timestamp": "2022-12-25T02:25:21+09:00",
+      "tree_id": "4a43cb362775435f1a33c8d658a010fee4c3b15b",
+      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/dd2b5f99cb701d61dd3243e8f45a74d8ca3c5dec"
     },
     {
       "author": {
@@ -33,68 +33,14 @@
         "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "81dff22d983800105b8f6a96729b73499cae4ed7",
-      "message": "書き込むメッセージを予め改行してあるのでスペースを取り除く必要はない",
-      "timestamp": "2022-12-24T23:18:07+09:00",
-      "tree_id": "e31c9653d967e4aa8ffeaf082f7742e7e1658f26",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/81dff22d983800105b8f6a96729b73499cae4ed7"
-    },
-    {
-      "author": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "committer": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "distinct": true,
-      "id": "368c9a9457031e4379fc4f6e6688b0ebaeadc673",
-      "message": "DalamudLinkPayload を挿入する位置を変更",
-      "timestamp": "2022-12-24T23:38:29+09:00",
-      "tree_id": "a1b38a71ee8430f38cd9ed8a17b28bc4771fbef4",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/368c9a9457031e4379fc4f6e6688b0ebaeadc673"
-    },
-    {
-      "author": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "committer": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "distinct": true,
-      "id": "9abc81d3e0b11d814b0a56dbf1df9312fff5a713",
-      "message": "AetherytePayload を作った",
-      "timestamp": "2022-12-25T01:45:13+09:00",
-      "tree_id": "e300cfc5c09ec62f0f31f5e76aede90d0e89d852",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/9abc81d3e0b11d814b0a56dbf1df9312fff5a713"
-    },
-    {
-      "author": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "committer": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "distinct": true,
-      "id": "4c541c9cc4efc517bf2088732a48879d27f419c0",
-      "message": "コスト調整",
-      "timestamp": "2022-12-25T01:45:21+09:00",
-      "tree_id": "469400dba7bd50473e9e1040d056830b49459a16",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/4c541c9cc4efc517bf2088732a48879d27f419c0"
+      "id": "9d054d074bee97c4b3cad959e8f3ce1e3ae0c399",
+      "message": "Common 更新",
+      "timestamp": "2022-12-25T02:25:30+09:00",
+      "tree_id": "aae4cd05a1e186443ba895dfcdc5465b5c8c5087",
+      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/9d054d074bee97c4b3cad959e8f3ce1e3ae0c399"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/compare/51b6759de1fd...4c541c9cc4ef",
+  "compare": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/compare/c70b4944fa69...9d054d074bee",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -110,11 +56,11 @@
       "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "4c541c9cc4efc517bf2088732a48879d27f419c0",
-    "message": "コスト調整",
-    "timestamp": "2022-12-25T01:45:21+09:00",
-    "tree_id": "469400dba7bd50473e9e1040d056830b49459a16",
-    "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/4c541c9cc4efc517bf2088732a48879d27f419c0"
+    "id": "9d054d074bee97c4b3cad959e8f3ce1e3ae0c399",
+    "message": "Common 更新",
+    "timestamp": "2022-12-25T02:25:30+09:00",
+    "tree_id": "aae4cd05a1e186443ba895dfcdc5465b5c8c5087",
+    "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/9d054d074bee97c4b3cad959e8f3ce1e3ae0c399"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -197,8 +143,8 @@
     "name": "Divination.AetheryteLinkInChat",
     "node_id": "R_kgDOHC24pw",
     "notifications_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/notifications{?since,all,participating}",
-    "open_issues": 2,
-    "open_issues_count": 2,
+    "open_issues": 1,
+    "open_issues_count": 1,
     "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -224,7 +170,7 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/pulls{/number}",
-    "pushed_at": 1671900327,
+    "pushed_at": 1671902742,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/releases{/id}",
     "size": 76,
     "ssh_url": "git@github.com:horoscope-dev/Divination.AetheryteLinkInChat.git",
