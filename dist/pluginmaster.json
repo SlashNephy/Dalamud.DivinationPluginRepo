@@ -6,7 +6,7 @@
     "CategoryTags": [
       "utility"
     ],
-    "Changelog": "51b6759: Merge remote-tracking branch 'origin/master'\n547f98b: \u30df\u30b9\u3063\u3066 default \u306b\u306a\u3063\u3066\u305f\n3febecf: \ud83e\uddf9 dotnet format\nfeeb6e7: \u30ed\u30fc\u30ab\u30e9\u30a4\u30ba\u306e\u6a5f\u80fd\u3092 Common \u306b\u8ffd\u3044\u3084\u3063\u305f\n36c8e22: \ud83e\uddf9 dotnet format\nfaa11ba: Merge remote-tracking branch 'origin/master'\n\n# Conflicts:\n#\tDivination.AetheryteLinkInChat/AetheryteSolver.cs\n#\tDivination.AetheryteLinkInChat/Localize/Localization.cs\n#\tDivination.AetheryteLinkInChat/Teleporter.cs\n980c26e: \u5bfe\u8c61\u306e ConditionFlag \u3092\u8ffd\u52a0\nf67e06b: \u30ad\u30e5\u30fc\u306e\u30c6\u30ec\u30dd\u3092\u5b9f\u884c\u3059\u308b\u5834\u5408\u306b\u3082\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u51fa\u3059\nc57d8de: Update README.md\na473294: \u90fd\u5e02\u5185\u30a8\u30fc\u30c6\u30e9\u30a4\u30c8\u3092\u5229\u7528\u3059\u308b\u5834\u5408\u306f\u8ddd\u96e2\u30bc\u30ed\n56c1cf7: \ud83e\uddf9 dotnet format\n176ce9a: \u30c1\u30e3\u30c3\u30c8\u306e\u30d5\u30a9\u30fc\u30de\u30c3\u30c8\u5909\u66f4\nfd3a79a: \u30a8\u30ea\u30a2\u79fb\u52d5\u306b\u306f\u30b3\u30b9\u30c8\u3092\u8db3\u3059\n9786355: \u96a3\u63a5\u30a8\u30ea\u30a2\u3092\u8de8\u3050\u6700\u77ed\u7d4c\u8def\u3092\u8a08\u7b97\u3067\u304d\u308b\u3088\u3046\u306b\n2e9d59f: \u30ed\u30fc\u30ab\u30e9\u30a4\u30ba\n3fa44a8: Merge remote-tracking branch 'origin/master'\n6d3d940: \u30a8\u30ea\u30a2\u79fb\u52d5\u4e2d\u306b\u3082\u30ad\u30e5\u30fc\u3059\u308b\n6ad4fab: \ud83e\uddf9 dotnet format\n89c9721: Merge pull request #13 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1\n401240e: Merge remote-tracking branch 'origin/master'\n2bb099b: \u30c6\u30ec\u30dd\u3092\u30ad\u30e5\u30fc\u53ef\u80fd\u306b (Close #16)\n1483f69: Update README.md\n4896680: \u30a2\u30d7\u30c7\n156f394: Merge pull request #14 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1\n4ff148e: \u30a8\u30fc\u30c6\u30e9\u30a4\u30c8\u540d\u304c\u9014\u4e2d\u3067\u6539\u884c\u3055\u308c\u305f\u5834\u5408\u306b\u30c6\u30ec\u30dd\u3067\u304d\u306a\u304f\u306a\u3063\u3066\u3044\u305f\u306e\u3092\u4fee\u6b63\n76a575d: \u540d\u524d\u5909\u66f4\n24e53ae: Update README.md\n9431318: \ud83e\uddf9 dotnet format\nbb142f1: Teleporter plugin is no longer needed\nc12b05d: \ud83e\uddf9 dotnet format",
+    "Changelog": "c70b494: \ud83e\uddf9 dotnet format\n4c541c9: \u30b3\u30b9\u30c8\u8abf\u6574\n9abc81d: AetherytePayload \u3092\u4f5c\u3063\u305f\n368c9a9: DalamudLinkPayload \u3092\u633f\u5165\u3059\u308b\u4f4d\u7f6e\u3092\u5909\u66f4\n81dff22: \u66f8\u304d\u8fbc\u3080\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u4e88\u3081\u6539\u884c\u3057\u3066\u3042\u308b\u306e\u3067\u30b9\u30da\u30fc\u30b9\u3092\u53d6\u308a\u9664\u304f\u5fc5\u8981\u306f\u306a\u3044\ncd513a2: fix loc on queued teleporting message\n51b6759: Merge remote-tracking branch 'origin/master'\n547f98b: \u30df\u30b9\u3063\u3066 default \u306b\u306a\u3063\u3066\u305f\n3febecf: \ud83e\uddf9 dotnet format\nfeeb6e7: \u30ed\u30fc\u30ab\u30e9\u30a4\u30ba\u306e\u6a5f\u80fd\u3092 Common \u306b\u8ffd\u3044\u3084\u3063\u305f\n36c8e22: \ud83e\uddf9 dotnet format\nfaa11ba: Merge remote-tracking branch 'origin/master'\n\n# Conflicts:\n#\tDivination.AetheryteLinkInChat/AetheryteSolver.cs\n#\tDivination.AetheryteLinkInChat/Localize/Localization.cs\n#\tDivination.AetheryteLinkInChat/Teleporter.cs\n980c26e: \u5bfe\u8c61\u306e ConditionFlag \u3092\u8ffd\u52a0\nf67e06b: \u30ad\u30e5\u30fc\u306e\u30c6\u30ec\u30dd\u3092\u5b9f\u884c\u3059\u308b\u5834\u5408\u306b\u3082\u30e1\u30c3\u30bb\u30fc\u30b8\u3092\u51fa\u3059\nc57d8de: Update README.md\na473294: \u90fd\u5e02\u5185\u30a8\u30fc\u30c6\u30e9\u30a4\u30c8\u3092\u5229\u7528\u3059\u308b\u5834\u5408\u306f\u8ddd\u96e2\u30bc\u30ed\n56c1cf7: \ud83e\uddf9 dotnet format\n176ce9a: \u30c1\u30e3\u30c3\u30c8\u306e\u30d5\u30a9\u30fc\u30de\u30c3\u30c8\u5909\u66f4\nfd3a79a: \u30a8\u30ea\u30a2\u79fb\u52d5\u306b\u306f\u30b3\u30b9\u30c8\u3092\u8db3\u3059\n9786355: \u96a3\u63a5\u30a8\u30ea\u30a2\u3092\u8de8\u3050\u6700\u77ed\u7d4c\u8def\u3092\u8a08\u7b97\u3067\u304d\u308b\u3088\u3046\u306b\n2e9d59f: \u30ed\u30fc\u30ab\u30e9\u30a4\u30ba\n3fa44a8: Merge remote-tracking branch 'origin/master'\n6d3d940: \u30a8\u30ea\u30a2\u79fb\u52d5\u4e2d\u306b\u3082\u30ad\u30e5\u30fc\u3059\u308b\n6ad4fab: \ud83e\uddf9 dotnet format\n89c9721: Merge pull request #13 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nUpdate dependency GitVersion.MsBuild to v5.11.1\n401240e: Merge remote-tracking branch 'origin/master'\n2bb099b: \u30c6\u30ec\u30dd\u3092\u30ad\u30e5\u30fc\u53ef\u80fd\u306b (Close #16)\n1483f69: Update README.md\n4896680: \u30a2\u30d7\u30c7\n156f394: Merge pull request #14 from horoscope-dev/renovate/gitversion.tool-5.x\n\nUpdate dependency gitversion.tool to v5.11.1",
     "DalamudApiLevel": 7,
     "Description": "Add a link to teleport to the nearest aetheryte into map link in chat.",
     "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/stable/Divination.AetheryteLinkInChat/latest.zip",
@@ -16,7 +16,7 @@
     "InternalName": "Divination.AetheryteLinkInChat",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1671727894,
+    "LastUpdated": 1671900321,
     "LoadPriority": 0,
     "Name": "Divination.AetheryteLinkInChat",
     "Punchline": "Quick teleport for Mob Hunting",
@@ -24,7 +24,7 @@
     "Tags": [
       "teleporter"
     ],
-    "TestingAssemblyVersion": "0.1.0.90"
+    "TestingAssemblyVersion": "0.1.0.95"
   },
   {
     "ApplicableVersion": "any",
@@ -153,7 +153,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1671894354,
+    "LastUpdated": 1671900420,
     "LoadPriority": 0,
     "Name": "Divination.InstanceIDViewer",
     "Punchline": "",
