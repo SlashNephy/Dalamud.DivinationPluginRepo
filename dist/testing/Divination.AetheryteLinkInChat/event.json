@@ -1,67 +1,5 @@
 {
-  "after": "d57990023c49963f843045d5a12e61cd7987747b",
-  "base_ref": null,
-  "before": "9d054d074bee97c4b3cad959e8f3ce1e3ae0c399",
-  "commits": [
-    {
-      "author": {
-        "email": "29139614+renovate[bot]@users.noreply.github.com",
-        "name": "renovate[bot]",
-        "username": "renovate[bot]"
-      },
-      "committer": {
-        "email": "noreply@github.com",
-        "name": "GitHub",
-        "username": "web-flow"
-      },
-      "distinct": false,
-      "id": "db25e49c5e7f21477ed621043af62dbcee4fdea0",
-      "message": "Update dependency Dalamud.Divination.Common to v0.1.0-beta.216",
-      "timestamp": "2022-12-24T20:11:05Z",
-      "tree_id": "75c25398ddfb8a6d97dd55c0db14941b823bae46",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/db25e49c5e7f21477ed621043af62dbcee4fdea0"
-    },
-    {
-      "author": {
-        "email": "spica@starry.blue",
-        "name": "SlashNephy",
-        "username": "SlashNephy"
-      },
-      "committer": {
-        "email": "noreply@github.com",
-        "name": "GitHub",
-        "username": "web-flow"
-      },
-      "distinct": true,
-      "id": "d57990023c49963f843045d5a12e61cd7987747b",
-      "message": "Merge pull request #12 from horoscope-dev/renovate/dalamud.divination.common-0.x\n\nUpdate dependency Dalamud.Divination.Common to v0.1.0-beta.216",
-      "timestamp": "2022-12-25T12:10:52+09:00",
-      "tree_id": "75c25398ddfb8a6d97dd55c0db14941b823bae46",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/d57990023c49963f843045d5a12e61cd7987747b"
-    }
-  ],
-  "compare": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/compare/9d054d074bee...d57990023c49",
-  "created": false,
-  "deleted": false,
-  "forced": false,
-  "head_commit": {
-    "author": {
-      "email": "spica@starry.blue",
-      "name": "SlashNephy",
-      "username": "SlashNephy"
-    },
-    "committer": {
-      "email": "noreply@github.com",
-      "name": "GitHub",
-      "username": "web-flow"
-    },
-    "distinct": true,
-    "id": "d57990023c49963f843045d5a12e61cd7987747b",
-    "message": "Merge pull request #12 from horoscope-dev/renovate/dalamud.divination.common-0.x\n\nUpdate dependency Dalamud.Divination.Common to v0.1.0-beta.216",
-    "timestamp": "2022-12-25T12:10:52+09:00",
-    "tree_id": "75c25398ddfb8a6d97dd55c0db14941b823bae46",
-    "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/d57990023c49963f843045d5a12e61cd7987747b"
-  },
+  "inputs": null,
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
     "description": "",
@@ -75,10 +13,6 @@
     "public_members_url": "https://api.github.com/orgs/horoscope-dev/public_members{/member}",
     "repos_url": "https://api.github.com/orgs/horoscope-dev/repos",
     "url": "https://api.github.com/orgs/horoscope-dev"
-  },
-  "pusher": {
-    "email": "spica@starry.blue",
-    "name": "SlashNephy"
   },
   "ref": "refs/heads/master",
   "repository": {
@@ -95,7 +29,7 @@
     "compare_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/compare/{base}...{head}",
     "contents_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/contents/{+path}",
     "contributors_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/contributors",
-    "created_at": 1647952249,
+    "created_at": "2022-03-22T12:30:49Z",
     "default_branch": "master",
     "deployments_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/deployments",
     "description": "🚀 Dalamud Plugin to add a link to teleport to the nearest aetheryte.",
@@ -136,7 +70,6 @@
       "spdx_id": "MIT",
       "url": "https://api.github.com/licenses/mit"
     },
-    "master_branch": "master",
     "merges_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/merges",
     "milestones_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/milestones{/number}",
     "mirror_url": null,
@@ -145,10 +78,8 @@
     "notifications_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/notifications{?since,all,participating}",
     "open_issues": 1,
     "open_issues_count": 1,
-    "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
-      "email": null,
       "events_url": "https://api.github.com/users/horoscope-dev/events{/privacy}",
       "followers_url": "https://api.github.com/users/horoscope-dev/followers",
       "following_url": "https://api.github.com/users/horoscope-dev/following{/other_user}",
@@ -157,7 +88,6 @@
       "html_url": "https://github.com/horoscope-dev",
       "id": 7855451,
       "login": "horoscope-dev",
-      "name": "horoscope-dev",
       "node_id": "MDEyOk9yZ2FuaXphdGlvbjc4NTU0NTE=",
       "organizations_url": "https://api.github.com/users/horoscope-dev/orgs",
       "received_events_url": "https://api.github.com/users/horoscope-dev/received_events",
@@ -170,11 +100,10 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/pulls{/number}",
-    "pushed_at": 1671937852,
+    "pushed_at": "2022-12-25T03:11:07Z",
     "releases_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/releases{/id}",
-    "size": 92,
+    "size": 93,
     "ssh_url": "git@github.com:horoscope-dev/Divination.AetheryteLinkInChat.git",
-    "stargazers": 1,
     "stargazers_count": 1,
     "stargazers_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/stargazers",
     "statuses_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/statuses/{sha}",
@@ -190,7 +119,7 @@
     ],
     "trees_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/git/trees{/sha}",
     "updated_at": "2022-12-14T19:08:03Z",
-    "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat",
+    "url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat",
     "visibility": "public",
     "watchers": 1,
     "watchers_count": 1,
@@ -215,5 +144,6 @@
     "subscriptions_url": "https://api.github.com/users/SlashNephy/subscriptions",
     "type": "User",
     "url": "https://api.github.com/users/SlashNephy"
-  }
+  },
+  "workflow": ".github/workflows/ci.yml"
 }
