@@ -153,7 +153,7 @@
     "InternalName": "Divination.InstanceIDViewer",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdated": 1672146833,
+    "LastUpdated": 1672152313,
     "LoadPriority": 0,
     "Name": "Divination.InstanceIDViewer",
     "Punchline": "",
@@ -260,12 +260,12 @@
   },
   {
     "ApplicableVersion": "any",
-    "AssemblyVersion": "0.1.0.56",
+    "AssemblyVersion": "0.1.0.60",
     "Author": "Asteria Nocturna",
     "CategoryTags": [
       "social"
     ],
-    "Changelog": "731b882: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\n7da899e: Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\nf6033dd: \ud83e\uddf9 dotnet format\n40896cf: chore(deps): update dependency gitversion.tool to v5.11.1\ncc15592: chore(deps): update dependency gitversion.msbuild to v5.11.1\nffa0a46: \ud83e\uddf9 dotnet format\n63fc144: API 7\n54f71b8: \ud83d\udd27 chore(renovate): update config\ne88a5f9: feat: Support Patch 6.1\n39f73bc: feat: Support Dalamud API 5",
+    "Changelog": "72f71b2: \ud83e\uddf9 dotnet format\nd69d7b5: \u30a2\u30c3\u30d7\u30b0\u30ec\u30fc\u30c9\ne90d154: file-scoped namespace\n731b882: Merge pull request #2 from horoscope-dev/renovate/gitversion.tool-5.x\n\nchore(deps): update dependency gitversion.tool to v5.11.1\n7da899e: Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1\nf6033dd: \ud83e\uddf9 dotnet format\n40896cf: chore(deps): update dependency gitversion.tool to v5.11.1\ncc15592: chore(deps): update dependency gitversion.msbuild to v5.11.1\nffa0a46: \ud83e\uddf9 dotnet format\n63fc144: API 7\n54f71b8: \ud83d\udd27 chore(renovate): update config\ne88a5f9: feat: Support Patch 6.1\n39f73bc: feat: Support Dalamud API 5",
     "DalamudApiLevel": 7,
     "Description": "Dalamud Plugin to add tweet function and Twitter timeline in FFXIV chat",
     "DownloadLinkInstall": "https://horoscope-dev.github.io/Dalamud.DivinationPluginRepo/dist/testing/Divination.TwitterIntegration/latest.zip",
@@ -275,7 +275,7 @@
     "InternalName": "Divination.TwitterIntegration",
     "IsHide": false,
     "IsTestingExclusive": true,
-    "LastUpdated": 1671903365,
+    "LastUpdated": 1672152215,
     "LoadPriority": 0,
     "Name": "Divination.TwitterIntegration",
     "Punchline": "Tweet in FFXIV chat.",
@@ -283,7 +283,7 @@
     "Tags": [
       "Twitter"
     ],
-    "TestingAssemblyVersion": "0.1.0.56"
+    "TestingAssemblyVersion": "0.1.0.60"
   },
   {
     "ApplicableVersion": "any",
