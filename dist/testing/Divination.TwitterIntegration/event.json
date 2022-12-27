@@ -1,43 +1,25 @@
 {
-  "after": "7da899ee35384b5e1f4a041e226d8397990c3e08",
+  "after": "d69d7b5642a3e0f8110c458ef2965fe3c49f2105",
   "base_ref": null,
-  "before": "ffa0a464e432d2a17b71dc043c6e387fd3e8bf27",
+  "before": "731b882fd9ab95fb7927aa6be16226d73f76c5e3",
   "commits": [
     {
       "author": {
-        "email": "29139614+renovate[bot]@users.noreply.github.com",
-        "name": "renovate[bot]",
-        "username": "renovate[bot]"
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
       },
       "committer": {
-        "email": "noreply@github.com",
-        "name": "GitHub",
-        "username": "web-flow"
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
       },
-      "distinct": false,
-      "id": "cc155929e80b8b3e986f25efb7db38ddeffb1301",
-      "message": "chore(deps): update dependency gitversion.msbuild to v5.11.1",
-      "timestamp": "2022-11-20T13:34:45Z",
-      "tree_id": "0afa4e0c3be492b5021523a88d118275efa74912",
-      "url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/cc155929e80b8b3e986f25efb7db38ddeffb1301"
-    },
-    {
-      "author": {
-        "email": "renovate[bot]@users.noreply.github.com",
-        "name": "renovate[bot]",
-        "username": "renovate[bot]"
-      },
-      "committer": {
-        "email": "github-actions[bot]@users.noreply.github.com",
-        "name": "github-actions[bot]",
-        "username": "github-actions[bot]"
-      },
-      "distinct": false,
-      "id": "f6033ddb21ff0e02f0e9924868353bc6727e79c5",
-      "message": "🧹 dotnet format",
-      "timestamp": "2022-11-20T13:35:21Z",
-      "tree_id": "41bb203d913d6fc3eb9ac00e0b00046cacd03f53",
-      "url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/f6033ddb21ff0e02f0e9924868353bc6727e79c5"
+      "distinct": true,
+      "id": "e90d1548a8943c85c4cccc5797f40e1e3c9172a7",
+      "message": "file-scoped namespace",
+      "timestamp": "2022-12-27T21:43:50+09:00",
+      "tree_id": "9a0bcd25ca5114d19232c93155825ecacf632af6",
+      "url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/e90d1548a8943c85c4cccc5797f40e1e3c9172a7"
     },
     {
       "author": {
@@ -46,19 +28,19 @@
         "username": "SlashNephy"
       },
       "committer": {
-        "email": "noreply@github.com",
-        "name": "GitHub",
-        "username": "web-flow"
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "7da899ee35384b5e1f4a041e226d8397990c3e08",
-      "message": "Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1",
-      "timestamp": "2022-12-25T02:36:05+09:00",
-      "tree_id": "41bb203d913d6fc3eb9ac00e0b00046cacd03f53",
-      "url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/7da899ee35384b5e1f4a041e226d8397990c3e08"
+      "id": "d69d7b5642a3e0f8110c458ef2965fe3c49f2105",
+      "message": "アップグレード",
+      "timestamp": "2022-12-27T23:43:35+09:00",
+      "tree_id": "2365c7265eefed53e627a9b52e0cb4c89d78fdb4",
+      "url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/d69d7b5642a3e0f8110c458ef2965fe3c49f2105"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Divination.TwitterIntegration/compare/ffa0a464e432...7da899ee3538",
+  "compare": "https://github.com/horoscope-dev/Divination.TwitterIntegration/compare/731b882fd9ab...d69d7b5642a3",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -69,16 +51,16 @@
       "username": "SlashNephy"
     },
     "committer": {
-      "email": "noreply@github.com",
-      "name": "GitHub",
-      "username": "web-flow"
+      "email": "spica@starry.blue",
+      "name": "SlashNephy",
+      "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "7da899ee35384b5e1f4a041e226d8397990c3e08",
-    "message": "Merge pull request #11 from horoscope-dev/renovate/gitversion.msbuild-5.x\n\nchore(deps): update dependency gitversion.msbuild to v5.11.1",
-    "timestamp": "2022-12-25T02:36:05+09:00",
-    "tree_id": "41bb203d913d6fc3eb9ac00e0b00046cacd03f53",
-    "url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/7da899ee35384b5e1f4a041e226d8397990c3e08"
+    "id": "d69d7b5642a3e0f8110c458ef2965fe3c49f2105",
+    "message": "アップグレード",
+    "timestamp": "2022-12-27T23:43:35+09:00",
+    "tree_id": "2365c7265eefed53e627a9b52e0cb4c89d78fdb4",
+    "url": "https://github.com/horoscope-dev/Divination.TwitterIntegration/commit/d69d7b5642a3e0f8110c458ef2965fe3c49f2105"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -161,8 +143,8 @@
     "name": "Divination.TwitterIntegration",
     "node_id": "MDEwOlJlcG9zaXRvcnk0MDI2NTE5NDE=",
     "notifications_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/notifications{?since,all,participating}",
-    "open_issues": 3,
-    "open_issues_count": 3,
+    "open_issues": 2,
+    "open_issues_count": 2,
     "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -188,9 +170,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/pulls{/number}",
-    "pushed_at": 1671903365,
+    "pushed_at": 1672152217,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Divination.TwitterIntegration/releases{/id}",
-    "size": 44,
+    "size": 46,
     "ssh_url": "git@github.com:horoscope-dev/Divination.TwitterIntegration.git",
     "stargazers": 1,
     "stargazers_count": 1,
