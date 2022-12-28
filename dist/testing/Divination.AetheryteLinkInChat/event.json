@@ -1,7 +1,7 @@
 {
-  "after": "53b89df2b85c919471c4582a2212d6e1de32eda9",
+  "after": "e4343928e8a4cf81695cee9e648701673441515b",
   "base_ref": null,
-  "before": "d57990023c49963f843045d5a12e61cd7987747b",
+  "before": "53b89df2b85c919471c4582a2212d6e1de32eda9",
   "commits": [
     {
       "author": {
@@ -15,14 +15,32 @@
         "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "53b89df2b85c919471c4582a2212d6e1de32eda9",
-      "message": "最小値を下げる",
-      "timestamp": "2022-12-27T22:11:33+09:00",
-      "tree_id": "9c5eb0b326d3ded5b502634e69696cc460b71cd9",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/53b89df2b85c919471c4582a2212d6e1de32eda9"
+      "id": "da5381b6b362347345967efd2af9c1840e36793e",
+      "message": "ワールド名が含まれていた場合にはワールド間テレポを考慮する",
+      "timestamp": "2022-12-29T01:50:24+09:00",
+      "tree_id": "4c2e6b72ccbb9ccbd06df9ab5ffc44c50e2ba8e7",
+      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/da5381b6b362347345967efd2af9c1840e36793e"
+    },
+    {
+      "author": {
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
+      },
+      "committer": {
+        "email": "spica@starry.blue",
+        "name": "SlashNephy",
+        "username": "SlashNephy"
+      },
+      "distinct": true,
+      "id": "e4343928e8a4cf81695cee9e648701673441515b",
+      "message": "/teleportgc コマンド",
+      "timestamp": "2022-12-29T02:11:44+09:00",
+      "tree_id": "567134db4a58637a72018436a23f91c93063d7dd",
+      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/e4343928e8a4cf81695cee9e648701673441515b"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/compare/d57990023c49...53b89df2b85c",
+  "compare": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/compare/53b89df2b85c...e4343928e8a4",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -38,11 +56,11 @@
       "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "53b89df2b85c919471c4582a2212d6e1de32eda9",
-    "message": "最小値を下げる",
-    "timestamp": "2022-12-27T22:11:33+09:00",
-    "tree_id": "9c5eb0b326d3ded5b502634e69696cc460b71cd9",
-    "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/53b89df2b85c919471c4582a2212d6e1de32eda9"
+    "id": "e4343928e8a4cf81695cee9e648701673441515b",
+    "message": "/teleportgc コマンド",
+    "timestamp": "2022-12-29T02:11:44+09:00",
+    "tree_id": "567134db4a58637a72018436a23f91c93063d7dd",
+    "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/e4343928e8a4cf81695cee9e648701673441515b"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -152,9 +170,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/pulls{/number}",
-    "pushed_at": 1672146705,
+    "pushed_at": 1672247509,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/releases{/id}",
-    "size": 93,
+    "size": 94,
     "ssh_url": "git@github.com:horoscope-dev/Divination.AetheryteLinkInChat.git",
     "stargazers": 2,
     "stargazers_count": 2,
