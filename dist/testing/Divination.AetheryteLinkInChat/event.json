@@ -1,7 +1,7 @@
 {
-  "after": "e4343928e8a4cf81695cee9e648701673441515b",
+  "after": "5e34ef2c99acf0950e0d020db1d5c4396d1ed416",
   "base_ref": null,
-  "before": "53b89df2b85c919471c4582a2212d6e1de32eda9",
+  "before": "062e7882d2bbcfeb5a845fd94f3ce9a50fcdf048",
   "commits": [
     {
       "author": {
@@ -15,11 +15,11 @@
         "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "da5381b6b362347345967efd2af9c1840e36793e",
-      "message": "ワールド名が含まれていた場合にはワールド間テレポを考慮する",
-      "timestamp": "2022-12-29T01:50:24+09:00",
-      "tree_id": "4c2e6b72ccbb9ccbd06df9ab5ffc44c50e2ba8e7",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/da5381b6b362347345967efd2af9c1840e36793e"
+      "id": "3a75a44cfad28d51b4a7bd428728cdca71242e0c",
+      "message": "add ConsiderTeleportsToOtherWorlds flag",
+      "timestamp": "2023-01-01T01:17:27+09:00",
+      "tree_id": "b35250643a8f0fd5be04b1ac4b61fae69e94f67f",
+      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/3a75a44cfad28d51b4a7bd428728cdca71242e0c"
     },
     {
       "author": {
@@ -33,14 +33,14 @@
         "username": "SlashNephy"
       },
       "distinct": true,
-      "id": "e4343928e8a4cf81695cee9e648701673441515b",
-      "message": "/teleportgc コマンド",
-      "timestamp": "2022-12-29T02:11:44+09:00",
-      "tree_id": "567134db4a58637a72018436a23f91c93063d7dd",
-      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/e4343928e8a4cf81695cee9e648701673441515b"
+      "id": "5e34ef2c99acf0950e0d020db1d5c4396d1ed416",
+      "message": "Merge remote-tracking branch origin/master\n\n# Conflicts:\n#\tDivination.AetheryteLinkInChat/AetheryteLinkInChatPlugin.cs",
+      "timestamp": "2023-01-01T01:18:36+09:00",
+      "tree_id": "96b07143b6fe54e2a4d11e9b4ebefbeef9625488",
+      "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/5e34ef2c99acf0950e0d020db1d5c4396d1ed416"
     }
   ],
-  "compare": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/compare/53b89df2b85c...e4343928e8a4",
+  "compare": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/compare/062e7882d2bb...5e34ef2c99ac",
   "created": false,
   "deleted": false,
   "forced": false,
@@ -56,11 +56,11 @@
       "username": "SlashNephy"
     },
     "distinct": true,
-    "id": "e4343928e8a4cf81695cee9e648701673441515b",
-    "message": "/teleportgc コマンド",
-    "timestamp": "2022-12-29T02:11:44+09:00",
-    "tree_id": "567134db4a58637a72018436a23f91c93063d7dd",
-    "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/e4343928e8a4cf81695cee9e648701673441515b"
+    "id": "5e34ef2c99acf0950e0d020db1d5c4396d1ed416",
+    "message": "Merge remote-tracking branch origin/master\n\n# Conflicts:\n#\tDivination.AetheryteLinkInChat/AetheryteLinkInChatPlugin.cs",
+    "timestamp": "2023-01-01T01:18:36+09:00",
+    "tree_id": "96b07143b6fe54e2a4d11e9b4ebefbeef9625488",
+    "url": "https://github.com/horoscope-dev/Divination.AetheryteLinkInChat/commit/5e34ef2c99acf0950e0d020db1d5c4396d1ed416"
   },
   "organization": {
     "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -143,8 +143,8 @@
     "name": "Divination.AetheryteLinkInChat",
     "node_id": "R_kgDOHC24pw",
     "notifications_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/notifications{?since,all,participating}",
-    "open_issues": 1,
-    "open_issues_count": 1,
+    "open_issues": 2,
+    "open_issues_count": 2,
     "organization": "horoscope-dev",
     "owner": {
       "avatar_url": "https://avatars.githubusercontent.com/u/7855451?v=4",
@@ -170,9 +170,9 @@
     },
     "private": false,
     "pulls_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/pulls{/number}",
-    "pushed_at": 1672247509,
+    "pushed_at": 1672503519,
     "releases_url": "https://api.github.com/repos/horoscope-dev/Divination.AetheryteLinkInChat/releases{/id}",
-    "size": 94,
+    "size": 106,
     "ssh_url": "git@github.com:horoscope-dev/Divination.AetheryteLinkInChat.git",
     "stargazers": 2,
     "stargazers_count": 2,
